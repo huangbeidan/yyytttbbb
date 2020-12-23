@@ -1,0 +1,212 @@
+===================================================
+
+total difference is: 49
+comparing document: BILLS-110hr5729ih.xml
+to document: BILLS-110hr5729rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 5729 IH: To amend title... But actually it is: 110 HR 5729 RH: Spina Bifida H...
+The Jaccard Index is: 0.1
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2008-04-08 But actually it is: 2008-05-15
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  Committee on Veterans But actually it is:  Committee on Veterans Affairs
+The Jaccard Index is: 0.71
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words:  Committee on Veterans 
+insertion: 
+deletion: 
+change: Affairs 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend title 38, United Stat... But actually it is: To amend title 38, United Stat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: To amend title 38 United States Code to direct /Secretary of Veterans Affairs to provide comprehensive health care to /of Vietnam veterans born with Spina Bifida and for 
+insertion: 
+deletion: direct to 
+change:  to the /  to children / other		  purposes to other purposes 
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 406"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 110–645]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+May 15, 2008
+Additional sponsor: Mr. Buyer
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+May 15, 2008
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed
+Strike out all after the enacting clause and insert the part printed in italic
+"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"Spina Bifida Health Care Program Expansion Act"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Provision of			 comprehensive ... But actually it is: Provision of comprehensive hea...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: Provision comprehensive health care by Secretary of Veterans Affairs to children Vietnam veterans born with Spina Bifida 
+insertion: 
+deletion: 
+change: of			 to of / of			 to of / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Provision of			 comprehensive ... But actually it is: Provision of comprehensive hea...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Provision comprehensive health care 
+insertion: 
+deletion: 
+change: of			 to of / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 38, United States			... But actually it is:  of title 38, United States Co...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words:  of title 38 United Code is amended by striking 
+insertion: 
+deletion: 
+change: States			 to States / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: such health care as the Secret... But actually it is: such health care as the Secret...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: such health care as the determines is needed by the child for the spina bifida or any disability is associated with such condition 
+insertion: 
+deletion: 
+change: Secretary			 to Secretary / that			 to that / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: health care			 under this sect... But actually it is: health care under this section
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: health under this section 
+insertion: 
+deletion: 
+change: care			 to care / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authority To			 provide domici... But actually it is: Authority To provide domicilia...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Authority provide domiciliary care 
+insertion: 
+deletion: 
+change: To			 to To / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 38, United			 States... But actually it is:  of title 38, United States Co...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words:  of title 38 States Code is amended by inserting 
+insertion: 
+deletion: 
+change: United			 to United / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effective			 date But actually it is: Effective date
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Effective			 date 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The amendments made by subsect... But actually it is: The amendments made by subsect...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: The amendments made by subsections a and b shall with respect to care furnished after the date of the enactment of 
+insertion: 
+deletion: 
+change: apply			 to apply / this			 Act to this Act 
+
+We are at location: null   Compared with location: bill[1]/legis-body[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: legis-body
+ Inserted paragraph content is: {"
+1.Short titleThis Act may be cited as the Spina Bifida Health Care Program Expansion Act.
+2.Provision of comprehensive health care by Secretary of Veterans Affairs to children of Vietnam veterans born with Spina Bifida
+(a)Provision of comprehensive health careSection 1803(a) of title 38, United States Code, is amended by striking such health care as the Secretary determines is needed by the child for the spina bifida or any disability that is associated with such condition and inserting health care under this section.
+(b)Effective dateThe amendment made by subsection (a) shall apply with respect to care furnished after the date of the enactment of this Act.
+"}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+May 15, 2008
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+

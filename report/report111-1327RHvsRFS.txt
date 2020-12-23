@@ -1,0 +1,882 @@
+===================================================
+
+total difference is: 101
+comparing document: BILLS-111hr1327eh.xml
+to document: BILLS-111hr1327rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED		 ...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED		  STATES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To authorize State and local g... But actually it is: To authorize State and local g...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: To authorize State and local governments /direct divestiture from and prevent investment in companies with /of 20000000 or more in Iran’s energy sector and for 
+insertion: to		 investments		 
+deletion: 
+change: to to  / investments to  / other purposes to other		  purposes 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			October 15, 2009
+			Received; read twice and referred to the
+			 Committee on Banking, Housing, and Urban
+			 Affairs
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Iran Sanctions Enabling Act of... But actually it is: Iran Sanctions Enabling Act of...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Iran Sanctions Enabling Act 
+insertion: 
+deletion: 
+change: of 2009 to of			 2009 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: There is an increasing interes... But actually it is: There is an			 increasing inte...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: There is increasing interest by States local governments educational institutions private institutions to seek to disassociate themselves from companies directly or indirectly support the Government of Iran’s efforts to achieve nuclear weapons capability 
+insertion: 
+deletion: 
+change: an to an			 / and to and			 / that to that			 / a to a			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Policy makers and fund manager... But actually it is: Policy makers and			 fund mana...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: Policy makers fund managers may find moral prudential or reputational reasons to from companies that accept the business risk of operating in countries that subject to international economic sanctions or that have business with countries governments or entities with which any United States would be prohibited from dealing because of economic sanctions imposed by United States 
+insertion: 
+deletion: 
+change: and to and			 / divest to divest			 / are to are			 / relationships to relationships			 / company to company			 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authority of State and local g... But actually it is: Authority of State and			 loca...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Authority of State local governments to divest from certain companies invested in Iran’s 
+insertion: 
+deletion: 
+change: and to and			 / energy sector to energy			 sector 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Statement of policy But actually it is: Statement of			 policy
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of policy to of			 policy 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: It is the policy of the United... But actually it is: It is the policy of the United...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: It is the policy of the United States to support decision of State governments local governments and educational to divest from and to prohibit the investment of assets they control persons that have investments of more than 20000000 in Iran’s 
+insertion: 
+deletion: 
+change: the to the			 / institutions to institutions			 / in to in			 / energy sector to energy			 sector 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authority to divest But actually it is: Authority to			 divest
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: to divest to to			 divest 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notwithstanding any other prov... But actually it is: Notwithstanding any other prov...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: Notwithstanding any other provision of law a State local government may adopt and enforce measures that meet the requirements subsection d to divest the assets of the State or local government from prohibit investment of the assets of the State or local government in person that the State or local government determines using information available to the public engages in investment activities in described in subsection c 
+insertion: 
+deletion: 
+change: or to or			 / of to of			 / or to or			 / any to any			 / credible to credible			 / Iran to Iran			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Investment activities in Iran ... But actually it is: Investment			 activities in Ir...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Investment activities in Iran described 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A person engages in investment... But actually it is: A person engages in investment...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.87
+The Detailes are shown as followings: 
+common words: A person engages in activities in Iran described in this subsection if the person 
+insertion: 
+deletion: 
+change: investment to investment			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: has an investment of $20,000,0... But actually it is: has an investment			 of $20,00...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: has an of 20000000 or more in the energy sector of Iran 
+insertion: 
+deletion: 
+change: investment to investment			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: provides oil or liquified natu... But actually it is: provides oil or			 liquified n...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: provides oil liquified natural gas tankers or products used to construct or pipelines used to transport oil or liquified natural gas for the energy in Iran or 
+insertion: 
+deletion: 
+change: or to or			 / maintain to maintain			 / sector to sector			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: is a financial institution tha... But actually it is: is a financial			 institution ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: is a institution that extends 20000000 or more in credit to another person 45 days or more if that person will use the credit to invest in the sector in Iran 
+insertion: 
+deletion: 
+change: financial to financial			 / for to for			 / energy to energy			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The requirements referred to i... But actually it is: The			 requirements referred t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: The requirements referred to in subsection b that a measure taken by a State local government must meet are the following 
+insertion: 
+deletion: 
+change: or to or			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The State or local government ... But actually it is: The State or local government ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: The State or local government shall written notice to each person to whom the State or local government as case may be intends to apply the measure of such intent 
+insertion: 
+deletion: 
+change: provide to provide			 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The measure shall apply to a p... But actually it is: The measure shall apply to a p...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.87
+The Detailes are shown as followings: 
+common words: The measure shall apply to a person earlier than the date that is 90 days after the date on which the receives the written notice required by paragraph 1 
+insertion: 
+deletion: 
+change: not to not			 / person to person			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Opportunity for hearing But actually it is: Opportunity for			 hearing
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: for hearing to for			 hearing 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The State or local government ... But actually it is: The State or local			 governme...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: The State or government shall provide each person referred to in paragraph 1 with opportunity to demonstrate to the State or local government as the case be that the person does not engage in investment activities in Iran in subsection c If the person demonstrates to the State or local that the person does not engage in investment activities in Iran described subsection c the measure shall not apply to the person 
+insertion: 
+deletion: 
+change: local to local			 / an to an			 / may to may			 / described to described			 / government to government			 / in to in			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sense of the Congress on avoid... But actually it is: Sense of the			 Congress on av...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Sense of Congress on avoiding erroneous targeting 
+insertion: 
+deletion: 
+change: the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: It is the sense of the Congres... But actually it is: It is the sense of the			 Cong...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: It is the sense of Congress that a State or local government should not adopt a measure subsection b with respect to a person unless the State or local has made every effort to avoid erroneously targeting the person and verified that the person engages in investment activities in Iran described subsection c 
+insertion: 
+deletion: 
+change: the to the			 / under to under			 / government to government			 / has to has			 / in to in			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notice to Department of Justic... But actually it is: Notice to			 Department of Jus...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Notice Department of Justice 
+insertion: 
+deletion: 
+change: to to to			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 30 days after a... But actually it is: Not later than 30 days after a...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Not later than 30 days after adopting measure pursuant to subsection b a State or local government shall submit the Attorney General of the United States a written notice which describes 
+insertion: 
+deletion: 
+change: a to a			 / to to to			 / the measure to the			 measure 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A measure of a State or local ... But actually it is: A			 measure of a State or loc...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: A measure of a State or local government authorized under subsection b described in subsection i is not preempted by any Federal law 
+insertion: 
+deletion: 
+change: or to or			 / or regulation to or			 regulation 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In this section: But actually it is: In			 this section:
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: In this section 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of assets, with respect to a ... But actually it is:  of assets, with respect to a ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words:  of assets with respect to a State or government includes 
+insertion: 
+deletion: 
+change: local to local			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a commitment or contribution o... But actually it is: a commitment or			 contributio...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: a commitment contribution of assets 
+insertion: 
+deletion: 
+change: or to or			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a loan or other extension of c... But actually it is: a loan or other			 extension o...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: a loan or extension of credit or 
+insertion: 
+deletion: 
+change: other to other			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[1]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[1]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the entry into or renewal of a... But actually it is: the entry into or			 renewal o...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: the entry into renewal of a contract for goods or services 
+insertion: 
+deletion: 
+change: or to or			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[2]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[2]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In			 general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[2]/subparagraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[2]/subparagraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  refers to public monies and i... But actually it is:  refers to public monies and i...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words:  refers to public monies and includes any retirement annuity or endowment fund or similar instrument that controlled directly or indirectly by a State or local government 
+insertion: 
+deletion: 
+change: pension to pension			 / is to is			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The term  But actually it is: The			 term 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: The term 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[2]/subparagraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[2]/subparagraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  does not include employee ben... But actually it is:  does not include employee ben...
+The Jaccard Index is: 0.82
+And the Smith Waterman Score is: 0.9
+The Detailes are shown as followings: 
+common words:  does not include employee benefit plans covered title I of the Employee Retirement Income Security Act of 1974 
+insertion: 
+deletion: 
+change: by to by			 / 29 USC 1001 et seq to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[2]/subparagraph[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"29 U.S.C. 1001 et
+			 seq."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[2]/subparagraph[2]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {).}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[8]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[8]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effective date But actually it is: Effective			 date
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Effective date 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[8]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[8]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In			 general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[8]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[8]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Except as provided in paragrap... But actually it is: Except as provided in paragrap...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: Except as provided in paragraph 2 of this and subsection i this section shall apply to measures adopted by a State local government on or after the date of the enactment of this Act 
+insertion: 
+deletion: 
+change: subsection to subsection			 / or to or			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[8]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[8]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notice requirements But actually it is: Notice			 requirements
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Notice requirements 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[8]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[8]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subsections (d) and (e) apply ... But actually it is: Subsections (d) and (e) apply ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: Subsections d and e apply to measures adopted a State or local government on or after the date of the enactment of 
+insertion: 
+deletion: 
+change: by to by			 / this Act to this			 Act 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[9]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[9]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authorization for Prior Enacte... But actually it is: Authorization			 for Prior Ena...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Authorization for Prior Enacted Measures 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[9]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[9]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notwithstanding any other prov... But actually it is: Notwithstanding any other prov...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: Notwithstanding any other provision of a State or local government may enforce a measure without regard to requirements of subsection d adopted by the State or local government the date of the enactment of this Act that provides for the divestiture assets of the State or local government from or prohibits the investment the assets of the State or local government in any person that the State local government determines using credible information available to public engages in investment or business activities in Iran without regard to subsection c identified in the measure 
+insertion: 
+deletion: 
+change: law to law			 / the to the			 / before to before			 / of to of			 / of to of			 / or to or			 / the to the			 / determined to determined			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Safe harbor for changes of inv... But actually it is: Safe harbor for			 changes of ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Safe harbor changes of investment policies by asset managers 
+insertion: 
+deletion: 
+change: for to for			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 13(c)(1) of the Invest... But actually it is: Section 13(c)(1) of the Invest...
+The Jaccard Index is: 0.53
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: Section 13c1 of the Investment Act of 1940 
+insertion: 
+deletion: 
+change: Company to Company			 / 15 USC 80a13c1 is amended to read as follows to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"15
+			 U.S.C. 80a–13(c)(1)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended to read as follows:"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In				general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: general to 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Solely for purposes of this su... But actually it is: Solely for purposes				of this...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: Solely for /this subsection and notwithstanding any other provision of Federal or /no person may bring any civil criminal or administrative action /registered investment company or any employee officer director /adviser thereof based solely upon the investment company /or avoiding investing in securities issued by persons that /company determines using credible information that is available /public conduct or have direct investments in business operations in /in section 3d of the Sudan Accountability and Divestment Act /or engage in investment activities in Iran described in section 3c /Iran Sanctions Enabling Act of 2009 Nothing in this paragraph shall /to create imply diminish change or affect in any way /of a private cause of action under any other provision of 
+insertion: 
+deletion: for or action director company that available in Act 3c shall way 
+change: of to purposes				of / law to State				law / any to against				any / investment to or				investment / from to divesting				from / investment to the				investment / the to to				the / described to Sudan				described / 2007 to of				2007 / the to of				the / construed to be				construed / existence to the				existence / this Act to this				Act 
+
+We are at location: bill[1]/legis-body[1]/section[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Safe harbor for changes of inv... But actually it is: Safe harbor for			 changes of ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Safe harbor changes of investment policies by employee benefit plans 
+insertion: 
+deletion: 
+change: for to for			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 404 of the Employee Re... But actually it is: Section 404 of the Employee Re...
+The Jaccard Index is: 0.5
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Section 404 of the Employee Income Security Act of 1974 
+insertion: 
+deletion: 
+change: Retirement to Retirement			 / 29 USC 1104 is amended by adding at the end the following new subsection to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"29 U.S.C. 1104"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended by
+			 adding at the end the following new subsection:"}
+
+We are at location: bill[1]/legis-body[1]/section[5]/quoted-block[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/quoted-block[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: No person shall be treated as ... But actually it is: No person shall be treated as ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: No person shall be treated as breaching /the responsibilities obligations or duties imposed upon fiduciaries /title for divesting plan assets from or avoiding investing plan /persons that are determined by such person using credible information /available to the public to be engaged in investment activities in /in section 3c of the 
+insertion: 
+deletion: breaching fiduciaries plan information in 
+change: of to any				of / this to by				this / in to assets				in / is to that				is / described to Iran				described / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/quoted-block[1]/subsection[1]/text[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/quoted-block[1]/subsection[1]/text[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Iran Sanctions Enabling Act of... But actually it is: Iran				Sanctions Enabling Act...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Sanctions Enabling Act of 2009 
+insertion: 
+deletion: Iran 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[5]/quoted-block[1]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[5]/quoted-block[1]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: . Any divestiture of plan asse... But actually it is: . Any divestiture of plan asse...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words:  Any divestiture of plan /or avoidance of investing plan assets in persons that are so /be engaged in such investment activities shall be treated as in /this title and the documents and instruments governing 
+insertion: 
+deletion: plan so in 
+change: from to assets				from / to to determined				to / with to accordance				with / the plan to the				plan 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Energy sector But actually it is: Energy			 sector
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Energy sector 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  refers to activities to devel... But actually it is:  refers to activities			 to de...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words:  refers to to develop petroleum or natural gas resources or nuclear power 
+insertion: 
+deletion: 
+change: activities to activities			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Financial institution But actually it is: Financial			 institution
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Financial institution 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  has the meaning given that te... But actually it is:  has the			 meaning given that...
+The Jaccard Index is: 0.64
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words:  has meaning given that term in section 145 of the Iran Sanctions Act of 
+insertion: 
+deletion: 
+change: the to the			 / 1996 Public Law 104172 50 USC 1701 note to 1996			 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"Public Law
+			 104–172"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[2]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {";
+			 "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[2]/text[1]/external-xref[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"50 U.S.C.
+			 1701"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[2]/text[1]/text()[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" note)."}
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The term  But actually it is: The			 term 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: The term 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The term  But actually it is: The			 term 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: The term 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[4]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[4]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a natural person, corporation,... But actually it is: a natural person,			 corporati...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: a natural corporation company business association partnership society trust or other nongovernmental entity organization or group 
+insertion: 
+deletion: 
+change: person to person			 / any to any			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[4]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[4]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any governmental entity or ins... But actually it is: any governmental			 entity or ...
+The Jaccard Index is: 0.86
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: any entity or instrumentality of a government including a multilateral institution as defined in section 1701c3 of the International Institutions Act 
+insertion: 
+deletion: 
+change: governmental to governmental			 / development to development			 / Financial to Financial			 / 22 USC 262rc3 and to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[4]/subparagraph[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"22
+			 U.S.C. 262r(c)(3)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[4]/subparagraph[2]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {")); and"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[4]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[4]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any successor, subunit, parent... But actually it is: any successor,			 subunit, par...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: any subunit parent company or subsidiary of or company under common ownership control with any entity described in subparagraph A or B 
+insertion: 
+deletion: 
+change: successor to successor			 / or to or			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The term  But actually it is: The			 term 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: The term 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[5]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[5]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means each of the several Sta... But actually it is:  means each of the several Sta...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words:  means each of the several States the District Columbia the Commonwealth of Puerto Rico the United States Virgin Guam American Samoa and the Commonwealth of the Northern 
+insertion: 
+deletion: 
+change: of to of			 / Islands to Islands			 / Mariana Islands to Mariana			 Islands 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[6]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: State or local government But actually it is: State or local			 government
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: State or 
+insertion: 
+deletion: 
+change: local government to local			 government 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[6]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[6]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any State and any agency or in... But actually it is: any State and any			 agency or...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: any State and agency or instrumentality thereof 
+insertion: 
+deletion: 
+change: any to any			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[6]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[6]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any local government within a ... But actually it is: any local			 government within...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: any government within a State and any agency or instrumentality thereof 
+insertion: 
+deletion: 
+change: local to local			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[6]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[6]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any other governmental instrum... But actually it is: any other			 governmental inst...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: any governmental instrumentality and 
+insertion: 
+deletion: 
+change: other to other			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[6]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[6]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any public institution of high... But actually it is: any public			 institution of h...
+The Jaccard Index is: 0.76
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: any institution of higher education within the meaning of the Higher Education of 1965 
+insertion: 
+deletion: 
+change: public to public			 / Act to Act			 / 20 USC 1001 et seq to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[6]/subparagraph[4]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"20 U.S.C.
+			 1001 et seq."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[6]/subparagraph[4]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {).}
+
+We are at location: bill[1]/legis-body[1]/section[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: This Act shall terminate 30 da... But actually it is: This Act shall terminate 30 da...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: This Act shall terminate 30 days after date on which the President has certified to the Congress that 
+insertion: 
+deletion: 
+change: the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[7]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the Government of Iran has cea... But actually it is: the Government of			 Iran has ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: the Government Iran has ceased providing support for acts of international terrorism and longer satisfies the requirements for designation as a statesponsor terrorism for purposes of section 6j of the Export Administration Act 1979 section 620A of the Foreign Assistance Act of 1961 section 40 of Arms Export Control Act or any other provision of law or 
+insertion: 
+deletion: 
+change: of to of			 / no to no			 / of to of			 / of to of			 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[7]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Iran has ceased the pursuit, a... But actually it is: Iran has ceased			 the pursuit...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Iran has the pursuit acquisition and development of nuclear biological and weapons and ballistic missiles and ballistic missile launch technology 
+insertion: 
+deletion: 
+change: ceased to ceased			 / chemical to chemical			 / 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Passed the House of Representa... But actually it is: Passed the House of			 Represe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Passed the House Representatives October 14 2009 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/endorsement[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: endorsement But actually it is: null
+ Deleted paragraph content is: {""}
+

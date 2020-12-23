@@ -1,0 +1,1056 @@
+===================================================
+
+total difference is: 114
+comparing document: BILLS-112hr1627eh.xml
+to document: BILLS-112hr1627rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IB But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED		 ...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED		  STATES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend title 38, United Stat... But actually it is: To amend title 38, United Stat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: To amend title 38 United States Code /provide for certain requirements for the placement of monuments in /National Cemetery and for other purposes 
+insertion: to		 Arlington		 
+deletion: 
+change: to to  / Arlington to  / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			May 24, 2011
+			Received; read twice and referred to the
+			 Committee on Veterans`
+			 Affairs
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Honoring American Veterans Act... But actually it is: Honoring American Veterans Act...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Honoring American Veterans Act 
+insertion: 
+deletion: 
+change: of 2011 to of			 2011 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Requirements for the placement... But actually it is: Requirements for the			 placem...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Requirements for placement of monuments in Arlington National Cemetery 
+insertion: 
+deletion: 
+change: the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 2409(b) of title 38, U... But actually it is:  of			 title 38, United States...
+The Jaccard Index is: 0.74
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: 2409b of title 38 United States Code is amended 
+insertion: 
+deletion: Section 
+change: 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"Section 2409(b)"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: and subject to paragraph (2) But actually it is: and subject to			 paragraph (2...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: and subject paragraph 2 
+insertion: 
+deletion: 
+change: to to to			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by adding at the end the follo... But actually it is: by adding at the			 end the fo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: by adding at end the following new paragraphs 
+insertion: 
+deletion: 
+change: the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Except for a monument containi... But actually it is: Except for a monument containi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Except for a monument containing or /remains no monument or similar structure as determined by /of the Army in regulations may be placed in Arlington /except pursuant to the provisions of this subsection 
+insertion: 
+deletion: or by Arlington 
+change: interred to marking				interred / Secretary to the				Secretary / Cemetery to National				Cemetery / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A monument may be placed in Ar... But actually it is: A monument may be placed in Ar...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: A monument may be placed in /Cemetery if the monument commemorates 
+insertion: 
+deletion: in 
+change: National to Arlington				National / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the service in the Armed Force... But actually it is: the service in the Armed Force...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: the service in the Armed Forces of /or group of individuals whose memory is to be honored by 
+insertion: 
+deletion: of 
+change: individual to the				individual / the monument or to the				monument or 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[1]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[1]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: No monument may be placed in A... But actually it is: No monument may be placed in		...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: No monument may be placed /National Cemetery until the end of the 25year 
+insertion: 
+deletion: placed 
+change: Arlington to in				Arlington / period beginning to period				beginning 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in the case of the commemorati... But actually it is: in the case of the commemorati...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: in the case of the commemoration /under subparagraph Bi on the last day of the period of service 
+insertion: 
+deletion: commemoration 
+change: service to of				service / so commemorated and to so				commemorated and 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in the case of the commemorati... But actually it is: in the case of the commemorati...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: in the case of the commemoration of /military event under subparagraph Bii on the last day of /of the event 
+insertion: 
+deletion: of of 
+change: particular to a				particular / period to the				period / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[1]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[1]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A monument may be placed only ... But actually it is: A				monument may be placed on...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: monument may be placed only in those sections of Arlington National /by the Secretary of the Army for such placement and only on land /determines is not suitable for burial 
+insertion: 
+deletion: A National land 
+change: designated to Cemetery				designated / Secretary to the				Secretary / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[1]/subparagraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[1]/subparagraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A monument may only be placed ... But actually it is: A				monument may only be plac...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: monument may only be placed in Arlington National Cemetery if an /entity has agreed to act as a sponsoring organization /the placement of the monument and 
+insertion: 
+deletion: A an organization 
+change: nongovernmental to appropriate				nongovernmental / coordinate to to				coordinate / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[1]/subparagraph[5]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[1]/subparagraph[5]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the construction and placement... But actually it is: the construction and placement...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: the construction and placement of /are paid for only using funds from private sources 
+insertion: 
+deletion: of 
+change: monument to the				monument / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[1]/subparagraph[5]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[1]/subparagraph[5]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the Secretary of the Army cons... But actually it is: the Secretary of the Army cons...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: the Secretary of the Army /the Commission of Fine Arts before approving the design of the 
+insertion: 
+deletion: Army 
+change: with to consults				with / monument and to monument				and 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[1]/subparagraph[5]/clause[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[1]/subparagraph[5]/clause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the sponsoring organization pr... But actually it is: the sponsoring organization pr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.68
+The Detailes are shown as followings: 
+common words: the sponsoring organization /an independent study on the availability and suitability of /for the proposed monument outside of Arlington 
+insertion: 
+deletion: organization of 
+change: for to provides				for / locations to alternative				locations / National Cemetery to National				Cemetery 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of the Army may ... But actually it is: The Secretary of the				Army m...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: The Secretary of /may waive the requirement under paragraph 2C in a case in which /would commemorate a group of individuals who the 
+insertion: 
+deletion: of which 
+change: Army to the				Army / monument to the				monument / Secretary determines to Secretary				determines 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[2]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[2]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: has made valuable contribution... But actually it is: has made valuable contribution...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: has made valuable contributions to /Forces that have been ongoing and perpetual for longer than 25 years /expected to continue on indefinitely and 
+insertion: 
+deletion: to years 
+change: Armed to the				Armed / are to and				are / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[2]/subparagraph[1]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[2]/subparagraph[1]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: has provided service that is o... But actually it is: has provided service that is o...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: has provided service that is of /character that the failure to place a monument to the group in /Cemetery would present a manifest injustice 
+insertion: 
+deletion: of in 
+change: a to such				a / National to Arlington				National / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If the Secretary waives such r... But actually it is: If the Secretary waives such		...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: If the Secretary waives /under subparagraph A the Secretary shall 
+insertion: 
+deletion: waives 
+change: requirement to such				requirement / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[2]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[2]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: make available on an Internet ... But actually it is: make available on an Internet ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: make available on an Internet /of the waiver and the rationale for the waiver and 
+insertion: 
+deletion: Internet 
+change: notification to website				notification / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[2]/subparagraph[2]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[2]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: submit to the Committee on Vet... But actually it is: submit to the Committee on Vet...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: submit to the Committee on /and the Committee on Armed Services of the Senate and the Committee /Affairs and the Committee on Armed Services of the House /written notice of the waiver and the rationale for 
+insertion: 
+deletion: on Committee House 
+change: Affairs to Veterans’				Affairs / Veterans’ to on				Veterans’ / Representatives to of				Representatives / the waiver to the				waiver 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of the Army shal... But actually it is: The Secretary of the Army shal...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: The Secretary of the Army shall /to the Committee on Armed Services and the Committee on /of the Senate and the Committee on Veterans’ Affairs and the /Armed Services of the House of Representatives of any monument proposed /placed in Arlington National Cemetery During the 60day period beginning /date on which such notice is received Congress may pass a joint /disapproval of the placement of the monument The proposed monument may /placed in Arlington National Cemetery until the later of 
+insertion: 
+deletion: shall on the proposed beginning joint may 
+change: notice to provide				notice / Affairs to Veterans’				Affairs / on to Committee				on / be to to				be / the to on				the / of to resolution				of / be to not				be / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[3]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[3]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: if Congress does not pass a jo... But actually it is: if Congress does not pass a jo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: if Congress does not pass a /of disapproval of the placement of the monument the date that is /after the date on which notice is received under this paragraph or 
+insertion: 
+deletion: a is 
+change: resolution to joint				resolution / days to 60				days / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[3]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[3]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: if Congress passes a joint res... But actually it is: if Congress passes a joint res...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: if Congress passes a joint /disapproval of the placement of the monument and the President signs a /such resolution the earlier of 
+insertion: 
+deletion: joint a 
+change: of to resolution				of / of to veto				of / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[3]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[3]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the date on which either House... But actually it is: the date on which either House...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: the date on which either House /votes and fails to override the veto of the President or 
+insertion: 
+deletion: House 
+change: Congress to of				Congress / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[3]/subparagraph[2]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/paragraph[3]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the date that is 30 session da... But actually it is: the date that is 30 session da...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: the date that is 30 session /the date on which Congress received the veto and objections of 
+insertion: 
+deletion: session 
+change: after to days				after / the president to the				president 
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Codification of prohibition ag... But actually it is: Codification of			 prohibition...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.64
+The Detailes are shown as followings: 
+common words: Codification prohibition against reservation of gravesites at Arlington 
+insertion: 
+deletion: 
+change: of to of			 / National Cemetery to National			 Cemetery 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In General But actually it is: In			 General
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In General 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Chapter 24 of title 38, United... But actually it is:  of title 38,			 United States...
+The Jaccard Index is: 0.62
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: 24 of title United States Code is amended by inserting 
+insertion: 
+deletion: Chapter 
+change: 38 to 38			 / after section 2410 the following new section to after			 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"Chapter 24"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/external-xref[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"section
+			 2410"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" the following new section:"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Arlington National Cemetery: o... But actually it is: Arlington				National Cemetery...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: National Cemetery other administrative matters 
+insertion: 
+deletion: Arlington 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: One Gravesite Per Family But actually it is: One Gravesite				Per Family
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: Gravesite Per Family to Gravesite				Per Family 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not more than one gravesite ma... But actually it is: Not more than one				gravesite...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: Not more than /may be provided at Arlington National Cemetery to a veteran or /the Armed Forces who is eligible for interment at such cemetery and /members of such veteran or member who are also eligible for interment 
+insertion: 
+deletion: than or and 
+change: gravesite to one				gravesite / of to member				of / family to the				family / at such cemetery to at				such cemetery 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary may waive the re... But actually it is: The Secretary may waive the			...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: The Secretary may waive /under paragraph 1 in extreme circumstances as determined by /If the Secretary waives such requirement under this paragraph /shall submit notice of the waiver to the Committee on /and the Committee on Armed Services of the Senate and the Committee /Affairs and the Committee on Armed Services of the House 
+insertion: 
+deletion: waive by paragraph on Committee 
+change: requirement to the				requirement / Secretary to the				Secretary / Secretary to the				Secretary / Affairs to Veterans’				Affairs / Veterans’ to on				Veterans’ / of Representatives to of				Representatives 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Prohibition Against Reservatio... But actually it is: Prohibition				Against Reserva...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Against Reservation of Gravesites 
+insertion: 
+deletion: Prohibition 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A gravesite at Arlington Natio... But actually it is: A gravesite at Arlington				Na...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: A gravesite at /Cemetery may not be reserved for an individual before the death 
+insertion: 
+deletion: at 
+change: National to Arlington				National / of such individual to of				such				individual 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clerical Amendment But actually it is: Clerical			 Amendment
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Clerical Amendment 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The table of sections at the b... But actually it is: The table of sections at the b...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: The table of sections at the beginning of chapter 24 such title is amended by inserting after the item relating to section 2410 following new item 
+insertion: 
+deletion: 
+change: of to of			 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2410A. Arlington National Ceme... But actually it is: 2410A. Arlington National Ceme...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: 2410A Arlington National Cemetery 
+insertion: 
+deletion: 
+change: other administrative matters to other				administrative				matters 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In			 general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Except as provided in paragrap... But actually it is: Except as provided in paragrap...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Except as provided in paragraph 2 section 2410A such title as added by subsection a shall apply with respect to interments at Arlington National Cemetery after the date of the enactment this Act 
+insertion: 
+deletion: 
+change: of to of			 / all to all			 / of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subsection (b) of such section... But actually it is: Subsection			 (b) of such sect...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: Subsection b of such section as so added shall not apply with respect to the of an individual for whom a written request for a reserved gravesite submitted to the Secretary of the Army before January 1 1962 and 
+insertion: 
+deletion: 
+change: interment to interment			 / was to was			 / subsequently approved to subsequently			 approved 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In			 general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 180 days after ... But actually it is: Not later than 180 days after ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: Not later than 180 days after the date of the of this Act the Secretary of the Army shall submit to Congress a report reservations made for interment at Arlington National Cemetery 
+insertion: 
+deletion: 
+change: enactment to enactment			 / on to on			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The report required by paragra... But actually it is: The			 report required by para...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.9
+The Detailes are shown as followings: 
+common words: The report required by paragraph 1 shall include the following 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The number of requests for res... But actually it is: The number of			 requests for ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: The number requests for reservation of a gravesite at Arlington National Cemetery were submitted to the Secretary of the Army before January 1 1962 
+insertion: 
+deletion: 
+change: of to of			 / that to that			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The number of gravesites at su... But actually it is: The number of			 gravesites at...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: The number gravesites at such cemetery that on the day before the date of the of this Act were reserved in response to such requests 
+insertion: 
+deletion: 
+change: of to of			 / enactment to enactment			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The number of such gravesites ... But actually it is: The number of such			 gravesit...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: The number of gravesites that on the day before the date of the enactment of this Act 
+insertion: 
+deletion: 
+change: such to such			 / were unoccupied to were			 unoccupied 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A list of all reservations for... But actually it is: A list of all			 reservations ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: A list of reservations for gravesites at such cemetery that were extended by responsible for management of such cemetery in response to requests for reservations made on or after January 1 1962 
+insertion: 
+deletion: 
+change: all to all			 / individuals to individuals			 / such to such			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A description of the measures ... But actually it is: A description of			 the measur...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: A description the measures that the Secretary is taking to improve the accountability transparency of the management of gravesite reservations at Arlington 
+insertion: 
+deletion: 
+change: of to of			 / and to and			 / National Cemetery to National			 Cemetery 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Such recommendations as the Se... But actually it is: Such			 recommendations as the...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: Such recommendations as the Secretary may have for legislative action as Secretary considers necessary to improve such accountability 
+insertion: 
+deletion: 
+change: the to the			 / and transparency to and			 transparency 
+
+We are at location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sense of Congress regarding th... But actually it is: Sense of Congress			 regarding...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Sense of regarding the provision of a memorial marker on Chaplains Hill to honor memory of the Jewish chaplains who died while on active duty in the Forces of the United States 
+insertion: 
+deletion: 
+change: Congress to Congress			 / the to the			 / Armed to Armed			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Congress makes the following f... But actually it is: Congress makes the following		...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Congress makes the 
+insertion: 
+deletion: 
+change: following findings to following			 findings 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 13 Jewish chaplains have died ... But actually it is: 13 Jewish			 chaplains have di...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: 13 chaplains have died while on active duty in the Armed Forces of the 
+insertion: 
+deletion: 
+change: Jewish to Jewish			 / United States to United			 States 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Army Chaplain Rabbi Alexander ... But actually it is: Army Chaplain			 Rabbi Alexand...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Army Rabbi Alexander Goode died on February 3 1943 when then USS Dorchester sunk by German torpedoes off the coast of Greenland 
+insertion: 
+deletion: 
+change: Chaplain to Chaplain			 / was to was			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Chaplain Goode received the Fo... But actually it is: Chaplain Goode			 received the...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: Chaplain received the Four Chaplains’ Medal for Heroism and the Distinguished Cross for his heroic efforts to save the lives of those onboard 
+insertion: 
+deletion: 
+change: Goode to Goode			 / Service to Service			 / the Dorchester to the			 Dorchester 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Army Chaplain Rabbi Irving Tep... But actually it is: Army Chaplain			 Rabbi Irving ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.87
+The Detailes are shown as followings: 
+common words: Army Rabbi Irving Tepper was killed in action in France on August 13 1944 
+insertion: 
+deletion: 
+change: Chaplain to Chaplain			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Chaplain Tepper also saw comba... But actually it is: Chaplain Tepper			 also saw co...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: Chaplain also saw combat in Morocco Tunisia and Sicily while attached to an combat team in the Ninth Division 
+insertion: 
+deletion: 
+change: Tepper to Tepper			 / infantry to infantry			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Army Chaplain Rabbi Louis Werf... But actually it is: Army Chaplain			 Rabbi Louis W...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: Army Rabbi Louis Werfel died on December 24 1944 at the young age of 27 in plane crash while en route to conduct Chanukah services 
+insertion: 
+deletion: 
+change: Chaplain to Chaplain			 / a to a			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Chaplain Werfel was known as  But actually it is: Chaplain Werfel			 was known a...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Chaplain was known as 
+insertion: 
+deletion: 
+change: Werfel to Werfel			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[7]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[7]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  because his duties required t... But actually it is:  because his duties required		...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words:  because his duties traveling great distances by plane to serve Army personnel of Jewish faith outlying posts 
+insertion: 
+deletion: 
+change: required to required			 / at to at			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[8]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[8]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Army Chaplain Rabbi Meir Engel... But actually it is: Army Chaplain			 Rabbi Meir En...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Army Rabbi Meir Engel died at the Naval Hospital in Saigon Vietnam on December 1964 after faithfully serving his country during World War II the Korean and the Vietnam War 
+insertion: 
+deletion: 
+change: Chaplain to Chaplain			 / 16 to 16			 / War to War			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[9]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[9]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Army Chaplain Rabbi Morton Sin... But actually it is: Army Chaplain			 Rabbi Morton ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Army Rabbi Morton Singer died on December 17 1968 in a plane crash while on mission in Vietnam to conduct Chanukah services 
+insertion: 
+deletion: 
+change: Chaplain to Chaplain			 / a to a			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[10]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[10]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Army Chaplain Rabbi Herman Ros... But actually it is: Army Chaplain			 Rabbi Herman ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: Army Rabbi Herman Rosen died in service of his faith and his country on June 
+insertion: 
+deletion: 
+change: Chaplain to Chaplain			 / 18 1943 to 18			 1943 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[11]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[11]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: His son, Air Force Chaplain So... But actually it is: His son, Air			 Force Chaplain...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: His son Force Chaplain Solomon Rosen also died in service of his faith and his on November 2 1948 
+insertion: 
+deletion: 
+change: Air to Air			 / country to country			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[12]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[12]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Army Chaplain Rabbi Nachman Ar... But actually it is: Army Chaplain			 Rabbi Nachman...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: Army Rabbi Nachman Arnoff died in service of his faith and his country on May 
+insertion: 
+deletion: 
+change: Chaplain to Chaplain			 / 9 1946 to 9			 1946 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[13]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[13]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Army Chaplain Rabbi Frank Gold... But actually it is: Army Chaplain			 Rabbi Frank G...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: Army Rabbi Frank Goldenberg died in service of his faith and his country on May 
+insertion: 
+deletion: 
+change: Chaplain to Chaplain			 / 22 1946 to 22			 1946 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[14]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[14]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Army Chaplain Rabbi Henry Good... But actually it is: Army Chaplain			 Rabbi Henry G...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: Army Rabbi Henry Goody died in service of his faith and his country on October 
+insertion: 
+deletion: 
+change: Chaplain to Chaplain			 / 19 1943 to 19			 1943 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[15]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[15]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Army Chaplain Rabbi Samuel Hur... But actually it is: Army Chaplain			 Rabbi Samuel ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: Army Rabbi Samuel Hurwitz died in service of his faith and his country on 9 1943 
+insertion: 
+deletion: 
+change: Chaplain to Chaplain			 / December to December			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[16]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[16]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Air Force Chaplain Rabbi Samue... But actually it is: Air Force			 Chaplain Rabbi Sa...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: Air Chaplain Rabbi Samuel Rosen died in service of his faith and his country on 13 1955 
+insertion: 
+deletion: 
+change: Force to Force			 / May to May			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[17]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[17]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Air Force Chaplain Rabbi David... But actually it is: Air Force			 Chaplain Rabbi Da...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: Air Chaplain Rabbi David Sobel died in service of his faith and his country March 7 1974 
+insertion: 
+deletion: 
+change: Force to Force			 / on to on			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[18]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[18]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Chaplains Hill in Arlington Na... But actually it is: Chaplains Hill in			 Arlington...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: Chaplains Hill Arlington National Cemetery memorializes the names of 242 chaplains perished while serving on active duty in the Armed Forces of the 
+insertion: 
+deletion: 
+change: in to in			 / who to who			 / United States to United			 States 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[19]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[19]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: None of the 13 Jewish chaplain... But actually it is: None of the 13			 Jewish chapl...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: None of the Jewish chaplains who have died while serving on active duty are memorialized Chaplains Hill 
+insertion: 
+deletion: 
+change: 13 to 13			 / on to on			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sense of Congress But actually it is: Sense of			 Congress
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of Congress to of			 Congress 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: It is the sense of Congress th... But actually it is: It is the sense of			 Congress...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: It is the sense Congress that an appropriate site on Chaplains Hill in Arlington Cemetery should be provided for a memorial marker to be paid for with funds to honor the memory of the Jewish chaplains who died while on duty in the Armed Forces of the United States so long as the Secretary of Army has exclusive authority to approve the design and site of the 
+insertion: 
+deletion: 
+change: of to of			 / National to National			 / private to private			 / active to active			 / the to the			 / memorial marker to memorial			 marker 
+
+We are at location: bill[1]/legis-body[1]/section[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sense of Congress regarding th... But actually it is: Sense of Congress			 regarding...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Sense of regarding the service and sacrifice of members of the United States Forces who are serving in or have served in Operation Enduring Operation Iraqi Freedom and Operation New Dawn 
+insertion: 
+deletion: 
+change: Congress to Congress			 / Armed to Armed			 / Freedom to Freedom			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Congress makes the following f... But actually it is: Congress makes the following		...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Congress makes the 
+insertion: 
+deletion: 
+change: following findings to following			 findings 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: More than 2,000,000 members of... But actually it is: More than 2,000,000 members of...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: More than 2000000 members of the Forces have deployed to the theaters of war since the commencement of Enduring Freedom Operation Iraqi Freedom and Operation New Dawn 
+insertion: 
+deletion: 
+change: Armed to Armed			 / Operation to Operation			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Hundreds of thousands of such ... But actually it is: Hundreds of			 thousands of su...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: Hundreds thousands of such members have deployed for multiple tours of duty their homes their families and in many cases their civilian jobs 
+insertion: 
+deletion: 
+change: of to of			 / leaving to leaving			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: More than 5,500 members of the... But actually it is: More than 5,500			 members of ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: More than members of the Armed Forces have made the ultimate sacrifice for the States while serving in Iraq or Afghanistan 
+insertion: 
+deletion: 
+change: 5500 to 5500			 / United to United			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Tens of thousands of additiona... But actually it is: Tens of thousands			 of additi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: Tens of of additional members of the Armed Forces have been seriously wounded in line of duty while serving in these theaters of war 
+insertion: 
+deletion: 
+change: thousands to thousands			 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: These members of the Armed For... But actually it is: These members of			 the Armed ...
+The Jaccard Index is: 0.39
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: These members the Armed Forces have answered the 
+insertion: 
+deletion: 
+change: of to of			 / Nation to Nations call to duty serving bravely and			 nobly and in most cases without fanfare or acclaim 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/paragraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/paragraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: These members of the Armed For... But actually it is: These members of			 the Armed ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: These members the Armed Forces have personified the virtues of patriotism service courage and sacrifice 
+insertion: 
+deletion: 
+change: of to of			 / duty to duty			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/paragraph[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/paragraph[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: All Americans recognize the se... But actually it is: All Americans			 recognize the...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: All recognize the service and sacrifices made by these members of the Armed and their families 
+insertion: 
+deletion: 
+change: Americans to Americans			 / Forces to Forces			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sense of Congress But actually it is: Sense of			 Congress
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of Congress to of			 Congress 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: honors the members of the Arme... But actually it is: honors the members of the Arme...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: honors the members of the Armed Forces are serving in Operation Enduring Freedom Operation Iraqi Freedom Operation New Dawn and the members and veterans who have previously served Operation Enduring Freedom Operation Iraqi Freedom and Operation New 
+insertion: 
+deletion: 
+change: who to who			 / and to and			 / in to in			 / Dawn and to Dawn			 and 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: calls on all Americans to refl... But actually it is: calls on all			 Americans to r...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: calls on Americans to reflect on the service of these members and veterans and to them in a special place of honor now and in the future 
+insertion: 
+deletion: 
+change: all to all			 / hold to hold			 / 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Passed the House of Representa... But actually it is: Passed the House of			 Represe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Passed the House Representatives May 23 2011 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clerk. But actually it is: Clerk
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/endorsement[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: endorsement But actually it is: null
+ Deleted paragraph content is: {""}
+

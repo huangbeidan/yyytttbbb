@@ -1,0 +1,385 @@
+===================================================
+
+total difference is: 62
+comparing document: BILLS-112hr1407ih.xml
+to document: BILLS-112hr1407rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  (for			 himself and  But actually it is:  (for himself and 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words:  himself and 
+insertion: 
+deletion: 
+change: for			 to for / 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/text()[2]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) introduced			 the following ... But actually it is: ) introduced the following bil...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words:  the following bill which was referred to 
+insertion: 
+deletion: 
+change: introduced			 to introduced / the			 to the 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Committee on Veterans’			 Affa... But actually it is: Committee on Veterans’ Affairs
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Committee on 
+insertion: 
+deletion: 
+change: Veterans’			 Affairs to Veterans’ Affairs 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To increase, effective as of D... But actually it is: To increase, effective as of D...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: To increase effective as of December 1 2011 the /of compensation for veterans with serviceconnected disabilities and the /of dependency and indemnity compensation for the survivors of certain /veterans and for other purposes 
+insertion: 
+deletion: the the certain 
+change:  to rates /  to rates /  to disabled / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 43"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 112–82]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+May 20, 2011
+Additional sponsors: Mr. LoBiondo, Mr. Michaud, Mr. Hanna, Mr. Grimm, Mr. Johnson of Ohio, Mr. Braley of Iowa, and Mrs. Ellmers
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+May 20, 2011
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed
+Strike out all after the enacting clause and insert the part printed in italic
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+
+"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Veterans’ Compensation Cost-of... But actually it is: Veterans’ Compensation Cost-of...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Veterans’ Compensation CostofLiving Adjustment Act 
+insertion: 
+deletion: 
+change: of			 2011 to of 2011 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Increase in rates			 of disabi... But actually it is: Increase in rates of disabilit...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Increase in of disability compensation and dependency and indemnity compensation 
+insertion: 
+deletion: 
+change: rates			 to rates / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Rate			 adjustment But actually it is: Rate adjustment
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Rate			 adjustment 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effective on December 1, 2011,... But actually it is: Effective on December 1, 2011,...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Effective on December 1 2011 the Secretary Veterans Affairs shall increase in accordance with subsection c the amounts in effect on November 30 2011 for the payment of compensation and dependency and indemnity compensation under the specified in subsection b 
+insertion: 
+deletion: 
+change: of			 to of / dollar			 to dollar / disability			 to disability / provisions			 to provisions / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Amounts To be			 increased But actually it is: Amounts To be increased
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Amounts To 
+insertion: 
+deletion: 
+change: be			 increased to be increased 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The dollar amounts to be incre... But actually it is: The dollar amounts to be incre...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: The dollar amounts to be increased pursuant subsection a are the following 
+insertion: 
+deletion: 
+change: to			 to to / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Wartime			 disability compensa... But actually it is: Wartime disability compensatio...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Wartime			 disability compensation 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Each of the dollar amounts und... But actually it is: Each of the dollar amounts und...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: Each of the dollar amounts under 1114 of title 38 United States Code 
+insertion: 
+deletion: 
+change: section			 to section / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Additional			 compensation for... But actually it is: Additional compensation for de...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Additional			 compensation for dependents 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Each of the dollar amounts und... But actually it is: Each of the dollar amounts und...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Each of the dollar amounts section 11151 of such title 
+insertion: 
+deletion: 
+change: under			 to under / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clothing			 allowance But actually it is: Clothing allowance
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Clothing			 allowance 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The dollar amount under sectio... But actually it is: The dollar amount under sectio...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: The dollar amount under section 1162 of 
+insertion: 
+deletion: 
+change: such			 title to such title 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Dependency and			 indemnity co... But actually it is: Dependency and indemnity compe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Dependency indemnity compensation to surviving spouse 
+insertion: 
+deletion: 
+change: and			 to and / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Each of the dollar			 amounts ... But actually it is: Each of the dollar amounts und...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: Each of the amounts under subsections a through d of section 1311 of such title 
+insertion: 
+deletion: 
+change: dollar			 to dollar / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Dependency and			 indemnity co... But actually it is: Dependency and indemnity compe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Dependency indemnity compensation to children 
+insertion: 
+deletion: 
+change: and			 to and / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Each of the dollar amounts			 ... But actually it is: Each of the dollar amounts und...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: Each of the dollar under sections 1313a and 1314 of such title 
+insertion: 
+deletion: 
+change: amounts			 to amounts / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Determination of			 Increase But actually it is: Determination of Increase
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of			 Increase to of Increase 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Except			 as provided in parag... But actually it is: Except as provided in paragrap...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: Except			 as provided in paragraph 2 each dollar amount described in subsection shall be increased by the same percentage as the percentage by which amounts payable under title II of the Social Security Act 42 USC 401 seq are increased effective December 1 2010 as a result of a under section 215i of such Act 42 USC 415i 
+insertion: 
+deletion: 
+change: b			 to b / benefit			 to benefit / et			 to et / determination			 to determination / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Each			 dollar amount increase... But actually it is: Each dollar amount increased u...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.87
+The Detailes are shown as followings: 
+common words: Each			 dollar amount increased under paragraph 1 if not a whole dollar shall be rounded to the next lower whole dollar amount 
+insertion: 
+deletion: 
+change: amount			 to amount / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Special			 rule But actually it is: Special rule
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Special			 rule 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of Veterans Affa... But actually it is: The Secretary of Veterans Affa...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: The Secretary of Veterans Affairs may administratively consistent with the increases made under subsection a rates of disability compensation payable to persons under section 10 of Law 85857 72 Stat 1263 who have not received compensation under chapter of title 38 United States Code 
+insertion: 
+deletion: 
+change: adjust			 to adjust / the			 to the / Public			 to Public / 11			 to 11 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Publication of			 adjusted rat... But actually it is: Publication of adjusted rates
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Publication adjusted rates 
+insertion: 
+deletion: 
+change: of			 to of / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary			 of Veterans A... But actually it is: The Secretary of Veterans Affa...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: The of Veterans Affairs shall publish in the Federal Register the amounts in section 2b as increased under that section not later than the date which the matters specified in section 215i2D of the Social Security 42 USC 415i2D are required to be published by reason of determination made under section 215i of such Act during fiscal 
+insertion: 
+deletion: 
+change: Secretary			 to Secretary / specified			 to specified / on			 to on / Act			 to Act / a			 to a / year			 2012 to year 2012 
+
+We are at location: null   Compared with location: bill[1]/legis-body[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: legis-body
+ Inserted paragraph content is: {"
+1.Short titleThis Act may be cited as Veterans’ Compensation Cost-of-Living Adjustment Act of 2011.
+2.Increase in rates of disability compensation and dependency and indemnity compensation
+(a)Rate adjustmentEffective on December 1, 2011, the Secretary of Veterans Affairs shall increase, in accordance with subsection (c), the dollar amounts in effect on November 30, 2011, for the payment of disability compensation and dependency and indemnity compensation under the provisions specified in subsection (b).
+(b)Amounts To be increasedThe dollar amounts to be increased pursuant to subsection (a) are the following:
+(1)Wartime disability compensationEach of the dollar amounts under section 1114 of title 38, United States Code.
+(2)Additional compensation for dependentsEach of the dollar amounts under section 1115(1) of such title.
+(3)Clothing allowanceThe dollar amount under section 1162 of such title.
+(4)Dependency and indemnity compensation to surviving spouseEach of the dollar amounts under subsections (a) through (d) of section 1311 of such title.
+(5)Dependency and indemnity compensation to childrenEach of the dollar amounts under sections 1313(a) and 1314 of such title.
+(c)Determination of Increase
+(1)PercentageExcept as provided in paragraph (2), each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 2011, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
+(2)RoundingEach dollar amount increased under paragraph (1), if not a whole dollar amount, shall be rounded to the next lower whole dollar amount.
+(d)Special ruleThe Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a), the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) who have not received compensation under chapter 11 of title 38, United States Code.
+3.Publication of adjusted ratesThe Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in section 2(b), as increased under that section, not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act (42 U.S.C. 415(i)(2)(D)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2012.
+4.Extension of authority of the Secretary of Veterans Affairs to provide specially adapted housing assistance to individuals residing temporarily in housing owned by a family member
+(a)Short titleThis section may be cited as the Andrew Connolly Veterans` Housing Act.
+(b)ExtensionSection 2102A(e) of title 38, United States Code, is amended by striking December 31, 2011 and inserting December 31, 2016.
+"}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+May 20, 2011
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+

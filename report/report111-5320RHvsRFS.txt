@@ -1,0 +1,797 @@
+===================================================
+
+total difference is: 165
+comparing document: BILLS-111hr5320eh.xml
+to document: BILLS-111hr5320rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED ST...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED STATES 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+August 2, 2010
+Received
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+August 5, 2010
+Read twice and referred to the  Committee on Environment and Public Works
+"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Except as otherwise specified,... But actually it is: Except as otherwise specified,...
+The Jaccard Index is: 0.88
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Except as otherwise specified whenever in this Act an amendment is expressed in terms of an amendment to a section or other provision the reference shall be considered to be made to a section or other provision of the Safe Drinking Water Act 
+insertion: 
+deletion: 
+change: 42 USC 300f et seq to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[3]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300f et seq."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[3]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {).}
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subsection (e) of section 1442... But actually it is: Subsection (e) of section 1442...
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Subsection e of section 1442 
+insertion: 
+deletion: 
+change: 42 USC 300j1e is amended to read as follows to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300j–1(e)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended to read as follows:"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subsection (e) of section 1450... But actually it is: Subsection (e) of section 1450...
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Subsection e of section 1450 
+insertion: 
+deletion: 
+change: 42 USC 300j9 is amended to read as follows to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300j–9"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended to read as follows:"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Administrator shall take s... But actually it is: The Administrator shall take s...
+The Jaccard Index is: 0.94
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: The Administrator shall take such action as the Administrator determines to be necessary to ensure that each laborer and mechanic employed by a contractor or subcontractor in connection with a construction project financed in whole or in part by a grant loan loan guarantee refinancing or any other form of financial assistance provided under this title including assistance provided by a State loan fund established under section 1452 is paid wages at a rate of not less than the wages prevailing for the same type of work on similar construction in the immediate locality as determined by the Secretary of Labor in accordance with subchapter IV of 
+insertion: 
+deletion: 
+change: chapter 31 of title 40 United States Code to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"chapter 31"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 40, United States Code."}
+
+We are at location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: With respect to the labor stan... But actually it is: With respect to the labor stan...
+The Jaccard Index is: 0.82
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: With respect to the labor standards specified in this subsection the Secretary of Labor shall have the authority and functions established in Reorganization Plan Numbered 14 of 1950 5 USC App and 
+insertion: 
+deletion: 
+change: section 3145 of title 40 United States Code to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"section 3145"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 40, United States Code."}
+
+We are at location: bill[1]/legis-body[1]/section[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 1452(a)(2) (42 U.S.C. ... But actually it is: Section 1452(a)(2) (
+The Jaccard Index is: 0.37
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Section 1452a2 
+insertion: 
+deletion: 
+change: 42 USC 300j12a2 is amended to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300j–12(a)(2)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended—"}
+
+We are at location: bill[1]/legis-body[1]/section[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 1452(a) (42 U.S.C. 300... But actually it is: Section 1452(a) (
+The Jaccard Index is: 0.17
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300j–12(a)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended by adding at the end the following new paragraph:"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 1452(b)(2) (42 U.S.C. ... But actually it is: Section 1452(b)(2) (
+The Jaccard Index is: 0.37
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Section 1452b2 
+insertion: 
+deletion: 
+change: 42 USC 300j12b2 is amended to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300j–12(b)(2)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended—"}
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 1401 (42 U.S.C. 300f) ... But actually it is: Section 1401 (
+The Jaccard Index is: 0.17
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300f"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended by adding at the end the following:"}
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clause (ii) of section 1452(a)... But actually it is: Clause (ii) of section 1452(a)...
+The Jaccard Index is: 0.46
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Clause ii of section 1452a3B 
+insertion: 
+deletion: 
+change: 42 USC 300j12a3B is amended by striking to 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  and inserting  But actually it is: ) is amended by striking 
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[2]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[2]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be: . But actually it is:  and inserting 
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300j–12(a)(3)(B)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[2]/text[1]/text()[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {.}
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 1452(b)(3) (42 U.S.C. ... But actually it is: Section 1452(b)(3) (
+The Jaccard Index is: 0.37
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Section 1452b3 
+insertion: 
+deletion: 
+change: 42 USC 300j12b3 is amended to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300j–12(b)(3)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended—"}
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 1452 (42 U.S.C. 300j–1... But actually it is: Section 1452 (
+The Jaccard Index is: 0.29
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Section 1452 
+insertion: 
+deletion: 
+change: 42 USC 300j12 is amended to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300j–12"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[2]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended—"}
+
+We are at location: bill[1]/legis-body[1]/section[9]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 1452(b)(3) (42 U.S.C. ... But actually it is: Section 1452(b)(3) (
+The Jaccard Index is: 0.19
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[9]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300j–12(b)(3)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[9]/subsection[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"), as amended, is further amended by adding at the end the following:"}
+
+We are at location: bill[1]/legis-body[1]/section[9]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 1452(d) (42 U.S.C. 300... But actually it is: Section 1452(d) (
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Section 1452d 
+insertion: 
+deletion: 
+change: 42 USC 300j12d is amended to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[9]/subsection[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300j–12(d)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[9]/subsection[2]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended—"}
+
+We are at location: bill[1]/legis-body[1]/section[10]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 1452(g) (42 U.S.C. 300... But actually it is: Section 1452(g) (
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Section 1452g 
+insertion: 
+deletion: 
+change: 42 USC 300j12g is amended to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[10]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300j–12(g)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[10]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended—"}
+
+We are at location: bill[1]/legis-body[1]/section[11]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[11]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 1452(j) (42 U.S.C. 300... But actually it is: Section 1452(j) (
+The Jaccard Index is: 0.26
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Section 1452j 
+insertion: 
+deletion: 
+change: 42 USC 300j12j is amended by striking to 
+
+We are at location: bill[1]/legis-body[1]/section[11]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[11]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  and inserting  But actually it is: ) is amended by striking 
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[11]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[11]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be: . But actually it is:  and inserting 
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[11]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300j–12(j)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[11]/text[1]/text()[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {.}
+
+We are at location: bill[1]/legis-body[1]/section[12]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[12]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subsection (m) of section 1452... But actually it is: Subsection (m) of section 1452...
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Subsection m of section 1452 
+insertion: 
+deletion: 
+change: 42 USC 300j12 is amended to read as follows to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[12]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300j–12"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[12]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended to read as follows:"}
+
+We are at location: bill[1]/legis-body[1]/section[13]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[13]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 1452 (42 U.S.C. 300j–1... But actually it is: Section 1452 (
+The Jaccard Index is: 0.14
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[13]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300j–12"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[13]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"), as amended, is further amended by adding at the end the following:"}
+
+We are at location: bill[1]/legis-body[1]/section[13]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[13]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a contract for architectural a... But actually it is: a contract for architectural a...
+The Jaccard Index is: 0.64
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: a contract for architectural and engineering services is negotiated under 
+insertion: 
+deletion: 
+change: chapter 11 of title 40 United States Code or to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[13]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"chapter 11"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[13]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 40, United States Code; or"}
+
+We are at location: bill[1]/legis-body[1]/section[14]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clause (ii) of section 1412(b)... But actually it is: Clause (ii) of section 1412(b)...
+The Jaccard Index is: 0.37
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Clause ii of section 1412b4E 
+insertion: 
+deletion: 
+change: 42 USC 300g1b4E is amended by adding at the end the following to 
+
+We are at location: bill[1]/legis-body[1]/section[14]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: . But actually it is: ) is amended by adding at the ...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300g–1(b)(4)(E)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[1]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {.}
+
+We are at location: bill[1]/legis-body[1]/section[14]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subparagraph (E) of section 14... But actually it is: Subparagraph (E) of section 14...
+The Jaccard Index is: 0.55
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Subparagraph E of section 1452a1 
+insertion: 
+deletion: 
+change: 42 USC 300j12a1 is amended to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[2]/paragraph[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300j–12(a)(1)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[2]/paragraph[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended—"}
+
+We are at location: bill[1]/legis-body[1]/section[14]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 1412(b) (42 U.S.C. 300... But actually it is: Section 1412(b) (
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Section 1412b 
+insertion: 
+deletion: 
+change: 42 USC 300g1b is amended by striking paragraph 15 to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300g–1(b)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended by striking paragraph (15)."}
+
+We are at location: bill[1]/legis-body[1]/section[14]/subsection[2]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[2]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 1415 (42 U.S.C. 300g–4... But actually it is: Section 1415 (
+The Jaccard Index is: 0.19
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[2]/paragraph[2]/subparagraph[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300g–4"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[2]/paragraph[2]/subparagraph[2]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended by striking subsection (e)."}
+
+We are at location: bill[1]/legis-body[1]/section[14]/subsection[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subparagraph (B) of section 14... But actually it is: Subparagraph (B) of section 14...
+The Jaccard Index is: 0.46
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Subparagraph B of section 1414c1 
+insertion: 
+deletion: 
+change: 42 USC 300g3c1B is amended by striking to 
+
+We are at location: bill[1]/legis-body[1]/section[14]/subsection[2]/paragraph[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[2]/paragraph[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  and inserting  But actually it is: ) is amended by striking 
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[14]/subsection[2]/paragraph[3]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[2]/paragraph[3]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be: . But actually it is:  and inserting 
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[2]/paragraph[3]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300g–3(c)(1)(B)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[2]/paragraph[3]/text[1]/text()[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {.}
+
+We are at location: bill[1]/legis-body[1]/section[15]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[15]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 1412(b)(4) (42 U.S.C. ... But actually it is: Section 1412(b)(4) (
+The Jaccard Index is: 0.37
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Section 1412b4 
+insertion: 
+deletion: 
+change: 42 USC 300g1b4 is amended to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[15]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300g–1(b)(4)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[15]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended—"}
+
+We are at location: bill[1]/legis-body[1]/section[16]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[16]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 1414 (42 U.S.C. 300g–3... But actually it is: Section 1414 (
+The Jaccard Index is: 0.29
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Section 1414 
+insertion: 
+deletion: 
+change: 42 USC 300g3 is amended to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[16]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300g–3"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[16]/subsection[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended—"}
+
+We are at location: bill[1]/legis-body[1]/section[16]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[16]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 1414 (42 U.S.C. 300g–3... But actually it is: Section 1414 (
+The Jaccard Index is: 0.29
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Section 1414 
+insertion: 
+deletion: 
+change: 42 USC 300g3 is amended to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[16]/subsection[2]/paragraph[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300g–3"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[16]/subsection[2]/paragraph[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended—"}
+
+We are at location: bill[1]/legis-body[1]/section[16]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[16]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subsections (a)(1)(B), (a)(2)(... But actually it is: Subsections (a)(1)(B), (a)(2)(...
+The Jaccard Index is: 0.53
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Subsections a1B a2A and b of section 1414 
+insertion: 
+deletion: 
+change: 42 USC 300g3 are amended by striking to 
+
+We are at location: bill[1]/legis-body[1]/section[16]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[16]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  each place it appears and ins... But actually it is: ) are amended by striking 
+The Jaccard Index is: 0.04
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[16]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[16]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be: . But actually it is:  each place it appears and ins...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[16]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300g–3"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[16]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {.}
+
+We are at location: bill[1]/legis-body[1]/section[17]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[17]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 1417 (42 U.S.C. 300g–6... But actually it is: Section 1417 (
+The Jaccard Index is: 0.29
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Section 1417 
+insertion: 
+deletion: 
+change: 42 USC 300g6 is amended to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[17]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300g–6"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[17]/subsection[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended—"}
+
+We are at location: bill[1]/legis-body[1]/section[18]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[18]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 1457 (42 U.S.C. 300j–1... But actually it is: Section 1457 (
+The Jaccard Index is: 0.2
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[18]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300j–17"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[18]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended to read as follows:"}
+
+We are at location: bill[1]/legis-body[1]/section[18]/quoted-block[1]/section[1]/subsection[7]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[18]/quoted-block[1]/section[1]/subsection[7]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  and consistent with section 5... But actually it is:  and consistent with 
+The Jaccard Index is: 0.08
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[18]/quoted-block[1]/section[1]/subsection[7]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"section 552"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[18]/quoted-block[1]/section[1]/subsection[7]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 5, United States Code, the Administrator shall publish, in electronic format, a publicly searchable database that contains information regarding the testing program. Not later than 30 days after the date on which the information becomes available, the Administrator shall ensure that, at a minimum, the database—"}
+
+We are at location: bill[1]/legis-body[1]/section[19]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[19]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subsection (a) of section 1442... But actually it is: Subsection (a) of section 1442...
+The Jaccard Index is: 0.29
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Subsection a of section 1442 
+insertion: 
+deletion: 
+change: 42 USC 300j1 is amended by adding at the end the following to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[19]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300j–1"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[19]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended by adding at the end the following:"}
+
+We are at location: bill[1]/legis-body[1]/section[20]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[20]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 1414 (42 U.S.C. 300g–3... But actually it is: Section 1414 (
+The Jaccard Index is: 0.14
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[20]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 300g–3"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[20]/subsection[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"), as amended, is further amended by adding at the end the following:"}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]/attestation-group[1]/proxy[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: proxy
+ Inserted paragraph content is: {"Robert F. Reeves,"}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]/attestation-group[1]/role[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: role
+ Inserted paragraph content is: {"Deputy Clerk"}
+

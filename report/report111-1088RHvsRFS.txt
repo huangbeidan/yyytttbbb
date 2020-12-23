@@ -1,0 +1,207 @@
+===================================================
+
+total difference is: 36
+comparing document: BILLS-111hr1088eh.xml
+to document: BILLS-111hr1088rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IB But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED		 ...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED		  STATES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend title 38, United Stat... But actually it is: To amend title 38, United Stat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: To amend title 38 United States Code /provide for a oneyear period for the training of new disabled /outreach program specialists and local veterans’ employment representatives /National Veterans’ Employment and Training Services Institute 
+insertion: to		 veterans’		 by		 
+deletion: 
+change: to to  / veterans’ to  / by to  / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			May 20, 2009
+			Received; read twice and referred to the
+			 Committee on Veterans`
+			 Affairs
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Mandatory Veteran Specialist T... But actually it is: Mandatory Veteran Specialist T...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Mandatory Veteran Specialist Act of 2009 
+insertion: 
+deletion: 
+change: Training to Training			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: One-year period for training o... But actually it is: One-year period			 for trainin...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Oneyear for training of new disabled veterans’ outreach program specialists and veterans’ employment representatives by National Veterans’ Employment Training Services Institute 
+insertion: 
+deletion: 
+change: period to period			 / local to local			 / and to and			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: One-year period But actually it is: One-year			 period
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Oneyear period 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 4102A(c)(8)(A) of titl... But actually it is:  of title 38, United States Co...
+The Jaccard Index is: 0.71
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: 4102Ac8A of title 38 United States Code is amended 
+insertion: 
+deletion: Section 
+change: by striking to by			 striking 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: one-year period But actually it is: one-year			 period
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: oneyear period 
+insertion: 
+deletion: 
+change: 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"Section
+			 4102A(c)(8)(A)"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effective date But actually it is: Effective			 date
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Effective date 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Applicability to new employees But actually it is: Applicability to			 new employ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Applicability new employees 
+insertion: 
+deletion: 
+change: to to to			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The amendment made by subsecti... But actually it is: The amendment			 made by subse...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: The made by subsection a shall apply with respect to a State employee assigned perform the duties of a disabled veterans’ outreach program specialist or local veterans’ employment representative under chapter 41 of such title who so assigned on or after the date of the enactment of this Act 
+insertion: 
+deletion: 
+change: amendment to amendment			 / to to to			 / a to a			 / is to is			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Applicability to previously-hi... But actually it is: Applicability to			 previously...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Applicability previouslyhired employees 
+insertion: 
+deletion: 
+change: to to to			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In the case of such a State em... But actually it is: In			 the case of such a State...
+The Jaccard Index is: 0.67
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: In the case of such a State employee who is so assigned on or after January 2006 and before the date of the enactment of this Act the Secretary Veterans Affairs shall require the State to require as a condition of a or contract under which funds are made available to the State in order to out section 
+insertion: 
+deletion: 
+change: 1 to 1			 / of to of			 / grant to grant			 / carry to carry			 / 4103A or 4104 of title 38 United States Code each such employee to satisfactorily complete the training described in section 4102Ac8A of such title by not later than the date that is one year after the date of the enactment of this Act to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"4103A"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" or
+			 "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/external-xref[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"4104"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"			 of title 38, United States Code, each such employee to satisfactorily complete
+			 the training described in section 4102A(c)(8)(A) of such title by not later
+			 than the date that is one year after the date of the enactment of this
+			 Act."}
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Passed the House of Representa... But actually it is: Passed the House of			 Represe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Passed the House Representatives May 19 2009 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/endorsement[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: endorsement But actually it is: null
+ Deleted paragraph content is: {""}
+

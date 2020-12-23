@@ -1,0 +1,159 @@
+===================================================
+
+total difference is: 57
+comparing document: BILLS-113hr3593ih.xml
+to document: BILLS-113hr3593rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]   Compared with location: bill[1]/endorsement[1]
+The reason of change is: element tag name
+The value is expected to be: metadata But actually it is: endorsement
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]   Compared with location: bill[1]/endorsement[1]/action-date[1]
+The reason of change is: element tag name
+The value is expected to be: dublinCore But actually it is: action-date
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]   Compared with location: bill[1]/endorsement[1]/action-date[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]   Compared with location: bill[1]/endorsement[1]/action-date[1]/text()[1]
+The reason of change is: namespace URI
+The value is expected to be: http://purl.org/dc/elements/1.... But actually it is: null
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]   Compared with location: bill[1]/endorsement[1]/action-date[1]/text()[1]
+The reason of change is: namespace prefix
+The value is expected to be: dc But actually it is: null
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {}
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/publisher[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: {http://purl.org/dc/elements/1... But actually it is: null
+ Deleted paragraph content is: {}
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: {http://purl.org/dc/elements/1... But actually it is: null
+ Deleted paragraph content is: {}
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/format[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: {http://purl.org/dc/elements/1... But actually it is: null
+ Deleted paragraph content is: {}
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/language[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: {http://purl.org/dc/elements/1... But actually it is: null
+ Deleted paragraph content is: {}
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/rights[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: {http://purl.org/dc/elements/1... But actually it is: null
+ Deleted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]/action-desc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action-desc
+ Inserted paragraph content is: {"Committed to the Committee of the Whole House on the State of the Union and ordered to be printed"}
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/session[1]/text()[1]   Compared with location: bill[1]/form[1]/session[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 1st Session But actually it is: 2d Session
+The Jaccard Index is: 0.55
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 1st Session 
+insertion: 
+deletion: 
+change: 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 433"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 113–586]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+September 15, 2014
+Additional sponsors: Mr. Gardner, Mr. Tipton, Mr. Lamborn, Mr. Roe of Tennessee, Mr. Stivers, and Mr. Forbes
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+September 15, 2014
+Committed to the Committee of the Whole House on the State of the Union and ordered to be printed
+"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"Section 8104"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 38, United States Co... But actually it is: Section 8104 of title 38, Unit...
+The Jaccard Index is: 0.91
+And the Smith Waterman Score is: 0.94
+The Detailes are shown as followings: 
+common words:  of title 38 United States Code is amended by adding at the end the following new subsection 
+insertion: 8104 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[5]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[5]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means each construction proje... But actually it is:  means each construction proje...
+The Jaccard Index is: 0.42
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words:  means each construction project that is a major medical facility project as defined in 
+insertion: 
+deletion: 
+change: section 8104a3A of title 38 United States Code being carried out as of the date of the enactment of this Act at the following locations 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[5]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"section 8104(a)(3)(A)"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[5]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[5]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 38, United States Co... But actually it is:  means each construction proje...
+The Jaccard Index is: 0.53
+And the Smith Waterman Score is: 0.96
+The Detailes are shown as followings: 
+common words:  of title 38 United States Code being carried out as of the date of the enactment of this Act at the following locations 
+insertion: means each construction project that is a major medical facility project as defined in section 8104a3A 
+deletion: 
+change: 
+

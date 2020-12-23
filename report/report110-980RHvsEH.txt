@@ -1,0 +1,1134 @@
+===================================================
+
+total difference is: 129
+comparing document: BILLS-110hr980rh.xml
+to document: BILLS-110hr980eh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Reported-in-House But actually it is: Engrossed-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 980 RH: Public Safety E... But actually it is: 110 HR 980 EH: Public Safety E...
+The Jaccard Index is: 0.55
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: 110 HR 980 Public Safety EmployerEmployee 
+insertion: 
+deletion: 
+change: RH to EH / Cooperation Act of 2007 to 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2007-07-13 But actually it is: 0
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/calendar[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: calendar But actually it is: null
+ Deleted paragraph content is: {"Union Calendar No. 143"}
+
+We are at location: bill[1]/form[1]/associated-doc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: associated-doc But actually it is: null
+ Deleted paragraph content is: {"[Report No. 110–232]"}
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/action[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {" 
+February 12, 2007 
+Mr. Kildee (for himself and Mr. Duncan) introduced the following bill; which was referred to the Committee on Education and Labor 
+"}
+
+We are at location: bill[1]/form[1]/action[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+July 13, 2007
+Additional sponsors: Mr. Holt, Mr. Saxton, Mr. Moore of Kansas, Mr. LaTourette, Mr. Davis of Illinois, Mr. Lipinski, Mr. Melancon, Mr. Johnson of Georgia, Mr. Ramstad, Ms. Jackson-Lee of Texas, Mr. Costello, Mr. Hare, Mr. Brady of Pennsylvania, Mr. Davis of Alabama, Ms. Sutton, Mr. Weller of Illinois, Ms. Schwartz, Mr. Gerlach, Mr. Shays, Mr. LoBiondo, Mr. Welch of Vermont, Mrs. Capps, Mr. Matheson, Mr. Platts, Mr. Hill, Mr. Renzi, Mr. Clay, Mr. Cleaver, Mr. Graves, Mr. Visclosky, Mr. Ross, Mr. Levin, Mr. Yarmuth, Mr. Tom Davis of Virginia, Mrs. Wilson of New Mexico, Ms. Harman, Mr. Smith of Washington, Mr. Porter, Mr. Doyle, Mr. Van Hollen, Mr. Rothman, Ms. Berkley, Mr. George Miller of California, Mr. Sires, Mr. Fattah, Mr. McDermott, Ms. Schakowsky, Mr. Baird, Mr. Dent, Ms. Corrine Brown of Florida, Mr. Pallone, Mr. Abercrombie, Mrs. Tauscher, Mr. Grijalva, Mr. Oberstar, Ms. DeLauro, Mr. Skelton, Mrs. Maloney of New York, Mr. Gene Green of Texas, Mr. Emanuel, Mr. Filner, Mr. Udall of New Mexico, Mr. Allen, Ms. McCollum of Minnesota, Mr. Kind, Mr. Farr, Mrs. Napolitano, Mr. Chandler, Ms. Linda T. Sánchez of California, Mr. Scott of Georgia, Mr. Fossella, Mr. Price of North Carolina, Mr. Ferguson, Mr. LaHood, Mrs. Miller of Michigan, Mr. Roskam, Mr. Ryan of Wisconsin, Mr. English of Pennsylvania, Mr. Loebsack, Ms. Herseth Sandlin, Mr. Sarbanes, Mr. Johnson of Illinois, Mr. King of New York, Mr. McHugh, Mr. Berman, Mr. Tim Murphy of Pennsylvania, Mr. Shimkus, Mr. Bonner, Ms. Bean, Mr. Carnahan, Mrs. Emerson, Ms. Wasserman Schultz, Mr. Larsen of Washington, Mr. Davis of Kentucky, Mrs. Biggert, Mr. McGovern, Mr. Terry, Mr. Michaud, Ms. Giffords, Mr. Higgins, Mr. Dicks, Mr. Rogers of Michigan, Mr. Smith of New Jersey, Mr. Arcuri, Mr. McNerney, Mr. Reichert, Mr. McCotter, Mr. Wexler, Mr. Cooper, Mr. Gonzalez, Mr. Kirk, Mr. Miller of North Carolina, Mr. Lewis of Georgia, Mr. Ryan of Ohio, Mr. Payne, Mr. Meek of Florida, Mr. David Davis of Tennessee, Mr. Rahall, Mrs. Davis of California, Mr. Pomeroy, Ms. Solis, Mr. Gordon of Tennessee, Mr. Meeks of New York, Mr. Bishop of New York, Mr. Courtney, Mr. Petri, Mr. Braley of Iowa, Mr. Sullivan, Mr. Wu, Mr. Waxman, Mr. Pastor, Mr. Poe, Mr. Cummings, Ms. Woolsey, Ms. Baldwin, Mr. Walsh of New York, Mr. Boswell, Mr. Tiahrt, Mr. Space, Mr. Wilson of Ohio, Mr. Holden, Mr. Tierney, Mr. Larson of Connecticut, Mr. Donnelly, Mr. Murphy of Connecticut, Mr. Inslee, Mr. Lincoln Diaz-Balart of Florida, Ms. Hirono, Mr. Shuler, Mr. Hinojosa, Mr. Kucinich, Mrs. Capito, Mr. Gallegly, Mr. Watt, Mrs. McCarthy of New York, Ms. Hooley, Mr. Lincoln Davis of Tennessee, Ms. Ros-Lehtinen, Mr. Tiberi, Ms. Ginny Brown-Waite of Florida, Mr. DeFazio, Mr. Cohen, Mr. Hastings of Florida, Mr. Blumenauer, Mr. Mario Diaz-Balart of Florida, Ms. Zoe Lofgren of California, Mr. Honda, Ms. Matsui, Mr. Lewis of Kentucky, Mr. Buchanan, Mr. Sherman, Mr. Altmire, Mr. Andrews, Mr. Ellsworth, Mr. Young of Alaska, Mr. Moran of Virginia, Mr. Rush, Mr. Cardoza, Mr. Crowley, Mr. Olver, Mr. Baca, Ms. Shea-Porter, Mr. Capuano, Mr. Pascrell, Ms. Slaughter, Mr. Berry, Ms. Carson, Mr. Barrow, Ms. Pryce of Ohio, Mr. Sestak, Ms. Kilpatrick of Michigan, Mr. Hodes, Mrs. Bachmann, Mr. Patrick Murphy of Pennsylvania, Mr. Murtha, Mr. Serrano, Mr. Butterfield, Mr. Kagen, Mr. Lantos, Mr. Schiff, Mr. Bishop of Georgia, Mr. McNulty, Mrs. Gillibrand, Mr. Dingell, Mr. Ruppersberger, Mr. Peterson of Minnesota, Mr. Engel, Mrs. Christensen, Ms. Watson, Ms. Lee, Mr. Kennedy, Mr. Rodriguez, Ms. Roybal-Allard, Mr. Markey, Mr. Israel, Mr. Ackerman, Mr. Whitfield, Mr. Mahoney of Florida, Ms. Norton, Mr. Walz of Minnesota, Ms. Clarke, Mr. Udall of Colorado, Mr. Upton, Mr. Kuhl of New York, Mr. Perlmutter, Mr. Shuster, Mr. Alexander, Mr. Cuellar, Mr. Thompson of California, Ms. DeGette, Mr. Al Green of Texas, Mr. Ortiz, Mr. Wynn, Mr. Reyes, Mr. Hoekstra, Mr. Reynolds, Mr. Frank of Massachusetts, Mr. Stupak, Mr. Salazar, Mr. Snyder, Mr. Ellison, Mr. Gutierrez, Mr. Conyers, Ms. Eddie Bernice Johnson of Texas, Mr. Thompson of Mississippi, Ms. Loretta Sanchez of California, Mr. Turner, Mr. Boren, Mr. Jefferson, Mr. Hall of New York, Mr. Stark, Ms. Castor, Mr. Meehan, Mr. Camp of Michigan, Mr. Delahunt, Mr. Hinchey, Mr. Rangel, Mr. Rehberg, Ms. Moore of Wisconsin, Mr. Scott of Virginia, Mr. Keller, Mr. Jackson of Illinois, Mr. Neal of Massachusetts, Mrs. Lowey, Mr. Hunter, Mr. Langevin, Mr. Becerra, Mr. Lynch, Mrs. Jones of Ohio, Mr. Klein of Florida, Mrs. Bono, Mr. Pearce, Mr. Weiner, Mr. Cramer, Mr. Nadler, Ms. Waters, Ms. Eshoo, Mr. Cole of Oklahoma, and Mr. Lampson 
+"}
+
+We are at location: bill[1]/form[1]/action[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+July 13, 2007
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed
+Strike out all after the enacting clause and insert the part printed in italic
+For text of introduced bill, see copy of bill as introduced on February 12, 2007
+"}
+
+We are at location: bill[1]/form[1]/legis-type[1]/text()[1]   Compared with location: bill[1]/form[1]/legis-type[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A BILL But actually it is: AN ACT
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To provide collective bargaini... But actually it is: To provide collective bargaini...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: To provide collective bargaining rights /public safety officers employed by States or their 
+insertion: for		 
+deletion: 
+change: for to  / political subdivisions to political		  subdivisions 
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Public Safety Employer-Employe... But actually it is: Public Safety Employer-Employe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Public Safety Cooperation Act of 2007 
+insertion: 
+deletion: 
+change: EmployerEmployee to EmployerEmployee			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Findings and declaration of pu... But actually it is: Findings and			 declaration of...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Findings declaration of purpose 
+insertion: 
+deletion: 
+change: and to and			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Labor-management relationships... But actually it is: Labor-management			 relationsh...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Labormanagement relationships and partnerships are based on trust mutual respect communication bilateral consensual problem solving and shared In many public safety agencies it is the union that provides the stability as elected leaders and appointees come and go 
+insertion: 
+deletion: 
+change: open to open			 / accountability to accountability			 / institutional to institutional			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: State and local public safety ... But actually it is: State and local			 public safe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: State and public safety officers play an essential role in the efforts of the States to detect prevent and respond to terrorist attacks and to respond natural disasters hazardous materials and other mass casualty incidents the first to arrive on scene State and local public safety officers must prepared to protect life and property and to preserve scarce and vital resources avoid substantial and debilitating interference with interstate foreign commerce and to protect the national security of the United Public safety employeremployee cooperation is essential in meeting these and is therefore in the National interest 
+insertion: 
+deletion: 
+change: local to local			 / United to United			 / to to to			 / As to As			 / be to be			 / Federal to Federal			 / and to and			 / States to States			 / needs to needs			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The health and safety of the N... But actually it is: The health and			 safety of th...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: The health safety of the Nation and the best interests of public safety employers employees may be furthered by the settlement of issues through the processes collective bargaining 
+insertion: 
+deletion: 
+change: and to and			 / and to and			 / of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Federal Government is in t... But actually it is: The Federal			 Government is i...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: The Government is in the position to encourage conciliation mediation voluntary arbitration to aid and encourage employers and the representatives their employees to reach and maintain agreements concerning rates of hours and working conditions and to make all reasonable efforts negotiations to settle their differences by mutual agreement reached collective bargaining or by such methods as may be provided for in applicable agreement for the settlement of disputes 
+insertion: 
+deletion: 
+change: Federal to Federal			 / and to and			 / of to of			 / pay to pay			 / through to through			 / through to through			 / any to any			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The potential absence of adequ... But actually it is: The potential absence of adequ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: The potential absence of cooperation between public safety employers and employees has implications the security of employees impacts the upgrading of police and fire services local communities the health and wellbeing of public safety officers and morale of the fire and police departments and can affect interstate intrastate commerce 
+insertion: 
+deletion: 
+change: adequate to adequate			 / for to for			 / of to of			 / the to the			 / and to and			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Many States and localities alr... But actually it is: Many States and			 localities ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Many States localities already provide public safety officers with collective rights comparable to or greater than the rights and responsibilities set in this Act and such State laws should be respected 
+insertion: 
+deletion: 
+change: and to and			 / bargaining to bargaining			 / forth to forth			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: means an employee of a public ... But actually it is: means an employee			 of a publ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: means an of a public safety agency who is a law enforcement officer a firefighter emergency medical services personnel 
+insertion: 
+deletion: 
+change: employee to employee			 / or to or			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: includes an individual who is ... But actually it is: includes an			 individual who ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: includes individual who is temporarily transferred to a supervisory or position and 
+insertion: 
+deletion: 
+change: an to an			 / management to management			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[2]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: does not include a permanent s... But actually it is: does not include a			 permanen...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: does not include permanent supervisory or management employee 
+insertion: 
+deletion: 
+change: a to a			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[3]/text[1]/term[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[3]/text[1]/term[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: employee in fire protection ac... But actually it is: employee in			 fire protection...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: employee fire protection activities 
+insertion: 
+deletion: 
+change: in to in			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[3]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[3]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be:  defined in section 3 of the F... But actually it is:  defined in section 3 of the F...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words:  defined in section 3 of the Fair Standards Act 
+insertion: 
+deletion: 
+change: Labor to Labor			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[4]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means an individual who provi... But actually it is:  means an individual who			 pr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words:  means an individual provides outofhospital emergency medical care including an emergency technician paramedic or first responder 
+insertion: 
+deletion: 
+change: who to who			 / medical to medical			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[5]/text[1]/term[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[5]/text[1]/term[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: law enforcement officer But actually it is: law			 enforcement officer
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: law enforcement officer 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[5]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[5]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  has the same meaning given su... But actually it is:  has the same meaning given su...
+The Jaccard Index is: 0.85
+And the Smith Waterman Score is: 0.91
+The Detailes are shown as followings: 
+common words:  has the same meaning given such term in 12045 of the Omnibus Crime Control and Safe Streets Act of 1968 
+insertion: 
+deletion: 
+change: section to section			 / 42 USC			 3796b5 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[5]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"42 U.S.C. 3796b(5)"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[5]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[5]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ). But actually it is:  has the same meaning given su...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[6]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[6]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  has the meaning given such te... But actually it is:  has the meaning given such te...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words:  has the meaning given such term or substantially equivalent term under applicable State law on the date enactment of this Act In the absence of such State law on the date enactment of this Act the term means an individual employed by a safety employer who 
+insertion: 
+deletion: 
+change: a to a			 / of to of			 / of to of			 / public to public			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[6]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[6]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: has the authority in the inter... But actually it is: has the authority			 in the in...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: has the in the interest of the employer to hire direct assign promote transfer furlough lay off recall suspend discipline or remove safety officers to adjust their grievances or to effectively recommend action if the exercise of the authority is not merely routine or clerical nature but requires the consistent exercise of independent judgment and 
+insertion: 
+deletion: 
+change: authority to authority			 / reward to reward			 / public to public			 / such to such			 / in to in			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[6]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[6]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: devotes a preponderance of emp... But actually it is: devotes a			 preponderance of ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: devotes preponderance of employment time exercising such authority 
+insertion: 
+deletion: 
+change: a to a			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[7]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[7]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  has the meaning given such te... But actually it is: 			 has the meaning given such...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words:  has the meaning given such term or a substantially equivalent term applicable State law in effect on the date of enactment of this Act If no State law is in effect the term means an individual employed by a safety employer in a position that requires or authorizes the individual formulate determine or influence the policies of the employer 
+insertion: 
+deletion: 
+change: under to under			 / such to such			 / public to public			 / to to to			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[8]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[8]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be:  mean any State, political sub... But actually it is:  mean any State,			 political ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words:  mean any political subdivision of a State the District of Columbia or any territory possession of the United States that employs public safety officers 
+insertion: 
+deletion: 
+change: State to State			 / or to or			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[9]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[9]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means an organization compose... But actually it is:  means an organization compose...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words:  means an organization composed in whole or part of employees in which employees participate and the purpose of which to represent such employees before public safety agencies grievances conditions of employment and related matters 
+insertion: 
+deletion: 
+change: in to in			 / is to is			 / concerning to concerning			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[10]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[10]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means substantial compliance ... But actually it is:  means substantial compliance ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words:  means substantial compliance with rights and responsibilities described in section 4b 
+insertion: 
+deletion: 
+change: the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Determination of rights and re... But actually it is: Determination of			 rights and...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Determination rights and responsibilities 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In			 general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 180 days after ... But actually it is: Not later than 180			 days aft...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: Not later than days after the date of enactment of this Act the Authority shall make determination as to whether a State substantially provides for the rights responsibilities described in subsection b In making such the Authority shall consider the opinion of affected employers and organizations Where the Authority is notified by an employer and an labor organization that both parties agree that the law applicable to employer and labor organization substantially provides for the rights responsibilities described in subsection b the Authority shall give agreement weight to the maximum extent practicable in making its under this subsection 
+insertion: 
+deletion: 
+change: 180 to 180			 / a to a			 / and to and			 / determinations to determinations			 / labor to labor			 / affected to affected			 / such to such			 / and to and			 / such to such			 / determination to determination			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subsequent determinations But actually it is: Subsequent			 determinations
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Subsequent determinations 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A determination made pursuant ... But actually it is: A determination made			 pursua...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: A determination pursuant to paragraph 1 shall remain in effect unless and until the issues a subsequent determination in accordance with the procedures set in subparagraph B 
+insertion: 
+deletion: 
+change: made to made			 / Authority to Authority			 / forth to forth			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: An employer or a labor organiz... But actually it is: An employer or a labor organiz...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: An employer or a labor may submit a written request for a subsequent determination on the basis of material change in State law or its interpretation If the Authority that a material change in State law or its interpretation has occurred Authority shall issue a subsequent determination not later than 30 days receipt of such request 
+insertion: 
+deletion: 
+change: organization to organization			 / a to a			 / determines to determines			 / the to the			 / after to after			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Judicial review But actually it is: Judicial			 review
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Judicial review 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any person aggrieved by a dete... But actually it is: Any person aggrieved by a dete...
+The Jaccard Index is: 0.88
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: Any person aggrieved by a determination of the under this section may during the 60day period beginning on the date on the determination was made petition any United States Court of Appeals in circuit in which the person resides or transacts business or in District Columbia circuit for judicial review In any judicial review of determination by the Authority the procedures contained in 
+insertion: 
+deletion: 
+change: Authority to Authority			 / which to which			 / the to the			 / of to of			 / a to a			 / section 7123c of			 title 5 United States Code shall be followed 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[3]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"section 7123(c)"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 5, United States Cod... But actually it is: Any person aggrieved by a dete...
+The Jaccard Index is: 0.16
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Rights and Responsibilities But actually it is: Rights and			 Responsibilities
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: and Responsibilities to and			 Responsibilities 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In making a determination desc... But actually it is: In making a determination desc...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: In making a determination described subsection a the Authority shall consider a State’s law to provide rights and responsibilities unless such law fails to substantially rights and responsibilities comparable to or greater than each of 
+insertion: 
+deletion: 
+change: in to in			 / adequate to adequate			 / provide to provide			 / the following to the			 following 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Granting public safety officer... But actually it is: Granting public			 safety offi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Granting safety officers the right to form and join a labor organization which exclude management and supervisory employees that is or seeks to recognized as the exclusive bargaining representative of such employees 
+insertion: 
+deletion: 
+change: public to public			 / may to may			 / be to be			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Requiring public safety employ... But actually it is: Requiring public			 safety emp...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Requiring safety employers to recognize the employees’ labor organization freely by a majority of the employees to agree to bargain with the organization and to commit any agreements to writing in a contract memorandum of understanding 
+insertion: 
+deletion: 
+change: public to public			 / chosen to chosen			 / labor to labor			 / or to or			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Providing for bargaining over ... But actually it is: Providing for			 bargaining ov...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Providing bargaining over hours wages and terms and conditions of employment 
+insertion: 
+deletion: 
+change: for to for			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Making available an interest i... But actually it is: Making available			 an interes...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: Making an interest impasse resolution mechanism such as factfinding arbitration or comparable procedures 
+insertion: 
+deletion: 
+change: available to available			 / mediation to mediation			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Requiring enforcement through ... But actually it is: Requiring			 enforcement throu...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Requiring enforcement through State courts of 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[5]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[5]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: all rights, responsibilities, ... But actually it is: all rights,			 responsibilitie...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: all responsibilities and protections provided by State law and enumerated in subsection and 
+insertion: 
+deletion: 
+change: rights to rights			 / this to this			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[5]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[5]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any written contract or memora... But actually it is: any written			 contract or mem...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: any contract or memorandum of understanding 
+insertion: 
+deletion: 
+change: written to written			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Failure To Meet Requirements But actually it is: Failure To Meet			 Requirement...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Failure To 
+insertion: 
+deletion: 
+change: Meet Requirements to Meet			 Requirements 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In			 general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If the Authority determines, a... But actually it is: If the Authority determines, a...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: If the Authority determines acting pursuant to authority under subsection a that a State does not substantially provide the rights and responsibilities described in subsection b such State be subject to the regulations and procedures described in section 5 
+insertion: 
+deletion: 
+change: its to its			 / for to for			 / shall to shall			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effective date But actually it is: Effective			 date
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Effective date 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Paragraph (1) shall apply in e... But actually it is: Paragraph (1) shall			 apply i...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Paragraph 1 apply in each State on the later of 
+insertion: 
+deletion: 
+change: shall to shall			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2 years after the date of enac... But actually it is: 2 years after the			 date of e...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: 2 years after date of enactment of this Act or 
+insertion: 
+deletion: 
+change: the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the date of the end of the fir... But actually it is: the date of the			 end of the ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: the date of end of the first regular session of the legislature of that State that after the date of the enactment of this Act 
+insertion: 
+deletion: 
+change: the to the			 / begins to begins			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Role of the authority But actually it is: Role of the			 authority
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Role of 
+insertion: 
+deletion: 
+change: the authority to the			 authority 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In General But actually it is: In			 General
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In General 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 1 year after th... But actually it is: Not later than 1 year after th...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: Not later than 1 year after the date of the enactment this Act the Authority shall issue regulations establishing procedures provide the rights and responsibilities described in section 4b for safety employers and officers in States which the Authority has acting pursuant to its authority under section 4a do not provide for such rights and responsibilities 
+insertion: 
+deletion: 
+change: of to of			 / which to which			 / public to public			 / determined to determined			 / substantially to substantially			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Role of the Federal Labor Rela... But actually it is: Role of the			 Federal Labor R...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Role of Federal Labor Relations Authority 
+insertion: 
+deletion: 
+change: the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Authority, to the extent p... But actually it is: The Authority, to the extent		...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: The Authority to the provided in this Act and in accordance with regulations prescribed by Authority shall 
+insertion: 
+deletion: 
+change: extent to extent			 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: determine the appropriateness ... But actually it is: determine the			 appropriatene...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: determine appropriateness of units for labor organization representation 
+insertion: 
+deletion: 
+change: the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: supervise and conduct election... But actually it is: supervise and			 conduct elect...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: supervise conduct elections to determine whether a labor organization has been as an exclusive representative by a voting majority of the employees in appropriate unit 
+insertion: 
+deletion: 
+change: and to and			 / selected to selected			 / an to an			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: resolve issues relating to the... But actually it is: resolve issues			 relating to ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: resolve relating to the duty to bargain in good faith 
+insertion: 
+deletion: 
+change: issues to issues			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: conduct hearings and resolve c... But actually it is: conduct hearings			 and resolv...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: conduct and resolve complaints of unfair labor practices 
+insertion: 
+deletion: 
+change: hearings to hearings			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: resolve exceptions to the awar... But actually it is: resolve exceptions			 to the a...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: resolve to the awards of arbitrators 
+insertion: 
+deletion: 
+change: exceptions to exceptions			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: protect the right of each empl... But actually it is: protect the right			 of each e...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: protect the of each employee to form join or assist any labor organization or to from any such activity freely and without fear of penalty or reprisal protect each employee in the exercise of such right 
+insertion: 
+deletion: 
+change: right to right			 / refrain to refrain			 / and to and			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: if the Authority finds that an... But actually it is: if the Authority			 finds that...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: if the finds that any State is not in compliance with the regulations prescribed subsection a direct compliance by such State by order and 
+insertion: 
+deletion: 
+change: Authority to Authority			 / under to under			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[8]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[8]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: take such other actions as are... But actually it is: take such other			 actions as ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: take such actions as are necessary and appropriate to effectively administer this including issuing subpoenas requiring the attendance and testimony of and the production of documentary or other evidence from any place in United States and administering oaths taking or ordering the taking depositions ordering responses to written interrogatories and receiving examining witnesses 
+insertion: 
+deletion: 
+change: other to other			 / Act to Act			 / witnesses to witnesses			 / the to the			 / of to of			 / and to and			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Petition by Authority But actually it is: Petition by			 Authority
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: by Authority to by			 Authority 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If a State fails to comply wit... But actually it is: If a State fails to comply wit...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: If a State fails to comply with a final order issued the Authority the Authority shall petition any United States Court of with jurisdiction over the parties or the United States Court of Appeals the District of Columbia Circuit to enforce any final orders under section and for appropriate temporary relief or a restraining order petition under this section shall be conducted in accordance with 7123c and d of title 5 United States Code except that any final order the Authority with respect to questions of fact shall be found to be unless the court determines that the Authority’s decision was arbitrary 
+insertion: 
+deletion: 
+change: by to by			 / Appeals to Appeals			 / for to for			 / this to this			 / Any to Any			 / section to section			 / of to of			 / conclusive to conclusive			 / and capricious to and			 capricious 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Right of action But actually it is: Right of			 action
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of action to of			 action 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Unless the Authority has filed... But actually it is: Unless the Authority			 has fi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Unless the has filed a petition for enforcement as provided in paragraph 1 interested party shall have the right to file suit against any subdivision of a State or if the State has waived its sovereign against the State itself in any district court of the United States competent jurisdiction to enforce compliance with the regulations issued by Authority pursuant to subsection b to enforce compliance with any issued by the Authority pursuant to this section or to enforce section 6 this Act The right provided by this paragraph to bring a suit to compliance with any order issued by the Authority pursuant to this shall terminate upon the filing of a petition seeking the same relief by Authority under paragraph 1 
+insertion: 
+deletion: 
+change: Authority to Authority			 / any to any			 / political to political			 / immunity to immunity			 / of to of			 / the to the			 / order to order			 / of to of			 / enforce to enforce			 / section to section			 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Strikes and lockouts prohibite... But actually it is: Strikes and			 lockouts prohib...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Strikes lockouts prohibited 
+insertion: 
+deletion: 
+change: and to and			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notwithstanding any rights or ... But actually it is: Notwithstanding any rights or	...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: Notwithstanding any rights responsibilities provided under State law or under regulations issued by Authority under section 5 
+insertion: 
+deletion: 
+change: or to or			 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a public safety employer may n... But actually it is: a public safety employer may n...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: a public safety employer may not engage a lockout of public safety officers 
+insertion: 
+deletion: 
+change: in to in			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: public safety officers may not... But actually it is: public safety			 officers may ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: public officers may not engage in a strike against such public safety 
+insertion: 
+deletion: 
+change: safety to safety			 / employer and to employer			 and 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a labor organization may not c... But actually it is: a labor organization may not c...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: a labor organization may not call for strike by public safety officers against their public safety employer 
+insertion: 
+deletion: 
+change: a to a			 / 
+
+We are at location: bill[1]/legis-body[1]/section[7]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Existing collective bargaining... But actually it is: Existing			 collective bargain...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Existing collective bargaining units and agreements 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: This Act and the regulations i... But actually it is: This Act and the regulations i...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: This Act and the regulations issued this Act shall not be construed to invalidate a certification collective bargaining agreement or memorandum of understanding which has issued approved or ratified by any public employee relations board commission or by any State or political subdivision or its agents officials in effect on the day before the date of enactment of this Act the results of any election held before the date of enactment of 
+insertion: 
+deletion: 
+change: under to under			 / recognition to recognition			 / been to been			 / or to or			 / management to management			 / or to or			 / this Act to this			 Act 
+
+We are at location: bill[1]/legis-body[1]/section[8]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Construction, compliance, and ... But actually it is: Construction,			 compliance, a...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Construction compliance and enforcement 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Nothing in this Act or the reg... But actually it is: Nothing			 in this Act or the ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.93
+The Detailes are shown as followings: 
+common words: Nothing in this Act or the regulations issued under this Act shall be construed 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to preempt or limit the remedi... But actually it is: to preempt or			 limit the rem...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: to preempt limit the remedies rights and procedures of any law of any State or subdivision of any State or jurisdiction that substantially provides greater comparable rights and responsibilities described in section 4b 
+insertion: 
+deletion: 
+change: or to or			 / political to political			 / or to or			 / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to prevent a State from enforc... But actually it is: to prevent a State			 from enf...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: to prevent a from enforcing a State law which prohibits employers and labor from negotiating provisions in a labor agreement that require union or payment of union fees as a condition of employment 
+insertion: 
+deletion: 
+change: State to State			 / organizations to organizations			 / membership to membership			 / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to preempt any State law in ef... But actually it is: to preempt any			 State law in...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: to preempt State law in effect on the date of enactment of this Act that provides for the rights and responsibilities described in section 4b 
+insertion: 
+deletion: 
+change: any to any			 / substantially to substantially			 / solely because to solely			 because 
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[1]/paragraph[3]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[1]/paragraph[3]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: such State law permits an empl... But actually it is: such State law			 permits an e...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: such State permits an employee to appear in his or her own behalf with respect to his her employment relations with the public safety agency involved 
+insertion: 
+deletion: 
+change: law to law			 / or to or			 / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[1]/paragraph[3]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[1]/paragraph[3]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: such State law excludes from i... But actually it is: such State law			 excludes fro...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: such State excludes from its coverage employees of a state militia or 
+insertion: 
+deletion: 
+change: law to law			 / national guard to national			 guard 
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[1]/paragraph[3]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[1]/paragraph[3]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: such rights and responsibiliti... But actually it is: such rights and responsibiliti...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: such rights and responsibilities have been extended to other categories of employees covered by this Act in case the Authority shall only exercise the powers provided in section 5 of Act with respect to those categories of employees who have not been the rights and responsibilities described in section 4b or 
+insertion: 
+deletion: 
+change: not to not			 / which to which			 / this to this			 / afforded to afforded			 / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[1]/paragraph[3]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[1]/paragraph[3]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: such laws or ordinances provid... But actually it is: such laws or ordinances provid...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: such laws or ordinances provide that contract or memorandum of understanding between a public safety employer and labor organization must be presented to a legislative body as part of process for approving such contract or memorandum of understanding 
+insertion: 
+deletion: 
+change: a to a			 / a to a			 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[1]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to permit parties subject to t... But actually it is: to permit parties			 subject t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: to permit subject to the National Labor Relations Act 
+insertion: 
+deletion: 
+change: parties to parties			 / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[1]/paragraph[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[1]/paragraph[4]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) and the regulations under su... But actually it is: ) and the			 regulations under...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words:  and regulations under such Act to negotiate provisions that would prohibit employee from engaging in parttime employment or volunteer activities offduty hours 
+insertion: 
+deletion: 
+change: the to the			 / an to an			 / during to during			 / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[1]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[1]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to require a State to rescind ... But actually it is: to require a State to rescind ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: to require a State to rescind or laws or ordinances of any of its political subdivisions if such substantially provide rights and responsibilities for public safety that are comparable to or greater than the rights and enumerated in section 4b of this Act or 
+insertion: 
+deletion: 
+change: preempt to preempt			 / laws to laws			 / officers to officers			 / responsibilities to responsibilities			 / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[1]/paragraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[1]/paragraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: preempt any State law that sub... But actually it is: preempt any State			 law that ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: preempt any law that substantially provides for the rights and responsibilities in section 4b solely because such law does not require bargaining respect to pension and retirement benefits 
+insertion: 
+deletion: 
+change: State to State			 / described to described			 / with to with			 / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Partial exemption But actually it is: Partial			 exemption
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Partial exemption 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A State may exempt from its St... But actually it is: A State may exempt			 from its...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: A State may from its State law or from the requirements established under this Act political subdivision of the State that has a population of less than 5000 that employs fewer than 25 full time employees For purposes of subsection the term 
+insertion: 
+deletion: 
+change: exempt to exempt			 / a to a			 / or to or			 / this to this			 / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  includes each individual empl... But actually it is:  includes each individual empl...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words:  includes each individual by the political subdivision except any individual elected by popular vote appointed to serve on a board or commission 
+insertion: 
+deletion: 
+change: employed to employed			 / or to or			 / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notwithstanding any other prov... But actually it is: Notwithstanding			 any other p...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: Notwithstanding any other provision of the Act and in the absence of a waiver of a sovereign immunity the Authority shall have the exclusive power to enforce provisions of this Act with respect to public safety officers employed by 
+insertion: 
+deletion: 
+change: State’s to State’s			 / the to the			 / a State to a			 State 
+
+We are at location: bill[1]/legis-body[1]/section[9]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authorization of appropriation... But actually it is: Authorization of			 appropriat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of appropriations to of			 appropriations 
+
+We are at location: bill[1]/legis-body[1]/section[9]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: There are authorized to be app... But actually it is: There are			 authorized to be ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: There authorized to be appropriated such sums as may be necessary to carry out provisions of this Act 
+insertion: 
+deletion: 
+change: are to are			 / the to the			 / 
+
+We are at location: bill[1]/endorsement[1]/action-date[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-date But actually it is: null
+ Deleted paragraph content is: {"July 13, 2007"}
+
+We are at location: bill[1]/endorsement[1]/action-desc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-desc But actually it is: null
+ Deleted paragraph content is: {"Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: attestation
+ Inserted paragraph content is: {"
+		
+			Passed the House of
+			 Representatives July 17, 2007.
+			Lorraine C. Miller,
+			Clerk.
+		
+	"}
+

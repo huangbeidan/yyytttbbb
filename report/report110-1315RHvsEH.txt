@@ -1,0 +1,1553 @@
+===================================================
+
+total difference is: 288
+comparing document: BILLS-110hr1315rh.xml
+to document: BILLS-110hr1315eh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Reported-in-House But actually it is: Engrossed-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: null
+The reason of change is: content change
+The value is expected to be: 110 HR 1315 RH: Amend the titl... But actually it is: 110 HR 1315 EH: To amend title...
+The Jaccard Index is: 0.28
+And the Smith Waterman Score is: 0.27
+The Detailes are shown as followings: 
+common words: 110 HR 1315 
+insertion: 
+deletion: 
+change: RH Amend the title so as to read to EH To amend title 38 United States Code to 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2007-03-05 But actually it is: 0
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IB But actually it is: I
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/calendar[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: calendar But actually it is: null
+ Deleted paragraph content is: {"Union Calendar No. 168"}
+
+We are at location: bill[1]/form[1]/associated-doc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: associated-doc But actually it is: null
+ Deleted paragraph content is: {"[Report No. 110–266]"}
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/action[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {" 
+March 5, 2007 
+Ms. Herseth introduced the following bill; which was referred to the Committee on Veterans’ Affairs 
+"}
+
+We are at location: bill[1]/form[1]/action[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {" 
+July 27, 2007 
+Reported with amendments, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed 
+Strike out all after the enacting clause and insert the part printed in italic 
+"}
+
+We are at location: bill[1]/form[1]/legis-type[1]/text()[1]   Compared with location: bill[1]/form[1]/legis-type[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A BILL But actually it is: AN ACT
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend title 38, United Stat... But actually it is: To amend title 38, United Stat...
+The Jaccard Index is: 0.24
+And the Smith Waterman Score is: 0.23
+The Detailes are shown as followings: 
+common words: To amend title 38 United States Code 
+insertion: 
+deletion: 
+change: to provide specially adaptive housing assistance to certain disabled members of the Armed Forces residing temporarily in housing owned by a family member to to		  make certain improvements in the benefits provided to veterans under laws		  administered by the Secretary of Veterans Affairs and for other		  purposes 
+
+We are at location: bill[1]/legis-body[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Provision of specially adaptiv... But actually it is: Short title
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/external-xref[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/external-xref[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {"Section 2102A"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 38, United States Co... But actually it is: .
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"Veterans’ Benefits Improvement Act of 2007"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/paragraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(1)by redesignating subsections (d) and (e) as subsections (e) and (f), respectively; and "}
+
+We are at location: bill[1]/legis-body[1]/section[1]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(2)by inserting after subsection (c) the following new subsection (d): 
+ 
+(c)Assistance for members of the Armed ForcesThe Secretary may provide assistance under subsection (a) to a member of the Armed Forces serving on active duty who is suffering from a disability described in subsection (a)(2) or (b)(2) of section 2101 of this title if such disability is the result of an injury incurred or disease contracted in or aggravated in the line of duty in the active military, naval, or air service. Such assistance shall be provided to the same extent as assistance is provided under subsection (a) to veterans eligible for assistance under that subsection and subject to the limitation under subsection (c). . "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"2.Provision of
+			 specially adaptive housing assistance to disabled members of the Armed Forces
+			 residing temporarily in housing owned by a family memberSection 2102A of title 38, United States
+			 Code, is amended—
+			(1)by redesignating
+			 subsections (d) and (e) as subsections (e) and (f), respectively; and
+			(2)by
+			 inserting after subsection (c) the following new subsection (d):
+				
+					(d)Assistance for
+				members of the Armed ForcesThe Secretary may provide assistance under
+				subsection (a) to a member of the Armed Forces serving on active duty who is
+				suffering from a disability described in subsection (a)(2) or (b)(2) of section
+				2101 of this title if such disability is the result of an injury incurred or
+				disease contracted in or aggravated in line of duty in the active military,
+				naval, or air service. Such assistance shall be provided to the same extent as
+				assistance is provided under subsection (a) to veterans eligible for assistance
+				under that subsection and subject to the limitation under subsection
+				(c).
+					.
+			"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"3.Visual impairment and
+			 orientation and mobility professionals education assistance program
+			(a)Establishment of
+			 programChapter 76 of title
+			 38, United States Code, is amended by adding at the end the following new
+			 subchapter:
+				
+					VIIIVisual
+				Impairment and Orientation and Mobility Professionals Scholarship
+				Program
+						7691.Authority for
+				programAs part of the
+				Educational Assistance Program and subject to the availability of
+				appropriations for such purpose, the Secretary shall carry out a scholarship
+				program under this subchapter. The program shall be known as the Department of
+				Veterans Affairs Visual Impairment and Orientation and Mobility Professionals
+				Scholarship Program (hereinafter in this subchapter referred to as the
+				Program). The purpose of the Program is to increase the supply
+				of qualified blind rehabilitation specialists for the Department and the
+				Nation.
+						7692.Eligibility;
+				agreement
+							(a)EligibilityTo be eligible to participate in the
+				Program, an individual must be accepted for enrollment or enrolled (as
+				described in section 7602 of this title) as a full-time or part-time student in
+				a field of education or training described in subsection (b).
+							(b)Qualifying
+				fields of education or trainingA field of education or training described
+				in this subsection is education or training leading to—
+								(1)a degree or
+				certificate in visual impairment or orientation and mobility, or a dual degree
+				or certification in both such areas; and
+								(2)appointment or
+				retention in a position under section 7401 of this title.
+								(c)Agreement(1)An agreement between the
+				Secretary and a participant in the Program shall (in addition to the
+				requirements set forth in section 7604 of this title) include the
+				following:
+									(A)The Secretary’s agreement to provide
+				the participant with a scholarship under the Program for a specified number
+				(from one to three) of school years during which the participant pursues a
+				course of education or training described in subsection (b) that meets the
+				requirements set forth in section 7602(a) of this title.
+									(B)The participant’s agreement to serve
+				as a full-time employee in the Veterans Health Administration for a period of
+				three years (hereinafter in this subchapter referred to as the period of
+				obligated service) during the six-year period beginning on the date the
+				participant completes the education or training and receives a degree or
+				certificate described in subsection (b)(1).
+									(C)The participant’s agreement to serve
+				under subparagraph (B) in a Department facility selected by the
+				Secretary.
+									(2)In a case in which an extension is
+				granted under section 7673(c)(2) of this title, the number of years for which a
+				scholarship may be provided under the Program shall be the number of school
+				years provided for as a result of the extension.
+								(3)In the case of a participant who is a
+				part-time student, the period of obligated service shall be reduced in
+				accordance with the proportion that the number of credit hours carried by such
+				participant in any such school year bears to the number of credit hours
+				required to be carried by a full-time student in the course of training being
+				pursued by the participant, but in no event to less than one year.
+								7693.Scholarship
+							(a)ScholarshipA scholarship provided to a participant in
+				the Program for a school year shall consist of payment of the tuition (or such
+				portion of the tuition as may be provided under subsection (b)) of the
+				participant for that school year and payment of other reasonable educational
+				expenses (including fees, books, and laboratory expenses) for that school
+				year.
+							(b)AmountsThe
+				total amount of the scholarship payable under subsection (a)—
+								(1)in the case of a
+				participant in the Program who is a full-time student, may not exceed $15,000
+				for the equivalent of one year of full-time coursework; and
+								(2)in the case of a
+				participant in the Program who is a part-time student, shall bear the same
+				ratio to the amount that would be paid under paragraph (1) if the participant
+				were a full-time student in the course of education or training being pursued
+				by the participant as the coursework carried by the participant to full-time
+				coursework in that course of education or training.
+								(c)Limitations on
+				period of payment(1)The maximum number of
+				school years for which a scholarship may be paid under subsection (a) to a
+				participant in the Program shall be six school years.
+								(2)A
+				participant in the Program may not receive a scholarship under subsection (a)
+				for more than the equivalent of three years of full-time coursework.
+								(d)Payment of
+				educational expenses by educational institutionsThe Secretary
+				may arrange with an educational institution in which a participant in the
+				Program is enrolled for the payment of the educational expenses described in
+				subsection (a). Such payments may be made without regard to subsections (a) and
+				(b) of section 3324 of title 31.
+							(e)Full-time
+				courseworkFor purposes of this section, full-time coursework
+				shall consist of the following:
+								(1)In the case of
+				undergraduate coursework, 30 semester hours per undergraduate school
+				year.
+								(2)In the case of
+				graduate coursework, 18 semester hours per graduate school year.
+								7694.Obligated
+				service
+							(a)In
+				generalEach participant in
+				the Program shall provide service as a full-time employee of the Department for
+				the period of obligated service provided in the agreement of the participant
+				entered into under section 7604 of this title. Such service shall be provided
+				in the full-time clinical practice of such participant’s profession or in
+				another health-care position in an assignment or location determined by the
+				Secretary.
+							(b)Determination of
+				service commencement date(1)Not later than 60 days
+				before a participant’s service commencement date, the Secretary shall notify
+				the participant of that service commencement date. That date is the date for
+				the beginning of the participant’s period of obligated service.
+								(2)As soon as possible after a
+				participant’s service commencement date, the Secretary shall—
+									(A)in the case of a participant who is
+				not a full-time employee in the Veterans Health Administration, appoint the
+				participant as such an employee; and
+									(B)in the case of a participant who is an
+				employee in the Veterans Health Administration but is not serving in a position
+				for which the participant’s course of education or training prepared the
+				participant, assign the participant to such a position.
+									(3)(A)In the case of a
+				participant receiving a degree from a school of medicine, osteopathy,
+				dentistry, optometry, or podiatry, the participant’s service commencement date
+				is the date upon which the participant becomes licensed to practice medicine,
+				osteopathy, dentistry, optometry, or podiatry, as the case may be, in a
+				State.
+									(B)In the case of a participant
+				receiving a degree from a school of nursing, the participant’s service
+				commencement date is the later of—
+										(i)the participant’s course completion
+				date; or
+										(ii)the date upon which the participant
+				becomes licensed as a registered nurse in a State.
+										(C)In the case of a participant not covered by
+				subparagraph (A) or (B), the participant’s service commencement date is the
+				later of—
+										(i)the participant’s course completion
+				date; or
+										(ii)the date the participant meets any
+				applicable licensure or certification requirements.
+										(4)The Secretary shall by regulation
+				prescribe the service commencement date for participants who were part-time
+				students. Such regulations shall prescribe terms as similar as practicable to
+				the terms set forth in paragraph (3). (c)
+								(c)Commencement of
+				obligated service(1)Except as provided in
+				paragraph (2), a participant in the Program shall be considered to have begun
+				serving the participant’s period of obligated service—
+									(A)on the date, after the participant’s
+				course completion date, on which the participant (in accordance with subsection
+				(b)) is appointed as a full-time employee in the Veterans Health
+				Administration; or
+									(B)if the participant is a full-time
+				employee in the Veterans Health Administration on such course completion date,
+				on the date thereafter on which the participant is assigned to a position for
+				which the participant’s course of training prepared the participant.
+									(2)A participant in the Program who on
+				the participant’s course completion date is a full-time employee in the
+				Veterans Health Administration serving in a capacity for which the
+				participant’s course of training prepared the participant shall be considered
+				to have begun serving the participant’s period of obligated service on such
+				course completion date.
+								(d)Course
+				completion date definedIn this section, the term course
+				completion date means the date on which a participant in the Program
+				completes the participant’s course of education or training under the
+				Program.
+							7695.Repayment for
+				failure to satisfy requirements of agreement
+							(a)In
+				generalAn individual who receives educational assistance under
+				this subchapter shall repay to the Secretary an amount equal to the unearned
+				portion of such assistance if the individual fails to satisfy the requirements
+				of the agreement entered into under section 7604 of this title, except in
+				circumstances authorized by the Secretary.
+							(b)Amount of
+				repaymentThe Secretary shall establish, by regulations,
+				procedures for determining the amount of the repayment required under this
+				subsection and the circumstances under which an exception to the required
+				repayment may be granted.
+							(c)Waiver or
+				suspension of complianceThe Secretary shall prescribe
+				regulations providing for the waiver or suspension of any obligation of an
+				individual for service or payment under this subchapter (or an agreement under
+				this subchapter) whenever noncompliance by the individual is due to
+				circumstances beyond the control of the individual or whenever the Secretary
+				determines that the waiver or suspension of compliance is in the best interest
+				of the United States.
+							(d)Obligation as
+				debt to United StatesAn obligation to repay the Secretary under
+				this section is, for all purposes, a debt owed the United States. A discharge
+				in bankruptcy under title 11 does not discharge a person from such debt if the
+				discharge order is entered less than five years after the date of the
+				termination of the agreement or contract on which the debt is
+				based.
+							.
+			(b)Clerical
+			 amendmentThe tables of
+			 sections at the beginning of such chapter is amended by inserting after the
+			 items relating to subchapter VII the following new items:
+				
+					
+						SUBCHAPTER VIII—Visual Impairment and
+				Orientation and Mobility Professionals Scholarship Program
+						7691. Authority for program.
+						7692. Eligibility; agreement.
+						7693. Scholarship.
+						7694. Obligated service.
+						7695. Repayment for failure to satisfy
+				requirements of
+				agreement.
+					
+					.
+			(c)Conforming
+			 amendmentsSuch chapter is further amended—
+				(1)in section
+			 7601(a)—
+					(A)in paragraph (4),
+			 by striking and at the end;
+					(B)in paragraph (5),
+			 by striking the period and inserting ; and; and
+					(C)by adding at the
+			 end the following new paragraph:
+						
+							(6)the Visual Impairment and Orientation and
+				Mobility Professionals Scholarship Program provided for in subchapter VIII of
+				this
+				chapter.
+							;
+					(2)in section
+			 7602—
+					(A)in subsection
+			 (a)(1)—
+						(i)by
+			 striking or VI and inserting VI, or VIII;
+			 and
+						(ii)by
+			 striking or for which a scholarship may be awarded under subchapter VI
+			 of this chapter and inserting for which a scholarship may be
+			 awarded under subchapter VI of this chapter, or for which a scholarship may be
+			 awarded under subchapter VIII of this chapter; and
+						(B)in subsection (b),
+			 by striking or VI and inserting VI, or
+			 VIII;
+					(3)in section
+			 7603(a)(1), by striking or VI and inserting VI, or
+			 VIII; and
+				(4)in section 7604,
+			 by striking or VI each place it appears and inserting VI,
+			 or VIII.
+				(d)Effective
+			 dateThe Secretary of Veterans Affairs shall implement subchapter
+			 VIII of chapter 76 of title 38, United States Code, as added by subsection (a),
+			 not later than six months after the date of the enactment of this Act.
+			"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"4.Veterans’
+			 reemployment rights report improvement
+			(a)Additional
+			 report requirementsSection
+			 4332 of title 38, United States Code, is amended—
+				(1)by striking
+			 The Secretary shall and inserting (a)
+			 Report
+			 required.—The Secretary shall;
+				(2)by redesignating
+			 paragraphs (4) through (6) as paragraphs (5) through (7), respectively, and
+			 inserting after paragraph (3) the following new paragraph (4):
+					
+						(4)The number of cases reviewed by the
+				Secretary of Defense under the National Committee for Employer Support of the
+				Guard and Reserve of the Department of Defense during the fiscal year for which
+				the report is
+				made.
+						.
+				(3)in
+			 paragraph (5), as so redesignated, by striking or (3) and
+			 inserting (3), or (4);
+				(4)by
+			 redesignating paragraph (7), as so redesignated, as paragraph (8), and
+			 inserting after paragraph (6) the following new paragraph (7):
+					
+						(7)An indication of which of the cases
+				reported on pursuant to paragraphs (1), (2), (3), and (4) are
+				disability-related.
+						.
+				(5)by adding at the
+			 end the following new subsections:
+					
+						(b)Uniform
+				categorization of dataThe Secretary shall coordinate with the
+				Secretary of Defense, the Secretary of Veterans Affairs, the Attorney General,
+				and the Special Counsel to ensure that the information required to be submitted
+				as part of the report under subsection (a) is categorized in a uniform
+				way.
+						(c)Provision of
+				informationThe Secretary shall provide the information contained
+				in the report required under subsection (a) to the Secretary of Defense, the
+				Secretary of Veterans Affairs, the Attorney General, and the Special
+				Counsel.
+						.
+				(b)Effective
+			 dateThe amendments made by this section shall apply with respect
+			 to a report submitted after the date of the enactment of this Act.
+			"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"5.Increase in number of
+			 members of Advisory Committee on Veterans Employment, Training, and Employer
+			 OutreachSection 4110(c)(1) of
+			 title 38, United States Code, is amended by striking 15 and
+			 inserting 16.
+		"}
+
+We are at location: bill[1]/legis-body[2]/section[1]/text[1]/quote[1]/short-title[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[2]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {"Veterans’ Benefits Improvement Act of 2007"}
+
+We are at location: bill[1]/legis-body[2]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Provision of specially adaptiv... But actually it is: Provision of			 specially adap...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Provision specially adaptive housing assistance to disabled members of the Armed residing temporarily in housing owned by a family member 
+insertion: 
+deletion: 
+change: of to of			 / Forces to Forces			 / 
+
+We are at location: bill[1]/legis-body[2]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 38, United States Co... But actually it is:  of title 38, United States			...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words:  of title 38 United Code is amended 
+insertion: 
+deletion: 
+change: States to States			 / 
+
+We are at location: bill[1]/legis-body[2]/section[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by redesignating subsections (... But actually it is: by redesignating			 subsection...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: by subsections d and e as subsections e and f respectively and 
+insertion: 
+deletion: 
+change: redesignating to redesignating			 / 
+
+We are at location: bill[1]/legis-body[2]/section[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by inserting after subsection ... But actually it is: by			 inserting after subsecti...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.9
+The Detailes are shown as followings: 
+common words: by inserting after subsection c the following new subsection d 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[2]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Assistance for members of the ... But actually it is: Assistance for				members of t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: for members of the Armed Forces 
+insertion: 
+deletion: Assistance 
+change: 
+
+We are at location: bill[1]/legis-body[2]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary may provide assi... But actually it is: The Secretary may provide assi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: The Secretary may provide assistance /a to a member of the Armed Forces serving on active duty who /from a disability described in subsection a2 or b2 of /of this title if such disability is the result of an injury incurred /contracted in or aggravated in line of duty in the active /or air service Such assistance shall be provided to the same extent /is provided under subsection a to veterans eligible for /that subsection and subject to the limitation under 
+insertion: 
+deletion: assistance who of incurred active extent for 
+change: subsection to under				subsection / suffering to is				suffering / 2101 to section				2101 / disease to or				disease / naval to military				naval / assistance to as				assistance / under to assistance				under / subsection c to subsection				c 
+
+We are at location: bill[1]/legis-body[2]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Extension of period of mortgag... But actually it is: Visual impairment and			 orien...
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Extension to 6 months But actually it is: Establishment of			 program
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subsection (c) of section 303 ... But actually it is: Chapter 76 of title			 38, Uni...
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[1]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"50 U.S.C. App. 533(c)"}
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ) is amended by striking  But actually it is: Chapter 76 of title			 38, Uni...
+The Jaccard Index is: 0.15
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[1]/text[1]/quote[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"90 days"}
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[1]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  and inserting  But actually it is: Chapter 76 of title			 38, Uni...
+The Jaccard Index is: 0.03
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[1]/text[1]/quote[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"180 days"}
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[1]/text[1]/text()[4]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: . But actually it is: Chapter 76 of title			 38, Uni...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quoted-block
+ Inserted paragraph content is: {"
+					VIIIVisual
+				Impairment and Orientation and Mobility Professionals Scholarship
+				Program
+						7691.Authority for
+				programAs part of the
+				Educational Assistance Program and subject to the availability of
+				appropriations for such purpose, the Secretary shall carry out a scholarship
+				program under this subchapter. The program shall be known as the Department of
+				Veterans Affairs Visual Impairment and Orientation and Mobility Professionals
+				Scholarship Program (hereinafter in this subchapter referred to as the
+				Program). The purpose of the Program is to increase the supply
+				of qualified blind rehabilitation specialists for the Department and the
+				Nation.
+						7692.Eligibility;
+				agreement
+							(a)EligibilityTo be eligible to participate in the
+				Program, an individual must be accepted for enrollment or enrolled (as
+				described in section 7602 of this title) as a full-time or part-time student in
+				a field of education or training described in subsection (b).
+							(b)Qualifying
+				fields of education or trainingA field of education or training described
+				in this subsection is education or training leading to—
+								(1)a degree or
+				certificate in visual impairment or orientation and mobility, or a dual degree
+				or certification in both such areas; and
+								(2)appointment or
+				retention in a position under section 7401 of this title.
+								(c)Agreement(1)An agreement between the
+				Secretary and a participant in the Program shall (in addition to the
+				requirements set forth in section 7604 of this title) include the
+				following:
+									(A)The Secretary’s agreement to provide
+				the participant with a scholarship under the Program for a specified number
+				(from one to three) of school years during which the participant pursues a
+				course of education or training described in subsection (b) that meets the
+				requirements set forth in section 7602(a) of this title.
+									(B)The participant’s agreement to serve
+				as a full-time employee in the Veterans Health Administration for a period of
+				three years (hereinafter in this subchapter referred to as the period of
+				obligated service) during the six-year period beginning on the date the
+				participant completes the education or training and receives a degree or
+				certificate described in subsection (b)(1).
+									(C)The participant’s agreement to serve
+				under subparagraph (B) in a Department facility selected by the
+				Secretary.
+									(2)In a case in which an extension is
+				granted under section 7673(c)(2) of this title, the number of years for which a
+				scholarship may be provided under the Program shall be the number of school
+				years provided for as a result of the extension.
+								(3)In the case of a participant who is a
+				part-time student, the period of obligated service shall be reduced in
+				accordance with the proportion that the number of credit hours carried by such
+				participant in any such school year bears to the number of credit hours
+				required to be carried by a full-time student in the course of training being
+				pursued by the participant, but in no event to less than one year.
+								7693.Scholarship
+							(a)ScholarshipA scholarship provided to a participant in
+				the Program for a school year shall consist of payment of the tuition (or such
+				portion of the tuition as may be provided under subsection (b)) of the
+				participant for that school year and payment of other reasonable educational
+				expenses (including fees, books, and laboratory expenses) for that school
+				year.
+							(b)AmountsThe
+				total amount of the scholarship payable under subsection (a)—
+								(1)in the case of a
+				participant in the Program who is a full-time student, may not exceed $15,000
+				for the equivalent of one year of full-time coursework; and
+								(2)in the case of a
+				participant in the Program who is a part-time student, shall bear the same
+				ratio to the amount that would be paid under paragraph (1) if the participant
+				were a full-time student in the course of education or training being pursued
+				by the participant as the coursework carried by the participant to full-time
+				coursework in that course of education or training.
+								(c)Limitations on
+				period of payment(1)The maximum number of
+				school years for which a scholarship may be paid under subsection (a) to a
+				participant in the Program shall be six school years.
+								(2)A
+				participant in the Program may not receive a scholarship under subsection (a)
+				for more than the equivalent of three years of full-time coursework.
+								(d)Payment of
+				educational expenses by educational institutionsThe Secretary
+				may arrange with an educational institution in which a participant in the
+				Program is enrolled for the payment of the educational expenses described in
+				subsection (a). Such payments may be made without regard to subsections (a) and
+				(b) of section 3324 of title 31.
+							(e)Full-time
+				courseworkFor purposes of this section, full-time coursework
+				shall consist of the following:
+								(1)In the case of
+				undergraduate coursework, 30 semester hours per undergraduate school
+				year.
+								(2)In the case of
+				graduate coursework, 18 semester hours per graduate school year.
+								7694.Obligated
+				service
+							(a)In
+				generalEach participant in
+				the Program shall provide service as a full-time employee of the Department for
+				the period of obligated service provided in the agreement of the participant
+				entered into under section 7604 of this title. Such service shall be provided
+				in the full-time clinical practice of such participant’s profession or in
+				another health-care position in an assignment or location determined by the
+				Secretary.
+							(b)Determination of
+				service commencement date(1)Not later than 60 days
+				before a participant’s service commencement date, the Secretary shall notify
+				the participant of that service commencement date. That date is the date for
+				the beginning of the participant’s period of obligated service.
+								(2)As soon as possible after a
+				participant’s service commencement date, the Secretary shall—
+									(A)in the case of a participant who is
+				not a full-time employee in the Veterans Health Administration, appoint the
+				participant as such an employee; and
+									(B)in the case of a participant who is an
+				employee in the Veterans Health Administration but is not serving in a position
+				for which the participant’s course of education or training prepared the
+				participant, assign the participant to such a position.
+									(3)(A)In the case of a
+				participant receiving a degree from a school of medicine, osteopathy,
+				dentistry, optometry, or podiatry, the participant’s service commencement date
+				is the date upon which the participant becomes licensed to practice medicine,
+				osteopathy, dentistry, optometry, or podiatry, as the case may be, in a
+				State.
+									(B)In the case of a participant
+				receiving a degree from a school of nursing, the participant’s service
+				commencement date is the later of—
+										(i)the participant’s course completion
+				date; or
+										(ii)the date upon which the participant
+				becomes licensed as a registered nurse in a State.
+										(C)In the case of a participant not covered by
+				subparagraph (A) or (B), the participant’s service commencement date is the
+				later of—
+										(i)the participant’s course completion
+				date; or
+										(ii)the date the participant meets any
+				applicable licensure or certification requirements.
+										(4)The Secretary shall by regulation
+				prescribe the service commencement date for participants who were part-time
+				students. Such regulations shall prescribe terms as similar as practicable to
+				the terms set forth in paragraph (3). (c)
+								(c)Commencement of
+				obligated service(1)Except as provided in
+				paragraph (2), a participant in the Program shall be considered to have begun
+				serving the participant’s period of obligated service—
+									(A)on the date, after the participant’s
+				course completion date, on which the participant (in accordance with subsection
+				(b)) is appointed as a full-time employee in the Veterans Health
+				Administration; or
+									(B)if the participant is a full-time
+				employee in the Veterans Health Administration on such course completion date,
+				on the date thereafter on which the participant is assigned to a position for
+				which the participant’s course of training prepared the participant.
+									(2)A participant in the Program who on
+				the participant’s course completion date is a full-time employee in the
+				Veterans Health Administration serving in a capacity for which the
+				participant’s course of training prepared the participant shall be considered
+				to have begun serving the participant’s period of obligated service on such
+				course completion date.
+								(d)Course
+				completion date definedIn this section, the term course
+				completion date means the date on which a participant in the Program
+				completes the participant’s course of education or training under the
+				Program.
+							7695.Repayment for
+				failure to satisfy requirements of agreement
+							(a)In
+				generalAn individual who receives educational assistance under
+				this subchapter shall repay to the Secretary an amount equal to the unearned
+				portion of such assistance if the individual fails to satisfy the requirements
+				of the agreement entered into under section 7604 of this title, except in
+				circumstances authorized by the Secretary.
+							(b)Amount of
+				repaymentThe Secretary shall establish, by regulations,
+				procedures for determining the amount of the repayment required under this
+				subsection and the circumstances under which an exception to the required
+				repayment may be granted.
+							(c)Waiver or
+				suspension of complianceThe Secretary shall prescribe
+				regulations providing for the waiver or suspension of any obligation of an
+				individual for service or payment under this subchapter (or an agreement under
+				this subchapter) whenever noncompliance by the individual is due to
+				circumstances beyond the control of the individual or whenever the Secretary
+				determines that the waiver or suspension of compliance is in the best interest
+				of the United States.
+							(d)Obligation as
+				debt to United StatesAn obligation to repay the Secretary under
+				this section is, for all purposes, a debt owed the United States. A discharge
+				in bankruptcy under title 11 does not discharge a person from such debt if the
+				discharge order is entered less than five years after the date of the
+				termination of the agreement or contract on which the debt is
+				based.
+							."}
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Extension of period of interes... But actually it is: Clerical			 amendment
+The Jaccard Index is: 0.02
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Such section is further amende... But actually it is: The tables of			 sections at t...
+The Jaccard Index is: 0.32
+And the Smith Waterman Score is: 0.21
+The Detailes are shown as followings: 
+common words: Such section is /amended by /adding at the end the following new 
+insertion: tables of			 sections at the beginning of such inserting after the			 items 
+deletion: is 
+change: subsection to items 
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[2]/quoted-block[1]/subsection[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/toc[1]
+The reason of change is: element tag name
+The value is expected to be: subsection But actually it is: toc
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[2]/quoted-block[1]/subsection[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[1]
+The reason of change is: element tag name
+The value is expected to be: enum But actually it is: toc-entry
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[2]/quoted-block[1]/subsection[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (e) But actually it is: SUBCHAPTER VIII—Visual Impairm...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[2]/quoted-block[1]/subsection[1]/header[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[2]
+The reason of change is: element tag name
+The value is expected to be: header But actually it is: toc-entry
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[2]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: Applicability of interest rate... But actually it is: 7691. Authority for program.
+The Jaccard Index is: 0.03
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[2]/quoted-block[1]/subsection[1]/text[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[3]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: toc-entry
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[2]/quoted-block[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[3]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 207 shall apply with r... But actually it is: 7692. Eligibility; agreement.
+The Jaccard Index is: 0.02
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: toc-entry
+ Inserted paragraph content is: {"7693. Scholarship."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: toc-entry
+ Inserted paragraph content is: {"7694. Obligated service."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[6]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: toc-entry
+ Inserted paragraph content is: {"7695. Repayment for failure to satisfy
+				requirements of
+				agreement."}
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effective date But actually it is: Conforming			 amendments
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The amendments made by subsect... But actually it is: Such chapter is further amende...
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[3]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"50 U.S.C. App. 511(2)"}
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: )) that begins on or after the... But actually it is: Such chapter is further amende...
+The Jaccard Index is: 0.08
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(1)in section
+			 7601(a)—
+					(A)in paragraph (4),
+			 by striking and at the end;
+					(B)in paragraph (5),
+			 by striking the period and inserting ; and; and
+					(C)by adding at the
+			 end the following new paragraph:
+						
+							(6)the Visual Impairment and Orientation and
+				Mobility Professionals Scholarship Program provided for in subchapter VIII of
+				this
+				chapter.
+							;
+					"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(2)in section
+			 7602—
+					(A)in subsection
+			 (a)(1)—
+						(i)by
+			 striking or VI and inserting VI, or VIII;
+			 and
+						(ii)by
+			 striking or for which a scholarship may be awarded under subchapter VI
+			 of this chapter and inserting for which a scholarship may be
+			 awarded under subchapter VI of this chapter, or for which a scholarship may be
+			 awarded under subchapter VIII of this chapter; and
+						(B)in subsection (b),
+			 by striking or VI and inserting VI, or
+			 VIII;
+					"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(3)in section
+			 7603(a)(1), by striking or VI and inserting VI, or
+			 VIII; and
+				"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(4)in section 7604,
+			 by striking or VI each place it appears and inserting VI,
+			 or VIII.
+				"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(d)Effective
+			 dateThe Secretary of Veterans Affairs shall implement subchapter
+			 VIII of chapter 76 of title 38, United States Code, as added by subsection (a),
+			 not later than six months after the date of the enactment of this Act.
+			"}
+
+We are at location: bill[1]/legis-body[2]/section[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Visual impairment and orientat... But actually it is: Veterans’			 reemployment righ...
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Establishment of program But actually it is: Additional			 report requireme...
+The Jaccard Index is: 0.04
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[1]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"Chapter 76"}
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 38, United States Co... But actually it is: Section			 4332 of title 38, U...
+The Jaccard Index is: 0.42
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words:  of title 38 United States Code is amended 
+insertion: 4332 
+deletion: 
+change: by adding at the end the following new subchapter to 
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[1]/quoted-block[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]
+The reason of change is: element tag name
+The value is expected to be: quoted-block But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[1]/quoted-block[1]/subchapter[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/enum[1]
+The reason of change is: element tag name
+The value is expected to be: subchapter But actually it is: enum
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[1]/quoted-block[1]/subchapter[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[1]/quoted-block[1]/subchapter[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {VIII}
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[1]/quoted-block[1]/subchapter[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Visual Impairment and Orientation and Mobility Professionals Scholarship Program"}
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[1]/quoted-block[1]/subchapter[1]/section[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: section But actually it is: null
+ Deleted paragraph content is: {"7691.Authority for programAs part of the Educational Assistance Program and subject to the availability of appropriations for such purpose, the Secretary shall carry out a scholarship program under this subchapter. The program shall be known as the Department of Veterans Affairs Visual Impairment and Orientation and Mobility Professionals Scholarship Program (hereinafter in this subchapter referred to as the Program). The purpose of the Program is to increase the supply of qualified blind rehabilitation specialists for the Department and the Nation. "}
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[1]/quoted-block[1]/subchapter[1]/section[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: section But actually it is: null
+ Deleted paragraph content is: {"7692.Eligibility; agreement 
+(a)EligibilityTo be eligible to participate in the Program, an individual must be accepted for enrollment or enrolled (as described in section 7602 of this title) as a full-time or part-time student in a field of education or training described in subsection (b). 
+(b)Qualifying fields of education or trainingA field of education or training described in this subsection is education or training leading to— 
+(1)a degree or certificate in visual impairment or orientation and mobility, or a dual degree or certification in both such areas; and 
+(2)appointment or retention in a position under section 7401 of this title. 
+(c)Agreement
+(1)An agreement between the Secretary and a participant in the Program shall (in addition to the requirements set forth in section 7604 of this title) include the following: 
+(A)The Secretary’s agreement to provide the participant with a scholarship under the Program for a specified number (from one to three) of school years during which the participant pursues a course of education or training described in subsection (b) that meets the requirements set forth in section 7602(a) of this title. 
+(B)The participant’s agreement to serve as a full-time employee in the Veterans Health Administration for a period of three years (hereinafter in this subchapter referred to as the period of obligated service) during the six-year period beginning on the date the participant completes the education or training and receives a degree or certificate described in subsection (b)(1). 
+(C)The participant’s agreement to serve under subparagraph (B) in a Department facility selected by the Secretary. 
+(2)In a case in which an extension is granted under section 7673(c)(2) of this title, the number of years for which a scholarship may be provided under the Program shall be the number of school years provided for as a result of the extension. 
+(3)In the case of a participant who is a part-time student, the period of obligated service shall be reduced in accordance with the proportion that the number of credit hours carried by such participant in any such school year bears to the number of credit hours required to be carried by a full-time student in the course of training being pursued by the participant, but in no event to less than one year. "}
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[1]/quoted-block[1]/subchapter[1]/section[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: section But actually it is: null
+ Deleted paragraph content is: {"7693.Scholarship 
+(a)ScholarshipA scholarship provided to a participant in the Program for a school year shall consist of payment of the tuition (or such portion of the tuition as may be provided under subsection (b)) of the participant for that school year and payment of other reasonable educational expenses (including fees, books, and laboratory expenses) for that school year. 
+(b)AmountsThe total amount of the scholarship payable under subsection (a)— 
+(1)in the case of a participant in the Program who is a full-time student, may not exceed $15,000 for the equivalent of one year of full-time coursework; and 
+(2)in the case of a participant in the Program who is a part-time student, shall bear the same ratio to the amount that would be paid under paragraph (1) if the participant were a full-time student in the course of education or training being pursued by the participant as the coursework carried by the participant to full-time coursework in that course of education or training. 
+(c)Limitations on period of payment
+(1)The maximum number of school years for which a scholarship may be paid under subsection (a) to a participant in the Program shall be six school years. 
+(2)A participant in the Program may not receive a scholarship under subsection (a) for more than the equivalent of three years of full-time coursework. 
+(d)Payment of educational expenses by educational institutionsThe Secretary may arrange with an educational institution in which a participant in the Program is enrolled for the payment of the educational expenses described in subsection (a). Such payments may be made without regard to subsections (a) and (b) of section 3324 of title 31. 
+(e)Full-time courseworkFor purposes of this section, full-time coursework shall consist of the following: 
+(1)In the case of undergraduate coursework, 30 semester hours per undergraduate school year. 
+(2)In the case of graduate coursework, 18 semester hours per graduate school year. "}
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[1]/quoted-block[1]/subchapter[1]/section[4]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: section But actually it is: null
+ Deleted paragraph content is: {"7694.Obligated service 
+(a)In generalEach participant in the Program shall provide service as a full-time employee of the Department for the period of obligated service provided in the agreement of the participant entered into under section 7604 of this title. Such service shall be provided in the full-time clinical practice of such participant’s profession or in another health-care position in an assignment or location determined by the Secretary. 
+(b)Determination of service commencement date
+(1)Not later than 60 days before a participant’s service commencement date, the Secretary shall notify the participant of that service commencement date. That date is the date for the beginning of the participant’s period of obligated service. 
+(2)As soon as possible after a participant’s service commencement date, the Secretary shall— 
+(A)in the case of a participant who is not a full-time employee in the Veterans Health Administration, appoint the participant as such an employee; and 
+(B)in the case of a participant who is an employee in the Veterans Health Administration but is not serving in a position for which the participant’s course of education or training prepared the participant, assign the participant to such a position. 
+(3)
+(A)In the case of a participant receiving a degree from a school of medicine, osteopathy, dentistry, optometry, or podiatry, the participant’s service commencement date is the date upon which the participant becomes licensed to practice medicine, osteopathy, dentistry, optometry, or podiatry, as the case may be, in a State. 
+(B)In the case of a participant receiving a degree from a school of nursing, the participant’s service commencement date is the later of— 
+(i)the participant’s course completion date; or 
+(ii)the date upon which the participant becomes licensed as a registered nurse in a State. 
+(C)In the case of a participant not covered by subparagraph (A) or (B), the participant’s service commencement date is the later of— 
+(i)the participant’s course completion date; or 
+(ii)the date the participant meets any applicable licensure or certification requirements. 
+(4)The Secretary shall by regulation prescribe the service commencement date for participants who were part-time students. Such regulations shall prescribe terms as similar as practicable to the terms set forth in paragraph (3). 
+(c)Commencement of obligated service
+(1)Except as provided in paragraph (2), a participant in the Program shall be considered to have begun serving the participant’s period of obligated service— 
+(A)on the date, after the participant’s course completion date, on which the participant (in accordance with subsection (b)) is appointed as a full-time employee in the Veterans Health Administration; or 
+(B)if the participant is a full-time employee in the Veterans Health Administration on such course completion date, on the date thereafter on which the participant is assigned to a position for which the participant’s course of training prepared the participant. 
+(2)A participant in the Program who on the participant’s course completion date is a full-time employee in the Veterans Health Administration serving in a capacity for which the participant’s course of training prepared the participant shall be considered to have begun serving the participant’s period of obligated service on such course completion date. 
+(d)Course completion date definedIn this section, the term course completion date means the date on which a participant in the Program completes the participant’s course of education or training under the Program. "}
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[1]/quoted-block[1]/subchapter[1]/section[5]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: section But actually it is: null
+ Deleted paragraph content is: {"7695.Repayment for failure to satisfy requirements of agreement 
+(a)In generalAn individual who receives educational assistance under this subchapter shall repay to the Secretary an amount equal to the unearned portion of such assistance if the individual fails to satisfy the requirements of the agreement entered into under section 7604 of this title, except in circumstances authorized by the Secretary. 
+(b)Amount of repaymentThe Secretary shall establish, by regulations, procedures for determining the amount of the repayment required under this subsection and the circumstances under which an exception to the required repayment may be granted. 
+(c)Waiver or suspension of complianceThe Secretary shall prescribe regulations providing for the waiver or suspension of any obligation of an individual for service or payment under this subchapter (or an agreement under this subchapter) whenever noncompliance by the individual is due to circumstances beyond the control of the individual or whenever the Secretary determines that the waiver or suspension of compliance is in the best interest of the United States. 
+(d)Obligation as debt to United StatesAn obligation to repay the Secretary under this section is, for all purposes, a debt owed the United States. A discharge in bankruptcy under title 11 does not discharge a person from such debt if the discharge order is entered less than five years after the date of the termination of the agreement or contract on which the debt is based. "}
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[1]/quoted-block[1]/after-quoted-block[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/text[1]
+The reason of change is: element tag name
+The value is expected to be: after-quoted-block But actually it is: text
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[1]/quoted-block[1]/after-quoted-block[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: . But actually it is: by striking			 
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/text[1]/quote[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"The Secretary shall"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" and inserting "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/text[1]/quote[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"(a)
+			 Report
+			 required.—The Secretary shall"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {;}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(2)by redesignating
+			 paragraphs (4) through (6) as paragraphs (5) through (7), respectively, and
+			 inserting after paragraph (3) the following new paragraph (4):
+					
+						(4)The number of cases reviewed by the
+				Secretary of Defense under the National Committee for Employer Support of the
+				Guard and Reserve of the Department of Defense during the fiscal year for which
+				the report is
+				made.
+						.
+				"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(3)in
+			 paragraph (5), as so redesignated, by striking or (3) and
+			 inserting (3), or (4);
+				"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(4)by
+			 redesignating paragraph (7), as so redesignated, as paragraph (8), and
+			 inserting after paragraph (6) the following new paragraph (7):
+					
+						(7)An indication of which of the cases
+				reported on pursuant to paragraphs (1), (2), (3), and (4) are
+				disability-related.
+						.
+				"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(5)by adding at the
+			 end the following new subsections:
+					
+						(b)Uniform
+				categorization of dataThe Secretary shall coordinate with the
+				Secretary of Defense, the Secretary of Veterans Affairs, the Attorney General,
+				and the Special Counsel to ensure that the information required to be submitted
+				as part of the report under subsection (a) is categorized in a uniform
+				way.
+						(c)Provision of
+				informationThe Secretary shall provide the information contained
+				in the report required under subsection (a) to the Secretary of Defense, the
+				Secretary of Veterans Affairs, the Attorney General, and the Special
+				Counsel.
+						.
+				"}
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clerical amendment But actually it is: Effective			 date
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The tables of sections at the ... But actually it is: The amendments made by this se...
+The Jaccard Index is: 0.17
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[2]/quoted-block[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quoted-block But actually it is: null
+ Deleted paragraph content is: {" 
+ 
+SUBCHAPTER VIII—Visual Impairment and Orientation and Mobility Professionals Scholarship Program 
+7691. Authority for program. 
+7692. Eligibility; agreement. 
+7693. Scholarship. 
+7694. Obligated service. 
+7695. Repayment for failure to satisfy requirements of agreement.  ."}
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[3]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (c) But actually it is: (b)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Conforming amendments But actually it is: Effective			 date
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Such chapter is further amende... But actually it is: The amendments made by this se...
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[3]/paragraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(1)in section 7601(a)— 
+(A)in paragraph (4), by striking and at the end; 
+(B)in paragraph (5), by striking the period and inserting ; and; and 
+(C)by adding at the end the following new paragraph: 
+ 
+(6)the Visual Impairment and Orientation and Mobility Professionals Scholarship Program provided for in subchapter VIII of this chapter. ; "}
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[3]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(2)in section 7602— 
+(A)in subsection (a)(1)— 
+(i)by striking or VI and inserting VI, or VIII; and 
+(ii)by striking or for which a scholarship may be awarded under subchapter VI of this chapter and inserting for which a scholarship may be awarded under subchapter VI of this chapter, or for which a scholarship may be awarded under subchapter VIII of this chapter; and 
+(B)in subsection (b), by striking or VI and inserting VI, or VIII; "}
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[3]/paragraph[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(3)in section 7603(a)(1), by striking or VI and inserting VI, or VIII; and "}
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[3]/paragraph[4]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(4)in section 7604, by striking or VI each place it appears and inserting VI, or VIII. "}
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[4]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (d) But actually it is: (b)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effective date But actually it is: Effective			 date
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Effective date 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of Veterans Affa... But actually it is: The amendments made by this se...
+The Jaccard Index is: 0.12
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[4]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"chapter 76"}
+
+We are at location: bill[1]/legis-body[2]/section[4]/subsection[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 38, United States Co... But actually it is: The amendments made by this se...
+The Jaccard Index is: 0.29
+And the Smith Waterman Score is: 0.39
+The Detailes are shown as followings: 
+common words: 38 United States Code as added by section 1 not later than six months after the date of the enactment of this Act 
+insertion: 
+deletion:  of title 
+change: 
+
+We are at location: bill[1]/legis-body[2]/section[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Veterans’ reemployment rights ... But actually it is: Increase in number of			 membe...
+The Jaccard Index is: 0.1
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[5]/subsection[1]   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]
+The reason of change is: element tag name
+The value is expected to be: subsection But actually it is: text
+
+We are at location: bill[1]/legis-body[2]/section[5]/subsection[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[2]/section[5]/subsection[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(a)}
+
+We are at location: bill[1]/legis-body[2]/section[5]/subsection[1]/header[1]   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/quote[1]
+The reason of change is: element tag name
+The value is expected to be: header But actually it is: quote
+
+We are at location: bill[1]/legis-body[2]/section[5]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Additional report requirements But actually it is: 15
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[5]/subsection[1]/text[1]   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/text()[2]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[2]/section[5]/subsection[1]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"Section 4332"}
+
+We are at location: bill[1]/legis-body[2]/section[5]/subsection[1]/text[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {" of title 38, United States Code, is amended—"}
+
+We are at location: bill[1]/legis-body[2]/section[5]/subsection[1]/paragraph[1]   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/quote[2]
+The reason of change is: element tag name
+The value is expected to be: paragraph But actually it is: quote
+
+We are at location: bill[1]/legis-body[2]/section[5]/subsection[1]/paragraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/quote[2]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[2]/section[5]/subsection[1]/paragraph[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(1)}
+
+We are at location: bill[1]/legis-body[2]/section[5]/subsection[1]/paragraph[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"by striking The Secretary shall and inserting (a) Report required.—The Secretary shall;"}
+
+We are at location: bill[1]/legis-body[2]/section[5]/subsection[1]/paragraph[2]   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/text()[3]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[2]/section[5]/subsection[1]/paragraph[2]/enum[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: enum But actually it is: null
+ Deleted paragraph content is: {(2)}
+
+We are at location: bill[1]/legis-body[2]/section[5]/subsection[1]/paragraph[2]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"by redesignating paragraphs (4) through (6) as paragraphs (5) through (7), respectively, and inserting after paragraph (3) the following new paragraph (4):"}
+
+We are at location: bill[1]/legis-body[2]/section[5]/subsection[1]/paragraph[2]/quoted-block[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quoted-block But actually it is: null
+ Deleted paragraph content is: {" 
+(4)The number of cases reviewed by the Secretary of Defense under the National Committee for Employer Support of the Guard and Reserve of the Department of Defense during the fiscal year for which the report is made. ;"}
+
+We are at location: bill[1]/legis-body[2]/section[5]/subsection[1]/paragraph[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(3)in paragraph (5), as so redesignated, by striking or (3) and inserting (3), or (4); "}
+
+We are at location: bill[1]/legis-body[2]/section[5]/subsection[1]/paragraph[4]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(4)by redesignating paragraph (7), as so redesignated, as paragraph (8), and inserting after paragraph (6) the following new paragraph (7): 
+ 
+(7)An indication of which of the cases reported on pursuant to paragraphs (1), (2), (3), and (4) are disability-related. ; and "}
+
+We are at location: bill[1]/legis-body[2]/section[5]/subsection[1]/paragraph[5]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(5)by adding at the end the following new subsections: 
+ 
+(b)Uniform categorization of dataThe Secretary shall coordinate with the Secretary of Defense, the Secretary of Veterans Affairs, the Attorney General, and the Special Counsel to ensure that the information required to be submitted as part of the report under subsection (a) is categorized in a uniform way. 
+(c)Provision of informationThe Secretary shall provide the information contained in the report required under subsection (a) to the Secretary of Defense, the Secretary of Veterans Affairs, the Attorney General, and the Special Counsel. . "}
+
+We are at location: bill[1]/legis-body[2]/section[5]/subsection[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subsection But actually it is: null
+ Deleted paragraph content is: {"(b)Effective dateThe amendments made by this section shall apply with respect to a report submitted after the date of the enactment of this Act. "}
+
+We are at location: bill[1]/legis-body[2]/section[6]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 6. But actually it is: 5.
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Increase in number of members ... But actually it is: Increase in number of			 membe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: Increase in number members of Advisory Committee on Veterans Employment Training and 
+insertion: 
+deletion: 
+change: of to of			 / Employer Outreach to Employer			 Outreach 
+
+We are at location: bill[1]/legis-body[2]/section[6]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"Section 4110(c)(1)"}
+
+We are at location: bill[1]/legis-body[2]/section[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 38, United States Co... But actually it is:  and			 inserting 
+The Jaccard Index is: 0.03
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[6]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: 15 But actually it is: 16
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[6]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be:  and inserting  But actually it is: .
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[6]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 16 But actually it is: 15
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[6]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: . But actually it is: Section 4110(c)(1) of			 title...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/official-title-amendment[1]   Compared with location: bill[1]/attestation[1]
+The reason of change is: element tag name
+The value is expected to be: official-title-amendment But actually it is: attestation
+
+We are at location: bill[1]/official-title-amendment[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: attestation-date
+ Inserted paragraph content is: {"Passed the House of
+			 Representatives July 30, 2007."}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestor[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: attestor
+ Inserted paragraph content is: {"Lorraine C. Miller,"}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]/attestation-group[1]/role[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: role
+ Inserted paragraph content is: {Clerk.}
+
+We are at location: bill[1]/official-title-amendment[1]/quote[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"A bill to amend title 38, United States Code, to make certain improvements in the benefits provided to veterans under laws administered by the Secretary of Veterans Affairs, and for other purposes."}
+
+We are at location: bill[1]/official-title-amendment[1]/text()[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {.}
+
+We are at location: bill[1]/endorsement[1]/action-date[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-date But actually it is: null
+ Deleted paragraph content is: {"July 27, 2007"}
+
+We are at location: bill[1]/endorsement[1]/action-desc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-desc But actually it is: null
+ Deleted paragraph content is: {"Reported with amendments, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+

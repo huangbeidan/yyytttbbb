@@ -1,0 +1,246 @@
+===================================================
+
+total difference is: 40
+comparing document: BILLS-112hr4273eh.xml
+to document: BILLS-112hr4273rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IB But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED		 ...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED		  STATES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To clarify that compliance wit... But actually it is: To clarify that compliance wit...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: To clarify that compliance with /emergency order under section 202c of the Federal Power Act may not /considered a violation of any Federal State or local environmental law /regulation and for other purposes 
+insertion: an		 be		 or		 
+deletion: 
+change: an to  / be to  / or to  / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			August 2, 2012
+			Received; read twice and referred to the
+			 Committee on Environment and Public
+			 Works
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"Resolving Environmental and Grid
+			 Reliability Conflicts Act of 2012"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Amendments to the Federal Powe... But actually it is: Amendments to the			 Federal P...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Amendments to Federal Power Act 
+insertion: 
+deletion: 
+change: the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Compliance with or violation o... But actually it is: Compliance with			 or violatio...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.64
+The Detailes are shown as followings: 
+common words: Compliance or violation of environmental laws while under 
+insertion: 
+deletion: 
+change: with to with			 / emergency order to emergency			 order 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 202(c) of the Federal ... But actually it is: Section 202(c) of the Federal ...
+The Jaccard Index is: 0.57
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Section 202c of the Federal Power Act 
+insertion: 
+deletion: 
+change: 16 USC 824ac is amended to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"16 U.S.C. 824a(c)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {")
+			 is amended—"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by adding at the end the follo... But actually it is: by adding at the			 end the fo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: by adding at end the following 
+insertion: 
+deletion: 
+change: the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: With respect to an order issue... But actually it is: With respect to an order issue...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: With respect to an order issued /subsection that may result in a conflict with a requirement of /State or local environmental law or regulation the Commission /that such order requires generation delivery interchange /of electric energy only during hours necessary to meet /and serve the public interest and to the maximum /is consistent with any applicable Federal State or /law or regulation and minimizes any adverse 
+insertion: 
+deletion: issued of Commission interchange meet maximum or 
+change: this to under				this / Federal to any				Federal / ensure to shall				ensure / transmission to or				transmission / emergency to the				emergency / practicable to extent				practicable / environmental to local				environmental / environmental impacts to environmental				impacts 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To the extent any omission or ... But actually it is: To the extent any omission or ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: To the extent any omission or /by a party that is necessary to comply with an order issued under /including any omission or action taken to voluntarily comply /order results in noncompliance with or causes such party to not /any Federal State or local environmental law or regulation /or action shall not be considered a violation of such /or regulation or subject such party to any requirement civil or /or a citizen suit under such environmental law or regulation 
+insertion: 
+deletion: or under comply not regulation such or 
+change: taken to action				taken / subsection to this				subsection / such to with				such / with to comply				with / omission to such				omission / law to environmental				law / liability to criminal				liability / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[3]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[3]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: An order issued under this sub... But actually it is: An order issued under				this ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: An order issued /subsection that may result in a conflict with a requirement of /State or local environmental law or regulation shall expire not /90 days after it is issued The Commission may renew or reissue such /to paragraphs 1 and 2 for subsequent periods not to exceed /for each period as the Commission determines necessary to meet /and serve the public interest 
+insertion: 
+deletion: issued of not such exceed meet 
+change: this to under				this / Federal to any				Federal / than to later				than / pursuant to order				pursuant / days to 90				days / emergency to the				emergency / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[3]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[3]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In renewing or reissuing an or... But actually it is: In renewing or reissuing an or...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: In renewing or reissuing an order /A the Commission shall consult with the primary Federal /expertise in the environmental interest protected by such law /and shall include in any such renewed or reissued order /as such Federal agency determines necessary to minimize any /impacts to the maximum extent practicable The conditions /submitted by such Federal agency shall be made available to the /Commission may exclude such a condition from the renewed or reissued /it determines that such condition would prevent the order from /the emergency necessitating such order and provides in the order /makes publicly available an explanation of 
+insertion: 
+deletion: order Federal law order any conditions the reissued from order 
+change: subparagraph to under				subparagraph / with to agency				with / regulation to or				regulation / conditions to such				conditions / environmental to adverse				environmental / any to if				any / The to public				The / if to order				if / addressing to adequately				addressing / otherwise to or				otherwise / such determination to such				determination 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Temporary connection or constr... But actually it is: Temporary			 connection or con...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Temporary connection or construction by municipalities 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 202(d) of the Federal ... But actually it is: Section 202(d) of			 the Feder...
+The Jaccard Index is: 0.48
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Section 202d the Federal Power Act 
+insertion: 
+deletion: 
+change: of to of			 / 16 USC 824ad is amended by inserting to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  before  But actually it is: ) is amended by			 inserting 
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: engaged in the transmission or... But actually it is: engaged in the			 transmission...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: engaged in transmission or sale of electric energy 
+insertion: 
+deletion: 
+change: the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be: . But actually it is:  before 
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"16 U.S.C. 824a(d)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {.}
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Passed the House of Representa... But actually it is: Passed the House of			 Represe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Passed the House Representatives August 1 2012 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clerk. But actually it is: Clerk
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/endorsement[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: endorsement But actually it is: null
+ Deleted paragraph content is: {""}
+

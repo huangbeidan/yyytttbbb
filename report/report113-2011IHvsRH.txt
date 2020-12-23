@@ -1,0 +1,239 @@
+===================================================
+
+total difference is: 62
+comparing document: BILLS-113hr2011ih.xml
+to document: BILLS-113hr2011rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 113 HR 2011 IH: Veterans But actually it is: 113 HR 2011 RH: Veterans Advis...
+The Jaccard Index is: 0.24
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: 113 HR 2011 
+insertion: 
+deletion: 
+change: IH Veterans to RH Veterans Advisory Committee on Education Improvement Act of 2013 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2013-05-16 But actually it is: 2013-09-17
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  (for			 himself and  But actually it is:  (for himself and 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words:  himself and 
+insertion: 
+deletion: 
+change: for			 to for / 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/text()[2]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) introduced			 the following ... But actually it is: ) introduced the following bil...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words:  the following bill which was referred to 
+insertion: 
+deletion: 
+change: introduced			 to introduced / the			 to the 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Committee on Veterans’			 Affa... But actually it is: Committee on Veterans’ Affairs
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Committee on 
+insertion: 
+deletion: 
+change: Veterans’			 Affairs to Veterans’ Affairs 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend title 38, United Stat... But actually it is: To amend title 38, United Stat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: To amend title 38 United States Code to provide for /twoyear extension of the Veterans’ Advisory Committee 
+insertion: 
+deletion: for 
+change:  to a / on		  Education to on Education 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 155"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 113–211]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+  September 17, 2013
+  Additional sponsors: Mr. Barber, Mr. Kilmer, Mr. Heck of Nevada, Mr. O`Rourke, Ms. Sinema, Mr. Enyart, Mr. Meeks, Mr. Lowenthal, Mr. Jones, Mr. Cartwright, Mr. Carney, and Mr. Fortenberry
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+  September 17, 2013
+  Committed to the Committee of the Whole House on the State of the Union and ordered to be printed
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+  
+    
+  
+"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Veterans But actually it is: Veterans Advisory Committee on...
+The Jaccard Index is: 0.1
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Two-year			 extension of Veter... But actually it is: Two-year extension of Veterans...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: Twoyear			 extension of Veterans’ Advisory Committee on Education 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 38, United States			... But actually it is:  of title 38, United States Co...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words:  of title 38 United Code is amended 
+insertion: 
+deletion: 
+change: States			 to States / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subsection			 (a)— But actually it is: in subsection (a)—
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: subsection			 a to subsection a 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/subparagraph[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/subparagraph[1]/text[1]/quote[1]/short-title[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/subparagraph[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"31,"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/subparagraph[1]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/subparagraph[1]/text[1]/quote[2]/short-title[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/subparagraph[1]/text[1]/quote[2]/short-title[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"30,"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/subparagraph[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/subparagraph[2]/text[1]/quote[1]/short-title[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/subparagraph[2]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"and the Persian Gulf War"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/subparagraph[2]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/subparagraph[2]/text[1]/quote[2]/short-title[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/subparagraph[2]/text[1]/quote[2]/short-title[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"the Persian Gulf War, and the post-9/11 operations in Iraq and Afghanistan"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subsection (c),			 by strik... But actually it is: in subsection (c), by striking...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: in subsection by striking 
+insertion: 
+deletion: 
+change: c			 to c / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/quote[1]/short-title[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"December 31, 2013"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/quote[2]/short-title[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/quote[2]/short-title[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"December 31, 2015"}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+  September 17, 2013
+  Committed to the Committee of the Whole House on the State of the Union and ordered to be printed
+"}
+

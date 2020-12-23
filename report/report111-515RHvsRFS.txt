@@ -1,0 +1,295 @@
+===================================================
+
+total difference is: 66
+comparing document: BILLS-111hr515eh.xml
+to document: BILLS-111hr515rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: II
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED		 ...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED		  STATES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To prohibit the importation of... But actually it is: To prohibit the importation of...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: To prohibit the importation of /lowlevel radioactive waste into the United States 
+insertion: certain		 
+deletion: 
+change: certain to  / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			December 3, 2009
+			Received; read twice and referred to the
+			 Committee on Environment and Public
+			 Works
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Radioactive Import Deterrence ... But actually it is: Radioactive Import Deterrence	...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Radioactive Import 
+insertion: 
+deletion: 
+change: Deterrence Act to Deterrence			 Act 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Prohibition of importation But actually it is: Prohibition of			 importation
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of importation to of			 importation 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Chapter 19 of the Atomic Energ... But actually it is: Chapter 19 of the Atomic Energ...
+The Jaccard Index is: 0.34
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: Chapter 19 of the Atomic Energy Act of 
+insertion: 
+deletion: 
+change: 1954 42 USC 2015 et seq is amended by inserting after section 276 the following new section to 1954			 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 2015 et
+			 seq."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended by inserting after section 276 the following
+			 new section:"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {a.}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/header[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/text[1]
+The reason of change is: element tag name
+The value is expected to be: header But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  Importation of Low-Level radi... But actually it is: Except as provided in subsecti...
+The Jaccard Index is: 0.07
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(1)low-level
+				radioactive waste (as defined in section 2 of the Low-Level Radioactive Waste
+				Policy Act (42
+				U.S.C. 2021b)); or
+							"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(2)specific radioactive waste streams exempted
+				from regulation by the Commission under section 10 of the Low-Level Radioactive
+				Waste Policy Act (42 U.S.C. 2021j).
+							"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a. But actually it is: b.
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Except as provided in subsecti... But actually it is: Subsection a. shall				not app...
+The Jaccard Index is: 0.14
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: low-level radioactive waste (a... But actually it is: low-level radioactive waste be...
+The Jaccard Index is: 0.17
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: specific radioactive waste str... But actually it is: low-level radioactive waste re...
+The Jaccard Index is: 0.14
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: b. But actually it is: c.
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subsection a. shall not apply ... But actually it is: The President may				waive the...
+The Jaccard Index is: 0.04
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"
+  (1)
+  low-level radioactive waste being returned to a United States Government or military facility which is authorized to possess the material; or
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"
+  (2)
+  low-level radioactive waste resulting from the use in a foreign country of nuclear material obtained by the foreign user from an entity in the United States that is being returned to the United States for management and disposal.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: c. But actually it is: d.
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The President may waive the pr... But actually it is: A license not				permitted und...
+The Jaccard Index is: 0.26
+And the Smith Waterman Score is: 0.1
+The Detailes are shown as followings: 
+common words: important national or international policy goal such as the use of waste for research purposes Such a waiver must specify the policy goal to be achieved how it is to be achieved and the amount of material 
+insertion: 
+deletion: The President may waive the prohibition under this section and authorize the grant of a specific license to import materials prohibited under subsection a under the rules of the Commission only after a finding that such importation would meet an 
+change: to be imported to permitted to be				imported 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A license not permitted under ... But actually it is: A license not				permitted und...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: A license /under this section that was issued before the date of enactment /section may continue in effect according to its terms but may not /or amended with respect to the amount of material permitted to 
+insertion: 
+deletion: license enactment not 
+change: permitted to not				permitted / this to of				this / extended to be				extended / be imported to be				imported 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {" Importation of
+				Low-Level radioactive waste"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Table of contents amendment But actually it is: Table of			 contents amendment
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Table contents amendment 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The table of contents for the ... But actually it is: The table of contents for the ...
+The Jaccard Index is: 0.5
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: The table of contents for the Atomic Act of 1954 is amended 
+insertion: 
+deletion: 
+change: Energy to Energy			 / by inserting after the item relating to section 276 the following new item to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/linebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: linebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" by inserting after the item
+			 relating to section 276 the following new item:"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 277. Importation of low-l... But actually it is: Sec. 277. Importation of low-l...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Sec 277 Importation of 
+insertion: 
+deletion: 
+change: lowlevel radioactive waste to lowlevel				radioactive				waste 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Passed the House of Representa... But actually it is: Passed the House of			 Represe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Passed the House Representatives December 2 2009 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/endorsement[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: endorsement But actually it is: null
+ Deleted paragraph content is: {""}
+

@@ -1,0 +1,573 @@
+===================================================
+
+total difference is: 267
+comparing document: BILLS-113hr3300ih.xml
+to document: BILLS-113hr3300rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 113 HR 3300 IH: FEMA Reauthori... But actually it is: 113 HR 3300 RH: FEMA Reauthori...
+The Jaccard Index is: 0.88
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: 113 HR 3300 FEMA Reauthorization Act of 2013 
+insertion: 
+deletion: 
+change: IH to RH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2013-10-22 But actually it is: 2015-01-02
+The Jaccard Index is: 0.07
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/session[1]/text()[1]   Compared with location: bill[1]/form[1]/session[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 1st Session But actually it is: 2d Session
+The Jaccard Index is: 0.55
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 1st Session 
+insertion: 
+deletion: 
+change: 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 563"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 113–732, Part I]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+January 2, 2015
+Reported with an amendment and referred to the Committee on Homeland Security for a period ending not later than January 2, 2015, for consideration of such provisions of the bill and amendment as fall within the jurisdiction of that committee pursuant to clause 1(j) of rule X
+Strike out all after the enacting clause and insert the part printed in italic 
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+January 2, 2015
+The Committee on Homeland Security discharged; committed to the Committee of the Whole House on the State of the Union and ordered to be printed
+For text of introduced bill, see copy of bill as introduced on October 22, 2013
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+
+"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in paragraph (3) by striking t... But actually it is: in paragraph (3) by striking t...
+The Jaccard Index is: 0.89
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: in paragraph 3 by striking the period /and inserting 
+insertion: at the end 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[2]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[2]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Representatives of State and l... But actually it is: The Director of the Office of ...
+The Jaccard Index is: 0.12
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[2]/subparagraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[2]/subparagraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Representatives from federally... But actually it is: Representatives of State and l...
+The Jaccard Index is: 0.22
+And the Smith Waterman Score is: 0.1
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: from federally recognized Indian tribes and national Indian organizations to of State and local governments representatives of emergency management agencies and representatives of emergency response providers selected from among individuals nominated by national organizations representing governments and personnel 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[2]/subparagraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[2]/subparagraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Individuals who have the requi... But actually it is: Representatives from federally...
+The Jaccard Index is: 0.12
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[2]/subparagraph[6]/clause[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: clause But actually it is: null
+ Deleted paragraph content is: {"
+  (i)
+  communications service providers;
+"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[2]/subparagraph[6]/clause[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: clause But actually it is: null
+ Deleted paragraph content is: {"
+  (ii)
+  vendors, developers, and manufacturers of systems, facilities, equipment, and capabilities for the provision of communications services;
+"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[2]/subparagraph[6]/clause[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: clause But actually it is: null
+ Deleted paragraph content is: {"
+  (iii)
+  third-party service bureaus;
+"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[2]/subparagraph[6]/clause[4]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: clause But actually it is: null
+ Deleted paragraph content is: {"
+  (iv)
+  the broadcasting industry, including commercial and noncommercial radio and television stations;
+"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[2]/subparagraph[6]/clause[5]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: clause But actually it is: null
+ Deleted paragraph content is: {"
+  (v)
+  the cellular industry;
+"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[2]/subparagraph[6]/clause[6]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: clause But actually it is: null
+ Deleted paragraph content is: {"
+  (vi)
+  the cable industry;
+"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[2]/subparagraph[6]/clause[7]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: clause But actually it is: null
+ Deleted paragraph content is: {"
+  (vii)
+  the satellite industry; and
+"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[2]/subparagraph[6]/clause[8]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: clause But actually it is: null
+ Deleted paragraph content is: {"
+  (viii)
+  national organizations representing individuals with disabilities and access and functional needs and national organizations representing the elderly.
+"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[2]/subparagraph[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[2]/subparagraph[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Qualified representatives of s... But actually it is: Individuals who have the requi...
+The Jaccard Index is: 0.13
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[2]/subparagraph[7]/clause[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: clause
+ Inserted paragraph content is: {"
+  (i)
+  communications service providers;
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[2]/subparagraph[7]/clause[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: clause
+ Inserted paragraph content is: {"
+  (ii)
+  vendors, developers, and manufacturers of systems, facilities, equipment, and capabilities for the provision of communications services;
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[2]/subparagraph[7]/clause[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: clause
+ Inserted paragraph content is: {"
+  (iii)
+  third-party service bureaus;
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[2]/subparagraph[7]/clause[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: clause
+ Inserted paragraph content is: {"
+  (iv)
+  the broadcasting industry, including commercial and noncommercial radio and television stations;
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[2]/subparagraph[7]/clause[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: clause
+ Inserted paragraph content is: {"
+  (v)
+  the commercial mobile radio service industry;
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[2]/subparagraph[7]/clause[6]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: clause
+ Inserted paragraph content is: {"
+  (vi)
+  the cable industry;
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[2]/subparagraph[7]/clause[7]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: clause
+ Inserted paragraph content is: {"
+  (vii)
+  the satellite industry; and
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[2]/subparagraph[7]/clause[8]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: clause
+ Inserted paragraph content is: {"
+  (viii)
+  national organizations representing individuals with disabilities and access and functional needs and national organizations representing the elderly.
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[2]/subparagraph[8]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (H)
+  Qualified representatives of such other stakeholders and interested and affected parties as the Administrator considers appropriate.
+"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[4]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[4]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: After the initial meeting, the... But actually it is: After the initial meeting, the...
+The Jaccard Index is: 0.8
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: After the initial meeting the Advisory Committee shall meet at /the call of the Chairperson 
+insertion: least annually at 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[7]/subparagraph[2]/clause[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[7]/subparagraph[2]/clause[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: promotes local and regional pu... But actually it is: promotes local and regional pu...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: promotes local and regional public and private partnerships to enhance community preparedness and response 
+insertion: 
+deletion: 
+change: and to 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[7]/subparagraph[2]/clause[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[7]/subparagraph[2]/clause[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: provides redundant alert mecha... But actually it is: provides redundant alert mecha...
+The Jaccard Index is: 0.97
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: provides redundant alert mechanisms if practicable in order to reach the greatest number of people regardless of whether they have access to or utilize any specific medium of communication or any particular device 
+insertion: 
+deletion: 
+change: and 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[7]/subparagraph[2]/clause[8]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: clause
+ Inserted paragraph content is: {"
+  (viii)
+  promotes the participation of representatives from traditionally underserved and underrepresented communities, to ensure that alerts and warnings reach such populations.
+"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[10]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/paragraph[10]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Advisory Committee shall t... But actually it is: The Advisory Committee shall t...
+The Jaccard Index is: 0.93
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: The Advisory Committee shall terminate not later than years after the date of enactment of this Act 
+insertion: 
+deletion: 
+change: 3 to 6 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Reauthorization of emergency m... But actually it is: Eligibility of public broadcas...
+The Jaccard Index is: 0.09
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: Private nonprofit facility def...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subtitle A of title VI of the ... But actually it is: Section 102(11)(B) of the Robe...
+The Jaccard Index is: 0.69
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: title VI of the Robert T Stafford Disaster Relief and Emergency Assistance Act 
+insertion: 
+deletion: Subtitle A of 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[1]/text[1]/external-xref[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[1]/text[1]/external-xref[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 42 U.S.C. 5196 et seq. But actually it is: 42 U.S.C. 5122(11)(B)
+The Jaccard Index is: 0.34
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: 42 USC 
+insertion: 
+deletion: 
+change: 5196 et seq to 512211B 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) is amended by adding at the ... But actually it is: ) is amended by inserting 
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words:  is amended by 
+insertion: 
+deletion: 
+change: adding at the end the following to inserting 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[1]/text[1]/quote[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"public broadcasting facilities,"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[1]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" after "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[1]/text[1]/quote[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"workshops,"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[1]/text[1]/text()[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {.}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[1]/quoted-block[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quoted-block But actually it is: null
+ Deleted paragraph content is: {"
+  
+    617.
+    Emergency management assistance compact grants
+    
+      (a)
+      In general
+      The Administrator of the Federal Emergency Management Agency may make grants to provide for implementation of the Emergency Management Assistance Compact consented to by Congress in the joint resolution entitled Joint resolution granting the consent of Congress to the Emergency Management Assistance Compact (Public Law 104–321; 110 Stat. 3877).
+    
+    
+      (b)
+      Eligible grant recipients
+      States and the Administrator of the Emergency Management Assistance Compact shall be eligible to receive grants under subsection (a).
+    
+    
+      (c)
+      Use of funds
+      A grant received under this section shall be used—
+      
+        (1)
+        to carry out recommendations identified in the Emergency Management Assistance Compact after-action reports for the 2004 and 2005 hurricane seasons;
+      
+      
+        (2)
+        to administer compact operations on behalf of States, as such term is defined in the compact, that have enacted the compact;
+      
+      
+        (3)
+        to continue coordination with the Federal Emergency Management Agency and appropriate Federal agencies;
+      
+      
+        (4)
+        to continue coordination with States and local governments and their respective national organizations; and
+      
+      
+        (5)
+        to assist State and local governments, emergency response providers, and organizations representing such providers with credentialing the providers and the typing of emergency response resources.
+      
+    
+    
+      (d)
+      Coordination
+      The Administrator of the Federal Emergency Management Agency shall consult with the Administrator of the Emergency Management Assistance Compact to ensure effective coordination of efforts in responding to requests for assistance.
+    
+    
+      (e)
+      Authorization of Appropriations
+      There is authorized to be appropriated to carry out this section $2,000,000 for each of the fiscal years 2014, 2015, and 2016. Such sums shall remain available until expended.
+    
+  
+  .
+"}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Repeal But actually it is: Critical services defined
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 661 of the Post-Katrin... But actually it is: Section 406(a)(3)(B) of such A...
+The Jaccard Index is: 0.12
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/text[1]/external-xref[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/text[1]/external-xref[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 6 U.S.C. 761 But actually it is: 42 U.S.C. 5172(a)(3)(B)
+The Jaccard Index is: 0.24
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 6 USC 
+insertion: 
+deletion: 
+change: 761 to 5172a3B 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) is repealed. But actually it is: ) is amended by striking 
+The Jaccard Index is: 0.09
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/text[1]/quote[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"communications,"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" and inserting "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/text[1]/quote[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"communications (including public broadcasting),"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/text[1]/text()[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {.}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"203.Federal disaster assistance nonprofit fairness
+(a)Definition of private nonprofit facilitySection 102(10)(B) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122(10)(B)) is amended to read as follows:
+
+(B)Additional facilitiesIn addition to the facilities described in subparagraph (A), the term private nonprofit facility includes any private nonprofit facility that provides essential services of a governmental nature to the general public (including museums, zoos, performing arts facilities, community arts centers, community centers, including houses of worship exempt from taxation under section 501(c) of the Internal Revenue Code of 1986, libraries, homeless shelters, senior citizen centers, rehabilitation facilities, shelter workshops, and facilities that provide health and safety services of a governmental nature), as defined by the President..
+(b)Repair, restoration, and replacement of damaged facilitiesSection 406(a)(3) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5172(a)(3)) is amended by adding at the end the following:
+
+(C)Nonprofit fairnessA church, synagogue, mosque, temple, or other house of worship, and a private nonprofit facility operated by a religious organization, shall be eligible for contributions under paragraph (1)(B), without regard to the religious character of the facility or the primary religious use of the facility..
+(c)ApplicabilityThis section and the amendments made by this section shall apply to the provision of assistance in response to a major disaster or emergency declared on or after October 28, 2012."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"204.Reauthorization of emergency management assistance compact grants
+(a)In generalSubtitle A of title VI of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5196 et seq.) is amended by adding at the end the following:
+
+617.Emergency management assistance compact grants
+(a)In generalThe Administrator of the Federal Emergency Management Agency may make grants to provide for implementation of the Emergency Management Assistance Compact consented to by Congress in the joint resolution entitled Joint resolution granting the consent of Congress to the Emergency Management Assistance Compact (Public Law 104–321; 110 Stat. 3877).
+(b)Eligible grant recipientsStates and the Administrator of the Emergency Management Assistance Compact shall be eligible to receive grants under subsection (a).
+(c)Use of fundsA grant received under this section shall be used—
+(1)to carry out recommendations identified in the Emergency Management Assistance Compact after-action reports for the 2004 and 2005 hurricane seasons;
+(2)to administer compact operations on behalf of States, as such term is defined in the compact, that have enacted the compact;
+(3)to continue coordination with the Federal Emergency Management Agency and appropriate Federal agencies;
+(4)to continue coordination with States and local governments and their respective national organizations; and
+(5)to assist State and local governments, emergency response providers, and organizations representing such providers with credentialing the providers and the typing of emergency response resources.
+(d)CoordinationThe Administrator of the Federal Emergency Management Agency shall consult with the Administrator of the Emergency Management Assistance Compact to ensure effective coordination of efforts in responding to requests for assistance.
+(e)Authorization of AppropriationsThere is authorized to be appropriated to carry out this section $2,000,000 for each of the fiscal years 2014, 2015, and 2016. Such sums shall remain available until expended..
+(b)RepealSection 661 of the Post-Katrina Emergency Management Reform Act of 2006 (6 U.S.C. 761) is repealed."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"205.Physical testing standards for electric utility facilities
+(a)StudyThe Administrator of the Federal Emergency Management Agency shall conduct a study to compare the differences between—
+(1)the physical testing standards that the Administrator applies with respect to electric utility facilities as a condition for Federal assistance; and
+(2)the physical testing standards that are applied to electric utility facilities by the electric utilities industry and by the Rural Utilities Service of the Department of Agriculture.
+(b)ReportNot later than 180 days after the date of enactment of this Act, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs Committee of the Senate a report on the results of the study.
+(c)FundingThe Administrator shall carry out this section using funds available to the Administrator for management and expenses."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[6]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"206.Review and report regarding the eligibility of certain housing entities to receive disaster assistance
+(a)In generalNot later than 90 days after the date of enactment of this Act, the Administrator of the Federal Emergency Management Agency (FEMA) shall, using funds from FEMA’s management and expenses account, complete a review of, and submit to the Committee on Transportation and Infrastructure of the House of Representatives a report describing, options, both commercial and governmental, available to housing cooperatives and condominium associations to assist in repairing and rebuilding common areas following a major disaster. 
+(b)Report specificsThe report shall include—
+(1)a description of the current eligibility of housing cooperative and condominium association owners and residents to receive disaster relief funds under FEMA disaster relief programs;
+(2)a description of the availability of individual assistance for such owners and residents to help cover the costs of repairing disaster-related damage to common areas, including any details of instances in the past 10 years in which cooperative or condominium owners or residences received such assistance to help cover costs and assessments for repairs to common areas;
+(3)a description of commercial options and requirements, including insurance coverage, that may be applicable; and
+(4)a discussion of options, including any proposed changes to law, for addressing any gaps identified in available assistance to address disaster-related damage to common areas."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[7]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"
+  207.
+  Audit timeframe limitation
+  Not later than 1 year after the date of enactment of this Act, the Administrator of the Federal Emergency Management Agency shall issue a rule that limits the timeframe of any audit conducted under section 318 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5161).
+"}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+January 2, 2015
+Reported with an amendment and referred to the Committee on Homeland Security for a period ending not later than January 2, 2015, for consideration of such provisions of the bill and amendment as fall within the jurisdiction of that committee pursuant to clause 1(j) of rule X
+January 2, 2015
+The Committee on Homeland Security discharged; committed to the Committee of the Whole House on the State of the Union and ordered to be printed"}
+

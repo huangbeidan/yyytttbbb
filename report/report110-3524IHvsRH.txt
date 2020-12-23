@@ -1,0 +1,2192 @@
+===================================================
+
+total difference is: 638
+comparing document: BILLS-110hr3524ih.xml
+to document: BILLS-110hr3524rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 3524 IH: HOPE VI Improv... But actually it is: 110 HR 3524 RH: HOPE VI Improv...
+The Jaccard Index is: 0.9
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: 110 HR 3524 HOPE VI Improvement and Reauthorization Act 
+insertion: 
+deletion: 
+change: IH to RH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2007-09-11 But actually it is: 2008-01-03
+The Jaccard Index is: 0.07
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Committee			 on Financial Serv... But actually it is: Committee on Financial			 Serv...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: Committee			 on 
+insertion: 
+deletion: 
+change: Financial Services to Financial			 Services 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To reauthorize the HOPE VI pro... But actually it is: To reauthorize the HOPE VI pro...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.52
+The Detailes are shown as followings: 
+common words: To reauthorize the HOPE VI program /revitalization /severely distressed public housing and for 
+insertion: for		 
+deletion: revitalization 
+change: for to  /  to of / other purposes to other		  purposes 
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 308"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No.
+		  110–507]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			January 3, 2008
+			Additional sponsors: Mr.
+			 Lynch, Mr. Cleaver,
+			 Mr. Wexler, and
+			 Mr. Meek of Florida
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			January 3, 2008
+			Reported with an amendment, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+			For text of introduced bill, see copy of bill as
+			 introduced on September 11, 2007
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[3]/toc[1]/toc-entry[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[3]/toc[1]/toc-entry[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 1. Short title; reference... But actually it is: Sec. 1. Short title; reference...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Sec1Short title references table 
+insertion: 
+deletion: 
+change: of contents to of				contents 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[3]/toc[1]/toc-entry[3]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[3]/toc[1]/toc-entry[3]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 3. Authority to waive con... But actually it is: Sec. 3. Authority to waive con...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.36
+The Detailes are shown as followings: 
+common words: Sec3Authority to waive /in cases /distress or emergency 
+insertion: of 
+deletion: waive 
+change: requirement to contribution				requirement / of				extreme to extreme / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[3]/toc[1]/toc-entry[4]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[3]/toc[1]/toc-entry[4]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 4. Prohibition of demolit... But actually it is: Sec. 4. Prohibition of demolit...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Sec4Prohibition of 
+insertion: 
+deletion: 
+change: demolitiononly grants to demolitiononly				grants 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[3]/toc[1]/toc-entry[7]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[3]/toc[1]/toc-entry[7]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 7. Selection of proposals... But actually it is: Sec. 7. Selection of proposals...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Sec7Selection of proposals 
+insertion: 
+deletion: 
+change: for grants to for				grants 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[3]/toc[1]/toc-entry[8]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[3]/toc[1]/toc-entry[8]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 8. Requirements for manda... But actually it is: Sec. 8. Requirements for				ma...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: for mandatory core components 
+insertion: 
+deletion: Sec8Requirements 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[3]/toc[1]/toc-entry[9]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[3]/toc[1]/toc-entry[9]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 9. Annual report; availab... But actually it is: Sec. 9. Planning and technical...
+The Jaccard Index is: 0.11
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[3]/toc[1]/toc-entry[10]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[3]/toc[1]/toc-entry[10]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 10. Definitions. But actually it is: Sec. 10. Annual report;				ava...
+The Jaccard Index is: 0.12
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[3]/toc[1]/toc-entry[11]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[3]/toc[1]/toc-entry[11]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 11. Conforming amendment. But actually it is: Sec. 11. Definitions.
+The Jaccard Index is: 0.18
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[3]/toc[1]/toc-entry[12]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[3]/toc[1]/toc-entry[12]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 12. Authorization of appr... But actually it is: Sec. 12. Conforming amendment.
+The Jaccard Index is: 0.13
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[3]/toc[1]/toc-entry[13]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[3]/toc[1]/toc-entry[13]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 13. Extension of program. But actually it is: Sec. 13. Authorization of				a...
+The Jaccard Index is: 0.25
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of program to of				appropriations 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[3]/toc[1]/toc-entry[14]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[3]/toc[1]/toc-entry[14]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 14. Review. But actually it is: Sec. 14. Extension of program.
+The Jaccard Index is: 0.2
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[3]/toc[1]/toc-entry[15]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[3]/toc[1]/toc-entry[15]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 15. Regulations. But actually it is: Sec. 15. Review.
+The Jaccard Index is: 0.38
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[3]/toc[1]/toc-entry[16]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: toc-entry
+ Inserted paragraph content is: {"Sec. 16. Regulations."}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in paragraph (1),			 by insert... But actually it is: in paragraph (1), by			 insert...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: in paragraph 
+insertion: 
+deletion: 
+change: 1			 by inserting before to 1 by			 inserting before 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: located in			 communities of a... But actually it is: located in			 communities of a...
+The Jaccard Index is: 0.84
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: located in			 communities of all sizes including small and 
+insertion: 
+deletion: 
+change: medium			 communities to mediumsized			 communities 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: low- and But actually it is: low-			 and
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: low and 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: set				forth such circumstance... But actually it is: set forth such				circumstance...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: set				forth such circumstances of extreme distress and emergency and 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subsection			 (c)(3), by st... But actually it is: in subsection (c)(3), by			 st...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.2
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: subsection			 c3 by striking to subsection c3 by			 striking 
+
+We are at location: bill[1]/legis-body[1]/section[4]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in the first			 sentence of su... But actually it is: in the first sentence of			 su...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.43
+The Detailes are shown as followings: 
+common words: in the sentence subsection e3 
+insertion: 
+deletion: 
+change: first			 to first / of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by striking the			 last comma;... But actually it is: by striking the last			 comma;...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: by striking 
+insertion: 
+deletion: 
+change: the			 last comma and to the last			 comma and 
+
+We are at location: bill[1]/legis-body[1]/section[4]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subsection (e),			 by addin... But actually it is: in subsection (e), by			 addin...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: in subsection adding at the end the following new paragraph 
+insertion: 
+deletion: 
+change: e			 to e / by to by			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by striking			 subsection (n) ... But actually it is: by striking subsection			 (n) ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: by subsection n relating to grants for assisting affordable housing through street projects in smaller communities 
+insertion: 
+deletion: 
+change: striking			 to striking / developed			 to developed / main to main			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subsection (a),			 by strik... But actually it is: in subsection (a), by			 strik...
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: in subsection striking the last sentence that appears after and below 
+insertion: 
+deletion: 
+change: a			 to a / by to by			 / paragraph			 4 to paragraph 5 as			 added by section 24 of this Act 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subsection			 (l)— But actually it is: in subsection (l)—
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: subsection			 l to subsection l 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[3]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[3]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in paragraph (3),			 by striki... But actually it is: in paragraph (3), by			 striki...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: in paragraph 
+insertion: 
+deletion: 
+change: 3			 by striking to 3 by			 striking 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[3]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[3]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by striking			 paragraph (4); ... But actually it is: by striking paragraph			 (4); ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: by paragraph 4 and 
+insertion: 
+deletion: 
+change: striking			 to striking / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subsection (m),			 by strik... But actually it is: in subsection (m), by			 strik...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.43
+The Detailes are shown as followings: 
+common words: in subsection striking paragraph 3 
+insertion: 
+deletion: 
+change: m			 to m / by to by			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in the matter			 preceding sub... But actually it is: in the matter preceding			 sub...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: in the subparagraph A by striking 
+insertion: 
+deletion: 
+change: matter			 to matter / preceding to preceding			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: program But actually it is: programs
+The Jaccard Index is: 0.83
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[1]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[1]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: plan But actually it is: plans
+The Jaccard Index is: 0.67
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by striking			 subparagraph (J... But actually it is: by striking subparagraph			 (J...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: by subparagraph J and inserting the following new subparagraph 
+insertion: 
+deletion: 
+change: striking			 to striking / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[3]/quoted-block[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[3]/quoted-block[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the acquisition				and develop... But actually it is: the acquisition and				develop...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: the development of replacement housing units in accordance with subsection				j 
+insertion: 
+deletion: 
+change: acquisition				and to acquisition / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[5]/subparagraph[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[5]/subparagraph[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 15 percent But actually it is: 15			 percent
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 15 percent 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[5]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[5]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by striking the			 period at t... But actually it is: by striking the period at			 t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: by striking period the end and inserting a semicolon and 
+insertion: 
+deletion: 
+change: the			 to the / at to at			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[6]/quoted-block[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[6]/quoted-block[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: necessary costs of ensuring th... But actually it is: necessary costs of ensuring th...
+The Jaccard Index is: 0.88
+And the Smith Waterman Score is: 0.49
+The Detailes are shown as followings: 
+common words: necessary costs of ensuring the /of residents displaced as a result of /of /including costs of monitoring as required 
+insertion: the 
+deletion: the effective				temporary and of 
+change: relocation to effective				relocation / the				revitalization to revitalization / project to the				project / under				subsection k and to under subsection k				and 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[6]/quoted-block[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[6]/quoted-block[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: activities				undertaken to co... But actually it is: activities undertaken to				co...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.46
+The Detailes are shown as followings: 
+common words: activities				undertaken to comply with the provisions of Bvii and Cxiii /e2 /l relating to green				developments 
+insertion: of 
+deletion: e2 
+change: of				subsection to subsection / subsection to and				subsection / 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Evidence of				severe distress But actually it is: Evidence of severe				distress
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of				severe distress to of severe				distress 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The proposed				plan shall con... But actually it is: The proposed plan				shall con...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.87
+The Detailes are shown as followings: 
+common words: The shall contain evidence sufficient to demonstrate that the public housing				project that is subject to the plan is severely distressed which shall				include 
+insertion: 
+deletion: 
+change: proposed				plan to proposed / 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[1]/subclause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[1]/subclause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a certification				signed by a... But actually it is: a certification signed by				a...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: a by an engineer or architect licensed by a State licensing board that /the /criteria for physical distress under subsection 
+insertion: project				meets the 
+deletion: that the				project 
+change: certification				signed to certification / t2				and to t2 and 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[1]/subclause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[1]/subclause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: such other				evidence that th... But actually it is: such other evidence that				th...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.52
+The Detailes are shown as followings: 
+common words: such that the project meets criteria for nonphysical distress as census data crime statistics and past surveys conducted by the public housing agency 
+insertion: 
+deletion: 
+change: other				evidence to other / under				subsection to under / t2 to subsection / such to t2				such / of				neighborhood to of / stability to neighborhood				stability / 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Resident				involvement and se... But actually it is: Resident involvement				and se...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: Resident				involvement and services 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The				proposed plan shall pro... But actually it is: The proposed				plan shall pro...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.64
+The Detailes are shown as followings: 
+common words: The				proposed plan shall provide for opportunities for involvement of residents subject to the plan and the provision of services for accordance with subsection g 
+insertion: 
+deletion: 
+change: of				the to of / housing to the				housing / such				residents to such / in to residents				in / 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Resident right				to expanded ... But actually it is: Resident right to				expanded ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: Resident expanded housing opportunities 
+insertion: 
+deletion: 
+change: right				to to right / 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The proposed plan provides				... But actually it is: The proposed plan provides rig...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.58
+The Detailes are shown as followings: 
+common words: The proposed plan resident households to occupy housing provided under in accordance with subsection i 
+insertion: 
+deletion: 
+change: provides				right to provides / of to right				of / such				revitalization to such / plan to revitalization				plan / 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[5]/subclause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[5]/subclause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: identifies the				type of repl... But actually it is: identifies the type of				repl...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: identifies of replacement housing that will be offered to tenants displaced by the				revitalization plan 
+insertion: 
+deletion: 
+change: the				type to the / 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[5]/subclause[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[5]/subclause[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: contains such				assurances or... But actually it is: contains such assurances				or...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: contains or agreements as the Secretary considers necessary to 
+insertion: 
+deletion: 
+change: such				assurances to such / ensure				compliance with subsection i2 to ensure compliance with				subsection i2 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effectiveness				of relocation... But actually it is: Effectiveness of				relocation...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Effectiveness				of relocation and oneforone replacement plans 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[7]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[7]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Need for				additional funding But actually it is: Need for additional				funding
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: for				additional funding to for additional				funding 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The extent				to which the app... But actually it is: The extent to which				the app...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.58
+The Detailes are shown as followings: 
+common words: The which the applicant could undertake the activities proposed in without a grant under this section 
+insertion: 
+deletion: 
+change: extent				to to extent / the				revitalization to the / plan to revitalization				plan / 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[8]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[8]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Public and				private involvem... But actually it is: Public and private				involvem...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: and				private involvement to and private				involvement 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[8]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[8]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The				extent of involvement o... But actually it is: The extent of				involvement o...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: The				extent of involvement of State and local governments private entities and developers in the development and ongoing				implementation of the revitalization plan 
+insertion: 
+deletion: 
+change: service				providers to service / financing to providers				financing / 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[9]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[9]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Need for				affordable housing But actually it is: Need for affordable				housing
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: for				affordable housing to for affordable				housing 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[9]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[9]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The extent				of need for affo... But actually it is: The extent of need				for affo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.58
+The Detailes are shown as followings: 
+common words: The need for affordable housing in the community in which the is to be carried out 
+insertion: 
+deletion: 
+change: extent				of to extent / proposed				revitalization to proposed / plan to revitalization				plan / 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[10]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[10]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Affordable				housing supply But actually it is: Affordable housing				supply
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: supply to housing				supply 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[10]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[10]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The extent of				the supply of... But actually it is: The extent of the				supply of...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: The extent /of /other housing available and affordable to families receiving				tenantbased assistance under section 8 
+insertion: the				supply of 
+deletion: extent of				the 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[12]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[12]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Green				developments complian... But actually it is: Green developments				complian...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: compliance to developments				compliance 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[12]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[12]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The				extent to which the pro... But actually it is: The extent to				which the pro...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.57
+The Detailes are shown as followings: 
+common words: The				extent to which the proposed revitalization plan 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[14]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[14]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Additional				on-site mixed-in... But actually it is: Family-friendly				housing
+The Jaccard Index is: 0.12
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[14]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[14]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The extent to which the one-fo... But actually it is: The extent to which				replace...
+The Jaccard Index is: 0.27
+And the Smith Waterman Score is: 0.16
+The Detailes are shown as followings: 
+common words: The extent to 
+insertion: 
+deletion: 
+change: which the oneforone				replacement plan under subparagraph Bv provides public housing units in				addition to the number necessary to minimally comply with the requirement under				subsection j2Ai including the extent to which such plan provides				sufficient housing for elderly and disabled residents who indicate a preference				to return to housing provided on the site of the original public housing				involved in the revitalization plan and complies with the requirements of				subsection j2Aii to which				replacement housing units provided through the revitalization plan contain a				sufficient number of bedrooms to prevent overcrowding 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[15]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[15]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Other But actually it is: Additional on-site				mixed-in...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[15]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[15]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Such other factors as the Secr... But actually it is: The				extent to which the one...
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/clause[16]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: clause
+ Inserted paragraph content is: {"(xvi)OtherSuch other factors as the Secretary
+				considers
+				appropriate.
+							"}
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Treatment of			 low-income hou... But actually it is: Treatment of low-income			 hou...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Treatment lowincome housing tax credit allocations mandatory 
+insertion: 
+deletion: 
+change: of			 to of / site			 visits to site visits 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 24(e), as amended by t... But actually it is: Section			 24(e), as amended b...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: Section 24e as amended by the preceding provisions this Act is further by adding at the end the following 
+insertion: 
+deletion: 
+change: of			 to of / amended to amended			 / new			 paragraphs to new paragraphs 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[2]/quoted-block[1]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[2]/quoted-block[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Treatment of				low-income hou... But actually it is: Treatment of low-income				hou...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Treatment housing tax credit allocation 
+insertion: 
+deletion: 
+change: of				lowincome to of / 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[2]/quoted-block[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[2]/quoted-block[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notwithstanding any				other p... But actually it is: Notwithstanding any				other p...
+The Jaccard Index is: 0.95
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: Notwithstanding any				other provision of law the Secretary shall provide for appropriate officers or				employees of the Department of Housing and Urban Development to conduct a visit				to the site of the public housing involved in the revitalization plan proposed				under each application for a grant under this section that is involved in a				final selection of applications to be funded under this section Site visits				pursuant to this paragraph shall be used only for the purpose of obtaining				information to assist in /determining whether the public housing /in /are severely distressed public				housing 
+insertion: the 
+deletion: in making such final selections including information				for use housing 
+change: involved to projects				involved / the				application to application / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by striking			 subsection (g) ... But actually it is: by striking subsection			 (g) ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: by subsection g and inserting the following new subsections 
+insertion: 
+deletion: 
+change: striking			 to striking / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Resident				involvement and se... But actually it is: Resident involvement				and se...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: Resident				involvement and services 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the				public housing agency’s... But actually it is: the public housing				agency’s...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: the				public housing agency’s intent to submit such application 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]/clause[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]/clause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: residents’				rights under thi... But actually it is: residents’ rights under				thi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: residents’				rights under this section to participate in the planning process for the for participation in accordance with paragraph 1 comprehensive relocation assistance and community and supportive				services pursuant to paragraph 4 and 
+insertion: 
+deletion: 
+change: plan				including to plan / opportunities to including				opportunities / and				to to and / receive to to				receive / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]/clause[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]/clause[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the public				hearing pursuant... But actually it is: the public hearing				pursuant...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: the pursuant to paragraph 3 
+insertion: 
+deletion: 
+change: public				hearing to public / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notice of grant				award and r... But actually it is: Notice of grant award				and r...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: Notice of 
+insertion: 
+deletion: 
+change: grant				award and relocation options to grant award				and relocation options 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 30 days after n... But actually it is: Not later than 30 days after n...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Not later than 30 days after housing agency of the award of a grant under this section notice				that 
+insertion: 
+deletion: 
+change: notice				to to notice / the to to / public to the				public / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: describes the				process invol... But actually it is: describes the process				invol...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: describes involved under the revitalization plan to temporarily /of /housing that is subject to the plan 
+insertion: relocate 
+deletion: of 
+change: the				process to the / relocate				residents to residents / public to the				public / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[3]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[3]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: specifically				identifies the... But actually it is: specifically identifies				the...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: specifically				identifies the housing available for relocation of resident of the 
+insertion: 
+deletion: 
+change: public				housing subject to the revitalization plan to public housing subject				to the revitalization plan 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notice of				replacement housi... But actually it is: Notice of replacement				housi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of				replacement housing to of replacement				housing 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Upon the availability of repla... But actually it is: Upon the availability of repla...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.61
+The Detailes are shown as followings: 
+common words: Upon the availability of replacement to subsection j notice to each household described 
+insertion: 
+deletion: 
+change: housing				provided to housing / pursuant to provided				pursuant / in				subsection i1 of to in subsection				i1 of 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: such				availability; But actually it is: such availability;
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: availability 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: opportunities				for participa... But actually it is: opportunities for				participa...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: opportunities				for participation in accordance with paragraph 1 of this subsection 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the expiration of				the two-y... But actually it is: the expiration of the				two-y...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.59
+The Detailes are shown as followings: 
+common words: the expiration period that begins upon the end of the development period 
+insertion: 
+deletion: 
+change: of				the to of / twoyear to the				twoyear / under				the plan and to under the				plan and 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: provide for each household dis... But actually it is: provide for each household dis...
+The Jaccard Index is: 0.42
+And the Smith Waterman Score is: 0.47
+The Detailes are shown as followings: 
+common words: provide for each household displaced by the				revitalization plan for which the grant is made to be relocated to 
+insertion: 
+deletion: 
+change: comparable				housing pursuant to section 18a4Aiii and for payment of actual and				reasonable relocation expenses of each such household pursuant to section				18a4B to a comparable				replacement dwelling as defined in section 101 of the Uniform Relocation				Assistance and Real Property Acquisition Policies Act of 1970 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[2]/paragraph[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 4601"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[2]/paragraph[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"),
+				and for payment of actual and reasonable relocation expenses of each such
+				household and any replacement housing payments as are required by the Uniform
+				Relocation Assistance and Real Property Acquisition Policies Act of
+				1970;"}
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: establish				strategies and pl... But actually it is: to the maximum extent possible...
+The Jaccard Index is: 0.09
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[2]/paragraph[3]/subparagraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(A)will not result in a financial burden to
+				the family; and
+							"}
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[2]/paragraph[3]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(B)will promote long-term housing
+				stability;
+							"}
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[2]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[2]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: establish and comply with relo... But actually it is: establish strategies and				pl...
+The Jaccard Index is: 0.15
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[2]/paragraph[4]/subparagraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(A)will not result in a financial burden to
+				the family; and
+							"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[2]/paragraph[4]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(B)will promote long-term housing
+				stability;
+							"}
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[2]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[2]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: notwithstanding any other prov... But actually it is: establish and comply with relo...
+The Jaccard Index is: 0.12
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[2]/paragraph[6]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(6)notwithstanding any other provision of law,
+				in the case of any tenant-based assistance made available for relocation of a
+				household under this subsection, provide that the term during which the
+				household may lease a dwelling unit using such assistance shall not be shorter
+				than 150 days; if the household is unable to lease a dwelling unit during such
+				period, the public housing agency shall either extend the period during which
+				the household may lease a dwelling unit using such assistance or provide the
+				tenant with the next available dwelling unit owned by the public housing
+				agency.
+						"}
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Right to				expanded housing o... But actually it is: Right to expanded				housing o...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.57
+The Detailes are shown as followings: 
+common words: Right housing opportunities for resident households 
+insertion: 
+deletion: 
+change: to				expanded to to / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[4]/paragraph[2]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[4]/paragraph[2]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: On-site				mixed-income housin... But actually it is: On-site mixed-income				housin...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: housing to mixedincome				housing 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[4]/paragraph[2]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[4]/paragraph[2]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A mixed-income				housing deve... But actually it is: A mixed-income				housing deve...
+The Jaccard Index is: 0.95
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: A mixedincome				housing development shall be provided on the site of the original public				housing involved in the revitalization plan in which except as provided in				clause iii at least onethird of all dwelling units shall be public housing				dwelling units and shall be provided through the /development housing dwelling units 
+insertion: 
+deletion: the acquisition 
+change: of				additional to of / public to additional				public / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[4]/paragraph[2]/subparagraph[1]/clause[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[4]/paragraph[2]/subparagraph[1]/clause[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Requirements				for additional... But actually it is: Requirements for				additional...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Requirements				for additional onsite units 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[4]/paragraph[2]/subparagraph[1]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[4]/paragraph[2]/subparagraph[1]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If the mixed-income housing de... But actually it is: If				the mixed-income housing...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: the mixedincome housing /pursuant to clause i /public housing dwelling units /site of the original public /is minimally necessary to /such clause the public /shall consult with /leaders and local /regarding such /housing dwelling units and /that such units are provided /manner that affirmatively 
+insertion: development at comply residents additional in 
+deletion: If i public public local and 
+change: development				provided to provided / more to includes				more / at				the to the / than to housing				than / comply				with to with / agency to housing				agency / residents				community to community / officials to government				officials / additional				public to public / ensure to shall				ensure / in				a to a / furthers fair housing to furthers				fair housing 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[4]/paragraph[2]/subparagraph[1]/clause[3]/subclause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[4]/paragraph[2]/subparagraph[1]/clause[3]/subclause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: such location				on-site would... But actually it is: such location on-site				would...
+The Jaccard Index is: 0.83
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: such would result in the violation of /consent decree or 
+insertion: 
+deletion: of 
+change: location				onsite to location / existing to a / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[4]/paragraph[2]/subparagraph[1]/clause[3]/subclause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[4]/paragraph[2]/subparagraph[1]/clause[3]/subclause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the land on which				the publi... But actually it is: the land on which the public h...
+The Jaccard Index is: 0.73
+And the Smith Waterman Score is: 0.35
+The Detailes are shown as followings: 
+common words: the land on /public housing /is /environmentally unsafe geologically for the construction of housing 
+insertion: which is				located 
+deletion: is located 
+change: which				the to the / unstable				or to unstable / otherwise to or / unsuitable to otherwise				unsuitable / as evidenced by an independent				environmental review or assessment 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[4]/paragraph[2]/subparagraph[1]/clause[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[4]/paragraph[2]/subparagraph[1]/clause[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Deconcentration				of poverty But actually it is: Deconcentration of				poverty
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: poverty to of				poverty 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[4]/paragraph[2]/subparagraph[1]/clause[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[4]/paragraph[2]/subparagraph[1]/clause[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: All dwelling units provided pu... But actually it is: All dwelling units provided pu...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.54
+The Detailes are shown as followings: 
+common words: All dwelling units provided pursuant to be provided in a manner that results in with respect to such concentrations existing on /of /for the grant under this section 
+insertion: the 
+deletion: of 
+change: this				subparagraph to this / shall to subparagraph				shall / decreased				concentrations to decreased / of to concentrations / poverty to of				poverty / the				date to date / application to the				application / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[4]/paragraph[2]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[4]/paragraph[2]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Off-site				mixed-income housi... But actually it is: Off-site mixed-income				housi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: housing to mixedincome				housing 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[4]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[4]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any				other replacement housi... But actually it is: Any other replacement				housi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.45
+The Detailes are shown as followings: 
+common words: Any				other replacement housing units provided in addition to the dwelling /pursuant /A shall be provided in areas within /of /housing agency having low concentrations of 
+insertion: units the 
+deletion: pursuant of 
+change: units				provided to provided / subparagraph to to				subparagraph / the				jurisdiction to jurisdiction / public to the				public / poverty				through to poverty through 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[4]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[4]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: All				replacement dwelling un... But actually it is: All replacement dwelling units...
+The Jaccard Index is: 0.76
+And the Smith Waterman Score is: 0.23
+The Detailes are shown as followings: 
+common words: All				replacement dwelling units provided pursuant to this subsection shall /be				provided not /than the expiration of the 12month period beginning /the /housing To /extent practicable /or additional dwelling units /shall /in phases over time and in each /the public /units and the dwelling units described /Bii /2 shall be made available for /any /unit is made available for occupancy 
+insertion: replacement dwelling units provided				pursuant to this subsection shall be provided not later than the expiration of				the 12month period beginning upon the demolition or disposition of the public				housing dwelling units except that replacement dwelling units financed with a				lowincome housing tax credit under section 42 of the Internal Revenue Code be allocation of				such the or such in occupancy 
+deletion: not beginning upon				the demolition or practicable shall public Bii any 
+change: of to upon / public to lowincome / dwelling to tax / units to credit / the				greatest to greatest / replacement to such				replacement / or				redevelopment to redevelopment / accomplished to be				accomplished / such				phase to phase / dwelling to housing				dwelling / in				subparagraph to subparagraph / paragraph to of				paragraph / occupancy				before to before / dwelling to nonassisted				dwelling / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Monitoring of				displaced hou... But actually it is: Monitoring of displaced				hou...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of				displaced households to of displaced				households 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[5]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[5]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to maintain a				current addre... But actually it is: to maintain a current				addre...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.42
+The Detailes are shown as followings: 
+common words: to maintain of residence and contact information for each /by /plan who was occupying a dwelling unit in /that /to the plan and 
+insertion: household the 
+deletion: by that 
+change: a				current to a / address to current				address / household				affected to affected / revitalization to the				revitalization / the				housing to housing / subject to is				subject / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[5]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[5]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to provide such				updated inf... But actually it is: to provide such updated				inf...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: to provide to the Secretary on at least a quarterly basis 
+insertion: 
+deletion: 
+change: such				updated to such / information to updated				information / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[5]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[5]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not less frequently than once ... But actually it is: Not less frequently				than on...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.38
+The Detailes are shown as followings: 
+common words: Not less /once every six months /shall submit a report to the /includes all /to the Secretary pursuant to /by all public /and summarizes the extent of compliance /housing /the requirements under this subsection 
+insertion: the information housing agencies 
+deletion: less the to compliance 
+change: than to frequently				than / the				Secretary to Secretary / that to Congress				that / information				submitted to submitted / 1 to paragraph				1 / housing				agencies to agencies / public to by				public / agencies				with to with / and subsection i to and				subsection i 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[6]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Green				developments requirem... But actually it is: Green developments				requirem...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: requirement to developments				requirement 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[6]/paragraph[1]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[6]/paragraph[1]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Green				communities criteria ... But actually it is: Green communities				criteria ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: Green				communities criteria checklist 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[6]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[6]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: All residential construction u... But actually it is: All				residential constructio...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.31
+The Detailes are shown as followings: 
+common words: residential construction under /plan complies with the /Communities criteria /residential construction that /for the /and operation of affordable housing /checklist is /for purposes of this subsection pursuant /3 at the date /application for the grant or /equivalent standard /by the Secretary 
+insertion: the checklist design in of as 
+deletion: All the that housing pursuant or 
+change: the				proposed to proposed / Green to national				Green / checklist				for to for / criteria to provides				criteria / design				development to development / such to as				such / in				effect to effect / paragraph to to				paragraph / of				the to the / substantially to any				substantially / as				determined to determined / as follows to as				follows 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[6]/paragraph[1]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[6]/paragraph[1]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The proposed plan				shall com... But actually it is: The proposed plan shall				com...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.52
+The Detailes are shown as followings: 
+common words: The proposed with all items of the national Green Communities construction that are identified as mandatory 
+insertion: 
+deletion: 
+change: plan				shall to plan / comply to shall				comply / criteria				checklist to criteria / for to checklist / residential to for				residential / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[6]/paragraph[1]/subparagraph[1]/clause[2]/subclause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[6]/paragraph[1]/subparagraph[1]/clause[2]/subclause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 25 points, in the				case of a... But actually it is: 25 points, in the case of				a...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: 25 points in proposed plan or portion thereof consisting of new construction				and 
+insertion: 
+deletion: 
+change: the				case to the / of to case / any to of				any / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[6]/paragraph[2]/subparagraph[2]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[6]/paragraph[2]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Upon completion of				the revi... But actually it is: Upon completion of the				revi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Upon completion plan of the grantee 
+insertion: 
+deletion: 
+change: of				the to of / revitalization to the				revitalization / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[6]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[6]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Applicability				and updating ... But actually it is: Applicability and				updating ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Applicability				and updating of standards 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[6]/paragraph[3]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[6]/paragraph[3]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The				Secretary may, by regul... But actually it is: The Secretary may, by regulati...
+The Jaccard Index is: 0.73
+And the Smith Waterman Score is: 0.34
+The Detailes are shown as followings: 
+common words: The				Secretary may by regulation adopt /for purposes of this /amendments and supplements to /of the national /criteria checklist /the LEED 
+insertion: Secretary section Green 
+deletion: adopt to checklist 
+change: apply to and				apply / section				future to future / editions to and				editions / Green				Communities to Communities / rating systems to rating				systems and any standard that the Secretary has determined to be substantially				equivalent to such checklist or systems 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[7]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[7]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Except to the				extent necess... But actually it is: Except to the				extent necess...
+The Jaccard Index is: 0.96
+And the Smith Waterman Score is: 0.95
+The Detailes are shown as followings: 
+common words: Except to the				extent necessary to comply with the requirements of this section replacement				housing provided pursuant to subsection j under a revitalization plan of a				public housing agency that is owned or managed or assisted by the agency				shall be subject to the same policies practices standards and criteria				regarding waiting lists tenant screening including screening criteria such				as credit checks and occupancy that apply to other housing owned or managed				or assisted respectively by such agency A household may not be prevented				from occupying a replacement dwelling unit provided pursuant to subsection /to the extent specifically provided by any other provision of Federal				law including subtitle F of title V of the Quality Housing and Work				Responsibility Act of 1998 
+insertion: j				or from being provided a tenantbased voucher under the revitalization 
+deletion: 
+change: j				except to plan				except / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[8]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[8]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Availability of				other remed... But actually it is: Availability of other				remed...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of				other remedies to of other				remedies 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[8]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[8]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The remedy under paragraph (1)... But actually it is: The remedy under paragraph (1)...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.65
+The Detailes are shown as followings: 
+common words: The remedy under paragraph 1 shall be other rights and remedies provided by law 
+insertion: 
+deletion: 
+change: in				addition to in / to to addition / all to to				all / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[9]/paragraph[3]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[9]/paragraph[3]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: obtaining				approvals of the ... But actually it is: obtaining approvals of				the ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: obtaining				approvals of the Federal Government or a State or local government 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[9]/paragraph[3]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[9]/paragraph[3]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: relocating				residents; or But actually it is: relocating				residents;
+The Jaccard Index is: 0.86
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: or to 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[9]/paragraph[3]/subparagraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[9]/paragraph[3]/subparagraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any other reason				establishe... But actually it is: resident involvement that lead...
+The Jaccard Index is: 0.04
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[9]/paragraph[3]/subparagraph[6]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(F)any other reason
+				established by the Secretary by notice published in the Federal
+				Register.
+							"}
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[10]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/quoted-block[1]/subsection[10]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Applicability of				other laws But actually it is: Applicability of other				laws
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of				other laws to of other				laws 
+
+We are at location: bill[1]/legis-body[1]/section[9]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Annual report;			 availability... But actually it is: Planning and technical			 assi...
+The Jaccard Index is: 0.03
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[9]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subsection (u) of section 24, ... But actually it is: Subsection			 (v) of section 2...
+The Jaccard Index is: 0.23
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Subsection u of section 24 
+insertion: 
+deletion: 
+change: as so			 redesignated by section 81 of this Act is amended to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[9]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 1437v(v)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[9]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"), as so redesignated by section 8(1), is
+			 amended by striking paragraph (2) and inserting the following new
+			 paragraph:"}
+
+We are at location: bill[1]/legis-body[1]/section[9]/paragraph[1]   Compared with location: bill[1]/legis-body[1]/section[9]/quoted-block[1]
+The reason of change is: element tag name
+The value is expected to be: paragraph But actually it is: quoted-block
+
+We are at location: bill[1]/legis-body[1]/section[9]/paragraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[9]/quoted-block[1]/paragraph[1]
+The reason of change is: element tag name
+The value is expected to be: enum But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[9]/paragraph[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/quoted-block[1]/paragraph[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[9]/quoted-block[1]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(2)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[9]/quoted-block[1]/paragraph[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Technical assistance
+				grants"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[9]/quoted-block[1]/paragraph[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"Subject only to
+				approvable requests for grants pursuant to paragraph (1) for any fiscal year,
+				the Secretary shall use not less than two percent for grants in such fiscal
+				year to recipients of grants under this section to assist such recipients in
+				obtaining technical assistance in carrying out revitalization
+				programs."}
+
+We are at location: bill[1]/legis-body[1]/section[9]/paragraph[1]/text[1]   Compared with location: bill[1]/legis-body[1]/section[9]/quoted-block[1]/after-quoted-block[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: after-quoted-block
+
+We are at location: bill[1]/legis-body[1]/section[9]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/quoted-block[1]/after-quoted-block[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by inserting after			 paragrap... But actually it is: .
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[9]/paragraph[1]/quoted-block[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quoted-block But actually it is: null
+ Deleted paragraph content is: {"
+					(4)the extent to which
+				public housing agencies carrying out revitalization plans with grants under
+				this section have complied with the requirements under subsection (i) (relating
+				to right to expanded housing opportunities for resident households);
+				and
+					;
+				and"}
+
+We are at location: bill[1]/legis-body[1]/section[9]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(2)by adding at the
+			 end the following:
+				
+					To the
+				extent not inconsistent with any other provisions of law, the Secretary shall
+				make publicly available through a World Wide Web site of the Department of
+				Housing and Urban Development all documents of, or filed with, the Department
+				relating to the program under this section, including applications, grant
+				agreements, plans, budgets, reports, and amendments to such documents; except
+				that in carrying out this sentence, the Secretary shall take such actions as
+				may be necessary to protect the privacy of any residents and households
+				displaced from public housing as a result of a revitalization plan assisted
+				under this
+				section..
+			"}
+
+We are at location: bill[1]/legis-body[1]/section[10]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Definitions But actually it is: Annual report;			 availability...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[10]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subsection (s) of section 24, ... But actually it is: Subsection (u) of section 24, ...
+The Jaccard Index is: 0.84
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Subsection of section 24 as so			 redesignated by section of this Act is amended 
+insertion: 
+deletion: 
+change: s to u / 8l to 81 / 
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in clauses (i) and			 (iii) of... But actually it is: by inserting after			 paragrap...
+The Jaccard Index is: 0.14
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[1]/text[1]/quote[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {program}
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  each place such			 term appea... But actually it is: by inserting after			 paragrap...
+The Jaccard Index is: 0.13
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[1]/text[1]/quote[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {plan}
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[1]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ; But actually it is: by inserting after			 paragrap...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[1]/quoted-block[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quoted-block
+ Inserted paragraph content is: {"
+					(4)the extent to which
+				public housing agencies carrying out revitalization plans with grants under
+				this section have complied with the requirements under subsection (i) (relating
+				to right to expanded housing opportunities for resident households);
+				and
+					;
+				and"}
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in paragraph			 (3)— But actually it is: by adding at the end the			 fo...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[2]/subparagraph[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[2]/quoted-block[1]
+The reason of change is: element tag name
+The value is expected to be: subparagraph But actually it is: quoted-block
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[2]/subparagraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[2]/quoted-block[1]/quoted-block-continuation-text[1]
+The reason of change is: element tag name
+The value is expected to be: enum But actually it is: quoted-block-continuation-text
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[2]/subparagraph[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[2]/quoted-block[1]/quoted-block-continuation-text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (A) But actually it is: To the				extent not inconsist...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[2]/subparagraph[1]/text[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[2]/quoted-block[1]/after-quoted-block[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: after-quoted-block
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[2]/quoted-block[1]/after-quoted-block[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by striking			  But actually it is: .
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[2]/subparagraph[1]/text[1]/quote[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"
+  Supportive
+"}
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[2]/subparagraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[2]/quoted-block[1]/after-quoted-block[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  and inserting			  But actually it is: .
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[2]/subparagraph[1]/text[1]/quote[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"
+  Community and
+			 supportive
+"}
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[2]/subparagraph[1]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[2]/quoted-block[1]/after-quoted-block[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ; But actually it is: .
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[2]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(B)by inserting
+			 community and before supportive services;
+			 and
+				"}
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[2]/subparagraph[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(C)by inserting after
+			 transportation, the following: employment and vocational
+			 counseling, financial counseling, life skills training, ;
+				"}
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[3]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (3) But actually it is: (2)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by redesignating			 paragraph ... But actually it is: by adding at the end the			 fo...
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[2]/quoted-block[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quoted-block
+ Inserted paragraph content is: {"
+					To the
+				extent not inconsistent with any other provisions of law, the Secretary shall
+				make publicly available through a World Wide Web site of the Department of
+				Housing and Urban Development all documents of, or filed with, the Department
+				relating to the program under this section, including applications, grant
+				agreements, plans, budgets, reports, and amendments to such documents; except
+				that in carrying out this sentence, the Secretary shall take such actions as
+				may be necessary to protect the privacy of any residents and households
+				displaced from public housing as a result of a revitalization plan assisted
+				under this
+				section.."}
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[4]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (4) But actually it is: (2)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by inserting after			 paragrap... But actually it is: by adding at the end the			 fo...
+The Jaccard Index is: 0.23
+And the Smith Waterman Score is: 0.14
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: inserting after			 paragraph 2 the following new paragraph to adding at the end the			 following 
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[4]/quoted-block[1]/paragraph[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[2]/quoted-block[1]/quoted-block-continuation-text[1]
+The reason of change is: element tag name
+The value is expected to be: paragraph But actually it is: quoted-block-continuation-text
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[4]/quoted-block[1]/paragraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[2]/quoted-block[1]/quoted-block-continuation-text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[4]/quoted-block[1]/paragraph[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(5)}
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[4]/quoted-block[1]/paragraph[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Significant
+				amendment or change"}
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[4]/quoted-block[1]/paragraph[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"The term significant means, with
+				respect to an amendment or change to a revitalization plan, that the amendment
+				or change—"}
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[4]/quoted-block[1]/paragraph[1]/subparagraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(A)changes the use of
+				10 percent or more of the funds provided under the grant made under this
+				section for the plan from use for one activity to use for another;
+						"}
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[4]/quoted-block[1]/paragraph[1]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(B)eliminates an
+				activity that, notwithstanding the change, would otherwise be carried out under
+				the plan; or
+						"}
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[4]/quoted-block[1]/paragraph[1]/subparagraph[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(C)changes the scope,
+				location, or beneficiaries of the project carried out under the
+				plan.
+						"}
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[4]/quoted-block[1]/after-quoted-block[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[2]/quoted-block[1]/after-quoted-block[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ; But actually it is: .
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[5]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (5) But actually it is: (2)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by			 redesignating paragraph ... But actually it is: by adding at the end the			 fo...
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[2]/quoted-block[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quoted-block
+ Inserted paragraph content is: {"
+					To the
+				extent not inconsistent with any other provisions of law, the Secretary shall
+				make publicly available through a World Wide Web site of the Department of
+				Housing and Urban Development all documents of, or filed with, the Department
+				relating to the program under this section, including applications, grant
+				agreements, plans, budgets, reports, and amendments to such documents; except
+				that in carrying out this sentence, the Secretary shall take such actions as
+				may be necessary to protect the privacy of any residents and households
+				displaced from public housing as a result of a revitalization plan assisted
+				under this
+				section.."}
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[6]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (6) But actually it is: (2)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by inserting after			 paragrap... But actually it is: by adding at the end the			 fo...
+The Jaccard Index is: 0.23
+And the Smith Waterman Score is: 0.14
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: inserting after			 paragraph 1 the following new paragraphs to adding at the end the			 following 
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[6]/quoted-block[1]/paragraph[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[2]/quoted-block[1]/quoted-block-continuation-text[1]
+The reason of change is: element tag name
+The value is expected to be: paragraph But actually it is: quoted-block-continuation-text
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[6]/quoted-block[1]/paragraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[2]/quoted-block[1]/quoted-block-continuation-text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[6]/quoted-block[1]/paragraph[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(2)}
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[6]/quoted-block[1]/paragraph[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Comprehensive
+				relocation assistance"}
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[6]/quoted-block[1]/paragraph[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"The
+				term comprehensive relocation assistance means comprehensive
+				assistance necessary to relocate the members of a household, and includes
+				counseling, including counseling regarding housing options and locations and
+				use of tenant-based assistance, case management services, assistance in
+				locating a suitable residence, site tours, and other assistance."}
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[6]/quoted-block[1]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(3)DevelopmentThe
+				term development has the same meaning given such term in the first
+				sentence of paragraph (1) of section 3(c) (42 U.S.C.
+				1437a).
+					"}
+
+We are at location: bill[1]/legis-body[1]/section[11]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[11]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Conforming			 amendment But actually it is: Definitions
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[11]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[11]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Paragraph (1) of			 section 24... But actually it is: Subsection (s) of section 24, ...
+The Jaccard Index is: 0.28
+And the Smith Waterman Score is: 0.22
+The Detailes are shown as followings: 
+common words: Paragraph 1 of			 section 24f is amended 
+insertion: s of section 24 as so			 redesignated by section 
+deletion: 
+change: by striking to 
+
+We are at location: bill[1]/legis-body[1]/section[11]/text[1]/quote[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {programs}
+
+We are at location: bill[1]/legis-body[1]/section[11]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[11]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  and inserting			  But actually it is: Subsection (s) of section 24, ...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[11]/text[1]/quote[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {plan}
+
+We are at location: bill[1]/legis-body[1]/section[11]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[11]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: . But actually it is: Subsection (s) of section 24, ...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[11]/paragraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(1)in clauses (i) and (iii)
+			 of paragraph (1)(C), by striking program each place such term
+			 appears and inserting plan;
+			"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[11]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(2)in paragraph (3)—
+				(A)by striking
+			 Supportive and inserting
+			 Community and
+			 supportive;
+				(B)by inserting
+			 community and before supportive services;
+				(C)by inserting before the period at the end
+			 the following: , and such other services that, linked with affordable
+			 housing, will improve the health and residential stability of public housing
+			 residents; and
+				(D)by inserting after
+			 transportation, the following: employment and vocational
+			 counseling, financial counseling, life skills training, ;
+				"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[11]/paragraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(3)by redesignating
+			 paragraph (3) as paragraph (6);
+			"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[11]/paragraph[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(4)by inserting after
+			 paragraph (2), the following new paragraph:
+				
+					(5)Significant amendment
+				or changeThe term significant means, with respect
+				to an amendment or change to a revitalization plan, that the amendment or
+				change—
+						(A)changes the use of 10
+				percent or more of the funds provided under the grant made under this section
+				for the plan from use for one activity to use for another;
+						(B)eliminates an activity
+				that, notwithstanding the change, would otherwise be carried out under the
+				plan; or
+						(C)changes the scope,
+				location, or beneficiaries of the project carried out under the
+				plan.
+						;
+			"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[11]/paragraph[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(5)by redesignating
+			 paragraph (2) as paragraph (4); and
+			"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[11]/paragraph[6]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(6)by inserting after
+			 paragraph (1) the following new paragraphs:
+				
+					(2)Comprehensive
+				relocation assistanceThe
+				term comprehensive relocation assistance means comprehensive
+				assistance necessary to relocate the members of a household, and includes
+				counseling, including counseling regarding housing options and locations and
+				use of tenant-based assistance, case management services, assistance in
+				locating a suitable residence, site tours, and other assistance.
+					(3)DevelopmentThe
+				term development has the same meaning given such term in the first
+				sentence of paragraph (1) of section 3(c) (42 U.S.C.
+				1437a).
+					.
+			"}
+
+We are at location: bill[1]/legis-body[1]/section[12]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[12]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authorization of			 appropriat... But actually it is: Conforming			 amendment
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[12]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[12]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subsection			 (v)(1) of sectio... But actually it is: Paragraph (1) of			 section 24...
+The Jaccard Index is: 0.34
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: section 81 of this Act is			 amended by striking 
+insertion: 
+deletion: Subsection			 v1 of section 24 as so redesignated by 
+change: all that follows to 
+
+We are at location: bill[1]/legis-body[1]/section[12]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[12]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: section But actually it is: programs
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[12]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[12]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: $800,000,000 for each of fisca... But actually it is: plans
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[13]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[13]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Extension of			 program But actually it is: Authorization of			 appropriat...
+The Jaccard Index is: 0.16
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[13]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[13]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subsection (w) of			 section 2... But actually it is: Subsection			 (v)(1) of sectio...
+The Jaccard Index is: 0.67
+And the Smith Waterman Score is: 0.61
+The Detailes are shown as followings: 
+common words: Subsection w of			 section 24 as so redesignated by section 81 of this Act 
+insertion: 
+deletion: 
+change: is amended by			 striking to is			 amended by striking all that follows 
+
+We are at location: bill[1]/legis-body[1]/section[13]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[13]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: September 30, 2006 But actually it is: section
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[13]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[13]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: September 30,			 2015 But actually it is: $800,000,000 for each of fisca...
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[14]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[14]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Review But actually it is: Extension of			 program
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[14]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[14]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Comptroller General of the... But actually it is: Subsection (w) of			 section 2...
+The Jaccard Index is: 0.07
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[14]/text[1]/quote[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"September 30, 2007"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[14]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" and inserting "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[14]/text[1]/quote[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"September 30,
+			 2015"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[14]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {.}
+
+We are at location: bill[1]/legis-body[1]/section[14]/paragraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(1)conduct a review of activities, actions,
+			 and methods used in revitalization plans assisted under section 24 of the
+			 United States Housing Act of 1937 to determine which may be transferable to
+			 other federally-assisted housing programs; and
+			"}
+
+We are at location: bill[1]/legis-body[1]/section[14]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(2)make recommendations to the Congress
+			 regarding the activities, actions, and methods reviewed under paragraph (1) not
+			 later than the expiration of the 3-year period beginning on the date of the
+			 enactment of this Act.
+			"}
+
+We are at location: bill[1]/legis-body[1]/section[15]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[15]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Regulations But actually it is: Review
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[15]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[15]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 24, as amended by the ... But actually it is: The Comptroller General of the...
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[15]/quoted-block[1]   Compared with location: bill[1]/legis-body[1]/section[15]/paragraph[1]
+The reason of change is: element tag name
+The value is expected to be: quoted-block But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[15]/quoted-block[1]/subsection[1]   Compared with location: bill[1]/legis-body[1]/section[15]/paragraph[1]/enum[1]
+The reason of change is: element tag name
+The value is expected to be: subsection But actually it is: enum
+
+We are at location: bill[1]/legis-body[1]/section[15]/quoted-block[1]/subsection[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[15]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[15]/quoted-block[1]/subsection[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(x)}
+
+We are at location: bill[1]/legis-body[1]/section[15]/quoted-block[1]/subsection[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {Regulations}
+
+We are at location: bill[1]/legis-body[1]/section[15]/quoted-block[1]/subsection[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"Not later than the expiration of the
+				120-day period beginning on the date of the enactment of the
+				HOPE VI Improvement and Reauthorization Act
+				of 2007, the Secretary shall issue regulations to carry out this
+				section, including the amendments made by such
+				Act."}
+
+We are at location: bill[1]/legis-body[1]/section[15]/quoted-block[1]/after-quoted-block[1]   Compared with location: bill[1]/legis-body[1]/section[15]/paragraph[1]/text[1]
+The reason of change is: element tag name
+The value is expected to be: after-quoted-block But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/section[15]/quoted-block[1]/after-quoted-block[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[15]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: . But actually it is: conduct a review of activities...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[15]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(2)make recommendations to the Congress
+			 regarding the activities, actions, and methods reviewed under paragraph (1) not
+			 later than the expiration of the 3-year period beginning on the date of the
+			 enactment of this Act.
+			"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[16]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"16.RegulationsSection 24, as amended by the preceding
+			 provisions of this Act, is further amended by adding at the end the following
+			 new subsection:
+			
+				(x)RegulationsNot later than the expiration of the
+				120-day period beginning on the date of the enactment of the
+				HOPE VI Improvement and Reauthorization Act
+				of 2007, the Secretary shall issue regulations to carry out this
+				section, including the amendments made by such
+				Act.
+				.
+		"}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		January 3, 2008
+		Reported with an amendment, committed to the Committee of
+		  the Whole House on the State of the Union, and ordered to be
+		  printed
+	"}
+

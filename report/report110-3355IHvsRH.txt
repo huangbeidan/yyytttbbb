@@ -1,0 +1,2272 @@
+===================================================
+
+total difference is: 577
+comparing document: BILLS-110hr3355ih.xml
+to document: BILLS-110hr3355rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 3355 IH: Homeowners’ De... But actually it is: 110 HR 3355 RH: Homeowners’ De...
+The Jaccard Index is: 0.86
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: 110 HR 3355 Homeowners’ Defense Act of 
+insertion: 
+deletion: 
+change: IH to RH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2007-08-03 But actually it is: 2007-10-31
+The Jaccard Index is: 0.23
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To ensure the availability and... But actually it is: To ensure the availability and...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.38
+The Detailes are shown as followings: 
+common words: To ensure the availability /affordability /homeowners’ insurance coverage for 
+insertion: and		 
+deletion: affordability 
+change: and to  /  to of / catastrophic events to catastrophic		  events 
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 264"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No.
+		  110–419]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			October 31, 2007
+			Additional sponsors: Mr.
+			 Abercrombie, Mr. Arcuri,
+			 Mr. Braley of Iowa,
+			 Ms. Corrine Brown of Florida,
+			 Mr. Cleaver,
+			 Mr. Clyburn,
+			 Mr. Cramer,
+			 Mr. Crowley,
+			 Mr. Emanuel,
+			 Mr. Farr, Mr. Hare, Mr.
+			 Hastings of Florida, Mr.
+			 Hill, Ms. Hirono,
+			 Mr. Inslee,
+			 Mr. Johnson of Georgia,
+			 Mrs. Jones of Ohio,
+			 Mr. Kagen,
+			 Mr. Lampson,
+			 Mr. Larson of Connecticut,
+			 Mrs. Maloney of New York,
+			 Mrs. McCarthy of New York,
+			 Mr. McNerney,
+			 Mr. Meek of Florida,
+			 Mr. Melancon,
+			 Mr. Moran of Virginia,
+			 Mr. Ryan of Ohio,
+			 Mr. Sires,
+			 Mrs. Tauscher,
+			 Mr. Walz of Minnesota,
+			 Ms. Wasserman Schultz,
+			 Mr. Weiner,
+			 Mr. Wexler,
+			 Mr. Perlmutter,
+			 Mr. Delahunt,
+			 Mr. Jindal,
+			 Mr. Lynch,
+			 Mrs. Christensen,
+			 Ms. Ginny Brown-Waite of Florida, and
+			 Mr. Kennedy
+			
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			October 31, 2007
+			Reported with an amendment, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+			For text of introduced bill, see copy of bill as
+			 introduced on August 3, 2007
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Short title and table of			 co... But actually it is: Short title; table of			 conte...
+The Jaccard Index is: 0.76
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Short title /table of			 contents 
+insertion: 
+deletion: title 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: This Act may be cited			 as th... But actually it is: This Act may be cited as the 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: This Act may be as the 
+insertion: 
+deletion: 
+change: cited			 to cited / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 1. Short title and table ... But actually it is: Sec. 1. Short title; table of	...
+The Jaccard Index is: 0.81
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Sec1Short title 
+insertion: 
+deletion: 
+change: and table of contents to table of				contents 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[3]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[3]/text()[1]
+The reason of change is: content change
+The value is expected to be: Title I—National Catastrophe R... But actually it is: Title I—National Catastrophe R...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Title INational Catastrophe 
+insertion: 
+deletion: 
+change: Risk Consortium to Risk				Consortium 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[4]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[4]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 101. Establishment; statu... But actually it is: Sec. 101. Establishment; statu...
+The Jaccard Index is: 0.77
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Sec101Establishment status 
+insertion: 
+deletion: 
+change: principal office to principal				office membership 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[7]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[7]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 104. Nonprofit entity; re... But actually it is: Sec. 104. Nonprofit entity;			...
+The Jaccard Index is: 0.7
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: of moneys				conflicts of interest audits 
+insertion: 
+deletion: Sec104Nonprofit entity restriction on use 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[8]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[8]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 105. Federal assistance. But actually it is: Sec. 105. Management.
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: assistance to 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[9]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[9]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 106. Management. But actually it is: Sec. 106. Staff; experts and		...
+The Jaccard Index is: 0.16
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[10]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[10]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 107. Staff; experts and c... But actually it is: Sec. 107. Federal liability.
+The Jaccard Index is: 0.14
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[11]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[11]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 108. State matching funds... But actually it is: Sec. 108. Authorization of				...
+The Jaccard Index is: 0.14
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[12]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[12]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 109. Federal liability. But actually it is: Title II—National Homeowners’ ...
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[13]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[13]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 110. Authorization of app... But actually it is: Sec. 201. Establishment.
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[14]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[14]/text()[1]
+The reason of change is: content change
+The value is expected to be: Title II—National Homeowners’ ... But actually it is: Sec. 202. Liquidity loans and	...
+The Jaccard Index is: 0.12
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[15]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[15]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 201. Establishment. But actually it is: Sec. 203. Reports and audits.
+The Jaccard Index is: 0.11
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[16]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[16]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 202. Liquidity loans and ... But actually it is: Sec. 204. Funding.
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[17]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[17]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 203. Reports. But actually it is: Title III—General Provisions
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[18]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[18]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 204. Funding. But actually it is: Sec. 301. Qualified reinsuranc...
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[19]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[19]/text()[1]
+The reason of change is: content change
+The value is expected to be: Title III—General provisions But actually it is: Sec. 302. Definitions.
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[20]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[20]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 301. Qualified reinsuranc... But actually it is: Sec. 303. Regulations.
+The Jaccard Index is: 0.09
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[21]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[20]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 302. Definitions. But actually it is: Sec. 303. Regulations.
+The Jaccard Index is: 0.29
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: although			 catastrophic natur... But actually it is: although catastrophic			 natur...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.57
+The Detailes are shown as followings: 
+common words: although			 catastrophic natural disasters occur infrequently they will continue to 
+insertion: 
+deletion: 
+change: occur			 and are predictable to occur and are			 predictable 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: such disasters			 generate lar... But actually it is: such disasters generate			 lar...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.65
+The Detailes are shown as followings: 
+common words: such generate large economic losses and a major component of those losses comes and destruction to homes 
+insertion: 
+deletion: 
+change: disasters			 to disasters / from			 to from / damage to damage			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: for the majority			 of America... But actually it is: for the majority of			 America...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: for the Americans their investment in their home represents their single and the protection of that investment is paramount to economic and social			 stability 
+insertion: 
+deletion: 
+change: majority			 to majority / of to of			 / biggest			 to biggest / asset to asset			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: historically, when			 a natura... But actually it is: historically, when a			 natura...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.91
+The Detailes are shown as followings: 
+common words: historically a natural disaster eclipses the ability of the private industry and a State to			 manage the loss the Federal Government has stepped in to provide the funding			 and services needed for recovery 
+insertion: 
+deletion: 
+change: when			 to when / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the cost of such			 Federal  But actually it is: the cost of such Federal			 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: the cost of 
+insertion: 
+deletion: 
+change: such			 Federal to such Federal			 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[6]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[6]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  are borne by all taxpayers eq... But actually it is:  are borne by all taxpayers eq...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words:  are borne by all taxpayers equally as is provision to repay the money and resources provided which burdens citizens who live in lower risk communities 
+insertion: 
+deletion: 
+change: there			 to there / no to no			 / thereby			 to thereby / unfairly to unfairly			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[8]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[8]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: such effects on			 the insuran... But actually it is: such effects on the			 insuran...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.59
+The Detailes are shown as followings: 
+common words: such effects insurance industry have been harmful to economic activity in States major catastrophes and have placed significant burdens on existing 
+insertion: 
+deletion: 
+change: on			 to on / the to the			 / exposed			 to exposed / to to to			 / residents			 of such States to residents of			 such States 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[9]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[9]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Hurricanes			 Katrina, Rita, a... But actually it is: Hurricanes Katrina, Rita,			 a...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.59
+The Detailes are shown as followings: 
+common words: Hurricanes			 Katrina and Wilma struck the United States in 2005 causing 200000000000 total economic losses and insured losses to homeowners 
+insertion: 
+deletion: 
+change: Rita to Rita			 / over			 to over / in to in			 / in			 excess of 50000000000 to in excess of			 50000000000 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[10]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[10]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: since 2004, the			 Congress ha... But actually it is: since 2004, the Congress			 ha...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.58
+The Detailes are shown as followings: 
+common words: since 2004 has appropriated more than 58000000000 in disaster relief to affected by natural catastrophes 
+insertion: 
+deletion: 
+change: the			 to the / Congress to Congress			 / the			 to the / States to States			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[11]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[11]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the Federal			 Government has ... But actually it is: the Federal Government			 has ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.61
+The Detailes are shown as followings: 
+common words: the Government has provided and will continue to provide resources to pay losses future catastrophes 
+insertion: 
+deletion: 
+change: Federal			 to Federal / for			 to for / from to from			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[12]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[12]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: when Federal			 assistance is ... But actually it is: when Federal assistance			 is ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.53
+The Detailes are shown as followings: 
+common words: when assistance is provided to the States accountability for Federal 
+insertion: 
+deletion: 
+change: Federal			 to Federal / funds			 disbursed is paramount to funds disbursed is			 paramount 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[15]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[15]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: State insurance			 and reinsur... But actually it is: State insurance and			 reinsur...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.91
+The Detailes are shown as followings: 
+common words: State and reinsurance programs can provide a mechanism for States to exercise that			 responsibility if they appropriately underwrite and price risk and if they pay			 claims quickly and within established contractual terms and 
+insertion: 
+deletion: 
+change: insurance			 to insurance / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[16]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[16]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: State insurers			 and reinsure... But actually it is: State insurers and			 reinsure...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.65
+The Detailes are shown as followings: 
+common words: State and reinsurers if appropriately backstopped themselves can risk borne by private insurers without bearing timing risk thus enable insurers whether Stateoperated or privately owned underwrite and insurance without timing risk and in such a way encourage property owners pay for the appropriate insurance to themselves and to take steps mitigate against the risks of disaster locally appropriate methods 
+insertion: 
+deletion: 
+change: insurers			 to insurers / absorb			 to absorb / catastrophic to catastrophic			 / and			 to and / all to all			 / to			 to to / price to price			 / to			 to to / to to to			 / protect			 to protect / to to to			 / by			 to by / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: National			 Catastrophe Risk C... But actually it is: National Catastrophe Risk			 C...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: National			 Catastrophe 
+insertion: 
+deletion: 
+change: Risk Consortium to Risk			 Consortium 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Establishment;			 status; prin... But actually it is: Establishment; status;			 prin...
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Establishment			 status principal office 
+insertion: 
+deletion: 
+change: membership 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: There			 is established a body... But actually it is: There			 is established an ent...
+The Jaccard Index is: 0.58
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: There			 is established /to be known as the 
+insertion: 
+deletion: established 
+change: body to an / corporate to entity / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: National Catastrophe			 Risk C... But actually it is: National Catastrophe Risk			 C...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: Catastrophe			 Risk Consortium to Catastrophe Risk			 Consortium 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The principal office and place... But actually it is: The principal office and place...
+The Jaccard Index is: 0.32
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: The principal office and place of business of the			 Consortium shall be 
+insertion: 
+deletion: 
+change: in the District of Columbia to such location within the United States determined by the			 Board of Directors to be the most advantageous for carrying out the purpose and			 functions of the Consortium 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(d)MembershipAny
+			 State that has established a reinsurance fund or has authorized the operation
+			 of a State residual insurance market entity shall be eligible to participate in
+			 the Consortium.
+				"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: work with all			 States partic... But actually it is: work with all States,			 parti...
+The Jaccard Index is: 0.62
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: work with /States participating in the Consortium to gather and maintain inventory catastrophe risk obligations held by 
+insertion: all States			 
+deletion: 
+change: all			 to particularly / an to an			 / of			 to of / participating States’ reinsurance funds			 risk pools or primary insurance corporations to State reinsurance funds and			 State residual insurance market entities 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: issue securities			 and other ... But actually it is: at the discretion of the			 af...
+The Jaccard Index is: 0.5
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: issue and other instruments linked to the catastrophe 
+insertion: the discretion of the			 affected members and on a conduit basis issue 
+deletion: 
+change: securities			 to securities / financial to financial			 / risk in the capital			 markets to risks insured or reinsured through			 members of the Consortium in the capital markets 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: enter into			 reinsurance cont... But actually it is: coordinate reinsurance			 cont...
+The Jaccard Index is: 0.29
+And the Smith Waterman Score is: 0.09
+The Detailes are shown as followings: 
+common words: enter into			 reinsurance 
+insertion: reinsurance			 contracts between participating 
+deletion: 
+change: contracts with private parties on a conduit basis to funds and private			 parties 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: act as a			 centralized reposi... But actually it is: act as a centralized			 reposi...
+The Jaccard Index is: 0.49
+And the Smith Waterman Score is: 0.35
+The Detailes are shown as followings: 
+common words: act as repository of State risk information that can be accessed 
+insertion: 
+deletion: 
+change: a			 to a / centralized to centralized			 / by			 privatemarket participants interested in underwriting risklinked securities			 or entering into reinsurance contracts to by privatemarket			 participants seeking to participate in the transactions described in paragraphs			 2 and 3 of this section 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: use an acquired			 catastrophe... But actually it is: use a catastrophe risk			 data...
+The Jaccard Index is: 0.91
+And the Smith Waterman Score is: 0.56
+The Detailes are shown as followings: 
+common words: an acquired			 catastrophe database to perform research and analysis that standardization the risklinked securities market 
+insertion: 
+deletion: use 
+change: risk to risk			 / encourages			 to encourages / of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/paragraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/paragraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: perform any other			 functions... But actually it is: perform any other			 functions...
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 0.54
+The Detailes are shown as followings: 
+common words: perform any other			 functions /that are necessary to aid in the /transfer catastrophe risk from participating to private parties and 
+insertion: other than assuming risk or incurring debt 
+deletion: the 
+change: deemed to deemed			 / of			 to of / States to States			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/paragraph[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/paragraph[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: not later than February 15 of ... But actually it is: submit annual reports to			 Co...
+The Jaccard Index is: 0.59
+And the Smith Waterman Score is: 0.47
+The Detailes are shown as followings: 
+common words: submit Congress a report describing the activities of the Consortium for 
+insertion: 
+deletion: not later than February 15 of each year			 
+change: to to annual / the			 preceding year to the preceding			 year 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: may sue and be			 sued, compla... But actually it is: may make and perform such			 c...
+The Jaccard Index is: 0.11
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: may adopt, alter,			 and use a... But actually it is: shall have such other			 power...
+The Jaccard Index is: 0.09
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[3]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (3) But actually it is: (2)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: may prescribe,			 amend, and r... But actually it is: shall have such other			 power...
+The Jaccard Index is: 0.24
+And the Smith Waterman Score is: 0.14
+The Detailes are shown as followings: 
+common words: may prescribe			 amend and repeal such rules and regulations as may be 
+insertion: have such other			 powers other than 
+deletion: 
+change: necessary for carrying			 out the functions of the Consortium to necessary			 and incident to carrying out this Act 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[4]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (4) But actually it is: (2)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: may make and			 perform such c... But actually it is: shall have such other			 power...
+The Jaccard Index is: 0.22
+And the Smith Waterman Score is: 0.08
+The Detailes are shown as followings: 
+common words: agreements with any individual or other			 private or public entity however designated and wherever situated as may 
+insertion: 
+deletion: may make and			 perform such contracts and other 
+change: be			 necessary for carrying out the functions of the Consortium to be necessary			 and incident to carrying out this Act 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[5]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (5) But actually it is: (2)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: may determine and			 prescribe... But actually it is: shall have such other			 power...
+The Jaccard Index is: 0.13
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[6]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (6) But actually it is: (2)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: may, as necessary			 for carry... But actually it is: shall have such other			 power...
+The Jaccard Index is: 0.19
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[7]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (7) But actually it is: (2)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: may lease,			 purchase, or oth... But actually it is: shall have such other			 power...
+The Jaccard Index is: 0.2
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[8]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (8) But actually it is: (2)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[8]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: may accept gifts			 or donatio... But actually it is: shall have such other			 power...
+The Jaccard Index is: 0.11
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[9]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (9) But actually it is: (2)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[9]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: shall have such			 other power... But actually it is: shall have such other			 power...
+The Jaccard Index is: 0.69
+And the Smith Waterman Score is: 0.56
+The Detailes are shown as followings: 
+common words: shall have such			 other powers as may be and incident to carrying out this Act 
+insertion: have such other			 powers other than the power to assume 
+deletion: 
+change: necessary to necessary			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Nonprofit			 entity; restricti... But actually it is: Nonprofit entity;			 conflicts...
+The Jaccard Index is: 0.65
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: of moneys conflicts of interest audits 
+insertion: 
+deletion: Nonprofit			 entity restriction on use 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Consortium shall be a nonp... But actually it is: The Consortium shall be a nonp...
+The Jaccard Index is: 0.26
+And the Smith Waterman Score is: 0.46
+The Detailes are shown as followings: 
+common words: The Consortium shall be a nonprofit 
+insertion: 
+deletion: 
+change: Consortium and shall			 have no capital stock to entity and no part of			 the net earnings of the Consortium shall inure to the benefit of any member			 founder contributor or individual 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Restriction But actually it is: Conflicts of			 interest
+The Jaccard Index is: 0.08
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: No			 part of the Consortium’s... But actually it is: No director, officer, or emplo...
+The Jaccard Index is: 0.25
+And the Smith Waterman Score is: 0.04
+The Detailes are shown as followings: 
+common words: No			 part of the 
+insertion: director officer or 
+deletion: 
+change: Consortium’s revenue earnings or other income or property shall			 inure to the benefit of any of its directors officers or employees and such			 revenue earnings or other income or property shall only be used for carrying			 out the purposes and functions of this Act to Consortium			 shall in any manner directly or indirectly participate in the deliberation			 upon or the determination of any question affecting his or her personal			 interests or the interests of any Consortium partnership or organization in			 which he or she is directly or indirectly interested 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Conflicts of			 interest But actually it is: Audits
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[3]/text[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[3]/paragraph[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[3]/paragraph[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[3]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(1)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[3]/paragraph[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Annual
+			 audit"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[3]/paragraph[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"The financial statements of the Consortium shall be audited
+			 annually in accordance with generally accepted auditing standards by
+			 independent certified public accountants."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[3]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(2)ReportsThe
+			 report of each annual audit pursuant to paragraph (1) shall be included in the
+			 annual report submitted in accordance with section 102(7).
+					"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[4]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[3]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (d) But actually it is: (c)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[4]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[3]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Audits by			 independent certi... But actually it is: Annual			 audit
+The Jaccard Index is: 0.04
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[4]/paragraph[1]/subparagraph[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[3]/paragraph[1]/text[1]
+The reason of change is: element tag name
+The value is expected to be: subparagraph But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[4]/paragraph[1]/subparagraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[4]/paragraph[1]/subparagraph[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(A)}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[4]/paragraph[1]/subparagraph[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"In
+			 general"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[4]/paragraph[1]/subparagraph[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"The Consortium’s financial statements shall be audited
+			 annually in accordance with generally accepted auditing standards by
+			 independent certified public accountants that are certified by a regulatory
+			 authority of a State or other political subdivision of the United States. The
+			 audits shall be conducted at the place or places where the accounts of the
+			 Consortium are normally kept. All books, accounts, financial records, reports,
+			 files, and all other papers, things, or property belonging to or in use by the
+			 Consortium and necessary to facilitate the audit shall be made available to the
+			 person or persons conducting the audits, and full facilities for verifying
+			 transactions with the balances or securities held by depositories, fiscal
+			 agents, and custodians shall be afforded to such person or persons."}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[4]/paragraph[1]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(B)Reporting
+			 requirementsThe report of each annual audit described in
+			 subparagraph (A) shall be included in the annual report submitted in accordance
+			 with section 102(7).
+						"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[4]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[3]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Audit and			 examination of bo... But actually it is: Reports
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[4]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Consortium shall ensure th... But actually it is: The			 report of each annual a...
+The Jaccard Index is: 0.16
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Federal			 assistance But actually it is: Management
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[5]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[5]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In			 general But actually it is: Board of directors;			 members...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[5]/subsection[1]/text[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[5]/subsection[1]/paragraph[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[5]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[5]/subsection[1]/paragraph[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[5]/subsection[1]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(1)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[5]/subsection[1]/paragraph[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Board of
+			 directors"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[5]/subsection[1]/paragraph[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"The management of the Consortium shall be vested in a
+			 board of directors (referred to in this title as the Board)
+			 composed of not less than 3 members."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[5]/subsection[1]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(2)ChairpersonThe
+			 Secretary of Treasury, or the designee of the Secretary, shall serve as the
+			 chairperson of the Board.
+					"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[5]/subsection[1]/paragraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(3)MembershipThe
+			 members of the Board shall include—
+						(A)the Secretary of Homeland
+			 Security and the Secretary of Commerce, or the designees of such Secretaries,
+			 respectively, but only during such times as there are fewer than two States
+			 participating in the Consortium; and
+						(B)a member from each State
+			 participating in the Consortium, who shall be appointed by such State.
+						"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[5]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[5]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Agreement But actually it is: Bylaws
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[5]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[5]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In			 order to receive any ass... But actually it is: The			 Board may prescribe, am...
+The Jaccard Index is: 0.2
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[5]/subsection[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(c)Compensation, actual,
+			 necessary, and transportation expenses
+					(1)Non-Federal
+			 employeesA member of the Board who is not otherwise employed by
+			 the Federal Government shall be entitled to receive the daily equivalent of the
+			 annual rate of basic pay payable for level IV of the Executive Schedule under
+			 section 5315 of title 5, United States Code, as in effect from time to time,
+			 for each day (including travel time) during which such member is engaged in the
+			 actual performance of duties of the Consortium.
+					(2)Federal
+			 employeesA member of the Board who is an officer or employee of
+			 the Federal Government shall serve without additional pay (or benefits in the
+			 nature of compensation) for service as a member of the Consortium.
+					(3)Travel
+			 expensesMembers of the Consortium shall be entitled to receive
+			 travel expenses, including per diem in lieu of subsistence, equivalent to those
+			 set forth in subchapter I of chapter 57 of title 5, United States Code.
+					"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[5]/subsection[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(d)QuorumA
+			 majority of the Board shall constitute a quorum.
+				"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[5]/subsection[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(e)Executive
+			 directorThe Board shall appoint an executive director of the
+			 Consortium on such terms as the Board may determine.
+				"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[6]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Management But actually it is: Staff; experts and			 consulta...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Board of			 directors; members... But actually it is: Staff
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[1]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Board of			 directors But actually it is: Appointment
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The management of the Consorti... But actually it is: The			 Board of the Consortium...
+The Jaccard Index is: 0.17
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[1]/paragraph[1]/text[1]/quote[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {Board}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[1]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: )			 composed of not less than... But actually it is: The			 Board of the Consortium...
+The Jaccard Index is: 0.03
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[1]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[1]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Chair But actually it is: Compensation
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The			 Secretary of Treasury, ... But actually it is: The			 Board of the Consortium...
+The Jaccard Index is: 0.11
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[1]/paragraph[3]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[1]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (3) But actually it is: (2)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[1]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[1]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Membership But actually it is: Compensation
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The			 members of the Board sh... But actually it is: The			 Board of the Consortium...
+The Jaccard Index is: 0.13
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[1]/paragraph[3]/subparagraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(A)the Secretaries of
+			 Homeland Security and Commerce, or their designees; and
+						"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[1]/paragraph[3]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(B)a member from each
+			 State participating in the Consortium, who shall be appointed by such
+			 State.
+						"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Compensation,			 actual, neces... But actually it is: Experts and			 consultants
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[2]/paragraph[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[2]/text[1]
+The reason of change is: element tag name
+The value is expected to be: paragraph But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[2]/paragraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[2]/text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[2]/paragraph[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(1)}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[2]/paragraph[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Nongovernment
+			 employees"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[2]/paragraph[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"Each member of the Board who is not otherwise employed
+			 by the Federal Government shall be entitled to receive the daily equivalent of
+			 the annual rate of basic pay payable for level IV of the Executive Schedule
+			 under section 5315 of title 5, United States Code, as in effect from time to
+			 time, for each day (including travel time) during which such member is engaged
+			 in the actual performance of duties of the Consortium."}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[2]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(2)Government
+			 employeesA member of the Consortium who is an officer or
+			 employee of the Federal Government shall serve without additional pay (or
+			 benefits in the nature of compensation) for service as a member of the
+			 Consortium.
+					"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[2]/paragraph[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(3)Travel
+			 expensesMembers of the Consortium shall receive travel expenses,
+			 including per diem in lieu of subsistence, in accordance with subchapter I of
+			 chapter 57 of title 5, United States Code.
+					"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[3]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (c) But actually it is: (b)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Quorum But actually it is: Experts and			 consultants
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A			 majority of the Board sha... But actually it is: The Board shall procure the se...
+The Jaccard Index is: 0.19
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[4]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (d) But actually it is: (b)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Executive			 direction But actually it is: Experts and			 consultants
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[6]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Board shall appoint an exe... But actually it is: The Board shall procure the se...
+The Jaccard Index is: 0.19
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[7]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[7]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Staff; experts			 and consulta... But actually it is: Federal			 liability
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[7]/subsection[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[7]/text[1]
+The reason of change is: element tag name
+The value is expected to be: subsection But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[7]/subsection[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[7]/text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[7]/subsection[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(a)}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[7]/subsection[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {Staff}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[7]/subsection[1]/paragraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(1)AppointmentThe
+			 Chair of the Consortium may appoint and terminate such other staff as are
+			 necessary to enable the Consortium to perform its duties.
+					"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[7]/subsection[1]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(2)CompensationThe
+			 Chair of the Consortium may fix the compensation of the executive director and
+			 other staff.
+					"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[7]/subsection[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subsection But actually it is: null
+ Deleted paragraph content is: {"(b)Experts and
+			 consultantsThe Board shall procure the services of experts and
+			 consultants as the Board considers appropriate.
+				"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[8]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[8]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: State matching			 funds But actually it is: Authorization of			 appropriat...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[8]/subsection[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[8]/text[1]
+The reason of change is: element tag name
+The value is expected to be: subsection But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[8]/subsection[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[8]/text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[8]/subsection[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(a)}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[8]/subsection[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"State
+			 participation in the consortium"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[8]/subsection[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"States participating in the
+			 Consortium shall provide an aggregate amount of $10,000,000 toward the
+			 Consortium’s operations per year."}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[8]/subsection[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subsection But actually it is: null
+ Deleted paragraph content is: {"(b)Individual State
+			 shareThe Board shall establish the contribution of individual
+			 participating States at a level that represents the comparable amount of risk
+			 that they are seeking to cede to the capital markets or by means of reinsurance
+			 contracts.
+				"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[9]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[8]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 109. But actually it is: 108.
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[9]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[8]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Federal			 liability But actually it is: Authorization of			 appropriat...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[9]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[8]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Federal			 Government shal... But actually it is: There are			 authorized to be ...
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[10]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[8]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110. But actually it is: 108.
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[10]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[8]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authorization			 of appropriat... But actually it is: Authorization of			 appropriat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: Authorization			 of appropriations 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[10]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[8]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: There are			 authorized to be ... But actually it is: There are			 authorized to be ...
+The Jaccard Index is: 0.78
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: There are			 authorized to be appropriated to carry out this for each of			 fiscal years 2008 through 
+insertion: 
+deletion: 
+change: section to title / 10000000 to 20000000 / 2012 to 2013 
+
+We are at location: bill[1]/legis-body[1]/title[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: National			 Homeowners’ Insura... But actually it is: National Homeowners’			 Insura...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: National			 Homeowners’ Insurance Stabilization Program 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of the Treasury ... But actually it is: The Secretary of the Treasury ...
+The Jaccard Index is: 0.84
+And the Smith Waterman Score is: 0.64
+The Detailes are shown as followings: 
+common words: The Secretary of the Treasury shall carry			 out a program under this title to make liquidity loans and catastrophic loans			 under section 202 to /reinsurance programs to ensure solvency such programs to improve the availability and affordability insurance /and /to spread the risk of catastrophic financial resulting natural disasters and catastrophic events 
+insertion: to incent risk transfer to the private capital reinsurance			 markets and 
+deletion: to State 
+change: regional to qualified / the			 to the / of to of			 / of			 to of / homeowners’ to homeowners’			 / loss			 to loss / from to from			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Liquidity loans			 and catastr... But actually it is: Liquidity loans and			 catastr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: Liquidity and catastrophic loans for State and regional reinsurance programs 
+insertion: 
+deletion: 
+change: loans			 to loans / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary may enter into a... But actually it is: The			 Secretary may enter int...
+The Jaccard Index is: 0.95
+And the Smith Waterman Score is: 0.65
+The Detailes are shown as followings: 
+common words: The Secretary may enter into a with a qualified reinsurance carry out the purposes of this Act as Secretary may deem appropriate contract shall include at a minimum conditions for loan eligibility forth in this section 
+insertion: 
+deletion: 
+change: contract			 to contract / plan to program / to to to			 / the			 to the / The to The			 / the			 to the / set to set			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Conditions for			 loan eligibi... But actually it is: Conditions for loan			 eligibi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: for			 loan eligibility to for loan			 eligibility 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A loan under this section may ... But actually it is: A loan under this section may ...
+The Jaccard Index is: 0.73
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: A loan under this section may be made only to a			 /reinsurance program and only if 
+insertion: 
+deletion: a			 State 
+change: regional to qualified / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the program cannot access capi... But actually it is: before the loan is made—
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/paragraph[1]/subparagraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(A)the State or regional
+			 reinsurance program submits to the Secretary a report setting forth, in such
+			 form and including such information as the Secretary shall require, how the
+			 program plans to repay the loan; and
+						"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/paragraph[1]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(B)based upon the report of
+			 the program, the Secretary determines that the program can meet its repayment
+			 obligation under the loan and certifies that the program can meet such
+			 obligation;
+						"}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: if the occurrence			 of a cove... But actually it is: the program cannot access			 c...
+The Jaccard Index is: 0.15
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/paragraph[3]/subparagraph[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/paragraph[3]/text[1]
+The reason of change is: element tag name
+The value is expected to be: subparagraph But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/paragraph[3]/subparagraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/paragraph[3]/subparagraph[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(A)}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/paragraph[3]/subparagraph[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"the State or regional
+			 reinsurance program is a qualified reinsurance program; or"}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(B)the loan complies with the requirements
+			 under subsection (g).
+						"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/paragraph[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(4)the loan complies with
+			 the requirements under subsection (d) and or (e), as applicable; and
+					"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[2]/paragraph[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(5)the loan is afforded the
+			 full faith and credit of the State and the State demonstrates to the Secretary
+			 that it has the ability to repay the loans.
+					"}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Mandatory			 assistance for qu... But actually it is: Mandatory assistance			 for qu...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Mandatory			 assistance for qualified reinsurance programs 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary			 shall— But actually it is: The Secretary shall upon the		...
+The Jaccard Index is: 0.09
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[3]/paragraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(1)upon the request of
+			 a qualified reinsurance program and subject to paragraphs (1) and (2) of
+			 subsection (b), make a loan under subsection (d) or (e) for such program in the
+			 amount requested by such program (subject to the limitations under subsections
+			 (d)(2) and (e)(2), respectively); and
+					"}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[3]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(2)upon the request of a Plan described in
+			 subsection (g)(1) and subject to paragraphs (1) and (2) of subsection (b), make
+			 a loan under subsection (g) for such Plan in the amount requested by such Plan
+			 (subject to the limitations under subsection (e)(2)).
+					"}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A loan under this subsection f... But actually it is: A loan under this subsection f...
+The Jaccard Index is: 0.78
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: A loan under this subsection for a /program shall be subject to the following requirements 
+insertion: 
+deletion: a State 
+change: regional			 to qualified / reinsurance to reinsurance			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[4]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[4]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The			 Secretary shall have de... But actually it is: The			 Secretary shall have de...
+The Jaccard Index is: 0.85
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: The			 Secretary shall have determined that the /reinsurance program 
+insertion: qualified 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[4]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[4]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: has a capital			 liquidity sho... But actually it is: has a capital liquidity			 sho...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.53
+The Detailes are shown as followings: 
+common words: has a shortage in accordance with regulations that the Secretary 
+insertion: 
+deletion: 
+change: capital			 to capital / liquidity to liquidity			 / shall			 establish and to shall establish			 and 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[4]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[4]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: cannot access			 capital marke... But actually it is: cannot access capital			 marke...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: cannot capital markets at effective rates of interest lower than those provided 
+insertion: 
+deletion: 
+change: access			 to access / in			 paragraph 3 to in paragraph			 3 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[4]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[4]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The			 principal amount of the... But actually it is: The			 principal amount of the...
+The Jaccard Index is: 0.89
+And the Smith Waterman Score is: 0.94
+The Detailes are shown as followings: 
+common words: The			 principal amount of the loan may not exceed the ceiling coverage level for the			 /reinsurance program 
+insertion: qualified 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[4]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[4]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Except as provided			 in subse... But actually it is: The loan shall bear interest a...
+The Jaccard Index is: 0.93
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: the loan shall bear interest at an annual rate points higher than marketable obligations of the Treasury having same to maturity as the loan and issued during the most recently month determined by the Secretary or such higher rate as may be to that the amounts of interest paid under such loans exceed the sum the as such term is defined in section 502 of the Federal Credit 
+insertion: 
+deletion: Except as provided			 in subsection f 
+change: 3 to 3			 / percentage			 to percentage / the to the			 / term			 to term / completed to completed			 / as			 to as / necessary to necessary			 / ensure			 to ensure / of to of			 / costs			 to costs / Reform Act of			 1990 to Reform			 Act of 1990 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[4]/paragraph[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[4]/paragraph[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) of such loans, the administr... But actually it is: )) of such loans, the administ...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words:  of such loans the administrative costs carrying out a program under this title for such loans and any incidental			 effects on governmental receipts and outlays 
+insertion: 
+deletion: 
+change: involved to involved			 / in			 to in / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[4]/paragraph[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[4]/paragraph[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Use But actually it is: Term
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[4]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[4]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Amounts			 from a loan under t... But actually it is: The			 loan shall have a term ...
+The Jaccard Index is: 0.07
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[4]/paragraph[5]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[4]/paragraph[4]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (5) But actually it is: (4)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[4]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[4]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Except			 as provided in subse... But actually it is: The			 loan shall have a term ...
+The Jaccard Index is: 0.63
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: the loan shall have a term to of not less than 5 years and not more 10 years 
+insertion: 
+deletion: Except			 as provided in subsections e and f 
+change: maturity			 to maturity / than to than			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A loan under this			 subsectio... But actually it is: A loan under this subsection f...
+The Jaccard Index is: 0.78
+And the Smith Waterman Score is: 0.45
+The Detailes are shown as followings: 
+common words: A loan under subsection for a /program shall be subject to following requirements 
+insertion: 
+deletion: a State 
+change: this			 to this / regional to qualified / reinsurance to reinsurance			 / the			 to the / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[5]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[5]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The			 Secretary shall have de... But actually it is: The			 Secretary shall have de...
+The Jaccard Index is: 0.43
+And the Smith Waterman Score is: 0.15
+The Detailes are shown as followings: 
+common words: The			 Secretary shall have determined that 
+insertion: 
+deletion: 
+change: the reinsurance program has sustained			 losses as a result of a covered event that exceed the ceiling coverage level			 for the qualified reinsurance program in accordance with regulations that the			 Secretary shall establish to an event has resulted in insured losses in			 a State with a qualified reinsurance program and that such insured losses in			 such State are in excess of 150 percent of the aggregate amount of direct			 written premium for privately issued property and casualty insurance for risks			 located in that State over the calendar year preceding such event in			 accordance with regulations that the Secretary shall establish 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[5]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[5]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The principal amount of the lo... But actually it is: The			 principal amount of the...
+The Jaccard Index is: 0.88
+And the Smith Waterman Score is: 0.51
+The Detailes are shown as followings: 
+common words: The principal amount of the loan pursuant to /event referred to in 1 may not exceed amount by which the /losses sustained /as a such event exceed the ceiling coverage level for the 
+insertion: insured 
+deletion: to sustained by the reinsurance 
+change: made			 to made / covered to an / paragraph to paragraph			 / the			 to the / result to result			 / of			 to of / program to qualified reinsurance			 program 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[5]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[5]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Except as provided			 in subse... But actually it is: The loan shall bear interest a...
+The Jaccard Index is: 0.94
+And the Smith Waterman Score is: 0.99
+The Detailes are shown as followings: 
+common words: the loan shall bear interest at an annual rate 020			 percentage points higher than marketable obligations of the Treasury having a			 term to maturity of not less than 10 years and issued during the most recently			 completed month as determined by the Secretary or such higher rate as may be			 necessary to ensure that the amounts of interest paid under such loans exceed			 the sum of the costs as such term is defined in section 502 of the Federal			 Credit Reform Act of 1990 
+insertion: 
+deletion: Except as provided			 in subsection e 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[5]/paragraph[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[5]/paragraph[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) of such loans, the administr... But actually it is: )) of such loans, the administ...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words:  of such loans the administrative			 costs involved in carrying out a program under this title for such loans and			 any incidental effects on governmental receipts and outlays 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[5]/paragraph[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[5]/paragraph[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Use But actually it is: Term
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[5]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[5]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Amounts			 from a loan under t... But actually it is: The			 loan shall have a term ...
+The Jaccard Index is: 0.07
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[5]/paragraph[5]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[5]/paragraph[4]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (5) But actually it is: (4)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[5]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[5]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Except			 as provided in subse... But actually it is: The			 loan shall have a term ...
+The Jaccard Index is: 0.56
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: the loan shall have a term to of not less than 10 years 
+insertion: 
+deletion: Except			 as provided in subsections d and e 
+change: maturity			 to maturity / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[6]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authority to			 extend term to... But actually it is: Use of			 funds
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The			 Secretary may extend th... But actually it is: Amounts from a loan			 under t...
+The Jaccard Index is: 0.2
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[6]/paragraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(1)the occurrence of
+			 multiple covered events affecting the area in which a reinsurance program is
+			 operating during a specific period of time; and
+					"}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[6]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(2)the area in which
+			 a reinsurance program is operating has suffered economic hardship or recession,
+			 resulting in decreased revenues available to the program.
+					"}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[7]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[6]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (g) But actually it is: (f)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[7]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[6]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Eligibility of			 States witho... But actually it is: Use of			 funds
+The Jaccard Index is: 0.02
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[7]/paragraph[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[6]/text[1]
+The reason of change is: element tag name
+The value is expected to be: paragraph But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[7]/paragraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[6]/text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[7]/paragraph[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(1)}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[7]/paragraph[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {Authority}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[7]/paragraph[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"Subject to subsection (b), the Secretary
+			 may make a catastrophic loan under subsection (e) to State residual insurance
+			 market entity or to a State or regional reinsurance plan that is not a
+			 qualified reinsurance plan, but only if a public official of the State, having
+			 legal authority to cosign a loan, cosigns for the loan along with the officers
+			 of the State residual insurance market entity or State or regional reinsurance
+			 program, as applicable."}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[7]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(2)Interest
+			 rateThe loan shall bear
+			 interest at an annual rate that exceeds the rate for a loan under subsection
+			 (c)(3) or (d)(3), as applicable, made to a qualified reinsurance plan. Such
+			 rate shall be determined in accordance with a schedule of interest rates, which
+			 shall be established by the Secretary and shall provide lower rates for loans
+			 to programs that comply with more of the requirements under section 301 for
+			 qualified reinsurance programs and higher rates for loans to programs that
+			 comply with fewer of such requirements.
+					"}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[7]/paragraph[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(3)Term to
+			 maturityThe loan shall have
+			 a term to maturity that is shorter in duration than allowable for a loan under
+			 subsection (c)(5) or (d)(5), as applicable, made to a qualified reinsurance
+			 plan. Such term to maturity shall be determined in accordance with a schedule
+			 of such terms, which shall be established by the Secretary and shall provide
+			 longer terms to maturity for loans to programs that comply with more of the
+			 requirements under section 301(a) for qualified reinsurance programs and
+			 shorter terms to maturity for loans to programs that comply with fewer of such
+			 requirements.
+					"}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[7]/paragraph[4]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(4)Termination of
+			 lending authorityThe Secretary may not make any loan under this
+			 subsection after the expiration of the 5-year period that begins on the date of
+			 the enactment of this Act.
+					"}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Reports But actually it is: Reports and			 audits
+The Jaccard Index is: 0.31
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: and			 audits 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary shall submit a r... But actually it is: The Secretary shall			 submit ...
+The Jaccard Index is: 0.97
+And the Smith Waterman Score is: 0.65
+The Detailes are shown as followings: 
+common words: The Secretary submit a report to President and the Congress annually that identifies describes any made under this title during such year and any during such year loans made under this title and describes actions taken accountability of loan funds The Secretary shall provide for audits be conducted for each loan made under this title and shall make such audits publicly available 
+insertion: 
+deletion: 
+change: shall to shall			 / the			 to the / and to and			 / loans			 to loans / repayments to repayments			 / of			 to of / to to to			 / ensure			 to ensure / regular to regular			 / to			 to to / the to the			 / reports to results / on			 to of / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Program			 fee But actually it is: Program fee
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Program			 fee 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary may			 establish... But actually it is: The Secretary may establish an...
+The Jaccard Index is: 0.96
+And the Smith Waterman Score is: 0.62
+The Detailes are shown as followings: 
+common words: The Secretary establish and collect from reinsurance programs that are /precertified pursuant to section reasonable fee as may be to offset the expenses of the Secretary connection with carrying out responsibilities of the Secretary under title including 
+insertion: 
+deletion: are 
+change: may			 to may / qualified to qualified			 / 301b to 301c / a to a			 / necessary			 to necessary / in to in			 / the			 to the / this to this			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: costs of			 developing, implem... But actually it is: costs of developing,			 implem...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.62
+The Detailes are shown as followings: 
+common words: costs developing implementing and carrying out the program under this 
+insertion: 
+deletion: 
+change: of			 to of / title			 and to title and 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: costs of providing			 for prec... But actually it is: costs of providing for			 prec...
+The Jaccard Index is: 0.91
+And the Smith Waterman Score is: 0.37
+The Detailes are shown as followings: 
+common words: costs of precertification pursuant to section of State and programs as /qualified reinsurance 
+insertion: 
+deletion: as 
+change: providing			 to providing / for to for			 / 301b to 301c / regional			 to regional / reinsurance to reinsurance			 / program to programs 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Startup			 costs But actually it is: Costs of loans;			 administrat...
+The Jaccard Index is: 0.1
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: There is authorized to			 be a... But actually it is: To the extent that amounts of ...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.14
+The Detailes are shown as followings: 
+common words: There is authorized to			 be appropriated to the Secretary of the /for each of fiscal years 2008			 through 2012 5000000 for /costs of carrying out 
+insertion: the extent that amounts of negative			 credit subsidy are received by the Secretary in any fiscal year pursuant to			 loans made under this title such amounts shall be available for costs Federal Credit Reform 
+deletion: for 
+change: Treasury to Act / this			 title to the program under			 this title for such loans 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Costs of loans;			 administrat... But actually it is: Full taxpayer			 repayment
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To the			 extent that amounts ... But actually it is: The Secretary shall require th...
+The Jaccard Index is: 0.25
+And the Smith Waterman Score is: 0.1
+The Detailes are shown as followings: 
+common words: the Secretary /in			 any fiscal year pursuant to loans made under this title 
+insertion: shall 
+deletion: To the			 extent that amounts of negative credit subsidy are received by 
+change: such amounts shall be			 available for costs as such term is defined in section 502 of the Federal			 Credit Reform Act of 1990 to If the Secretary determines at any time that such			 full repayment will not made or is likely not to be made the Secretary shall			 promptly submit a report to the Congress explaining why such full repayment			 will not be made or is likely not to be made 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[3]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"2 U.S.C. 661a"}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: )) of such loans and for costs... But actually it is: The Secretary shall require th...
+The Jaccard Index is: 0.17
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: General			 provisions But actually it is: General			 Provisions
+The Jaccard Index is: 0.68
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: provisions to Provisions 
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For purposes of this Act only,... But actually it is: For purposes of this			 Act on...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: For purposes of Act only a program shall considered to be a qualified reinsurance if the program 
+insertion: 
+deletion: 
+change: this to this			 / be			 to be / program to program			 / 
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: is			 authorized by State law ... But actually it is: is authorized by State			 law ...
+The Jaccard Index is: 0.9
+And the Smith Waterman Score is: 0.58
+The Detailes are shown as followings: 
+common words: is			 authorized by law for the purposes described this section 
+insertion: 
+deletion: 
+change: State to State			 / within to in / 
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: is an entity in			 which the a... But actually it is: is an entity in which the			 a...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: is an entity which authorizing State maintains a material financial interest 
+insertion: 
+deletion: 
+change: in			 to in / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: provides			 reinsurance or ret... But actually it is: provides reinsurance or			 ret...
+The Jaccard Index is: 0.91
+And the Smith Waterman Score is: 0.56
+The Detailes are shown as followings: 
+common words: provides			 reinsurance retrocessional coverage to underlying primary insurers reinsurers for arising from all personal /lines of insurance as defined in Uniform Property  Casualty Coding Matrix published and by the National Association of 
+insertion: 
+deletion: personal real property 
+change: or to or			 / or			 to or / losses to losses			 / homeowners			 to residential / the to the			 / Product			 to Product / maintained to maintained			 / Insurance			 Commissioners to Insurance Commissioners 
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: has a governing			 body, a maj... But actually it is: has a governing body, a			 maj...
+The Jaccard Index is: 0.94
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: has a body majority of whose members are public officials 
+insertion: 
+deletion: 
+change: governing			 to governing / a to a			 / and to 
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: complies with such additional	... But actually it is: provides reinsurance or			 ret...
+The Jaccard Index is: 0.19
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/paragraph[6]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(6)is authorized by a State
+			 that has in effect such laws, regulations, or other requirements, as the
+			 Secretary shall by regulation provide, that—
+						(A)ensure, to the extent
+			 that reinsurance coverage made available under the qualified reinsurance
+			 program results in any cost savings in providing insurance coverage for risks
+			 in such State, such cost savings are reflected in premium rates charged to
+			 consumers for such coverage;
+						(B)require that any new
+			 construction, substantial rehabilitation, and renovation insured or reinsured
+			 by the program complies with applicable State or local government building,
+			 fire, and safety codes;
+						(C)require State authorized
+			 insurance entities within that State to establish an insurance rate structure
+			 that takes into account measures to mitigate insurance losses;
+						(D)require State authorized
+			 insurance and reinsurance entities within that State to establish rates at a
+			 level that annually produces expected premiums that shall be sufficient to pay
+			 the expected annualized cost of all claims, loss adjustment expenses, and all
+			 administrative costs of reinsurance coverage offered; and
+						(E)encourage State
+			 authorized insurance and reinsurance entities within that State to establish
+			 rates that do not involve cross-subsidization between any separate property and
+			 casualty lines covered under the State authorized insurance or reinsurance
+			 entity; and
+						"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/paragraph[7]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(7)complies with such
+			 additional organizational, underwriting, and financial requirements as the
+			 Secretary shall, by regulation, provide to carry out the purposes of this
+			 Act.
+					"}
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Precertification But actually it is: Transitional			 Mechanisms
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The			 Secretary shall provide... But actually it is: For the five-year			 period be...
+The Jaccard Index is: 0.19
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Reinsurance to			 cover exposu... But actually it is: Precertification
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: This section			 may not be con... But actually it is: The			 Secretary shall establi...
+The Jaccard Index is: 0.16
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(d)Reinsurance To cover
+			 exposureThis section may not be construed to limit or prevent
+			 any insurer from obtaining reinsurance coverage for insured losses retained by
+			 insurers pursuant to this section, nor shall the obtaining of such coverage
+			 affect the calculation of the amount of any loan under this title.
+				"}
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means, with			 respect to a q... But actually it is:  means, with			 respect to a q...
+The Jaccard Index is: 0.58
+And the Smith Waterman Score is: 0.42
+The Detailes are shown as followings: 
+common words:  means with			 respect to a qualified reinsurance program the maximum 
+insertion: 
+deletion: 
+change: aggregate amount of			 coverage allowed under law to be provided at any time by the program to liability under law			 that could be incurred at any time by the qualified reinsurance program 
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Homeowners			 insurance But actually it is: Insured			 loss
+The Jaccard Index is: 0.08
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: homeowners’ insurance But actually it is: insured loss
+The Jaccard Index is: 0.12
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means			 homeowners’ insuranc... But actually it is:  means any loss insured			 by ...
+The Jaccard Index is: 0.11
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Insured			 loss But actually it is: Qualified reinsurance			 progr...
+The Jaccard Index is: 0.09
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[3]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[3]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: insured loss But actually it is: qualified reinsurance program
+The Jaccard Index is: 0.12
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means any loss insured			 by ... But actually it is: 			 means a State or regional ...
+The Jaccard Index is: 0.12
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Qualified			 reinsurance progr... But actually it is: Secretary
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The term  But actually it is: The			 term 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: The term 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[4]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[4]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: qualified reinsurance			 progr... But actually it is: Secretary
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[4]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means a State or regional pro... But actually it is:  means the Secretary of the Tr...
+The Jaccard Index is: 0.09
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Secretary But actually it is: State
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[5]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[5]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Secretary But actually it is: State
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[5]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/paragraph[5]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means the Secretary of the Tr... But actually it is:  includes the several States, ...
+The Jaccard Index is: 0.04
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary shall issue such... But actually it is: The Secretary shall issue such...
+The Jaccard Index is: 0.88
+And the Smith Waterman Score is: 0.93
+The Detailes are shown as followings: 
+common words: The Secretary shall issue such regulations			 as may be necessary to carry out this 
+insertion: 
+deletion: 
+change: title to Act 
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		October 31, 2007
+		Reported with an amendment, committed to the Committee of
+		  the Whole House on the State of the Union, and ordered to be
+		  printed
+	"}
+

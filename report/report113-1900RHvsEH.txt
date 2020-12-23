@@ -1,0 +1,220 @@
+===================================================
+
+total difference is: 122
+comparing document: BILLS-113hr1900rh.xml
+to document: BILLS-113hr1900eh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Reported-in-House But actually it is: Engrossed-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 113 HR 1900 RH: Natural Gas Pi... But actually it is: 113 HR 1900 EH: Natural Gas Pi...
+The Jaccard Index is: 0.9
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: 113 HR 1900 Natural Gas Pipeline Permitting Reform Act 
+insertion: 
+deletion: 
+change: RH to EH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {}
+
+We are at location: bill[1]/form[1]/calendar[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: calendar But actually it is: null
+ Deleted paragraph content is: {"Union Calendar No. 192"}
+
+We are at location: bill[1]/form[1]/associated-doc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: associated-doc But actually it is: null
+ Deleted paragraph content is: {"[Report No. 113–269]"}
+
+We are at location: bill[1]/form[1]/action[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+  May 9, 2013
+  Mr. Pompeo (for himself, Mr. Matheson, Mr. Olson, Mr. Gardner, and Mr. Johnson of Ohio) introduced the following bill; which was referred to the Committee on Energy and Commerce
+"}
+
+We are at location: bill[1]/form[1]/action[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+  November 18, 2013
+  Additional sponsors: Mr. McKinley, Mr. Radel, Mr. Latta, Mr. Marino, Mr. Cotton, Mr. Hall, Mrs. Blackburn, Mr. Cramer, Mr. Murphy of Pennsylvania, Mr. Barton, Mr. Cassidy, Mr. Terry, Mr. Harper, Mr. Kline, Mr. Barletta, Mr. Wilson of South Carolina, Mr. Sessions, and Mr. Duncan of South Carolina
+"}
+
+We are at location: bill[1]/form[1]/action[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+  November 18, 2013
+  Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed
+  Strike out all after the enacting clause and insert the part printed in italic
+"}
+
+We are at location: bill[1]/form[1]/action[4]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+  
+    
+  
+"}
+
+We are at location: bill[1]/form[1]/legis-type[1]/text()[1]   Compared with location: bill[1]/form[1]/legis-type[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A BILL But actually it is: AN ACT
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/official-title[1]/pagebreak[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: pagebreak But actually it is: null
+ Deleted paragraph content is: {}
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) is amended by adding at the ... But actually it is: ) is amended by adding at the ...
+The Jaccard Index is: 0.95
+And the Smith Waterman Score is: 0.92
+The Detailes are shown as followings: 
+common words:  is amended by adding at the end the following new 
+insertion: 
+deletion: 
+change: subsections to subsection 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/text[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(1)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"The Commission shall approve or deny an application for a certificate of public convenience and necessity for a prefiled project not later than 12 months after receiving a complete application that is ready to be processed, as defined by the Commission by regulation."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (2)
+  The agency responsible for issuing any license, permit, or approval required under Federal law in connection with a prefiled project for which a certificate of public convenience and necessity is sought under this Act shall approve or deny the issuance of the license, permit, or approval not later than 90 days after the Commission issues its final environmental document relating to the project.
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (3)
+  The Commission may extend the time period under paragraph (2) by 30 days if an agency demonstrates that it cannot otherwise complete the process required to approve or deny the license, permit, or approval, and therefor will be compelled to deny the license, permit, or approval. In granting an extension under this paragraph, the Commission may offer technical assistance to the agency as necessary to address conditions preventing the completion of the review of the application for the license, permit, or approval.
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (4)
+  If an agency described in paragraph (2) does not approve or deny the issuance of the license, permit, or approval within the time period specified under paragraph (2) or (3), as applicable, such license, permit, or approval shall take effect upon the expiration of 30 days after the end of such period. The Commission shall incorporate into the terms of such license, permit, or approval any conditions proffered by the agency described in paragraph (2) that the Commission does not find are inconsistent with the final environmental document.
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (5)
+  For purposes of this subsection, the term prefiled project means a project for the siting, construction, expansion, or operation of a natural gas pipeline with respect to which a prefiling docket number has been assigned by the Commission pursuant to a prefiling process established by the Commission for the purpose of facilitating the formal application process for obtaining a certificate of public convenience and necessity.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[2]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (j) But actually it is: (i)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The agency responsible for iss... But actually it is: The Commission shall approve o...
+The Jaccard Index is: 0.32
+And the Smith Waterman Score is: 0.16
+The Detailes are shown as followings: 
+common words: or operation of any natural gas pipeline project for /a certificate of public convenience and necessity 
+insertion: 
+deletion: The agency responsible for issuing any license permit or approval required under Federal law in connection with the siting construction expansion for 
+change: is sought under this Act shall approve or deny the issuance of the license permit or approval not later than 90 days after the Commission issues its final environmental document relating to the project to for a prefiled project not later than 12 months after receiving a complete application that is ready to be processed as defined by the Commission by regulation 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: An agency may request that the... But actually it is: The agency responsible for iss...
+The Jaccard Index is: 0.19
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If an agency described in para... But actually it is: The Commission may extend the ...
+The Jaccard Index is: 0.28
+And the Smith Waterman Score is: 0.15
+The Detailes are shown as followings: 
+common words: If an agency /described in paragraph 1 does not approve or deny the /license permit or approval 
+insertion: Commission may extend the time period under paragraph 2 by 30 days if demonstrates that it cannot 
+deletion: the issuance of 
+change: within the time period specified under paragraph 1 or 2 as applicable such license permit or approval shall go into effect to and therefor will be compelled to deny the license permit or approval In granting an extension under this paragraph the Commission may offer technical assistance to the agency as necessary to address conditions preventing the completion of the review of the application for the license permit or approval 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (4)
+  If an agency described in paragraph (2) does not approve or deny the issuance of the license, permit, or approval within the time period specified under paragraph (2) or (3), as applicable, such license, permit, or approval shall take effect upon the expiration of 30 days after the end of such period. The Commission shall incorporate into the terms of such license, permit, or approval any conditions proffered by the agency described in paragraph (2) that the Commission does not find are inconsistent with the final environmental document.
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (5)
+  For purposes of this subsection, the term prefiled project means a project for the siting, construction, expansion, or operation of a natural gas pipeline with respect to which a prefiling docket number has been assigned by the Commission pursuant to a prefiling process established by the Commission for the purpose of facilitating the formal application process for obtaining a certificate of public convenience and necessity.
+"}
+
+We are at location: bill[1]/endorsement[1]/action-date[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-date But actually it is: null
+ Deleted paragraph content is: {"November 18, 2013"}
+
+We are at location: bill[1]/endorsement[1]/action-desc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-desc But actually it is: null
+ Deleted paragraph content is: {"Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: attestation
+ Inserted paragraph content is: {"
+  
+    Passed the House of Representatives November 21, 2013.
+    Karen L. Haas,
+    Clerk.
+  
+"}
+

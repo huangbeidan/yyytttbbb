@@ -1,0 +1,172 @@
+===================================================
+
+total difference is: 32
+comparing document: BILLS-112hr5859eh.xml
+to document: BILLS-112hr5859rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IB But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED		 ...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED		  STATES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To repeal an obsolete provisio... But actually it is: To repeal an obsolete provisio...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: To repeal an obsolete provision in /49 United States Code requiring motor vehicle insurance 
+insertion: title		 
+deletion: 
+change: title to  / cost reporting to cost		  reporting 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			July 24, 2012
+			Received; read twice and referred to the
+			 Committee on Commerce, Science, and
+			 Transportation
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subsection (c) of section 3230... But actually it is: Subsection (c) of			 
+The Jaccard Index is: 0.12
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"section
+			 32302"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 49, United States Code, is repealed, and any
+			 regulations promulgated under such subsection shall have no force or
+			 effect."}
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Determination regarding provis... But actually it is: Determination			 regarding pro...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: Determination regarding provision of damage susceptibility information to consumers 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In			 general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 32302(b) of title 49, ... But actually it is: 			 of title 49, United States...
+The Jaccard Index is: 0.82
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: 32302b of title 49 United States Code is amended by adding at the end the 
+insertion: 
+deletion: Section 
+change: following to following			 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary, after providing... But actually it is: The Secretary, after providing...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: The Secretary after providing an opportunity for public comment study and report to Congress the most useful data format and method providing simple and understandable damage susceptibility information 
+insertion: 
+deletion: 
+change: shall to shall			 / for to for			 / to consumers to to			 consumers 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"Section 32302(b)"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of Transportatio... But actually it is: The Secretary of Transportatio...
+The Jaccard Index is: 0.35
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: The Secretary of Transportation shall out the last sentence 
+insertion: 
+deletion: 
+change: carry to carry			 / of section 32302b of title 49 United States Code as added by subsection a not later than the date that is 2 years after the date of the enactment of this Act to of			 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"section
+			 32302(b)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 49, United States Code, as added by
+			 subsection (a), not later than the date that is 2 years after the date of the
+			 enactment of this Act."}
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Passed the House of Representa... But actually it is: Passed the House of			 Represe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Passed the House Representatives July 23 2012 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clerk. But actually it is: Clerk
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/endorsement[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: endorsement But actually it is: null
+ Deleted paragraph content is: {""}
+

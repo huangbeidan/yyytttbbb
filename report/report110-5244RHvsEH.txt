@@ -1,0 +1,95 @@
+===================================================
+
+total difference is: 29
+comparing document: BILLS-110hr5244rh.xml
+to document: BILLS-110hr5244eh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Reported-in-House But actually it is: Engrossed-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 5244 RH: Credit Cardhol... But actually it is: 110 HR 5244 EH: Credit Cardhol...
+The Jaccard Index is: 0.9
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: 110 HR 5244 Credit Cardholders’ Bill of Rights Act of 2008 
+insertion: 
+deletion: 
+change: RH to EH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2008-09-16 But actually it is: 0
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/calendar[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: calendar But actually it is: null
+ Deleted paragraph content is: {"Union Calendar No. 554"}
+
+We are at location: bill[1]/form[1]/associated-doc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: associated-doc But actually it is: null
+ Deleted paragraph content is: {"[Report No. 110–857]"}
+
+We are at location: bill[1]/form[1]/action[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {" 
+February 7, 2008 
+Mrs. Maloney of New York (for herself, Mr. Frank of Massachusetts, Ms. Waters, Mr. Gutierrez, Mr. Lynch, Mr. Ellison, Mr. Cohen, Mr. Fattah, Mr. Hinchey, Mr. Langevin, Mr. Nadler, Ms. Shea-Porter, Ms. Solis, Mr. Welch of Vermont, Mr. Wynn, Mr. Gonzalez, Mr. DeFazio, Mr. Taylor, Mr. Obey, Ms. Hirono, Mrs. Boyda of Kansas, Ms. Wasserman Schultz, Mr. Udall of Colorado, Mr. Dingell, Ms. Corrine Brown of Florida, Mr. Thompson of Mississippi, Mr. Hastings of Florida, Ms. Clarke, Mr. Jackson of Illinois, Mr. Davis of Illinois, Mrs. Gillibrand, Ms. Eddie Bernice Johnson of Texas, Ms. Watson, Mr. Arcuri, Mr. Engel, Mr. Tierney, Mr. Van Hollen, Mr. George Miller of California, Mr. Moran of Virginia, Mr. Weiner, Mr. Abercrombie, Ms. Schakowsky, Mr. Shays, Mr. Serrano, Mr. Doggett, and Mr. Lincoln Davis of Tennessee) introduced the following bill; which was referred to the Committee on Financial Services 
+"}
+
+We are at location: bill[1]/form[1]/action[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+September 16, 2008
+Additional sponsors: Mr. Delahunt, Ms. DeLauro, Mr. Rahall, Mr. Blumenauer, Mr. Ackerman, Mr. McGovern, Mr. Hall of New York, Mr. Filner, Mr. McNulty, Mr. Grijalva, Mr. Payne, Mr. McDermott, Mr. Reyes, Mr. Walz of Minnesota, Mr. Becerra, Mr. Chandler, Mr. Conyers, Ms. McCollum of Minnesota, Mr. Wu, Mr. Rodriguez, Mr. Kennedy, Mr. Clay, Ms. Woolsey, Mr. Baird, Mr. Cummings, Mr. Sires, Mr. Berman, Mr. Stark, Mr. Hare, Ms. Slaughter, Mr. Capuano, Mr. Miller of North Carolina, Ms. Zoe Lofgren of California, Mr. Farr, Ms. Jackson-Lee of Texas, Mr. Ryan of Ohio, Mr. Lewis of Georgia, Mr. Honda, Ms. Sutton, Mr. Sarbanes, Ms. Roybal-Allard, Ms. Baldwin, Ms. Eshoo, Mr. Rothman, Mr. Kildee, Ms. Loretta Sanchez of California, Mr. Israel, Mr. Kagen, Mr. Braley of Iowa, Mr. Meek of Florida, Mr. Ortiz, Mrs. Lowey, Mr. Jefferson, Mr. Bishop of Georgia, Mr. Gene Green of Texas, Mr. Yarmuth, Mr. Waxman, Mr. Carnahan, Mr. Johnson of Georgia, Mr. Stupak, Ms. Tsongas, Mr. Courtney, Mr. Allen, Mr. Levin, Mr. Andrews, Ms. Giffords, Mr. Watt, Mr. Baca, Mr. Kanjorski, Mr. Hinojosa, Mr. Cleaver, Mr. McNerney, Mr. Al Green of Texas, Mr. Barrow, Mr. Marshall, Mr. Markey, Mr. Sherman, Mr. Lipinski, Mr. Butterfield, Ms. Kilpatrick, Mrs. Capps, Mrs. Napolitano, Ms. Norton, Mr. Boswell, Ms. Lee, Ms. Kaptur, Mr. Higgins, Mr. Olver, Mr. Jones of North Carolina, Ms. Matsui, Mr. Pascrell, Mr. Pallone, Mr. Murtha, Mr. Inslee, Mr. Brady of Pennsylvania, Mr. Carson, Mr. Speier, Mr. Holt, Mr. Towns, Ms. Linda T. Sánchez of California, Mr. Cuellar, Mr. Rangel, Mrs. Jones of Ohio, Mr. Faleomavaega, Ms. Berkley, Mr. Loebsack, Mr. Cooper, Ms. Bordallo, Mr. Kucinich, and Mr. Neal of Massachusetts
+"}
+
+We are at location: bill[1]/form[1]/action[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+September 16, 2008
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed
+Strike out all after the enacting clause and insert the part printed in italic
+For text of introduced bill, see copy of bill as introduced on February 7, 2008
+"}
+
+We are at location: bill[1]/form[1]/legis-type[1]/text()[1]   Compared with location: bill[1]/form[1]/legis-type[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A BILL But actually it is: AN ACT
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/endorsement[1]/action-date[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-date But actually it is: null
+ Deleted paragraph content is: {"September 16, 2008"}
+
+We are at location: bill[1]/endorsement[1]/action-desc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-desc But actually it is: null
+ Deleted paragraph content is: {"Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: attestation
+ Inserted paragraph content is: {"
+  
+    Passed the House of Representatives September 23, 2008.
+    Lorraine C. Miller,
+    Clerk.
+  
+"}
+

@@ -1,0 +1,762 @@
+===================================================
+
+total difference is: 195
+comparing document: BILLS-111hr3125ih.xml
+to document: BILLS-111hr3125rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/session[1]/text()[1]   Compared with location: bill[1]/form[1]/session[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 1st Session But actually it is: 2d Session
+The Jaccard Index is: 0.55
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 1st Session 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  (for			 himself,  But actually it is:  (for himself, 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: for			 himself to for himself 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/text()[18]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/text()[18]
+The reason of change is: content change
+The value is expected to be: ) introduced the following			 ... But actually it is: ) introduced the following bil...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words:  introduced the bill which was referred to the 
+insertion: 
+deletion: 
+change: following			 to following / 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Committee			 on Energy and Com... But actually it is: Committee on Energy and Commer...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Committee			 on Energy and Commerce 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To require an inventory of rad... But actually it is: To require an inventory of rad...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: To require an inventory of radio spectrum bands /by the National Telecommunications and Information Administration and /Federal Communications Commission 
+insertion: 
+deletion: bands and 
+change:  to managed /  to the / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 265"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 111–462]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+April 13, 2010
+Additional sponsors: Mr. Terry, Mrs. Christensen, Mr. Rogers of Michigan, Mrs. Bono Mack, Mr. Burgess, Mr. Butterfield, Mrs. Capps, Mr. Sullivan, Mr. Van Hollen, Mr. Johnson of Georgia, Mrs. Blackburn, and Mr. Scott of Georgia
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+April 13, 2010
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed
+Strike out all after the enacting clause and insert the part printed in italic
+For text of introduced bill, see copy of bill as introduced on July 8, 2009
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+
+"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Radio Spectrum Inventory			 Ac... But actually it is: Radio Spectrum Inventory Act
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Radio Spectrum 
+insertion: 
+deletion: 
+change: Inventory			 Act to Inventory Act 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Spectrum			 inventory But actually it is: Spectrum inventory
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Spectrum			 inventory 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Part B of title I of			 the Na... But actually it is: Part B of title I of the Natio...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: Part B of title I the National Telecommunications and Information Administration Organization 47 USC 921 et seq is amended by adding at the end the following 
+insertion: 
+deletion: 
+change: of			 to of / Act			 to Act / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Spectrum				inventory But actually it is: Spectrum inventory
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: inventory 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Radio spectrum				inventory But actually it is: Radio spectrum inventory
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: spectrum				inventory to spectrum inventory 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In order to promote the effici... But actually it is: In order to promote the effici...
+The Jaccard Index is: 0.92
+And the Smith Waterman Score is: 0.64
+The Detailes are shown as followings: 
+common words: In order to promote the efficient use of /spectrum the NTIA and the Commission shall coordinate /out each of the following activities not later than after /of enactment of this section 
+insertion: the and the 
+deletion: 
+change: the				electromagnetic to electromagnetic / and				carry to carry / 180 to 1 / days to year / the				date to date / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Create an inventory				of each... But actually it is: Except as provided in subsecti...
+The Jaccard Index is: 0.52
+And the Smith Waterman Score is: 0.54
+The Detailes are shown as followings: 
+common words: Create an /inventory				of each radio spectrum band of frequencies in the United States Table /Allocations from 225 megahertz to 
+insertion: as provided in subsection e create inventory of 
+deletion: 
+change: used to listed / of				Frequency to Frequency / 10 gigahertz that				includes to at a minimum 37 gigahertz and to 10 gigahertz unless the NTIA and the Commission determine that the burden of expanding the inventory outweighs the benefit that includes 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the radio services authorized ... But actually it is: the radio services authorized ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: the radio services authorized to operate /band of frequencies 
+insertion: in 
+deletion: 
+change: in				each to each / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the identity of				each Federa... But actually it is: the identity of each Federal o...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.68
+The Detailes are shown as followings: 
+common words: the identity /Federal or nonFederal user within each such radio service authorized /in each band of frequencies 
+insertion: of to 
+deletion: 
+change: of				each to each / to				operate to operate / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the total amount of spectrum, ... But actually it is: the activities, capabilities, ...
+The Jaccard Index is: 0.22
+And the Smith Waterman Score is: 0.04
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: total amount of spectrum by band of				frequencies allocated to each Federal or nonFederal user in percentage terms				and in sum and the geographic areas covered by their respective				allocations to activities capabilities functions or missions including whether such activities capabilities functions or missions are spacebased airbased or groundbased supported by the transmitters enduser terminals or receivers or other radio frequency devices authorized to operate in each band of frequencies 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the approximate number of tran... But actually it is: the total amount of spectrum, ...
+The Jaccard Index is: 0.2
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/subparagraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/subparagraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: an approximation of the extent... But actually it is: the approximate number of tran...
+The Jaccard Index is: 0.35
+And the Smith Waterman Score is: 0.09
+The Detailes are shown as followings: 
+common words: of				frequencies such as the amount and percentage of time of use number of end				users or other measures as appropriate to 
+insertion: 
+deletion: an approximation of the extent to which				each Federal or nonFederal user is using by geography each band 
+change: the particular band and radio				service to characterize the extent of use of each radio service in each band of frequencies 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/subparagraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/subparagraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: for non-Federal users, any com... But actually it is: an approximation of the extent...
+The Jaccard Index is: 0.19
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/subparagraph[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/subparagraph[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to the greatest				extent poss... But actually it is: to the greatest extent possibl...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: to the 
+insertion: 
+deletion: 
+change: greatest				extent possible to greatest extent possible 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/subparagraph[7]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/subparagraph[7]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: contour maps or				other infor... But actually it is: contour maps or other informat...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 0.64
+The Detailes are shown as followings: 
+common words: contour maps /information that illustrate the coverage area receiver performance /parameters relevant to an assessment of the availability of spectrum 
+insertion: or and 
+deletion: 
+change: or				other to other / and				other to other / in				each band and to in each band 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/subparagraph[7]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/subparagraph[7]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: for each band or range of freq... But actually it is: for each band or range of freq...
+The Jaccard Index is: 0.98
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: for each band or range of frequencies /of each entity offering unlicensed services and the types /number of unlicensed intentional radiators verified or certified /Commission that are authorized to operate 
+insertion: the and by 
+deletion: 
+change: the				identity to identity / and				approximate to approximate / by				the to the / and 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/subparagraph[7]/clause[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: clause
+ Inserted paragraph content is: {"
+  (iii)
+  for non-Federal users, any commercial names under which facilities-based service is offered to the public using the spectrum of the non-Federal user, including the commercial names under which the spectrum is being offered through resale.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Create a				centralized portal... But actually it is: Except as provided in subsecti...
+The Jaccard Index is: 0.46
+And the Smith Waterman Score is: 0.38
+The Detailes are shown as followings: 
+common words: Create a				centralized portal or /to make the inventory of the bands of 
+insertion: as provided in subsection e create a Web 
+deletion: 
+change: website to site / frequencies				available to the public via an Internetaccessible website to frequencies required under paragraph 1 available to the public 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Use of agency				resources But actually it is: Use of agency resources
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Use of 
+insertion: 
+deletion: 
+change: agency				resources to agency resources 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In creating the				inventory d... But actually it is: In creating the inventory desc...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: In creating 
+insertion: 
+deletion: 
+change: the				inventory described in				 to the inventory described in 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: , the NTIA and the				Commissi... But actually it is: , the NTIA and the Commission ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.68
+The Detailes are shown as followings: 
+common words:  the NTIA and /shall first use agency resources including existing /testing and recordkeeping systems and only request information /and nonFederal users if such information cannot be obtained using 
+insertion: the databases from 
+deletion: 
+change: the				Commission to Commission / databases				field to field / from				Federal to Federal / such				agency resources to such agency resources 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"Not later than 1 year after the date of
+				enactment of this section and annually thereafter, the NTIA and the Commission
+				shall each submit a report to the Committee on Commerce, Science, and
+				Transportation of the Senate and to the Committee on Energy and Commerce of the
+				House of Representatives containing—"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (1) But actually it is: (2)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/text[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/header[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: header
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the results of the				inventor... But actually it is: Relocation report
+The Jaccard Index is: 0.02
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/text[1]/internal-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: internal-xref But actually it is: null
+ Deleted paragraph content is: {"subsection (a)(1)"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ; But actually it is: Relocation report
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/subparagraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (A)
+  In general
+  Except as provided in subsection (e), the NTIA and the Commission shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives containing a recommendation of which spectrum, if any, should be reallocated or otherwise made available for shared access and an explanation of the basis for that recommendation.
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (B)
+  Deadlines
+  The report required under subparagraph (A) shall be submitted not later than 4 years after the date of enactment of this section and every 4 years thereafter.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (2) But actually it is: (3)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a description of				any inform... But actually it is: If the NTIA and the Commission...
+The Jaccard Index is: 0.15
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Inventory report"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (3) But actually it is: (1)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a description of any informati... But actually it is: Except as provided in subsecti...
+The Jaccard Index is: 0.1
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/text[1]/internal-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: internal-xref But actually it is: null
+ Deleted paragraph content is: {"subsection (e)"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ; But actually it is: Except as provided in subsecti...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"In general"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/subparagraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (A)
+  the results of the inventory created under subsection (a)(1), including any update to the information in the inventory pursuant to subsection (d);
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (B)
+  a description of any information the NTIA or the Commission determines is necessary for such inventory but that is unavailable; and
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/subparagraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (C)
+  a description of any information not provided by any Federal or non-Federal user in accordance with subsections (e)(1)(B)(ii) and (e)(2)(C)(ii).
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[4]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (4) But actually it is: (3)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: an identification, by relevant... But actually it is: If the NTIA and the Commission...
+The Jaccard Index is: 0.17
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Inventory report"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[5]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (5) But actually it is: (3)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a recommendation of which, if ... But actually it is: If the NTIA and the Commission...
+The Jaccard Index is: 0.09
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[5]/text[1]/internal-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: internal-xref But actually it is: null
+ Deleted paragraph content is: {"paragraph (4)"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[5]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  the Federal Government				sho... But actually it is: If the NTIA and the Commission...
+The Jaccard Index is: 0.11
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Inventory report"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Maintenance and				Updating of... But actually it is: Maintenance and Updating of In...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Maintenance and				Updating of Information 
+insertion: and 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: After				the creation of the i... But actually it is: After the creation of the inve...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: After				the creation of the inventory required 
+insertion: the 
+deletion: 
+change: by				 to by 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[4]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: , the NTIA and the				Commissi... But actually it is: , the NTIA and the Commission ...
+The Jaccard Index is: 0.61
+And the Smith Waterman Score is: 0.45
+The Detailes are shown as followings: 
+common words:  the NTIA and /shall make all /efforts /to maintain and update /required under such subsection /there is a transfer or auction of a license or a change in 
+insertion: the reasonable the on 
+deletion: efforts 
+change: the				Commission to Commission / the				information to information / in to a / near to quarterly / realtime to basis / fashion to including / and				whenever to when / an				allocation or assignment to a permanent assignment or license 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: National				security But actually it is: National security and public s...
+The Jaccard Index is: 0.37
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: security and public safety information 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Compliance But actually it is: Nondisclosure
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"In complying with
+				subsection (a)(1), a Federal or
+				non-Federal user shall make a certification to the NTIA or the Commission that
+				the information—"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[1]/subparagraph[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[1]/subparagraph[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (A) But actually it is: (B)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: is accurate;				and But actually it is: The agency head shall provide ...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[1]/subparagraph[2]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Information provided"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[1]/subparagraph[2]/clause[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: clause
+ Inserted paragraph content is: {"
+  (i)
+  the publicly releasable information required by subsection (a)(1);
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[1]/subparagraph[2]/clause[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: clause
+ Inserted paragraph content is: {"
+  (ii)
+  to the maximum extent practicable, a summary description, suitable for public release, of the classified national security information or other information for which there is a legal basis for nondisclosure; and
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[1]/subparagraph[2]/clause[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: clause
+ Inserted paragraph content is: {"
+  (iii)
+  a classified annex, under appropriate cover, containing the classified national security information or other information for which there is a legal basis for nondisclosure that the agency head has determined must be withheld from public disclosure.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[1]/subparagraph[2]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[1]/subparagraph[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (B) But actually it is: (A)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: is as				comprehensive, extens... But actually it is: If the head of an executive ag...
+The Jaccard Index is: 0.1
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[1]/subparagraph[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"In general"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Reporting of				withheld infor... But actually it is: Public safety nondisclosure
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[2]/text[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[2]/subparagraph[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: subparagraph
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[2]/subparagraph[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[2]/subparagraph[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(A)}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[2]/text[1]/internal-xref[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[2]/subparagraph[1]/header[1]
+The reason of change is: element tag name
+The value is expected to be: internal-xref But actually it is: header
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[2]/text[1]/internal-xref[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[2]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: subsection (c) But actually it is: In general
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[2]/subparagraph[1]/text[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"If a licensee of non-Federal spectrum determines that public disclosure of certain information held by that licensee and required to be submitted by subsection (a), (c), or (d) would reveal information for which public disclosure would be detrimental to public safety, or the licensee is otherwise prohibited by law from disclosing the information, the licensee may petition the Commission for a partial or total exemption from inclusion on the centralized portal or Web site under subsection (a)(2) and in the report required by subsection (c)."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[2]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (B)
+  Burden
+  The licensee seeking an exemption under this paragraph bears the burden of justifying the exemption and shall provide clear and convincing evidence to support such an exemption.
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[2]/subparagraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(C)Information requiredIf an exemption is granted under this paragraph, the licensee shall provide to the Commission—
+(i)the publicly releasable information required by subsection (a)(1) for the inventory;
+(ii)to the maximum extent practicable, a summary description, suitable for public release, of the information for which public disclosure would be detrimental to public safety or the licensee is otherwise prohibited by law from disclosing; and
+(iii)an annex, under appropriate cover, containing the information that the Commission has determined should be withheld from public disclosure."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (3)
+  Additional disclosure
+  The annexes required under paragraphs (1)(B)(iii) and (2)(C)(iii) shall be provided to the congressional committees listed in subsection (c), but shall not be disclosed to the public under subsection (a) or subsection (d) or provided to any unauthorized person through any other means.
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (4)
+  National Security Council consultation
+  Prior to the release of the inventory under subsection (a), any updates to the inventory resulting from subsection (d), or the submission of a report under subsection (c)(1), the NTIA and the Commission shall consult with the National Security Council for a period not to exceed 30 days for the purposes of determining what additional information, if any, shall be withheld from the public.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[6]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Proprietary				information But actually it is: Proprietary information
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: information 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In creating and maintaining th... But actually it is: In creating and maintaining th...
+The Jaccard Index is: 0.71
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: In creating and maintaining the /portal or /and reports under this section the NTIA and /shall follow their rules and practice regarding confidential 
+insertion: inventory Web the 
+deletion: 
+change: inventory				centralized to centralized / website to site / the				Commission to Commission / and				proprietary				information to and proprietary information Nothing in this subsection shall be construed to compel the Commission to make publicly available any confidential or proprietary information 
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+April 13, 2010
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+

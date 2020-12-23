@@ -1,0 +1,334 @@
+===================================================
+
+total difference is: 44
+comparing document: BILLS-111hr4501eh.xml
+to document: BILLS-111hr4501rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IB But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED		 ...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED		  STATES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To require certain return poli... But actually it is: To require certain return poli...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: To require certain return policies /businesses that purchase precious metals from consumers and solicit /transactions through an Internet website 
+insertion: from		 such		 
+deletion: 
+change: from to  / such to  / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			December 9, 2010
+			Received; read twice and referred to the
+			 Committee on Commerce, Science, and
+			 Transportation
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Guarantee of a Legitimate Deal... But actually it is: Guarantee of a Legitimate Deal...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Guarantee of a Legitimate Deal Act 
+insertion: 
+deletion: 
+change: of 2010 to of			 2010 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Return requirements for purcha... But actually it is: Return			 requirements for pur...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: Return requirements for purchasers of precious metals 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Unlawful conduct But actually it is: Unlawful			 conduct
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Unlawful conduct 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: It shall be unlawful for any p... But actually it is: It shall be unlawful for any p...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: It shall be unlawful for any purchaser of precious 
+insertion: 
+deletion: 
+change: metals to to metals			 to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: sell, transfer to a third part... But actually it is: sell, transfer to			 a third p...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: sell transfer a third party or refine through melting or otherwise permanently destroy item of jewelry or precious metal before the purchaser of precious metals received an affirmative acceptance of an offer to purchase the item for specific price from the consumer to whom such offer was made 
+insertion: 
+deletion: 
+change: to to to			 / an to an			 / has to has			 / a to a			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: fail to promptly return to the... But actually it is: fail to promptly			 return to ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: fail to return to the consumer any jewelry or other precious metal if the declines the offer to purchase made by the purchaser of precious 
+insertion: 
+deletion: 
+change: promptly to promptly			 / consumer to consumer			 / metals or to metals			 or 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: fail to insure any shipment to... But actually it is: fail to insure any			 shipment...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: fail to insure shipment to the consumer of such jewelry or precious metals in an amount 
+insertion: 
+deletion: 
+change: any to any			 / equal to to equal			 to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the amount the consumer insure... But actually it is: the amount the			 consumer ins...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: the amount consumer insured the shipment of the jewelry or precious metals to purchaser of precious metals if the consumer provides the purchaser precious metals with proof of such insurance or 
+insertion: 
+deletion: 
+change: the to the			 / the to the			 / of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 60 percent of the melt-value o... But actually it is: 60 percent of the			 melt-valu...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: 60 percent of meltvalue of the jewelry or precious metals if the consumer does not the purchaser of precious metals with proof of such insurance 
+insertion: 
+deletion: 
+change: the to the			 / provide to provide			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Law Enforcement Exception—Para... But actually it is: Law Enforcement			 Exception—P...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: Law ExceptionParagraph 1 of this subsection shall not prohibit the sale transfer of any item of jewelry or precious metal to law enforcement or their personnel 
+insertion: 
+deletion: 
+change: Enforcement to Enforcement			 / or to or			 / agencies to agencies			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: As used in this Act— But actually it is: As			 used in this Act—
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: As used in this Act 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means a person who is in the ... But actually it is:  means a person who is in the	...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words:  means a person who is in business of purchasing jewelry or other precious metals directly consumers and 
+insertion: 
+deletion: 
+change: the to the			 / from to from			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means the reasonable estimate... But actually it is:  means the reasonable estimate...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words:  means the reasonable estimated value of any item jewelry or precious metal as determined by the purchaser of precious if such item were processed and refined by the purchaser of 
+insertion: 
+deletion: 
+change: of to of			 / metals to metals			 / precious metals to precious			 metals 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Commission may issue regul... But actually it is: The			 Commission may issue re...
+The Jaccard Index is: 0.35
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: The Commission may issue regulations 
+insertion: 
+deletion: 
+change: under section 553 of title 5 United States Code to carry out the purposes of this Act to under			 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"section
+			 553"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 5, United States Code, to carry out the purposes
+			 of this Act."}
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Enforcement by the Federal Tra... But actually it is: Enforcement by			 the Federal ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Enforcement the Federal Trade Commission 
+insertion: 
+deletion: 
+change: by to by			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Unfair and deceptive act or pr... But actually it is: Unfair and			 deceptive act or...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Unfair deceptive act or practice 
+insertion: 
+deletion: 
+change: and to and			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A violation of this Act or a r... But actually it is: A violation of this Act or a r...
+The Jaccard Index is: 0.83
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: A violation of this Act or a issued pursuant to this Act shall be treated as an unfair or deceptive act practice in violation of a regulation under section 18a1B of the Trade Commission Act 
+insertion: 
+deletion: 
+change: regulation to regulation			 / or to or			 / Federal to Federal			 / 15 USC 57aa1B regarding unfair or deceptive acts or practices to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"15 U.S.C. 57a(a)(1)(B)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") regarding
+			 unfair or deceptive acts or practices."}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Powers of commission But actually it is: Powers of			 commission
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of commission to of			 commission 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Commission shall enforce t... But actually it is: The Commission shall enforce t...
+The Jaccard Index is: 0.56
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: The Commission shall enforce this Act in the manner by the same means and with the same jurisdiction powers and as though all applicable terms and provisions of the Federal Trade 
+insertion: 
+deletion: 
+change: same to same			 / duties to duties			 / Commission Act 15 USC 41 et seq were incorporated into and made a part of this Act Any person who violates this Act shall be subject to the penalties and entitled to the privileges and immunities provided in that Act to Commission			 Act 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"15 U.S.C. 41 et
+			 seq."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") were incorporated into and made a part of this Act. Any
+			 person who violates this Act shall be subject to the penalties and entitled to
+			 the privileges and immunities provided in that Act."}
+
+We are at location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effective date But actually it is: Effective			 date
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Effective date 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  The provisions of this Act sh... But actually it is: The provisions of this			 Act ...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: The provisions of Act shall take effect 60 days after the date of enactment of this Act 
+insertion: 
+deletion:  
+change: this to this			 / 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Passed the House of Representa... But actually it is: Passed the House of			 Represe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Passed the House Representatives December 8 2010 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/endorsement[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: endorsement But actually it is: null
+ Deleted paragraph content is: {""}
+

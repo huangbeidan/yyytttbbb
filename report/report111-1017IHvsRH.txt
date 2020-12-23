@@ -1,0 +1,206 @@
+===================================================
+
+total difference is: 52
+comparing document: BILLS-111hr1017ih.xml
+to document: BILLS-111hr1017rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/session[1]/text()[1]   Compared with location: bill[1]/form[1]/session[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 1st Session But actually it is: 2d Session
+The Jaccard Index is: 0.55
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 1st Session 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend the Department of Vet... But actually it is: To amend the Department of Vet...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.55
+The Detailes are shown as followings: 
+common words: To amend the Department of Veterans /Health /Programs Enhancement Act of 2001 and title 38 United States /to /the provision of chiropractic care and services to veterans at / /of Veterans Affairs medical centers and to expand access to 
+insertion: Affairs		 Code		 Department 
+deletion: Health to at 
+change: Affairs to  /  to Care / Code to  /  to require / Department		 to all		 / such care and		  services to such		  care and services 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 276"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No.
+		  111–488]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			May 20, 2010
+			Additional sponsors: Mr.
+			 Michaud, Mr. Chandler,
+			 Mr. Gordon of Tennessee,
+			 Mr. Lincoln Diaz-Balart of Florida,
+			 Mr. Walz, Ms. Ros-Lehtinen, Mr. Boswell, Mr.
+			 Loebsack, Mr. Young of
+			 Florida, Mr. Braley of
+			 Iowa, Mr. Moran of Kansas,
+			 Mr. Boucher,
+			 Mr. Doggett,
+			 Ms. Herseth Sandlin,
+			 Mr. Peterson,
+			 Mr. Smith of Washington,
+			 Mr. Courtney,
+			 Ms. Berkley,
+			 Mr. Latham,
+			 Mr. Terry,
+			 Mr. Rooney,
+			 Ms. Titus,
+			 Mr. Heinrich,
+			 Ms. Linda T. Sánchez of California,
+			 Mr. Himes,
+			 Mr. Rodriguez,
+			 Mrs. Halvorson,
+			 Mr. Carnahan,
+			 Mr. Oberstar,
+			 Mr. Israel,
+			 Mr. Hastings of Florida,
+			 Ms. Corrine Brown of Florida,
+			 Mr. Schock,
+			 Mr. Arcuri,
+			 Mr. Kirk, Mr. Tim Murphy of Pennsylvania, and
+			 Mr. Roskam
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			May 20, 2010
+			Reported with an amendment, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The program shall be carried o... But actually it is: The program shall				be carrie...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.52
+The Detailes are shown as followings: 
+common words: The program /carried out /fewer than 75 medical centers by not later than /2010 and /medical centers by not later than December 31				2012 
+insertion: at at 
+deletion: program than 
+change: be to shall				be / at				not to not / 31 to December				31 / at				all to all / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/quoted-block[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/quoted-block[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: periodic and preventative chir... But actually it is: periodic and				preventative c...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.2
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: and preventative chiropractic				examinations and				services to and				preventative chiropractic examinations and				services 
+
+We are at location: null   Compared with location: bill[1]/legis-body[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: legis-body
+ Inserted paragraph content is: {"
+		1.Short titleThis Act may be cited as the
+			 Chiropractic Care Available to All
+			 Veterans Act.
+		2.Program for provision of
+			 chiropractic care and services to veteransSection 204(c) of the Department of Veterans
+			 Affairs Health Care Programs Enhancement Act of 2001 (38 U.S.C. 1710 note) is
+			 amended—
+			(1)by inserting
+			 (1) before The program; and
+			(2)by adding at the end the
+			 following new paragraph:
+				
+					(2)The program shall be
+				carried out at not fewer than 75 medical centers by not later than December 31,
+				2011, and at all medical centers by not later than December 31,
+				2013.
+					.
+			3.Expanded chiropractor
+			 services available to veterans
+			(a)Medical
+			 servicesParagraph (6) of section 1701 of title 38, United States
+			 Code, is amended by adding at the end the following new subparagraph:
+				
+					(H)Chiropractic
+				services.
+					.
+			(b)Rehabilitative
+			 servicesParagraph (8) of such section is amended by inserting
+			 chiropractic, after counseling,.
+			(c)Preventive health
+			 servicesParagraph (9) of such section is amended—
+				(1)by redesignating
+			 subparagraphs (F) through (K) as subparagraphs (G) through (L), respectively;
+			 and
+				(2)by inserting after
+			 subparagraph (E) the following new subparagraph (F):
+					
+						(F)periodic and preventative
+				chiropractic examinations and
+				services;
+						.
+				"}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		May 20, 2010
+		Reported with an amendment, committed to the Committee of
+		  the Whole House on the State of the Union, and ordered to be
+		  printed
+	"}
+

@@ -1,0 +1,125 @@
+===================================================
+
+total difference is: 25
+comparing document: BILLS-115hr806rfs-nodtd.xml
+to document: BILLS-115hr806eh-nodtd.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Referred-in-Senate But actually it is: Engrossed-in-House
+
+We are at location: bill[1]   Compared with location: bill[1]
+The reason of change is: number of child nodes
+The value is expected to be: 4 But actually it is: 5
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 115 HR 806 : Ozone Standards I... But actually it is: 115 HR 806 EH: Ozone Standards...
+The Jaccard Index is: 0.89
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: 115 HR 806 Ozone Standards Implementation Act of 2017 
+insertion: 
+deletion: 
+change:  to EH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]
+The reason of change is: presence of child nodes to be
+The value is expected to be: true But actually it is: false
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]
+The reason of change is: number of child nodes
+The value is expected to be: 1 But actually it is: 0
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+
+We are at location: bill[1]/form[1]   Compared with location: bill[1]/form[1]
+The reason of change is: number of child nodes
+The value is expected to be: 8 But actually it is: 7
+
+We are at location: bill[1]/form[1]/distribution-code[1]/@display   Compared with location: bill[1]/form[1]/distribution-code[1]/@display
+The reason of change is: attribute value
+The value is expected to be: yes But actually it is: no
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IIB But actually it is: I
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/@display   Compared with location: bill[1]/form[1]/current-chamber[1]/@display
+The reason of change is: attribute value
+The value is expected to be: yes But actually it is: no
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE SENATE OF THE UNITED ST... But actually it is: IN THE HOUSE OF REPRESENTATIVE...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: SENATE OF THE UNITED STATES to HOUSE OF REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/action[1]   Compared with location: bill[1]/form[1]/official-title[1]
+The reason of change is: element tag name
+The value is expected to be: action But actually it is: official-title
+
+We are at location: bill[1]/form[1]/action[1]   Compared with location: bill[1]/form[1]/official-title[1]
+The reason of change is: number of element attributes
+The value is expected to be: 0 But actually it is: 1
+
+We are at location: bill[1]/form[1]/action[1]   Compared with location: bill[1]/form[1]/official-title[1]/@display
+The reason of change is: attribute name
+The value is expected to be: null But actually it is: display
+
+We are at location: bill[1]/form[1]/action[1]   Compared with location: bill[1]/form[1]/official-title[1]
+The reason of change is: number of child nodes
+The value is expected to be: 2 But actually it is: 1
+
+We are at location: bill[1]/form[1]/action[1]/action-date[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/form[1]/action[1]/action-date[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: presence of child nodes to be
+The value is expected to be: true But actually it is: false
+
+We are at location: bill[1]/form[1]/action[1]/action-date[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: number of child nodes
+The value is expected to be: 1 But actually it is: 0
+
+We are at location: bill[1]/form[1]/action[1]/action-date[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-desc But actually it is: null
+
+We are at location: bill[1]/form[1]/action[1]   Compared with location: bill[1]/form[1]/official-title[1]
+The reason of change is: order change
+The value is expected to be: 5 But actually it is: 6
+
+We are at location: bill[1]/form[1]/legis-type[1]   Compared with location: bill[1]/form[1]/legis-type[1]
+The reason of change is: order change
+The value is expected to be: 6 But actually it is: 5
+
+We are at location: bill[1]/form[1]/official-title[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: official-title But actually it is: null
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/attestor[1]/@display   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestor[1]/@display
+The reason of change is: attribute value
+The value is expected to be: yes But actually it is: no
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+

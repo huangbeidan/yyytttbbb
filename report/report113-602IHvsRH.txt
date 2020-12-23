@@ -1,0 +1,202 @@
+===================================================
+
+total difference is: 41
+comparing document: BILLS-113hr602ih.xml
+to document: BILLS-113hr602rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 113 HR 602 IH: Veterans 2nd Am... But actually it is: 113 HR 602 RH: Veterans 2nd Am...
+The Jaccard Index is: 0.88
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: 113 HR 602 Veterans 2nd Amendment Protection Act 
+insertion: 
+deletion: 
+change: IH to RH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2013-02-08 But actually it is: 2013-07-19
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Committee on Veterans’			 Affa... But actually it is: Committee on Veterans’ Affairs
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Committee on 
+insertion: 
+deletion: 
+change: Veterans’			 Affairs to Veterans’ Affairs 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend title 38, United Stat... But actually it is: To amend title 38, United Stat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: To amend title 38 United States Code to clarify /conditions under which certain persons may be treated as adjudicated /incompetent for certain purposes 
+insertion: 
+deletion: clarify adjudicated 
+change:  to the /  to mentally / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 114"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 113–159]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {" 
+July 19, 2013 
+Committed to the Committee of the Whole House on the State of the Union and ordered to be printed 
+"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Veterans 2nd Amendment Protect... But actually it is: Veterans 2nd Amendment Protect...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Veterans 2nd Amendment 
+insertion: 
+deletion: 
+change: Protection			 Act to Protection Act 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Conditions for			 treatment of... But actually it is: Conditions for treatment of ce...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: Conditions treatment of certain persons as adjudicated mentally incompetent for 
+insertion: 
+deletion: 
+change: for			 to for / certain			 purposes to certain purposes 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In			 general But actually it is: In general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In			 general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 38, United States Co... But actually it is:  of title 38, United States Co...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words:  of title 38 United States Code is amended adding at the end the following new section 
+insertion: 
+deletion: 
+change: by			 to by / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Conditions for				treatment of... But actually it is: Conditions for treatment of ce...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: Conditions for				treatment of certain persons as adjudicated mentally incompetent for 
+insertion: for 
+deletion: 
+change: certain				purposes to certain purposes 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In any case arising				out of ... But actually it is: In any case arising out of the...
+The Jaccard Index is: 0.72
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: In any case /of the administration by the Secretary of laws and benefits under /a person who is mentally incapacitated deemed mentally incompetent /an extended loss of consciousness shall not be /as a mental defective under subsection d4 or g4 of 
+insertion: arising this or considered 
+deletion: 
+change: arising				out to out / this				title to title / or				experiencing to experiencing / considered				adjudicated to adjudicated / section				922 of title 18 without the order or finding of a judge magistrate or other				judicial authority of competent jurisdiction that such person is a danger to				himself or herself or				others to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"section 922"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 18 without the order or finding of a judge, magistrate, or other judicial authority of competent jurisdiction that such person is a danger to himself or herself or others."}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clerical			 amendment But actually it is: Clerical amendment
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Clerical			 amendment 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The table of sections at the b... But actually it is: The table of sections at the b...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.92
+The Detailes are shown as followings: 
+common words: The table of sections at the beginning of chapter 55 such title is amended by adding at the end the following new item 
+insertion: 
+deletion: 
+change: of			 to of / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 5511. Conditions for treatment... But actually it is: 5511. Conditions for treatment...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: 5511 Conditions for treatment of certain persons /mentally incompetent for 
+insertion: as 
+deletion: 
+change: as				adjudicated to adjudicated / certain				purposes to certain purposes 
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {" 
+July 19, 2013 
+Committed to the Committee of the Whole House on the State of the Union and ordered to be printed"}
+

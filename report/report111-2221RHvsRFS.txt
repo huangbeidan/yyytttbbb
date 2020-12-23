@@ -1,0 +1,2575 @@
+===================================================
+
+total difference is: 242
+comparing document: BILLS-111hr2221eh.xml
+to document: BILLS-111hr2221rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED		 ...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED		  STATES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To protect consumers by requir... But actually it is: To protect consumers by requir...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: To protect consumers by /reasonable security policies and procedures to protect data containing /information and to provide for nationwide notice in the event of a 
+insertion: requiring		 personal		 
+deletion: 
+change: requiring to  / personal to  / security breach to security		  breach 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			December 9, 2009
+			Received; read twice and referred to the
+			 Committee on Commerce, Science, and
+			 Transportation
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Data Accountability and Trust ... But actually it is: Data Accountability and Trust	...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Data Accountability and 
+insertion: 
+deletion: 
+change: Trust Act to Trust			 Act 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Requirements for information s... But actually it is: Requirements for			 informatio...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Requirements information security 
+insertion: 
+deletion: 
+change: for to for			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: General security policies and ... But actually it is: General security			 policies a...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: General policies and procedures 
+insertion: 
+deletion: 
+change: security to security			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 1 year after th... But actually it is: Not			 later than 1 year after...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: Not later than 1 year after the date of enactment of this Act the Commission promulgate regulations under section 553 of title 5 United States Code require each person engaged in interstate commerce that owns or possesses containing personal information or contracts to have any third party maintain such data for such person to establish and implement policies procedures regarding information security practices for the treatment protection of personal information taking into consideration 
+insertion: 
+deletion: 
+change: shall to shall			 / to to to			 / data to data			 / entity to entity			 / and to and			 / and to and			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the size of, and the nature, s... But actually it is: the size of, and			 the nature...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: the size of the nature scope and complexity of the activities engaged in by 
+insertion: 
+deletion: 
+change: and to and			 / such person to such			 person 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the current state of the art i... But actually it is: the current state			 of the ar...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: the current of the art in administrative technical and physical safeguards for such information and 
+insertion: 
+deletion: 
+change: state to state			 / protecting to protecting			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the cost of implementing such ... But actually it is: the cost of			 implementing su...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: the cost implementing such safeguards 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Such regulations shall require... But actually it is: Such			 regulations shall requ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Such regulations shall require the policies and procedures to include 
+insertion: 
+deletion: 
+change: the following to the			 following 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A security policy with respect... But actually it is: A security policy with respect...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: A security policy with respect to collection use sale other dissemination and maintenance of such 
+insertion: 
+deletion: 
+change: the to the			 / personal information to personal			 information 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The identification of an offic... But actually it is: The identification of an offic...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: The identification of an officer or individual as the point of contact with responsibility for the management information security 
+insertion: 
+deletion: 
+change: other to other			 / of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A process for identifying and ... But actually it is: A process for identifying and ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: A process for identifying and assessing reasonably foreseeable vulnerabilities in the system or systems maintained such person that contains such data which shall include regular monitoring a breach of security of such system or systems 
+insertion: 
+deletion: 
+change: any to any			 / by to by			 / for to for			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A process for taking preventiv... But actually it is: A process for			 taking preven...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: A process taking preventive and corrective action to mitigate against any identified in the process required by subparagraph C which may implementing any changes to security practices and the installation or implementation of network or operating software 
+insertion: 
+deletion: 
+change: for to for			 / vulnerabilities to vulnerabilities			 / include to include			 / architecture to architecture			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A process for disposing of dat... But actually it is: A process for			 disposing of ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: A process disposing of data in electronic form containing personal information shredding permanently erasing or otherwise modifying the personal contained in such data to make such personal information permanently or undecipherable 
+insertion: 
+deletion: 
+change: for to for			 / by to by			 / information to information			 / unreadable to unreadable			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A standard method or methods f... But actually it is: A standard method			 or method...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: A standard or methods for the destruction of paper documents and other nonelectronic containing personal information 
+insertion: 
+deletion: 
+change: method to method			 / data to data			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Treatment of entities governed... But actually it is: Treatment of			 entities gover...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Treatment entities governed by other law 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any person who is in complianc... But actually it is: Any person who is in complianc...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Any person who is in compliance with other Federal law that requires such person to maintain standards safeguards for information security and protection of personal that taken as a whole and as the Commission shall determine in the required under paragraph 1 provide protections substantially similar to greater than those required under this subsection shall be deemed to be compliance with this subsection 
+insertion: 
+deletion: 
+change: any to any			 / and to and			 / information to information			 / rulemaking to rulemaking			 / or to or			 / in to in			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Special requirements for infor... But actually it is: Special			 requirements for in...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Special requirements for information brokers 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Submission of policies to the ... But actually it is: Submission of			 policies to t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Submission policies to the FTC 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The regulations promulgated un... But actually it is: The			 regulations promulgated...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: The regulations promulgated under subsection a shall require each broker to submit its security policies to the Commission in conjunction with notification of a breach of security under section 3 or upon request of 
+insertion: 
+deletion: 
+change: information to information			 / a to a			 / the Commission to the			 Commission 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Post-breach audit But actually it is: Post-breach			 audit
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Postbreach audit 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For any information broker req... But actually it is: For any information			 broker ...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: For any broker required to provide notification under section 3 the Commission conduct audits of the information security practices of such broker or require the information broker to conduct independent audits of practices by an independent auditor who has not audited such broker’s security practices during the preceding 5 years 
+insertion: 
+deletion: 
+change: information to information			 / may to may			 / information to information			 / such to such			 / information to information			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Accuracy of and individual acc... But actually it is: Accuracy of and			 individual ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Accuracy of individual access to personal information 
+insertion: 
+deletion: 
+change: and to and			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[1]/clause[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[1]/clause[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In			 general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Each information broker shall ... But actually it is: Each information broker shall ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Each information broker shall establish procedures to assure the maximum possible accuracy of the personal it collects assembles or maintains and any other information it assembles or maintains that specifically identifies an individual other information which merely identifies an individual’s name or address 
+insertion: 
+deletion: 
+change: reasonable to reasonable			 / information to information			 / collects to collects			 / than to than			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[1]/clause[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[1]/clause[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Limited exception for fraud da... But actually it is: Limited			 exception for fraud...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Limited exception for fraud databases 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[1]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[1]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The requirement in clause (i) ... But actually it is: The requirement in clause (i) ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: The requirement in clause i shall prevent the collection or maintenance of information that may be with respect to a particular individual when that information is collected or maintained solely 
+insertion: 
+deletion: 
+change: not to not			 / inaccurate to inaccurate			 / being to being			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[1]/clause[2]/subclause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[1]/clause[2]/subclause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: for the purpose of indicating ... But actually it is: for the purpose of			 indicati...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: for the purpose indicating whether there may be a discrepancy or irregularity in the information that is associated with an individual and 
+insertion: 
+deletion: 
+change: of to of			 / personal to personal			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[1]/clause[2]/subclause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[1]/clause[2]/subclause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to help identify, or authentic... But actually it is: to help identify,			 or authen...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: to help or authenticate the identity of an individual or to protect against investigate fraud or other unlawful conduct 
+insertion: 
+deletion: 
+change: identify to identify			 / or to or			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Consumer access to information But actually it is: Consumer access			 to informat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Consumer to information 
+insertion: 
+deletion: 
+change: access to access			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Each information broker shall— But actually it is: Each			 information broker sha...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Each information broker shall 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[1]/subclause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[1]/subclause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: provide to each individual who... But actually it is: provide to each individual who...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: provide to each individual whose information it maintains at the individual’s request at least 1 time per and at no cost to the individual and after verifying the identity of individual a means for the individual to review any personal regarding such individual maintained by the information broker and any information maintained by the information broker that specifically such individual other than information which merely identifies an name or address and 
+insertion: 
+deletion: 
+change: personal to personal			 / year to year			 / such to such			 / information to information			 / other to other			 / identifies to identifies			 / individual’s to individual’s			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[1]/subclause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[1]/subclause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: place a conspicuous notice on ... But actually it is: place a			 conspicuous notice ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: place conspicuous notice on its Internet website if the information broker such a website instructing individuals how to request access to information required to be provided under subclause I and as how to express a preference with respect to the use of personal information marketing purposes under clause iii 
+insertion: 
+deletion: 
+change: a to a			 / maintains to maintains			 / the to the			 / applicable to applicable			 / for to for			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Disputed information But actually it is: Disputed			 information
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Disputed information 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Whenever an individual whose i... But actually it is: Whenever an			 individual whos...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: Whenever individual whose information the information broker maintains makes a request disputing the accuracy of any such information the information after verifying the identity of the individual making such request and there are reasonable grounds to believe such request is frivolous irrelevant shall 
+insertion: 
+deletion: 
+change: an to an			 / written to written			 / broker to broker			 / unless to unless			 / or to or			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[2]/subclause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[2]/subclause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: correct any inaccuracy; or But actually it is: correct any			 inaccuracy; or
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: correct inaccuracy or 
+insertion: 
+deletion: 
+change: any to any			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[2]/subclause[2]/item[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[2]/subclause[2]/item[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in the case of information tha... But actually it is: in the case of			 information ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: in the case information that is public record information inform the individual of source of the information and if reasonably available where a request correction may be directed and if the individual provides proof that public record has been corrected or that the information broker was the information incorrectly correct the inaccuracy in the information records or 
+insertion: 
+deletion: 
+change: of to of			 / the to the			 / for to for			 / the to the			 / reporting to reporting			 / broker’s to broker’s			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[2]/subclause[2]/item[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[2]/subclause[2]/item[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in the case of information tha... But actually it is: in the case of information tha...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: in the case of information that nonpublic information note the information that is disputed including individual’s statement disputing such information and take reasonable steps independently verify such information under the procedures outlined subparagraph A if such information can be independently verified 
+insertion: 
+deletion: 
+change: is to is			 / the to the			 / to to to			 / in to in			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Alternative procedure for cert... But actually it is: Alternative			 procedure for c...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Alternative procedure for certain marketing information 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In accordance with regulations... But actually it is: In accordance with regulations...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: In accordance with regulations issued clause v an information broker that maintains any information described clause i which is used shared or sold by such information broker marketing purposes may in lieu of complying with the access and requirements set forth in clauses i and ii provide each individual information it maintains with a reasonable means of expressing a preference to have his or her information used for such purposes If the expresses such a preference the information broker may not use share or the individual’s information for marketing purposes 
+insertion: 
+deletion: 
+change: under to under			 / in to in			 / for to for			 / dispute to dispute			 / whose to whose			 / not to not			 / individual to individual			 / sell to sell			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: An information broker may limi... But actually it is: An			 information broker may l...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: An information broker may limit the access to information required subparagraph BiI and is not required to provide notice to individuals required under subparagraph BiII in the following circumstances 
+insertion: 
+deletion: 
+change: under to under			 / as to as			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[4]/subclause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[4]/subclause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If access of the individual to... But actually it is: If access of the			 individual...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: If access of individual to the information is limited by law or legally 
+insertion: 
+deletion: 
+change: the to the			 / recognized privilege to recognized			 privilege 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[4]/subclause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[4]/subclause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If the information is used for... But actually it is: If the			 information is used ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: If information is used for a legitimate governmental or fraud prevention that would be compromised by such access 
+insertion: 
+deletion: 
+change: the to the			 / purpose to purpose			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[4]/subclause[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[4]/subclause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If the information consists of... But actually it is: If the information consists of...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: If the information consists of a media record unless that record has been included in a report about individual shared with a third party 
+insertion: 
+deletion: 
+change: published to published			 / an to an			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[2]/clause[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 1 year after th... But actually it is: Not later than 1 year after th...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Not later than 1 year after the date of enactment of this Act the Commission shall promulgate regulations section 553 of title 5 United States Code to carry out this paragraph and facilitate the purposes of this Act In addition the Commission shall regulations as necessary under section 553 of title 5 United States Code the scope of the application of the limitations in clause iv including additional circumstances in which an information broker may limit access information under such clause that the Commission determines to 
+insertion: 
+deletion: 
+change: the to the			 / under to under			 / to to to			 / issue to issue			 / on to on			 / any to any			 / to to to			 / be appropriate to be			 appropriate 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: FCRA regulated persons But actually it is: FCRA regulated			 persons
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: regulated persons to regulated			 persons 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any information broker who is ... But actually it is: Any information			 broker who ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: Any broker who is engaged in activities subject to the Fair Credit Reporting and who is in compliance with sections 609 610 and 611 of such Act respect to information subject to such Act shall be deemed to be in with this paragraph with respect to such information 
+insertion: 
+deletion: 
+change: information to information			 / Act to Act			 / with to with			 / compliance to compliance			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Requirement of audit log of ac... But actually it is: Requirement of			 audit log of...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: Requirement audit log of accessed and transmitted information 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 1 year after th... But actually it is: Not later than 1 year after th...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: Not later than 1 year after the date of enactment of this Act the Commission shall promulgate regulations section 553 of title 5 United States Code to require information brokers establish measures which facilitate the auditing or retracing of any or external access to or transmissions of any data containing information collected assembled or maintained by such 
+insertion: 
+deletion: 
+change: the to the			 / under to under			 / to to to			 / internal to internal			 / personal to personal			 / information broker to information			 broker 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Prohibition on pretexting by i... But actually it is: Prohibition on			 pretexting b...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Prohibition pretexting by information brokers 
+insertion: 
+deletion: 
+change: on to on			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[5]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[5]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Prohibition on obtaining perso... But actually it is: Prohibition on			 obtaining pe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Prohibition obtaining personal information by false pretenses 
+insertion: 
+deletion: 
+change: on to on			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[5]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[5]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: It shall be unlawful for an in... But actually it is: It shall be			 unlawful for an...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: It shall unlawful for an information broker to obtain or attempt to obtain or cause be disclosed or attempt to cause to be disclosed to any person information or any other information relating to any person by 
+insertion: 
+deletion: 
+change: be to be			 / to to to			 / personal to personal			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[5]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[5]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: making a false, fictitious, or... But actually it is: making a false,			 fictitious,...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: making a fictitious or fraudulent statement or representation to any person or 
+insertion: 
+deletion: 
+change: false to false			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[5]/subparagraph[1]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[5]/subparagraph[1]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: providing any document or othe... But actually it is: providing any document or othe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: providing any document or other to any person that the information broker knows or should know to be counterfeit lost stolen or fraudulently obtained or to contain a fictitious or fraudulent statement or representation 
+insertion: 
+deletion: 
+change: information to information			 / forged to forged			 / false to false			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[5]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[5]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Prohibition on solicitation to... But actually it is: Prohibition on			 solicitation...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Prohibition solicitation to obtain personal information under false pretenses 
+insertion: 
+deletion: 
+change: on to on			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[5]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[5]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: It shall be unlawful for an in... But actually it is: It shall be unlawful for an in...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: It shall be unlawful for an broker to request a person to obtain personal information or any information relating to any other person if the information broker knew should have known that the person to whom such a request is made will obtain attempt to obtain such information in the manner described in 
+insertion: 
+deletion: 
+change: information to information			 / other to other			 / or to or			 / or to or			 / subparagraph A to subparagraph			 A 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Exemption for certain service ... But actually it is: Exemption for			 certain servi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Exemption certain service providers 
+insertion: 
+deletion: 
+change: for to for			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Nothing in this section shall ... But actually it is: Nothing in this section shall ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Nothing in this section shall apply to service provider for any electronic communication by a third party that transmitted routed or stored in intermediate or transient storage by service provider 
+insertion: 
+deletion: 
+change: a to a			 / is to is			 / such to such			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notification of information se... But actually it is: Notification of			 information...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Notification information security breach 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Nationwide Notification But actually it is: Nationwide			 Notification
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Nationwide Notification 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any person engaged in intersta... But actually it is: Any person engaged in intersta...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: Any person engaged in interstate commerce that or possesses data in electronic form containing personal information following the discovery of a breach of security of the system maintained such person that contains such data 
+insertion: 
+deletion: 
+change: owns to owns			 / shall to shall			 / by to by			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: notify each individual who is ... But actually it is: notify each			 individual who ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: notify individual who is a citizen or resident of the United States whose information was acquired or accessed as a result of such a breach of 
+insertion: 
+deletion: 
+change: each to each			 / personal to personal			 / security and to security			 and 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: notify the Commission. But actually it is: notify the			 Commission.
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: the Commission to the			 Commission 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Special Notification Requireme... But actually it is: Special			 Notification Requir...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Special Notification Requirements 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Third party agents But actually it is: Third party			 agents
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: party agents to party			 agents 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In the event of a breach of se... But actually it is: In the event of a breach of se...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: In the event of a breach of security by any third entity that has been contracted to maintain or process data in electronic containing personal information on behalf of any other person who owns possesses such data such third party entity shall be required to notify person of the breach of security Upon receiving such notification from third party such person shall provide the notification required subsection a 
+insertion: 
+deletion: 
+change: party to party			 / form to form			 / or to or			 / such to such			 / such to such			 / under to under			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Service providers But actually it is: Service			 providers
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Service providers 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If a service provider becomes ... But actually it is: If a service			 provider becom...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: If a provider becomes aware of a breach of security of data in electronic containing personal information that is owned or possessed by another that connects to or uses a system or network provided by the service for the purpose of transmitting routing or providing intermediate transient storage of such data such service provider shall be required notify of such a breach of security only the person who initiated connection transmission routing or storage if such person can be identified Upon receiving such notification from a service provider person shall provide the notification required under subsection a 
+insertion: 
+deletion: 
+change: service to service			 / form to form			 / person to person			 / provider to provider			 / or to or			 / to to to			 / such to such			 / reasonably to reasonably			 / such to such			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Coordination of notification w... But actually it is: Coordination of			 notificatio...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Coordination notification with credit reporting agencies 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If a person is required to pro... But actually it is: If a person is required to pro...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: If a person is required to notification to more than 5000 individuals under subsection a1 the shall also notify the major credit reporting agencies that compile and files on consumers on a nationwide basis of the timing and distribution of notices Such notice shall be given to the credit reporting agencies unreasonable delay and if it will not delay notice to the individuals prior to the distribution of notices to the affected individuals 
+insertion: 
+deletion: 
+change: provide to provide			 / person to person			 / maintain to maintain			 / the to the			 / without to without			 / affected to affected			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Timeliness of Notification But actually it is: Timeliness of			 Notification
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of Notification to of			 Notification 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In			 general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Unless subject to a delay auth... But actually it is: Unless subject to a			 delay a...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Unless subject to delay authorized under paragraph 2 a notification required under a shall be made not later than 60 days following the discovery of a breach security unless the person providing notice can show that providing within such a time frame is not feasible due to extraordinary necessary to prevent further breach or unauthorized disclosures and restore the integrity of the data system in which case such notification be made as promptly as possible 
+insertion: 
+deletion: 
+change: a to a			 / subsection to subsection			 / of to of			 / notice to notice			 / circumstances to circumstances			 / reasonably to reasonably			 / shall to shall			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Delay of Notification Authoriz... But actually it is: Delay of			 Notification Autho...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.64
+The Detailes are shown as followings: 
+common words: Delay Notification Authorized for Law Enforcement or National 
+insertion: 
+deletion: 
+change: of to of			 / Security Purposes to Security			 Purposes 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Law enforcement But actually it is: Law			 enforcement
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Law enforcement 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If a Federal, State, or local ... But actually it is: If a Federal, State, or local ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: If a Federal State or local law enforcement determines that the notification required under this section would impede civil or criminal investigation such notification shall be delayed upon written request of the law enforcement agency for 30 days or such lesser of time which the law enforcement agency determines is reasonably necessary requests in writing A law enforcement agency may by a subsequent request revoke such delay or extend the period of time set forth in original request made under this paragraph if further delay 
+insertion: 
+deletion: 
+change: agency to agency			 / a to a			 / the to the			 / period to period			 / and to and			 / written to written			 / the to the			 / is necessary to is			 necessary 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: National security But actually it is: National			 security
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: National security 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If a Federal national security... But actually it is: If a Federal national security...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: If a Federal national security agency or security agency determines that the notification required under this would threaten national or homeland security such notification may be for a period of time which the national security agency or homeland agency determines is reasonably necessary and requests in writing A national security agency or homeland security agency may revoke such delay extend the period of time set forth in the original request made under paragraph by a subsequent written request if further delay is necessary 
+insertion: 
+deletion: 
+change: homeland to homeland			 / section to section			 / delayed to delayed			 / security to security			 / Federal to Federal			 / or to or			 / this to this			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Method and Content of Notifica... But actually it is: Method and			 Content of Notif...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Method Content of Notification 
+insertion: 
+deletion: 
+change: and to and			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Direct notification But actually it is: Direct			 notification
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Direct notification 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Method of notification But actually it is: Method of			 notification
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of notification to of			 notification 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A person required to provide n... But actually it is: A person required to provide n...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: A person required to provide notification individuals under subsection a1 shall be in compliance with requirement if the person provides conspicuous and clearly notification by one of the following methods provided the selected method reasonably be expected to reach the intended individual 
+insertion: 
+deletion: 
+change: to to to			 / such to such			 / identified to identified			 / can to can			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Written notification. But actually it is: Written			 notification.
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Written notification 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/subparagraph[1]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/subparagraph[1]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notification by email or other... But actually it is: Notification by			 email or ot...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Notification email or other electronic means if 
+insertion: 
+deletion: 
+change: by to by			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/subparagraph[1]/clause[2]/subclause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/subparagraph[1]/clause[2]/subclause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the person’s primary method of... But actually it is: the person’s			 primary method...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: the primary method of communication with the individual is by email or such electronic means or 
+insertion: 
+deletion: 
+change: person’s to person’s			 / other to other			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/subparagraph[1]/clause[2]/subclause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/subparagraph[1]/clause[2]/subclause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the individual has consented t... But actually it is: the individual			 has consente...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: the has consented to receive such notification and the notification is provided a manner that is consistent with the provisions permitting transmission of notices under section 101 of the Electronic Signatures Global Commerce Act 15 USC 7001 
+insertion: 
+deletion: 
+change: individual to individual			 / in to in			 / electronic to electronic			 / in to in			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Content of notification But actually it is: Content of			 notification
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of notification to of			 notification 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Regardless of the method by wh... But actually it is: Regardless of the method by wh...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: Regardless of the method by which notification provided to an individual under subparagraph A such notification 
+insertion: 
+deletion: 
+change: is to is			 / shall include to shall			 include 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a description of the personal ... But actually it is: a			 description of the person...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: a description of the personal information that was acquired or accessed by unauthorized person 
+insertion: 
+deletion: 
+change: an to an			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/subparagraph[2]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a telephone number that the in... But actually it is: a			 telephone number that the...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: a telephone number that the individual may use at no cost to such individual contact the person to inquire about the breach of security or the the person maintained about that individual 
+insertion: 
+deletion: 
+change: to to to			 / information to information			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/subparagraph[2]/clause[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/subparagraph[2]/clause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: notice that the individual is ... But actually it is: notice that the individual is ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: notice that the individual is entitled receive at no cost to such individual consumer credit reports on a basis for a period of 2 years or credit monitoring or other service enables consumers to detect the misuse of their personal information for period of 2 years and instructions to the individual on requesting reports or service from the person except when the only information which been the subject of the security breach is the individual’s first name initial and last name or address or phone number in combination with credit or debit card number and any required security code 
+insertion: 
+deletion: 
+change: to to to			 / quarterly to quarterly			 / that to that			 / a to a			 / such to such			 / has to has			 / or to or			 / a to a			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/subparagraph[2]/clause[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/subparagraph[2]/clause[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the toll-free contact telephon... But actually it is: the			 toll-free contact telep...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: the tollfree contact telephone numbers and addresses for the major reporting agencies and 
+insertion: 
+deletion: 
+change: credit to credit			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/subparagraph[2]/clause[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/subparagraph[2]/clause[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a toll-free telephone number a... But actually it is: a			 toll-free telephone numbe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: a tollfree telephone number and Internet website address for the whereby the individual may obtain information regarding identity theft 
+insertion: 
+deletion: 
+change: Commission to Commission			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Substitute notification But actually it is: Substitute			 notification
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Substitute notification 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Circumstances giving rise to s... But actually it is: Circumstances			 giving rise t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Circumstances giving rise to substitute notification 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A person required to provide n... But actually it is: A person required to			 provid...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: A person required provide notification to individuals under subsection a1 may substitute notification in lieu of the direct notification required paragraph 1 if the person owns or possesses data in electronic containing personal information of fewer than 1000 individuals and such notification is not feasible due to 
+insertion: 
+deletion: 
+change: to to to			 / provide to provide			 / by to by			 / form to form			 / direct to direct			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: excessive cost to the person r... But actually it is: excessive cost to			 the perso...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: excessive cost the person required to provide such notification relative to the resources such person as determined in accordance with the regulations issued by Commission under paragraph 3A or 
+insertion: 
+deletion: 
+change: to to to			 / of to of			 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[1]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[1]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: lack of sufficient contact inf... But actually it is: lack of			 sufficient contact ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: lack sufficient contact information for the individual required to 
+insertion: 
+deletion: 
+change: of to of			 / be notified to be			 notified 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Form of substitute notificatio... But actually it is: Form of			 substitute notifica...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Form substitute notification 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Such substitute notification s... But actually it is: Such substitute notification s...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Such substitute notification 
+insertion: 
+deletion: 
+change: shall include to shall			 include 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: email notification to the exte... But actually it is: email notification			 to the e...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: email to the extent that the person has email addresses of individuals to whom it required to provide notification under subsection a1 
+insertion: 
+deletion: 
+change: notification to notification			 / is to is			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[2]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a conspicuous notice on the In... But actually it is: a			 conspicuous notice on the...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: a conspicuous notice on the Internet website of the person if such maintains such a website and 
+insertion: 
+deletion: 
+change: person to person			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[2]/clause[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[2]/clause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: notification in print and to b... But actually it is: notification in			 print and t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: notification print and to broadcast media including major media in metropolitan and areas where the individuals whose personal information was 
+insertion: 
+deletion: 
+change: in to in			 / rural to rural			 / acquired reside to acquired			 reside 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Content of substitute notice But actually it is: Content of			 substitute notic...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Content substitute notice 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Each form of substitute notice... But actually it is: Each form of substitute notice...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Each form of substitute notice under paragraph shall include 
+insertion: 
+deletion: 
+change: this to this			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[3]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[3]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: notice that individuals whose ... But actually it is: notice that individuals whose ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: notice that individuals whose information is included in the breach of security are entitled to receive no cost to the individuals consumer credit reports on a quarterly basis for period of 2 years or credit monitoring or other service that enables to detect the misuse of their personal information for a period of 2 years instructions on requesting such reports or service from the person except the only information which has been the subject of the security breach is individual’s first name or initial and last name or address or phone in combination with a credit or debit card number and any required code and 
+insertion: 
+deletion: 
+change: personal to personal			 / at to at			 / a to a			 / consumers to consumers			 / and to and			 / when to when			 / the to the			 / number to number			 / security to security			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[3]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[3]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a telephone number by which an... But actually it is: a			 telephone number by which...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: a telephone number by which an individual can at no cost to such learn whether that individual’s personal information is included in the of security 
+insertion: 
+deletion: 
+change: individual to individual			 / breach to breach			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Regulations and guidance But actually it is: Regulations and			 guidance
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: and guidance to and			 guidance 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 1 year after th... But actually it is: Not			 later than 1 year after...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Not later than 1 year after the date of enactment of this Act the shall by regulation under section 553 of title 5 United States establish criteria for determining circumstances under which notification may be provided under paragraph 2 including criteria determining if notification under paragraph 1 is not feasible due excessive costs to the person required to provided such notification to the resources of such person Such regulations may also identify circumstances where substitute notification would be appropriate for person including circumstances under which the cost of providing exceeds the benefits to consumers 
+insertion: 
+deletion: 
+change: Commission to Commission			 / Code to Code			 / substitute to substitute			 / for to for			 / to to to			 / relative to relative			 / other to other			 / any to any			 / notification to notification			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In addition, the Commission sh... But actually it is: In			 addition, the Commission...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: In addition the Commission shall provide and publish general guidance respect to compliance with this subsection Such guidance shall include 
+insertion: 
+deletion: 
+change: with to with			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a description of written or em... But actually it is: a description of			 written or...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: a description written or email notification that complies with the requirements of 1 and 
+insertion: 
+deletion: 
+change: of to of			 / paragraph to paragraph			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/subparagraph[2]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: guidance on the content of sub... But actually it is: guidance on the			 content of ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: guidance on content of substitute notification under paragraph 2 including the extent notification to print and broadcast media that complies with the of such paragraph 
+insertion: 
+deletion: 
+change: the to the			 / of to of			 / requirements to requirements			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Other Obligations Following Br... But actually it is: Other			 Obligations Following...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Other Obligations Following Breach 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[5]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In			 general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[5]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A person required to provide n... But actually it is: A person required to provide n...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: A person required to provide notification subsection a shall upon request of an individual whose personal was included in the breach of security provide or arrange for the of to each such individual and at no cost to such individual 
+insertion: 
+deletion: 
+change: under to under			 / information to information			 / provision to provision			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[5]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: consumer credit reports from a... But actually it is: consumer credit			 reports fro...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: consumer reports from at least one of the major credit reporting agencies beginning later than 60 days following the individual’s request and continuing on quarterly basis for a period of 2 years thereafter or 
+insertion: 
+deletion: 
+change: credit to credit			 / not to not			 / a to a			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[5]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a credit monitoring or other s... But actually it is: a credit monitoring or other s...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: a credit monitoring or other service enables consumers to detect the misuse of their personal information not later than 60 days following the individual’s request and continuing for period of 2 years 
+insertion: 
+deletion: 
+change: that to that			 / beginning to beginning			 / a to a			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[5]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: This subsection shall not appl... But actually it is: This			 subsection shall not a...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: This subsection shall not apply if the only personal information which has been subject of the security breach is the individual’s first name or initial last name or address or phone number in combination with a credit or card number and any required security code 
+insertion: 
+deletion: 
+change: the to the			 / and to and			 / debit to debit			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[5]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: As part of the Commission’s ru... But actually it is: As			 part of the Commission’s...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: As part of the Commission’s rulemaking described in subsection d3 Commission shall determine the circumstances under which a person required provide notification under subsection a1 shall provide or arrange for provision of free consumer credit reports or credit monitoring or other to affected individuals 
+insertion: 
+deletion: 
+change: the to the			 / to to to			 / the to the			 / service to service			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: General exemption But actually it is: General			 exemption
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: General exemption 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A person shall be exempt from ... But actually it is: A person shall be exempt from ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: A person shall be exempt from the requirements this section if following a breach of security such person determines there is no reasonable risk of identity theft fraud or other 
+insertion: 
+deletion: 
+change: under to under			 / that to that			 / unlawful conduct to unlawful			 conduct 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/paragraph[2]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/paragraph[2]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In			 general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If the data in electronic form... But actually it is: If the data in electronic form...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: If the data in electronic form containing information is rendered unusable unreadable or indecipherable encryption or other security technology or methodology if the method encryption or such other technology or methodology is generally accepted experts in the information security field there shall be a presumption no reasonable risk of identity theft fraud or other unlawful conduct following a breach of security of such data Any such presumption may rebutted by facts demonstrating that the encryption or other technologies or methodologies in a specific case have been or are likely to be compromised 
+insertion: 
+deletion: 
+change: personal to personal			 / through to through			 / of to of			 / by to by			 / that to that			 / exists to exists			 / be to be			 / security to security			 / reasonably to reasonably			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/paragraph[2]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/paragraph[2]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: methodologies or technologies But actually it is: methodologies or			 technologi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: or technologies to or			 technologies 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 1 year after th... But actually it is: Not later than 1			 year after...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Not later than year after the date of the enactment of this Act and biannually thereafter Commission shall issue rules pursuant to section 553 of title 5 United Code or guidance to identify security methodologies or technologies render data in electronic form unusable unreadable or indecipherable shall if applied to such data establish a presumption that no reasonable of identity theft fraud or other unlawful conduct exists following a of security of such data Any such presumption may be rebutted by demonstrating that any such methodology or technology in a specific case been or is reasonably likely to be compromised In issuing such rules guidance the Commission shall consult with relevant industries organizations and data security and identity theft prevention experts established standards setting bodies 
+insertion: 
+deletion: 
+change: 1 to 1			 / the to the			 / States to States			 / which to which			 / that to that			 / risk to risk			 / breach to breach			 / facts to facts			 / has to has			 / or to or			 / consumer to consumer			 / and to and			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: FTC guidance But actually it is: FTC			 guidance
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: FTC guidance 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 1 year after th... But actually it is: Not later than 1			 year after...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: Not later than year after the date of the enactment of this Act the Commission shall guidance regarding the application of the exemption in paragraph 1 
+insertion: 
+deletion: 
+change: 1 to 1			 / issue to issue			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[7]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Website Notice of Federal Trad... But actually it is: Website Notice			 of Federal T...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Website of Federal Trade Commission 
+insertion: 
+deletion: 
+change: Notice to Notice			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If the Commission, upon receiv... But actually it is: If the Commission, upon receiv...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: If the Commission upon notification of any breach of security that is reported to the Commission subsection a2 finds that notification of such a breach of security via Commission’s Internet website would be in the public interest or for protection of consumers the Commission shall place such a notice in a and conspicuous location on its Internet website 
+insertion: 
+deletion: 
+change: receiving to receiving			 / under to under			 / the to the			 / the to the			 / clear to clear			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[8]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[8]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: FTC Study on Notification in L... But actually it is: FTC Study on			 Notification i...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: FTC Study Notification in Languages in Addition to English 
+insertion: 
+deletion: 
+change: on to on			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[8]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[8]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 1 year after th... But actually it is: Not later than 1			 year after...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: Not later than year after the date of enactment of this Act the Commission shall conduct study on the practicality and cost effectiveness of requiring the required by subsection d1 to be provided in a language in addition English to individuals known to speak only such other language 
+insertion: 
+deletion: 
+change: 1 to 1			 / a to a			 / notification to notification			 / to to to			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[9]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[9]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: General rulemaking authority But actually it is: General			 rulemaking authorit...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: General rulemaking authority 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[9]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[9]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Commission may promulgate ... But actually it is: The			 Commission may promulga...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: The Commission may promulgate regulations necessary under section 553 of title United States Code to effectively enforce the requirements of 
+insertion: 
+deletion: 
+change: 5 to 5			 / this section to this			 section 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[10]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[10]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Treatment of persons governed ... But actually it is: Treatment of			 persons govern...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Treatment persons governed by other law 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[10]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[10]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A person who is in compliance ... But actually it is: A person who is in compliance ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: A person who is in compliance with other Federal law that requires such person to provide notification individuals following a breach of security and that taken as a provides protections substantially similar to or greater than those under this section as the Commission shall determine by rule under 553 of title 5 United States Code shall be deemed to be in compliance this section 
+insertion: 
+deletion: 
+change: any to any			 / to to to			 / whole to whole			 / required to required			 / section to section			 / with to with			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Application and Enforcement But actually it is: Application and			 Enforcement
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: and Enforcement to and			 Enforcement 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: General application But actually it is: General			 application
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: General application 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The requirements of sections 2... But actually it is: The requirements			 of section...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: The of sections 2 and 3 shall only apply to those persons partnerships corporations over which the Commission has authority pursuant to 5a2 of the Federal Trade Commission Act 
+insertion: 
+deletion: 
+change: requirements to requirements			 / or to or			 / section to section			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Enforcement by the Federal Tra... But actually it is: Enforcement by			 the Federal ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Enforcement the Federal Trade Commission 
+insertion: 
+deletion: 
+change: by to by			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Unfair or deceptive acts or pr... But actually it is: Unfair or			 deceptive acts or...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Unfair deceptive acts or practices 
+insertion: 
+deletion: 
+change: or to or			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A violation of section 2 or 3 ... But actually it is: A violation of section 2 or 3 ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: A violation of section 2 or 3 be treated as an unfair and deceptive act or practice in violation of regulation under section 18a1B of the Federal Trade Commission Act USC 57aa1B regarding unfair or deceptive acts or practices 
+insertion: 
+deletion: 
+change: shall to shall			 / a to a			 / 15 to 15			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Powers of commission But actually it is: Powers of			 commission
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of commission to of			 commission 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Commission shall enforce t... But actually it is: The Commission shall enforce t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: The Commission shall enforce this Act in the manner by the same means and with the same jurisdiction powers and as though all applicable terms and provisions of the Federal Trade Act 15 USC 41 et seq were incorporated into and made a part of this Any person who violates such regulations shall be subject to the penalties entitled to the privileges and immunities provided in that Act 
+insertion: 
+deletion: 
+change: same to same			 / duties to duties			 / Commission to Commission			 / Act to Act			 / and to and			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In promulgating rules under th... But actually it is: In			 promulgating rules under...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: In promulgating rules under this Act the Commission shall not require deployment or use of any specific products or technologies including specific computer software or hardware 
+insertion: 
+deletion: 
+change: the to the			 / any to any			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Enforcement by State Attorneys... But actually it is: Enforcement by			 State Attorn...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Enforcement State Attorneys General 
+insertion: 
+deletion: 
+change: by to by			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Civil action But actually it is: Civil			 action
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Civil action 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In any case in which the attor... But actually it is: In any case in which the attor...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: In any case in which the attorney general of a State an official or agency of a State has reason to believe that an interest of residents of that State has been or is threatened or adversely affected by person who violates section 2 or 3 of this Act the attorney general or agency of the State as parens patriae may bring a civil action on of the residents of the State in a district court of the United States appropriate jurisdiction 
+insertion: 
+deletion: 
+change: or to or			 / the to the			 / any to any			 / official to official			 / behalf to behalf			 / of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to enjoin further violation of... But actually it is: to enjoin further			 violation...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: to enjoin violation of such section by the defendant 
+insertion: 
+deletion: 
+change: further to further			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to compel compliance with such... But actually it is: to compel			 compliance with s...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: to compliance with such section or 
+insertion: 
+deletion: 
+change: compel to compel			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[1]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[1]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to obtain civil penalties in t... But actually it is: to obtain civil			 penalties i...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: to obtain penalties in the amount determined under paragraph 2 
+insertion: 
+deletion: 
+change: civil to civil			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Civil penalties But actually it is: Civil			 penalties
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Civil penalties 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/subparagraph[1]/clause[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/subparagraph[1]/clause[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Treatment of violations of sec... But actually it is: Treatment of			 violations of ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Treatment violations of section 2 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For purposes of paragraph (1)(... But actually it is: For purposes of paragraph (1)(...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 0.87
+The Detailes are shown as followings: 
+common words: For purposes of paragraph 1C regard to a violation of section 2 the amount determined under this is the amount calculated by multiplying the number of days that a person is in compliance with such section by an amount not greater than 11000 
+insertion: 
+deletion: 
+change: with to with			 / paragraph to paragraph			 / not to not			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/subparagraph[1]/clause[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/subparagraph[1]/clause[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Treatment of violations of sec... But actually it is: Treatment of			 violations of ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Treatment violations of section 3 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/subparagraph[1]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/subparagraph[1]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For purposes of paragraph (1)(... But actually it is: For			 purposes of paragraph (...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: For purposes of paragraph 1C with regard to a violation of section 3 amount determined under this paragraph is the amount calculated by the number of violations of such section by an amount not greater than Each failure to send notification as required under section 3 to a resident the State shall be treated as a separate violation 
+insertion: 
+deletion: 
+change: the to the			 / multiplying to multiplying			 / 11000 to 11000			 / of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Adjustment for inflation But actually it is: Adjustment for			 inflation
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: for inflation to for			 inflation 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Beginning on the date that the... But actually it is: Beginning on the date that the...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: Beginning on the date that the Consumer Price Index first published by the Bureau of Labor Statistics that is after 1 year the date of enactment of this Act and each year thereafter the specified in clauses i and ii of subparagraph A shall be increased by percentage increase in the Consumer Price Index published on that date from Consumer Price Index published the previous year 
+insertion: 
+deletion: 
+change: is to is			 / after to after			 / amounts to amounts			 / the to the			 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/subparagraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/subparagraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Maximum total liability But actually it is: Maximum total			 liability
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: total liability to total			 liability 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notwithstanding the number of ... But actually it is: Notwithstanding the			 number ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: Notwithstanding number of actions which may be brought against a person under this the maximum civil penalty for which any person may be liable under subsection shall not exceed 
+insertion: 
+deletion: 
+change: the to the			 / subsection to subsection			 / this to this			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/subparagraph[3]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/subparagraph[3]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: $5,000,000 for each violation ... But actually it is: $5,000,000 for			 each violati...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: 5000000 each violation of section 2 and 
+insertion: 
+deletion: 
+change: for to for			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/subparagraph[3]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/subparagraph[3]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: $5,000,000 for all violations ... But actually it is: $5,000,000 for			 all violatio...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: 5000000 all violations of section 3 resulting from a single breach of security 
+insertion: 
+deletion: 
+change: for to for			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Intervention by the FTC But actually it is: Intervention by			 the FTC
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Intervention the FTC 
+insertion: 
+deletion: 
+change: by to by			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[3]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[3]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notice and intervention But actually it is: Notice and			 intervention
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: and intervention to and			 intervention 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[3]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[3]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The State shall provide prior ... But actually it is: The State shall provide prior ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: The State shall provide prior written notice of action under paragraph 1 to the Commission and provide the Commission with copy of its complaint except in any case in which such prior notice is feasible in which case the State shall serve such notice immediately instituting such action The Commission shall have the right 
+insertion: 
+deletion: 
+change: any to any			 / a to a			 / not to not			 / upon to upon			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[3]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[3]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to intervene in the action; But actually it is: to			 intervene in the action;
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: to intervene in the action 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[3]/subparagraph[1]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[3]/subparagraph[1]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: upon so intervening, to be hea... But actually it is: upon so			 intervening, to be ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: upon intervening to be heard on all matters arising therein and 
+insertion: 
+deletion: 
+change: so to so			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[3]/subparagraph[1]/clause[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[3]/subparagraph[1]/clause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to file petitions for appeal. But actually it is: to			 file petitions for appea...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: to file petitions for appeal 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[3]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[3]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Limitation on state action whi... But actually it is: Limitation on			 state action ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: Limitation state action while federal action is pending 
+insertion: 
+deletion: 
+change: on to on			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[3]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[3]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If the Commission has institut... But actually it is: If the Commission			 has insti...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: If the has instituted a civil action for violation of this Act no State general or official or agency of a State may bring an action under subsection during the pendency of that action against any defendant named the complaint of the Commission for any violation of this Act alleged in 
+insertion: 
+deletion: 
+change: Commission to Commission			 / attorney to attorney			 / this to this			 / in to in			 / the complaint to the			 complaint 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For purposes of bringing any c... But actually it is: For			 purposes of bringing an...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: For purposes of bringing any civil action under paragraph 1 nothing in this shall be construed to prevent an attorney general of a State from the powers conferred on the attorney general by the laws of that 
+insertion: 
+deletion: 
+change: Act to Act			 / exercising to exercising			 / State to to State			 to 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[4]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[4]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: conduct investigations; But actually it is: conduct			 investigations;
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: conduct investigations 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[4]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[4]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: administer oaths or affirmatio... But actually it is: administer oaths			 or affirma...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: administer or affirmations or 
+insertion: 
+deletion: 
+change: oaths to oaths			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[4]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[4]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: compel the attendance of witne... But actually it is: compel the			 attendance of wi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: compel attendance of witnesses or the production of documentary and 
+insertion: 
+deletion: 
+change: the to the			 / other evidence to other			 evidence 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Affirmative Defense for a Viol... But actually it is: Affirmative			 Defense for a V...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: Affirmative Defense for a Violation of section 3 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[4]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[4]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In			 general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[4]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[4]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: It shall be an affirmative def... But actually it is: It shall be an			 affirmative ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: It shall be affirmative defense to an enforcement action brought under subsection b or civil action brought under subsection c based on a violation of section that all of the personal information contained in the data in electronic that was acquired or accessed as a result of a breach of security of defendant is public record information that is lawfully made available to general public from Federal State or local government records and acquired by the defendant from such records 
+insertion: 
+deletion: 
+change: an to an			 / a to a			 / 3 to 3			 / form to form			 / the to the			 / the to the			 / was to was			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[4]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[4]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: No effect on other requirement... But actually it is: No effect on			 other requirem...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: No effect other requirements 
+insertion: 
+deletion: 
+change: on to on			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[4]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[4]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Nothing in this subsection sha... But actually it is: Nothing in this subsection sha...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: Nothing in this subsection shall be to exempt any person from the requirement to notify the Commission of a of security as required under section 3a 
+insertion: 
+deletion: 
+change: construed to construed			 / breach to breach			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In this Act the following defi... But actually it is: In this Act the following defi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: In this Act the following 
+insertion: 
+deletion: 
+change: definitions apply to definitions			 apply 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Breach of security But actually it is: Breach of			 security
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of security to of			 security 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means unauthorized access to ... But actually it is:  means			 unauthorized access ...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words:  unauthorized access to or acquisition of data in electronic form personal information 
+insertion: 
+deletion: 
+change: means to means			 / containing to containing			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The term  But actually it is: The			 term 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: The term 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Data in electronic form But actually it is: Data in			 electronic form
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Data electronic form 
+insertion: 
+deletion: 
+change: in to in			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means any data stored electro... But actually it is: 			 means any data stored elec...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words:  means any data stored electronically or digitally on any computer system other database and includes recordable tapes and other mass 
+insertion: 
+deletion: 
+change: or to or			 / storage devices to storage			 devices 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The term  But actually it is: The			 term 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: The term 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[4]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means the protection of data ... But actually it is:  means the protection of data ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words:  means the protection of data in electronic form storage or in transit using an encryption technology that has been adopted an established standards setting body which renders such data indecipherable the absence of associated cryptographic keys necessary to enable decryption such data Such encryption must include appropriate management and of such keys to protect the integrity of the encryption 
+insertion: 
+deletion: 
+change: in to in			 / by to by			 / in to in			 / of to of			 / safeguards to safeguards			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Identity theft But actually it is: Identity			 theft
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Identity theft 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[5]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[5]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means the unauthorized use of... But actually it is:  means the unauthorized			 use...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words:  means the use of another person’s personal information for the purpose of engaging commercial transactions under the name of such other person 
+insertion: 
+deletion: 
+change: unauthorized to unauthorized			 / in to in			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[6]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Information broker But actually it is: Information			 broker
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Information broker 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[6]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[6]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: means a commercial entity whos... But actually it is: means a commercial			 entity w...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: means a entity whose business is to collect assemble or maintain personal concerning individuals who are not current or former customers of such in order to sell such information or provide access to such information to nonaffiliated third party in exchange for consideration whether collection assembly or maintenance of personal information is performed the information broker directly or by contract or subcontract with any entity and 
+insertion: 
+deletion: 
+change: commercial to commercial			 / information to information			 / entity to entity			 / any to any			 / such to such			 / by to by			 / other to other			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[6]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[6]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: does not include a commercial ... But actually it is: does not include a commercial ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: does not include a commercial entity to extent that such entity processes information collected by or on behalf of received from or on behalf of a nonaffiliated third party individuals who are current or former customers or employees of such party to enable such third party directly or through parties acting on behalf to 1 provide benefits for its employees or 2 directly business with its customers 
+insertion: 
+deletion: 
+change: the to the			 / and to and			 / concerning to concerning			 / third to third			 / its to its			 / transact to transact			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[7]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[7]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Personal information But actually it is: Personal			 information
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Personal information 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[7]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[7]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The term  But actually it is: The			 term 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: The term 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[7]/subparagraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[7]/subparagraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means an individual’s first n... But actually it is:  means an individual’s first n...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.87
+The Detailes are shown as followings: 
+common words:  means an individual’s first name initial and last name or address or phone number in combination with any or more of the following data elements for that individual 
+insertion: 
+deletion: 
+change: or to or			 / 1 to 1			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[7]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[7]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Social Security number. But actually it is: Social Security			 number.
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: Security number to Security			 number 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[7]/subparagraph[1]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[7]/subparagraph[1]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Driver’s license number, passp... But actually it is: Driver’s license			 number, pa...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: Driver’s number passport number military identification number or other number issued on a government document used to verify identity 
+insertion: 
+deletion: 
+change: license to license			 / similar to similar			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[7]/subparagraph[1]/clause[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[7]/subparagraph[1]/clause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Financial account number, or c... But actually it is: Financial			 account number, o...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Financial account number or credit or debit card number and any required security access code or password that is necessary to permit access to an financial account 
+insertion: 
+deletion: 
+change: code to code			 / individual’s to individual’s			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[7]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[7]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Modified definition by rulemak... But actually it is: Modified			 definition by rule...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Modified definition by rulemaking 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[7]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[7]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Commission may, by rule pr... But actually it is: The			 Commission may, by rule...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: The Commission may by rule promulgated under section 553 of title 5 United Code modify the definition of 
+insertion: 
+deletion: 
+change: States to States			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[7]/subparagraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[7]/subparagraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  under subparagraph (A)—  But actually it is:  under			 subparagraph (A)—
+The Jaccard Index is: 0.96
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words:  subparagraph A 
+insertion: 
+deletion: 
+change: under to under			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[7]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[7]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: for the purpose of section 2 t... But actually it is: for the purpose of section 2 t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: for the purpose of section 2 to the that such modification will not unreasonably impede interstate commerce will accomplish the purposes of this Act or 
+insertion: 
+deletion: 
+change: extent to extent			 / and to and			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[7]/subparagraph[2]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[7]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: for the purpose of section 3, ... But actually it is: for			 the purpose of section ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: for the purpose of section 3 to the extent that such modification is necessary accommodate changes in technology or practices will not unreasonably interstate commerce and will accomplish the purposes of this Act 
+insertion: 
+deletion: 
+change: to to to			 / impede to impede			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[8]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[8]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Public record information But actually it is: Public record			 information
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: record information to record			 information 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[8]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[8]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means information about an in... But actually it is:  means			 information about an...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words:  information about an individual which has been obtained originally from of a Federal State or local government entity that are available for 
+insertion: 
+deletion: 
+change: means to means			 / records to records			 / public inspection to public			 inspection 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[9]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[9]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Non-public information But actually it is: Non-public			 information
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Nonpublic information 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[9]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[9]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means information about an in... But actually it is:  means			 information about an...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words:  information about an individual that is of a private nature and available to the general public nor obtained from a public record 
+insertion: 
+deletion: 
+change: means to means			 / neither to neither			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[10]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[10]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Service provider But actually it is: Service			 provider
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Service provider 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[10]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[10]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means a person that provides ... But actually it is:  means a person that provides ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words:  means a person that provides electronic transmission routing intermediate and transient storage or connections its system or network where the person providing such services does not or modify the content of the electronic data is not the sender or the recipient of the data and such person transmits routes stores or connections for personal information in a manner that personal information undifferentiated from other types of data that such person transmits stores or provides connections Any such person shall be treated as a provider under this Act only to the extent that it is engaged in the of such transmission routing intermediate and transient storage 
+insertion: 
+deletion: 
+change: data to data			 / to to to			 / select to select			 / intended to intended			 / provides to provides			 / is to is			 / routes to routes			 / service to service			 / provision to provision			 / or connections to or			 connections 
+
+We are at location: bill[1]/legis-body[1]/section[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effect on other laws But actually it is: Effect on other			 laws
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Effect on 
+insertion: 
+deletion: 
+change: other laws to other			 laws 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Preemption of State Informatio... But actually it is: Preemption of			 State Informa...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Preemption State Information Security Laws 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: This Act supersedes any provis... But actually it is: This Act supersedes any provis...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: This Act supersedes any of a statute regulation or rule of a State or political subdivision of State with respect to those entities covered by the regulations pursuant to this Act that expressly 
+insertion: 
+deletion: 
+change: provision to provision			 / a to a			 / issued to issued			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: requires information security ... But actually it is: requires			 information securi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: requires information security practices and treatment of data containing information similar to any of those required under section 2 and 
+insertion: 
+deletion: 
+change: personal to personal			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: requires notification to indiv... But actually it is: requires			 notification to in...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: requires notification to individuals of a breach of security resulting in access to or acquisition of data in electronic form containing 
+insertion: 
+deletion: 
+change: unauthorized to unauthorized			 / personal information to personal			 information 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Additional Preemption But actually it is: Additional			 Preemption
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Additional Preemption 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In			 general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: No person other than a person ... But actually it is: No person other than a person ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: No person other than a person specified in section may bring a civil action under the laws of any State if such action is in whole or in part upon the defendant violating any provision of 
+insertion: 
+deletion: 
+change: 4c to 4c			 / premised to premised			 / this Act to this			 Act 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Protection of consumer protect... But actually it is: Protection of			 consumer prot...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Protection consumer protection laws 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: This subsection shall not be c... But actually it is: This subsection shall not be c...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: This subsection shall not be to limit the enforcement of any State consumer protection law by an General of a State 
+insertion: 
+deletion: 
+change: construed to construed			 / Attorney to Attorney			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Protection of Certain State La... But actually it is: Protection of			 Certain State...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Protection Certain State Laws 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: This Act shall not be construe... But actually it is: This Act shall not be construe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: This Act shall not be construed to preempt applicability of 
+insertion: 
+deletion: 
+change: the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: State trespass, contract, or t... But actually it is: State trespass,			 contract, o...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: State contract or tort law or 
+insertion: 
+deletion: 
+change: trespass to trespass			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: other State laws to the extent... But actually it is: other State laws			 to the ext...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: other State to the extent that those laws relate to acts of fraud 
+insertion: 
+deletion: 
+change: laws to laws			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Preservation of FTC Authority But actually it is: Preservation of			 FTC Authori...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Preservation FTC Authority 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Nothing in this Act may be con... But actually it is: Nothing in this Act may be con...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Nothing in this Act may be construed in any way limit or affect the Commission’s authority under any other provision 
+insertion: 
+deletion: 
+change: to to to			 / of law to of			 law 
+
+We are at location: bill[1]/legis-body[1]/section[7]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effective date But actually it is: Effective			 date
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Effective date 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: This Act shall take effect 1 y... But actually it is: This Act shall take			 effect ...
+The Jaccard Index is: 0.98
+And the Smith Waterman Score is: 0.87
+The Detailes are shown as followings: 
+common words: This Act shall effect 1 year after the date of enactment of this Act 
+insertion: 
+deletion: 
+change: take to take			 / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authorization of appropriation... But actually it is: Authorization of			 appropriat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of appropriations to of			 appropriations 
+
+We are at location: bill[1]/legis-body[1]/section[8]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: There is authorized to be appr... But actually it is: There is			 authorized to be a...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: There authorized to be appropriated to the Commission 1000000 for each of years 2010 through 2015 to carry out this Act 
+insertion: 
+deletion: 
+change: is to is			 / fiscal to fiscal			 / 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Passed the House of Representa... But actually it is: Passed the House of			 Represe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Passed the House Representatives December 8 2009 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clerk. But actually it is: Clerk
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/endorsement[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: endorsement But actually it is: null
+ Deleted paragraph content is: {""}
+

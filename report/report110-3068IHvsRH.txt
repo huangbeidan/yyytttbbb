@@ -1,0 +1,78 @@
+===================================================
+
+total difference is: 33
+comparing document: BILLS-110hr3068ih.xml
+to document: BILLS-110hr3068rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 3068 IH: Federal Protec... But actually it is: 110 HR 3068 RH: Federal Protec...
+The Jaccard Index is: 0.92
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: 110 HR 3068 Federal Protective Service Guard Contracting Reform Act of 2007 
+insertion: 
+deletion: 
+change: IH to RH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2007-07-17 But actually it is: 2007-09-14
+The Jaccard Index is: 0.36
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 204"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 110–328]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {" 
+September 14, 2007 
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed 
+Strike out all after the enacting clause and insert the part printed in italic 
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: legis-body
+ Inserted paragraph content is: {"
+1.Short titleThis Act may be cited as the Federal Protective Service Guard Contracting Reform Act of 2007.
+2.Federal Protective Service contracts
+(a)Prohibition on award of contracts to any business concern owned, controlled, or operated by an individual convicted of a felonyThe Secretary of Homeland Security may not award a contract for the provision of guard services under the contract security guard program of the Federal Protective Service to any business concern that is owned, controlled, or operated by an individual who has been convicted of a felony.
+(b)RegulationsNot later than 6 months after the date of the enactment of this Act, the Secretary shall issue regulations to carry out this section.
+(c)ImplementationIn this section, the term Secretary means the Secretary of Homeland Security acting through the Assistant Secretary of U.S. Immigration and Customs Enforcement.
+"}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {" 
+September 14, 2007 
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+

@@ -1,0 +1,571 @@
+===================================================
+
+total difference is: 167
+comparing document: BILLS-110hr4255ih.xml
+to document: BILLS-110hr4255rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 4255 IH: United States ... But actually it is: 110 HR 4255 RH: United States ...
+The Jaccard Index is: 0.89
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: 110 HR 4255 United States Olympic Committee Paralympic Program Act of 
+insertion: 
+deletion: 
+change: IH to RH / 2007 to 2008 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2007-12-04 But actually it is: 2008-07-24
+The Jaccard Index is: 0.14
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/session[1]/text()[1]   Compared with location: bill[1]/form[1]/session[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 1st Session But actually it is: 2d Session
+The Jaccard Index is: 0.55
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 1st Session 
+insertion: 
+deletion: 
+change: 
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 493"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 110–774]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+July 24, 2008
+Additional sponsors: Mr. Brady of Pennsylvania, Mr. Langevin, Mr. Rush, Mr. Hayes, Mr. Boozman, Ms. Baldwin, Mr. McNerney, Mr. Upton, Mr. Hall of New York, Mr. Carson, Mr. Grijalva, Mr. McIntyre, and Mr. Buyer
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+July 24, 2008
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed
+Strike out all after the enacting clause and insert the part printed in italic
+For text of introduced bill, see copy of bill as introduced on December 4, 2007
+"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: United States Olympic Committe... But actually it is: United States Olympic Committe...
+The Jaccard Index is: 0.96
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: United States Olympic Committee Paralympic Program Act of 
+insertion: 
+deletion: 
+change: 2007 to 2008 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In 1998, Congress enacted the ... But actually it is: In 1998, Congress enacted the ...
+The Jaccard Index is: 0.85
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: In 1998 Congress enacted the Olympic and Amateur Sports Act Amendments of 1998 
+insertion: 
+deletion: 
+change: which amended to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]/external-xref[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]/external-xref[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: chapter 2205 But actually it is: 33 U.S.C. 101
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 36, United States Co... But actually it is:  note), which amended 
+The Jaccard Index is: 0.1
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be: . But actually it is:  of title 36, United States Co...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]/external-xref[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"chapter 2205"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]/text()[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {.}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In 2005, the United States Oly... But actually it is: In 2005, the United States Oly...
+The Jaccard Index is: 0.95
+And the Smith Waterman Score is: 0.87
+The Detailes are shown as followings: 
+common words: In 2005 the United States Olympic Committee entered into a memorandum of understanding with the Secretary of Veterans Affairs to expand the Paralympic Program to provide special training and rehabilitation to /disabled /members of the Armed Forces /as part of their rehabilitation and return to an active lifestyle 
+insertion: veterans and disabled 
+deletion: to Forces and 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Paralympic Program has a s... But actually it is: The Paralympic Program has a s...
+The Jaccard Index is: 0.89
+And the Smith Waterman Score is: 0.68
+The Detailes are shown as followings: 
+common words: The Paralympic Program has a significant positive effect on the quality of life of /veterans /including helping to improve the mobility vitality /physical psychological and social wellbeing of /disabled /members of the Armed Forces /who participate in the program and reducing the incidence of secondary medical conditions in those participants 
+insertion: and veterans and disabled 
+deletion: of members of the Armed veterans of Forces and 
+change: and to such / physical to and / disabilities to servicemembers / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Because of Operation Iraqi Fre... But actually it is: Because of Operation Iraqi Fre...
+The Jaccard Index is: 0.85
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: Because of Operation Iraqi Freedom and Operation Enduring Freedom the number of /disabled /members of the Armed Forces /has increased substantially and it is therefore necessary to expand the scope and size of the /Paralympic Program to provide rehabilitative services through sports to /disabled /members of the Armed Forces 
+insertion: veterans and disabled veterans and 
+deletion: of Forces and the United States Olympic to 
+change: and veterans to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To provide support to the Unit... But actually it is: To promote the lifelong health...
+The Jaccard Index is: 0.34
+And the Smith Waterman Score is: 0.26
+The Detailes are shown as followings: 
+common words: the Paralympic Program to increase the participation of physically disabled members of the Armed Forces 
+insertion: 
+deletion: To provide support to the United States Olympic Committee for 
+change: and veterans in sports as part of their rehabilitation to through regular participation in physical activity and sports 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To promote the life-long healt... But actually it is: To develop a system that promo...
+The Jaccard Index is: 0.18
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To provide training and suppor... But actually it is: To provide training and suppor...
+The Jaccard Index is: 0.88
+And the Smith Waterman Score is: 0.68
+The Detailes are shown as followings: 
+common words: To provide training and support to local organizations to provide sports training to /disabled /members of the Armed Forces /in their own communities 
+insertion: veterans and disabled 
+deletion: to Forces and 
+change: paralympic to Paralympic / 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (4)
+  To provide support to the United States Olympic Committee for the Paralympic Program to increase the participation of disabled veterans and disabled members of the Armed Forces in sports as part of their rehabilitation.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subchapter II of chapter V of ... But actually it is: Subchapter II of 
+The Jaccard Index is: 0.14
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"chapter 5"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 38, United States Code, is amended by inserting after "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/external-xref[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"section 521"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" the following:"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Assistance for the United Stat... But actually it is: Assistance for United States O...
+The Jaccard Index is: 0.85
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: Assistance for /United States Olympic Paralympic Program 
+insertion: 
+deletion: for 
+change: Committee’s to Committees / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary may make a grant... But actually it is: The Secretary may make grants ...
+The Jaccard Index is: 0.89
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: The Secretary may make /to the United States Olympic Committee to plan develop manage and implement the Paralympic Program for /veterans and /members of the Armed Forces 
+insertion: disabled disabled 
+deletion: make 
+change: grant to grants / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Oversight by Under Secretary f... But actually it is: Oversight by Secretary
+The Jaccard Index is: 0.5
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Oversight by 
+insertion: 
+deletion: 
+change: Under Secretary for Health to Secretary 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: As a condition of receiving a ... But actually it is: As a condition of receiving a ...
+The Jaccard Index is: 0.91
+And the Smith Waterman Score is: 0.9
+The Detailes are shown as followings: 
+common words: As a condition of receiving a grant under this section the United States Olympic Committee shall permit the /Secretary /to conduct such oversight of the use of grant funds as the /Secretary determines is appropriate 
+insertion: 
+deletion: the Secretary for the 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Use of funds But actually it is: Application requirement
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The United States Olympic Comm... But actually it is: Before the Secretary may make ...
+The Jaccard Index is: 0.28
+And the Smith Waterman Score is: 0.06
+The Detailes are shown as followings: 
+common words: The United States Olympic Committee 
+insertion: the Secretary may make a grant to the 
+deletion: 
+change: with the assistance and cooperation of the Secretary and the heads of other appropriate Federal and State departments and agencies shall use a grant under this section to recruit support encourage schedule facilitate supervise and implement the activities described in paragraph 3 for veterans and members of the Armed Forces with physical disabilities either directly or by supporting a program described in paragraph 2 to under this section the Committee shall submit to the Secretary an application that describes the activities to be carried out with the grant including information on specific measurable goals and objectives to be achieved using grant funds The application shall include a detailed description of all partnerships referred to in paragraph 2 at the national and local levels that will be participating in such activities and the amount of grant funds that will be made available for each of such partnerships 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/text[1]/processing-instruction()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: xm-replace_text
+ Inserted paragraph content is: {""}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A program described in this pa... But actually it is: Partnerships referred to in th...
+The Jaccard Index is: 0.2
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/subparagraph[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/header[1]
+The reason of change is: element tag name
+The value is expected to be: subparagraph But actually it is: header
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/subparagraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/header[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/subparagraph[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(A)}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/subparagraph[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"is approved by the Secretary; and"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (B)
+  provides services and activities for veterans and members of the Armed Forces with physical disabilities and may provide such services and activities for individuals with physical disabilities who are not veterans or members of the Armed Forces.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (3) But actually it is: (2)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Activities described in this p... But actually it is: Partnerships referred to in th...
+The Jaccard Index is: 0.09
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/subparagraph[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/header[1]
+The reason of change is: element tag name
+The value is expected to be: subparagraph But actually it is: header
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/subparagraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/header[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/subparagraph[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(A)}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/subparagraph[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"instruction and competition in paralympic sports;"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (B)
+  training and technical assistance to program administrators, coaches, recreational therapists, instructors, Department employees, and other appropriate individuals; and
+"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/subparagraph[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (C)
+  coordination, Paralympic classification of athletes, athlete assessment, sport-specific training techniques, program development, program specific medical and personal care support, sports equipment, supplies, program evaluation, and other activities related to the implementation and operation of the program.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Limitation on use of funds But actually it is: Use of funds
+The Jaccard Index is: 0.38
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: use of funds 
+insertion: 
+deletion: Limitation on 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/text[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(1)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"The United States Olympic Committee, with the assistance and cooperation of the Secretary and the heads of other appropriate Federal and State departments and agencies and partnerships referred to in subsection (c)(2), shall use a grant under this section to recruit, support, encourage, schedule, facilitate, supervise, and implement the activities described in paragraph (3) for disabled veterans and disabled members of the Armed Forces either directly or by supporting a program described in paragraph (2)."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(2)A program described in this paragraph is a sport program that—
+(A)promotes basic physical activity, games, recreation, training, and competition;
+(B)is approved by the Secretary; and
+(C)
+(i)provides services and activities described in paragraph (3) for disabled veterans and disabled members of the Armed Forces; and
+(ii)may also provide services and activities described in paragraph (3) for individuals with disabilities who are not veterans or members of the Armed Forces, or both; except that funds made available to carry out this section may not be used to support those individuals with disabilities who are not veterans or members of the Armed Forces."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/paragraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(3)Activities described in this paragraph are—
+(A)instruction, participation, and competition in Paralympic sports;
+(B)training and technical assistance to program administrators, coaches, recreational therapists, instructors, Department employees, and other appropriate individuals; and
+(C)coordination, Paralympic classification of athletes, athlete assessment, sport-specific training techniques, program development (including programs at the local level), program-specific medical and personal care support, sports equipment, supplies, program evaluation, and other activities related to the implementation and operation of the program."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/paragraph[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (4)
+  A grant made under this section may include, at the discretion of the Secretary, an amount for administrative expenses, but not to exceed ten percent of the amount of the grant.
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/paragraph[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (5)
+  Funds made available by the United States Olympic Committee to a grantee under subsection (c) may include an amount for administrative expenses, but not to exceed ten percent of the amount of such funds.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary shall inform all... But actually it is: The Secretary shall conduct an...
+The Jaccard Index is: 0.59
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: The Secretary shall inform all veterans with physical disabilities about the existence of the Paralympic Program and shall provide for facilitate and encourage participation of such veterans 
+insertion: Secretary shall conduct an outreach campaign to inform all eligible veterans and separating 
+deletion: 
+change: and separating servicemembers in programs under this section to the extent possible 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary shall ensure acc... But actually it is: The Secretary shall ensure acc...
+The Jaccard Index is: 0.47
+And the Smith Waterman Score is: 0.65
+The Detailes are shown as followings: 
+common words: The Secretary shall ensure access to and use of appropriate Department facilities by 
+insertion: 
+deletion: 
+change: all individuals participating in the Paralympic Program to disabled veterans and disabled members of the Armed Forces participating in the Paralympic Program to the maximum extent possible and to the extent that such access and use does not adversely affect any other assistance provided to veterans 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[7]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[7]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Application requirement But actually it is: Authorization of appropriation...
+The Jaccard Index is: 0.09
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Before the Secretary may make ... But actually it is: There is authorized to be appr...
+The Jaccard Index is: 0.13
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[8]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[8]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authorization of appropriation... But actually it is: Separate accounting
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[8]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[8]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: There is authorized to be appr... But actually it is: The Department shall have a se...
+The Jaccard Index is: 0.24
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: There is authorized to be appropriated for each of /fiscal years 2008 through 2012 10000000 to carry out this section 
+insertion: Department shall have the 
+deletion: 
+change: Funds appropriated to carry out this section shall not be commingled with any other funds appropriated to the Department 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[9]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"
+  (i)
+  Limitation on use of funds
+  Except as provided in subsections (d)(4) and (d)(5), funds appropriated to carry out this section may not be used to support or provide services to individuals who are not disabled veterans or disabled members of the Armed Forces.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 521A. Assistance for United St... But actually it is: 521A. Assistance for United St...
+The Jaccard Index is: 0.94
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: 521A Assistance for United States Olympic Paralympic Program 
+insertion: 
+deletion: 
+change: Committee’s to Committees / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 38, United States Co... But actually it is:  of title 38, United States Co...
+The Jaccard Index is: 0.97
+And the Smith Waterman Score is: 0.96
+The Detailes are shown as followings: 
+common words:  of title 38 United States Code as added by subsection a until the United States Olympic Committee has entered into a memorandum of understanding or cooperative agreement with the Secretary regarding implementation of the Paralympic Program Such agreement shall be concluded not later than days after the date of the enactment of this Act 
+insertion: 
+deletion: 
+change: 90 to 180 / 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"4.Department of Veterans Affairs Office of National Veterans Sports Programs and Special Events
+(a)Establishment of Office of National Veterans Sports Programs and Special EventsChapter 3 of title 38, United States Code, is amended by adding at the end the following:
+
+321.Office of National Veterans Sports Programs and Special Events
+(a)EstablishmentThere is in the Department an Office of National Veterans Sports Programs and Special Events. There is at the head of the Office a Director, who shall report directly to the Assistant Secretary for Public and Intergovernmental Affairs of the Department.
+(b)Responsibilities of DirectorSubject to the direction of the Secretary, the Director—
+(1)shall establish and carry out qualifying programs and events;
+(2)may provide for sponsorship by the Department of qualifying programs and events;
+(3)may provide for, facilitate, and encourage participation by disabled veterans in qualifying programs and events; and
+(4)shall cooperate with the United States Olympic Committee and its subsidiaries to promote the participation of disabled veterans and disabled members of the Armed Forces in sporting events sponsored by the United States Olympic Committee and its subsidiaries.
+(c)Qualifying program or eventFor purposes of this section, a qualifying program or event is a sports program or other event in which disabled veterans and disabled members of the Armed Forces participate and that is approved by the Secretary as being consistent with the goals and missions of the Department.
+(d)Monthly assistance allowance
+(1)The Director may provide a monthly assistance allowance to a veteran with a disability invited by the United States Olympic Committee to compete for a slot on, or selected for, the Paralympic Team for any month in which the veteran is training or competing in any event sanctioned by the United States Olympic Committee or who is residing at a United States Olympic Committee training center.
+(2)The amount of the monthly assistance payable to a veteran under paragraph (1) shall be equal to the monthly amount of subsistence allowance that would be payable to the veteran under chapter 31 of this title if the veteran were eligible for and entitled to rehabilitation under such chapter.
+(3)Any amount of assistance paid to a veteran under this subsection shall be in addition to any other assistance available to the veteran under any other provision of law.
+(4)There is authorized to be appropriated to carry out this subsection $2,000,000 for fiscal year 2009 and each fiscal year thereafter.
+(e)Limitation on Statutory ConstructionNothing in this section shall be construed as a limitation on current disabled sports and special events supported by the Department..
+(b)Clerical amendmentThe table of sections at the beginning of such chapter is amended by adding at the end the following new item: 
+
+
+321. Office of National Veterans Sports Programs and Special Events..
+(c)Responsibilities of Under Secretary for HealthThe Secretary of Veterans Affairs shall direct the Under Secretary for Health of the Department of Veterans Affairs—
+(1)to make available, to the maximum extent possible, recreational therapists, physical therapists, and other medical staff to facilitate participation of veterans in sporting events conducted under the auspices of the United States Olympic Committee;
+(2)to allow such personnel to participate in the United States Olympic Committee Paralympic Program without requiring the use of personal leave; and
+(3)to support other similar activities or events as those described in this section and determined to be appropriate by the Secretary."}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+July 24, 2008
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+

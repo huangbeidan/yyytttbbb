@@ -1,0 +1,826 @@
+===================================================
+
+total difference is: 359
+comparing document: BILLS-109hr29ih.xml
+to document: BILLS-109hr29rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]   Compared with location: bill[1]/endorsement[1]
+The reason of change is: element tag name
+The value is expected to be: metadata But actually it is: endorsement
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]   Compared with location: bill[1]/endorsement[1]/action-date[1]
+The reason of change is: element tag name
+The value is expected to be: dublinCore But actually it is: action-date
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]   Compared with location: bill[1]/endorsement[1]/action-date[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]   Compared with location: bill[1]/endorsement[1]/action-date[1]/text()[1]
+The reason of change is: namespace URI
+The value is expected to be: http://purl.org/dc/elements/1.... But actually it is: null
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]   Compared with location: bill[1]/endorsement[1]/action-date[1]/text()[1]
+The reason of change is: namespace prefix
+The value is expected to be: dc But actually it is: null
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {}
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/publisher[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: {http://purl.org/dc/elements/1... But actually it is: null
+ Deleted paragraph content is: {}
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: {http://purl.org/dc/elements/1... But actually it is: null
+ Deleted paragraph content is: {}
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/format[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: {http://purl.org/dc/elements/1... But actually it is: null
+ Deleted paragraph content is: {}
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/language[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: {http://purl.org/dc/elements/1... But actually it is: null
+ Deleted paragraph content is: {}
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/rights[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: {http://purl.org/dc/elements/1... But actually it is: null
+ Deleted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]/action-desc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action-desc
+ Inserted paragraph content is: {"Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 15"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 109–32]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {" 
+April 12, 2005 
+Additional sponsors: Mr. Upton, Mr. Gene Green of Texas, Mr. Baker, Ms. Jackson-Lee of Texas, Mr. Butterfield, Mr. Gordon, Ms. Schakowsky, Mr. Wamp, Mr. Hayworth, Mr. Sullivan, Mr. Calvert, Mr. Ehlers, Mr. Putnam, Mr. Markey, Mr. Israel, Mr. Gonzalez, Ms. Solis, Ms. Watson, Mr. Engel, Mr. Wynn, Mr. Abercrombie, Mr. Doolittle, Ms. Eshoo, Mrs. Davis of California, Mr. Stupak, Mr. Rush, Mr. Ryan of Ohio, Mr. Lincoln Diaz-Balart of Florida, Mr. Boucher, Mr. Bass, Mr. Sam Johnson of Texas, Mr. Lewis of Georgia, Mr. Duncan, Mr. Bachus, Mr. Inslee, Mr. Shaw, Mr. Dingell, Mr. Doyle, Mrs. Myrick, Mr. Murphy, Mrs. Blackburn, Mr. Ross, Mr. Rothman, Mr. Shadegg, Mr. Edwards, Mr. Moore of Kansas, and Mr. McCaul of Texas 
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {" 
+April 12, 2005 
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed 
+Strike out all after the enacting clause and insert the part printed in italic 
+For text of introduced bill, see copy of bill as introduced on January 4, 2005 
+"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[2]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[2]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: SPY ACT But actually it is: Spy Act
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: utilizing such computer to sen... But actually it is: utilizing such computer to sen...
+The Jaccard Index is: 0.89
+And the Smith Waterman Score is: 0.93
+The Detailes are shown as followings: 
+common words: utilizing such computer to send unsolicited information or material from the /computer to others 
+insertion: 
+deletion: the 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: accessing or using the modem, ... But actually it is: accessing, hijacking, or other...
+The Jaccard Index is: 0.57
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: accessing or /using the modem or Internet connection or service for the computer and thereby causing damage to the computer or causing the owner or authorized user 
+insertion: hijacking otherwise 
+deletion: 
+change: to incur unauthorized financial charges to or a third party defrauded by such conduct to incur charges or other costs for a service that is not authorized by such owner or authorized user 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Inducing the owner or authoriz... But actually it is: Inducing the owner or authoriz...
+The Jaccard Index is: 0.34
+And the Smith Waterman Score is: 0.29
+The Detailes are shown as followings: 
+common words: Inducing the owner or authorized user 
+insertion: 
+deletion: 
+change: to install a computer software component onto the computer or preventing reasonable efforts to block the installation or execution of or to disable a computer software component by to of the computer to disclose personally identifiable information by means of a Web page that 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[4]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[4]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: presenting the owner or author... But actually it is: is substantially similar to a ...
+The Jaccard Index is: 0.1
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[4]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[4]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: causing a computer software co... But actually it is: misleads the owner or authoriz...
+The Jaccard Index is: 0.2
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Misrepresenting that installin... But actually it is: Inducing the owner or authoriz...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.03
+The Detailes are shown as followings: 
+common words: Misrepresenting that installing a 
+insertion: the owner or authorized user 
+deletion: 
+change: separate software component or providing login and password information is necessary for security or privacy reasons or that installing a separate software component is necessary to open view or play a particular type of content to component of computer software onto the computer or preventing reasonable efforts to block the installation or execution of or to disable a component of computer software by 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[5]/subparagraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (A)
+  presenting the owner or authorized user with an option to decline installation of such a component such that, when the option is selected by the owner or authorized user or when the owner or authorized user reasonably attempts to decline the installation, the installation nevertheless proceeds; or
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[5]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (B)
+  causing such a component that the owner or authorized user has properly removed or disabled to automatically reinstall or reactivate on the computer.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Inducing the owner or authoriz... But actually it is: Misrepresenting that installin...
+The Jaccard Index is: 0.26
+And the Smith Waterman Score is: 0.06
+The Detailes are shown as followings: 
+common words: or authorized user to install or execute computer software 
+insertion: 
+deletion: Inducing the owner 
+change: by misrepresenting the identity or authority of the person or entity providing the computer software to the owner or user to or providing login and password information is necessary for security or privacy reasons or that installing a separate component of computer software is necessary to open view or play a particular type of content 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Inducing the owner or authoriz... But actually it is: Inducing the owner or authoriz...
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is: 0.41
+The Detailes are shown as followings: 
+common words: Inducing the owner or authorized user to 
+insertion: 
+deletion: 
+change: provide personally identifiable password or account information to another person to install or execute computer software by misrepresenting the identity or authority of the person or entity providing the computer software to the owner or user 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[7]/subparagraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (A)
+  by misrepresenting the identity of the person seeking the information; or
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[7]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (B)
+  without the authority of the intended recipient of the information.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[8]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[8]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Removing, disabling, or render... But actually it is: Inducing the owner or authoriz...
+The Jaccard Index is: 0.11
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[8]/subparagraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (A)
+  by misrepresenting the identity of the person seeking the information; or
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[8]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (B)
+  without the authority of the intended recipient of the information.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[9]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[9]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Installing or executing on the... But actually it is: Removing, disabling, or render...
+The Jaccard Index is: 0.15
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[10]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (10)
+  Installing or executing on the computer one or more additional components of computer software with the intent of causing a person to use such components in a way that violates any other provision of this section.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"For purposes of this section, the term information collection program means computer software that—"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (1) But actually it is: (2)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: collects personally identifiab... But actually it is: the only information collected...
+The Jaccard Index is: 0.11
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: sends such information to a pe... But actually it is: the provider of the Web site a...
+The Jaccard Index is: 0.08
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/subparagraph[2]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: uses such information to deliv... But actually it is: a party authorized to facilita...
+The Jaccard Index is: 0.13
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/subparagraph[2]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"such information collected is not sent to a person other than—"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Exception for software collecting information regarding web pages visited within a particular web site"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"Computer software that otherwise would be considered an information collection program by reason of paragraph (1)(B) shall not be considered such a program if—"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/subparagraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (C)
+  the only advertising delivered to or displayed on the computer using such information is advertising on Web pages within that particular Web site.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (2) But actually it is: (1)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: collects information regarding... But actually it is: The computer software—
+The Jaccard Index is: 0.11
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/subparagraph[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Collection of personally identifiable information"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/subparagraph[1]/clause[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: clause
+ Inserted paragraph content is: {"
+  (i)
+  collects personally identifiable information; and
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/subparagraph[1]/clause[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: clause
+ Inserted paragraph content is: {"(ii) 
+(I)sends such information to a person other than the owner or authorized user of the computer, or 
+(II)uses such information to deliver advertising to, or display advertising on, the computer."}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: uses such information to deliv... But actually it is: The computer software—
+The Jaccard Index is: 0.12
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/subparagraph[2]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Collection of information regarding web pages visited to deliver advertising"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/subparagraph[2]/clause[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: clause
+ Inserted paragraph content is: {"
+  (i)
+  collects information regarding the Web pages accessed using the computer; and
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/subparagraph[2]/clause[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: clause
+ Inserted paragraph content is: {"
+  (ii)
+  uses such information to deliver advertising to, or display advertising on, the computer.
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"In general"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"For purposes of this section, the term information collection program means computer software that performs either of the following functions:"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The notice clearly distinguish... But actually it is: The notice clearly distinguish...
+The Jaccard Index is: 0.94
+And the Smith Waterman Score is: 0.94
+The Detailes are shown as followings: 
+common words: The notice clearly distinguishes such notice from any other information visually presented contemporaneously on the 
+insertion: 
+deletion: 
+change: protected computer to computer 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: With respect to an information... But actually it is: With respect to an information...
+The Jaccard Index is: 0.93
+And the Smith Waterman Score is: 0.91
+The Detailes are shown as followings: 
+common words: With respect to an information collection program described in subsection 
+insertion: 
+deletion: 
+change: b1 to b1A 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/subparagraph[2]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: With respect to an information... But actually it is: With respect to an information...
+The Jaccard Index is: 0.88
+And the Smith Waterman Score is: 0.91
+The Detailes are shown as followings: 
+common words: With respect to an information collection program described in subsection 
+insertion: 
+deletion: 
+change: b2 to b1B 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/subparagraph[2]/clause[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/subparagraph[2]/clause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: With respect to an information... But actually it is: With respect to an information...
+The Jaccard Index is: 0.84
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: With respect to an information collection program that performs the actions described in both 
+insertion: 
+deletion: 
+change: paragraphs 1 and 2 of subsection b to subparagraphs A and B of subsection b1 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/subparagraph[2]/clause[3]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/subparagraph[2]/clause[3]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: This program will collect and ... But actually it is: This program will collect and ...
+The Jaccard Index is: 0.97
+And the Smith Waterman Score is: 0.94
+The Detailes are shown as followings: 
+common words: This program will collect and transmit information about you and /will collect information about Web pages you access and use that information to display advertising on your computer Do you accept 
+insertion: 
+deletion: and your computer use 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/subparagraph[5]/clause[3]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/subparagraph[5]/clause[3]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (ii) But actually it is: (iii)
+The Jaccard Index is: 0.67
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Commission shall provide t... But actually it is: The Commission shall provide t...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 0.97
+The Detailes are shown as followings: 
+common words: The Commission shall provide that in the case in which multiple information collection programs are provided to the protected computer together or as part of a suite of /software the notice requirements of paragraphs 1A and 2A of subsection a may be met by providing before execution of any of the information collection functions of the programs clear and conspicuous notice in plain language in accordance with paragraph 1 of this subsection by means of a single notice that applies to all such information collection programs except that such notice shall provide the option under subparagraph D of paragraph 1 of this subsection with respect to each such information collection program 
+insertion: functionally 
+deletion: 
+change: functionallyrelated to related / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/text[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: subparagraph
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(A)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"In general"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"With respect only to an information collection program that uses information collected in the manner described in subparagraph (A)(ii)(II) or (B)(ii) of subsection (b)(1) and subject to subparagraph (B) of this paragraph, a function of the program that provides that each display of an advertisement directed or displayed using such information, when the owner or authorized user is accessing a Web page or online location other than of the provider of the computer software, is accompanied by the name of the information collection program, a logogram or trademark used for the exclusive purpose of identifying the program, or a statement or other information sufficient to clearly identify the program."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (B)
+  Exemption for embedded advertisements
+  The Commission shall, by regulation, exempt from the applicability of subparagraph (A) the embedded display of any advertisement on a Web page that contemporaneously displays other information.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be: ). A violation of any provisio... But actually it is: ). A violation of any provisio...
+The Jaccard Index is: 0.62
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words:  A violation of any provision of this Act or of a regulation issued under this Act /shall be treated as an unfair or deceptive act or practice violating a rule promulgated under section 18 of the 
+insertion: 
+deletion: Act committed with actual knowledge or knowledge fairly implied on the basis of objective circumstances that such act is unfair or deceptive or violates this 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: , in the case of a person who ... But actually it is: , in the case of a person who ...
+The Jaccard Index is: 0.44
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words:  in the case of a person who engages in a pattern or practice that violates section 2 or 
+insertion: 
+deletion: 
+change: 3 the Commission may in its discretion seek a civil penalty for such pattern or practice of violations in an amount as determined by the Commission of not more than to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/text[1]/internal-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: internal-xref
+ Inserted paragraph content is: {"3"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {", the Commission may, in its discretion, seek a civil penalty for such pattern or practice of violations in an amount, as determined by the Commission, of not more than—"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any single action or conduct t... But actually it is: any single action or conduct t...
+The Jaccard Index is: 0.42
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: any single action or conduct that violates section 2 or 
+insertion: 
+deletion: 
+change: 3 with respect to multiple protected computers shall be treated as a single violation and to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/internal-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: internal-xref
+ Inserted paragraph content is: {"3"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" with respect to multiple protected computers shall be treated as a single violation; and"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Exclusiveness of remedies But actually it is: Required scienter
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The remedies in this section (... But actually it is: Civil penalties sought under t...
+The Jaccard Index is: 0.13
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/text[1]/act-name[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: act-name But actually it is: null
+ Deleted paragraph content is: {"Federal Trade Commission Act"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ) are the exclusive remedies f... But actually it is: Civil penalties sought under t...
+The Jaccard Index is: 0.11
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effective date But actually it is: Factors in amount of penalty
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: This section shall take effect... But actually it is: In determining the amount of a...
+The Jaccard Index is: 0.15
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"
+  (e)
+  Exclusiveness of remedies
+  The remedies in this section (including remedies available to the Commission under the Federal Trade Commission Act) are the exclusive remedies for violations of this Act.
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[6]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"
+  (f)
+  Effective date
+  To the extent only that this section applies to violations of section 2(a), this section shall take effect upon the expiration of the 6-month period that begins on the date of the enactment of this Act.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sections 2 and 3 of this Act s... But actually it is: Sections 2 and 3 shall not app...
+The Jaccard Index is: 0.7
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: Sections 2 and 3 /shall not apply to 
+insertion: 
+deletion: 3 of this 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A manufacturer or retailer of ... But actually it is: A manufacturer or retailer of ...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 0.98
+The Detailes are shown as followings: 
+common words: A manufacturer or retailer of computer equipment shall not be liable under this Act to the extent that the manufacturer or retailer is providing third party branded /software that is installed on the equipment the manufacturer or retailer is manufacturing or selling 
+insertion: computer 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Nothing in this Act may be con... But actually it is: Nothing in this Act may be con...
+The Jaccard Index is: 0.95
+And the Smith Waterman Score is: 0.92
+The Detailes are shown as followings: 
+common words: Nothing in this Act may be construed in any way to limit or affect the Commission’s authority under any other provision of law including the authority to issue advisory opinions under 1 of 16 of the Code of Federal Regulations policy statements or guidance regarding this Act 
+insertion: 
+deletion: 
+change: Part to part / Volume to volume / 
+
+We are at location: bill[1]/legis-body[1]/section[7]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: specifies the number and types... But actually it is: specifies the number and types...
+The Jaccard Index is: 0.98
+And the Smith Waterman Score is: 0.98
+The Detailes are shown as followings: 
+common words: specifies the number and types of actions taken during such period to enforce sections 2a and /3 the disposition of each such action any penalties levied in connection with such actions and any penalties collected in connection with such actions and 
+insertion: section 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than the expiration ... But actually it is: Not later than the expiration ...
+The Jaccard Index is: 0.79
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: Not later than the expiration of the 6month period that begins on the date of the enactment of this Act the Commission shall submit a report to the Congress regarding the use of /tracking cookies in the delivery or display of advertising to the owners and users of computers The report shall examine and describe the methods by which /cookies and the /that place them on computers function separately and together and /the /extent to which /are or /The report may include such recommendations as the Commission considers necessary and appropriate including treatment of /cookies under this Act or other laws 
+insertion: cookies including Web shall compare use of cookies with the use of information collection programs as such term is defined in section 3 to determine the such 
+deletion: which such or affected by of 
+change: websites to sites / they to uses / covered to similar / Act to different / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means a cookie or similar tex... But actually it is:  means a cookie or similar tex...
+The Jaccard Index is: 0.97
+And the Smith Waterman Score is: 0.95
+The Detailes are shown as followings: 
+common words:  means a cookie or similar text or data file used alone or in conjunction with one or more /to transmit or convey personally identifiable information of a computer owner or user or information regarding Web pages accessed by the owner or user to a party other than the intended recipient for the purpose of 
+insertion: Web 
+deletion: 
+change: websites to sites / 
+
+We are at location: bill[1]/legis-body[1]/section[9]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Commission shall issue the... But actually it is: The Commission shall issue the...
+The Jaccard Index is: 0.67
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: The Commission shall issue the regulations required by this Act not later than the expiration of the 6month period beginning on the date of the enactment of this Act /Any regulations issued pursuant to this Act shall be issued in accordance with 
+insertion: In exercising its authority to issue any regulation under this Act the Commission shall determine that the regulation is consistent with the public interest and the purposes of this Act 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: , when used with respect to in... But actually it is: , when used with respect to in...
+The Jaccard Index is: 0.93
+And the Smith Waterman Score is: 0.96
+The Detailes are shown as followings: 
+common words:  when used with respect to information and for purposes only of section does not include obtaining of the information by a party who is intended by the owner or authorized user of a protected computer to receive the information pursuant to the owner or authorized user 
+insertion: 
+deletion: 
+change: 3 to 3b1A / 
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[4]/subparagraph[1]/text[1]/term[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[4]/subparagraph[1]/text[1]/quote[1]
+The reason of change is: element tag name
+The value is expected to be: term But actually it is: quote
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[4]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[4]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Exception for cookies But actually it is: Exception
+The Jaccard Index is: 0.37
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: for cookies to 
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[4]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[4]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Such term does not include— But actually it is: Such term does not include com...
+The Jaccard Index is: 0.13
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[4]/subparagraph[2]/clause[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: clause But actually it is: null
+ Deleted paragraph content is: {"
+  (i)
+  a cookie or other text or data file that is placed on the computer system of a user by an Internet service provider, interactive computer service, or Internet website to return information to such provider, service, or website; or
+"}
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[4]/subparagraph[2]/clause[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: clause But actually it is: null
+ Deleted paragraph content is: {"
+  (ii)
+  computer software that is placed on the computer system of a user by an Internet service provider, interactive computer service, or Internet website solely to enable the user subsequently to use such provider or service or to access such website.
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[4]/subparagraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(C)Rule of construction regarding cookiesThis paragraph may not be construed to include, as computer software— 
+(i)a cookie; or 
+(ii)any other type of text or data file that solely may be read or transferred by a computer."}
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[8]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[8]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means, with respect to an inf... But actually it is:  means, with respect to an inf...
+The Jaccard Index is: 0.98
+And the Smith Waterman Score is: 0.97
+The Detailes are shown as followings: 
+common words:  means with respect to an information collection program to permanently prevent such program from executing any of the functions described in section that such program is otherwise capable of executing including by removing deleting or disabling the program unless the owner or operator of a protected computer takes a subsequent affirmative action to enable the execution of such functions 
+insertion: 
+deletion: 
+change: 3b to 3b1 / 
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[9]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[9]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means, with respect to an inf... But actually it is:  means, with respect to an inf...
+The Jaccard Index is: 0.95
+And the Smith Waterman Score is: 0.9
+The Detailes are shown as followings: 
+common words:  means with respect to an information collection program the functions of the program described in subsection of section 3 
+insertion: 
+deletion: 
+change: b to b1 / 
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[13]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[13]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Commission may, by regulat... But actually it is: The Commission may, by regulat...
+The Jaccard Index is: 0.59
+And the Smith Waterman Score is: 0.39
+The Detailes are shown as followings: 
+common words: The Commission may by regulation add to the types of information that shall be considered personally identifiable information for purposes of this Act except that such /information //that /particular /computers particular users of computers or particular email addresses or other locations of computers 
+insertion: additional types of shall be considered personally such information 
+deletion: not include particular persons 
+change: specified to described / under to in / paragraph to subparagraph / 1 to A / may to identifiable / not to information / record to only / of to to / aggregate to the / data to extent / does to allows / not to living / identify to individuals / with respect to the Internet to to be identified from that information 
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[14]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[14]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The term  But actually it is: The term suite of 
+The Jaccard Index is: 0.44
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: The term 
+insertion: 
+deletion: 
+change: suite of 
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[14]/text[1]/term[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[14]/text[1]/quote[1]
+The reason of change is: element tag name
+The value is expected to be: term But actually it is: quote
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[14]/text[1]/term[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[14]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: suite of functionally related ... But actually it is: functionally related software
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: functionally related software 
+insertion: 
+deletion: suite of 
+change: 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[18]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(18)Web siteThe term web site means a collection of Web pages that are presented and made available by means of the World Wide Web as a single Web site (or a single Web page so presented and made available), which Web pages have such characteristics in relation to each other as the Commission may prescribe, which may include— 
+(A)a common domain name; 
+(B)a common theme or topic; 
+(C)common ownership, management, or registration; and 
+(D)relationship to a common intended beginning file or home page or other means of accessing or linking the pages together."}
+

@@ -1,0 +1,473 @@
+===================================================
+
+total difference is: 66
+comparing document: BILLS-112hr1263eh.xml
+to document: BILLS-112hr1263rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED		 ...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED		  STATES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend the Servicemembers Ci... But actually it is: To amend the Servicemembers Ci...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: To amend the Servicemembers Civil /Act to provide surviving spouses with certain protections relating to /and mortgage foreclosures and for other purposes 
+insertion: Relief		 mortgages		 
+deletion: 
+change: Relief to  / mortgages to  / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			October 12, 2011
+			Received; read twice and referred to the
+			 Committee on Veterans`
+			 Affairs
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Expansion of protections relat... But actually it is: Expansion of protections			 re...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Expansion of relating to mortgages and mortgage foreclosures for surviving spouses 
+insertion: 
+deletion: 
+change: protections to protections			 / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Protection for Surviving Spous... But actually it is: Protection for			 Surviving Sp...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Protection Surviving Spouse 
+insertion: 
+deletion: 
+change: for to for			 / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 303 of the Servicememb... But actually it is: Section 303 of the Servicememb...
+The Jaccard Index is: 0.42
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Section 303 of the Servicemembers Civil 
+insertion: 
+deletion: 
+change: Relief Act 50 USC App 533 is amended by adding at the end the following new subsection to Relief			 Act 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"50 U.S.C. App. 533"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is
+			 amended by adding at the end the following new subsection:"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Protection for Surviving Spous... But actually it is: Protection for				Surviving Sp...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: for Surviving Spouse to for				Surviving Spouse 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: During the five-year period be... But actually it is: During the five-year period be...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: During the fiveyear period beginning on /of the enactment of this subsection with respect to a servicemember /while in military service and whose death is serviceconnected /shall apply to the surviving spouse of the servicemember if such /the successor in interest to property covered under 
+insertion: 
+deletion: on servicemember serviceconnected such 
+change: date to the				date / dies to who				dies / section to this				section / is to spouse				is / subsection a to subsection				a 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effective date But actually it is: Effective			 date
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Effective date 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subsection (e) of section 303 ... But actually it is: Subsection (e) of section 303 ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: Subsection e of section 303 of such Act as added subsection a shall apply to a surviving spouse of a servicemember death is on or after the date of the enactment of this Act 
+insertion: 
+deletion: 
+change: by to by			 / whose to whose			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Requirements for lending insti... But actually it is: Requirements for			 lending in...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: Requirements lending institutions that are creditors for obligations and liabilities by the Servicemembers Civil Relief Act 
+insertion: 
+deletion: 
+change: for to for			 / covered to covered			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 207 of the Servicememb... But actually it is: Section 207 of the Servicememb...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Section 207 of the Servicemembers Relief Act is amended 
+insertion: 
+deletion: 
+change: Civil to Civil			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by redesignating subsections (... But actually it is: by redesignating			 subsection...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: by subsections d and e as subsections e and f respectively and 
+insertion: 
+deletion: 
+change: redesignating to redesignating			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by inserting after subsection ... But actually it is: by inserting after			 subsecti...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: by inserting subsection c the following new subsection d 
+insertion: 
+deletion: 
+change: after to after			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Lending institution requiremen... But actually it is: Lending				institution require...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: institution requirements 
+insertion: 
+deletion: Lending 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Compliance officers But actually it is: Compliance				officers
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: officers to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Each lending institution subje... But actually it is: Each lending institution subje...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: Each lending institution subject to the requirements /section shall designate an employee of the institution as a /who is responsible for ensuring the institution’s compliance with /and for distributing information to servicemembers whose /liabilities are covered by this section 
+insertion: 
+deletion: requirements a with whose 
+change: this to of				this / officer to compliance				officer / section to this				section / and to obligations				and / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Toll-free telephone number But actually it is: Toll-free				telephone number
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: telephone number 
+insertion: 
+deletion: Tollfree 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: During any fiscal year, a lend... But actually it is: During any fiscal year, a lend...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: During any fiscal year a lending /to the requirements of this section that had annual assets for /fiscal year of 10000000000 or more shall maintain a /number and shall make such telephone number available on the /Web site of 
+insertion: 
+deletion: lending for a the 
+change: subject to institution				subject / preceding to the				preceding / telephone to tollfree				telephone / Internet to primary				Internet / the institution to the				institution 
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Extension of period of protect... But actually it is: Extension of			 period of prot...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Extension period of protections for servicemembers against mortgage foreclosures 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Extended period of protections But actually it is: Extended period			 of protecti...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Extended of protections 
+insertion: 
+deletion: 
+change: period to period			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Stay of proceedings and period... But actually it is: Stay of			 proceedings and per...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: Stay proceedings and period of adjustment of obligations relating to real personal property 
+insertion: 
+deletion: 
+change: of to of			 / or to or			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 303(b) of the Servicem... But actually it is: Section 303(b) of the Servicem...
+The Jaccard Index is: 0.55
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Section 303b of the Servicemembers Relief Act 
+insertion: 
+deletion: 
+change: Civil to Civil			 / 50 USC App 533b is amended by striking to 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  and inserting  But actually it is: ) is			 amended by striking 
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: within 12 months But actually it is: within			 12 months
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: within 12 months 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be: . But actually it is:  and inserting 
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"50 U.S.C. App. 533(b)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/text[1]/text()[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {.}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Period of relief from sale, fo... But actually it is: Period of relief			 from sale,...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Period of from sale foreclosure or seizure 
+insertion: 
+deletion: 
+change: relief to relief			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 303(c) of such Act (50... But actually it is: Section 303(c) of such Act			 ...
+The Jaccard Index is: 0.37
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Section 303c of such 
+insertion: 
+deletion: 
+change: Act 50 USC App 533c is amended by striking to Act			 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: within 9 months But actually it is: within 9			 months
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 9 months to 9			 months 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  and inserting  But actually it is: ) is amended by striking 
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be: . But actually it is:  and inserting 
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"50
+			 U.S.C. App. 533(c)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/text[1]/text()[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {.}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  The amendments made by paragr... But actually it is: The amendments made by paragra...
+The Jaccard Index is: 0.87
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: The amendments made by paragraphs 1 2 shall expire on December 31 2017 Effective January 1 2018 provisions of subsections b and c of section 303 of the Civil Relief Act as in effect on the day before the date of the enactment the Housing and Economic Recovery Act of 2008 
+insertion: 
+deletion:  
+change: and to and			 / the to the			 / Servicemembers to Servicemembers			 / of to of			 / Public Law 110289 are hereby revived to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[3]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"Public Law
+			 110–289"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[3]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"), are hereby revived."}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Repeal of superceded provision But actually it is: Repeal of			 superceded provis...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Repeal superceded provision 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subsection (c) of section 2203... But actually it is: Subsection (c) of section 2203...
+The Jaccard Index is: 0.48
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: Subsection c of section 2203 of Housing and Economic Recovery Act of 2008 
+insertion: 
+deletion: 
+change: the to the			 / Public Law 110289 50 USC App 533 note is amended to read as follows to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"Public Law
+			 110–289"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"; 50 U.S.C. App. 533 note) is amended to read as
+			 follows:"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effective date But actually it is: Effective				date
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: date to 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The amendments made by subsect... But actually it is: The amendments made by subsect...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: The amendments made by subsection a shall take effect /date of the enactment of 
+insertion: 
+deletion: effect 
+change: the to on				the / this Act to this				Act 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Passed the House of Representa... But actually it is: Passed the House of			 Represe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Passed the House Representatives October 11 2011 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/endorsement[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: endorsement But actually it is: null
+ Deleted paragraph content is: {""}
+

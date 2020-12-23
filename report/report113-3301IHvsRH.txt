@@ -1,0 +1,1028 @@
+===================================================
+
+total difference is: 297
+comparing document: BILLS-113hr3301ih.xml
+to document: BILLS-113hr3301rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 113 HR 3301 IH: North American... But actually it is: 113 HR 3301 RH: North American...
+The Jaccard Index is: 0.89
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: 113 HR 3301 North American Energy Infrastructure Act 
+insertion: 
+deletion: 
+change: IH to RH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2013-10-22 But actually it is: 2014-06-19
+The Jaccard Index is: 0.07
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/session[1]/text()[1]   Compared with location: bill[1]/form[1]/session[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 1st Session But actually it is: 2d Session
+The Jaccard Index is: 0.55
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 1st Session 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/text()[19]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/text()[19]
+The reason of change is: content change
+The value is expected to be: , for a period to be subsequen... But actually it is: , for a period to be subsequen...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.93
+The Detailes are shown as followings: 
+common words:  for a period to be subsequently determined by the Speaker in each case for consideration of provisions as fall within the jurisdiction of the committee concerned 
+insertion: 
+deletion: 
+change: such to such			 / 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To require approval for the co... But actually it is: To require approval for the co...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: To require approval for the construction connection operation or maintenance of oil or gas pipelines or electric transmission facilities at the national of the United States for the import or export of oil natural gas electricity to or from Canada or Mexico and for other purposes 
+insertion: 
+deletion: 
+change: natural to natural			 / boundary to boundary			 / or to or			 / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {" Union Calendar No. 358"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 113–482, Part I]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			June 19, 2014
+			Additional sponsors: Mr. Latta, Mr. Cassidy, Mrs. Walorski, Mr. Bilirakis, and Mr. Walberg
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			June 19, 2014
+			Reported from the Committee on Energy and Commerce with an amendment
+			Strike out all after the enacting clause and insert the part printed in italic
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			June 19, 2014
+			The Committees on Transportation and Infrastructure and Natural Resources discharged; committed to
+			 the Committee of the Whole House on the State of the Union and ordered to
+			 be printed
+			For text of introduced bill, see copy of bill as introduced on October 22, 2013
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Congress finds that the United... But actually it is: Congress finds that the United...
+The Jaccard Index is: 0.97
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Congress finds that the United States should establish a more uniform transparent and process for the construction connection operation and maintenance oil and natural gas pipelines and electric transmission facilities for import and export of oil /natural gas and /electricity to and from Canada and Mexico in pursuit of a more secure efficient North American energy market 
+insertion: and the transmission of			 
+deletion: 
+change: modern to modern			 / of to of			 / the to the			 / and to and			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authorization of certain energ... But actually it is: Authorization of certain energ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: Authorization of certain energy infrastructure projects at the national boundary of the 
+insertion: 
+deletion: 
+change: United States to United			 States 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Except as provided in subsecti... But actually it is: Except as provided in subsecti...
+The Jaccard Index is: 0.66
+And the Smith Waterman Score is: 0.37
+The Detailes are shown as followings: 
+common words: Except as provided in and /no person may construct connect operate maintain /an oil /pipeline or transmission facility /for the import or export of oil /or /electricity to or from Canada or Mexico without obtaining /of /the construction connection operation or maintenance /under this section 
+insertion: section a crossborder segment of the transmission			 of a crossing for of			 the crossborder segment 
+deletion: oil or natural facility at the national boundary of the United oil natural 
+change: subsections to subsection / d to c / e to 7 / or to or			 / electric to electric			 / approval to certificate			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Approval But actually it is: Certificate of crossing
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 120 days after ... But actually it is: Not later than 120 days after ...
+The Jaccard Index is: 0.17
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 4321 et seq."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") with respect to a cross-border segment for
+			 which a request is received under this section, the relevant official
+			 identified under paragraph (2), in consultation with appropriate Federal
+			 agencies, shall issue a certificate of crossing for the cross-border
+			 segment unless the relevant official finds that the construction,
+			 connection, operation, or maintenance of the cross-border segment is not
+			 in the public interest of the United States."}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the Secretary of Commerce with... But actually it is: the Secretary of State with re...
+The Jaccard Index is: 0.7
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: the Secretary of with respect to oil pipelines 
+insertion: 
+deletion: 
+change: Commerce to State / and 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the Federal Energy Regulatory ... But actually it is: the Secretary of Energy with r...
+The Jaccard Index is: 0.25
+And the Smith Waterman Score is: 0.3
+The Detailes are shown as followings: 
+common words: Federal Energy Regulatory Commission with respect to 
+insertion: 
+deletion: the 
+change: natural gas pipelines and to electric transmission facilities 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/subparagraph[3]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/subparagraph[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (C) But actually it is: (B)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Approval not major Federal act... But actually it is: Additional requirement for ele...
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: An approval of construction, c... But actually it is: In the case of a request for a...
+The Jaccard Index is: 0.27
+And the Smith Waterman Score is: 0.1
+The Detailes are shown as followings: 
+common words: An approval of construction connection or maintenance 
+insertion: the case of a request for a certificate of crossing 
+deletion: 
+change: operation to operation			 / under paragraph 1 shall not be construed to constitute a major Federal action for purposes of the National Environmental Policy Act of 1969 to of a crossborder segment of an electric transmission			 facility the Secretary of Energy shall require as a condition of issuing			 the certificate of crossing for the request under paragraph 1 that the			 crossborder segment of the electric transmission facility be constructed			 connected operated or maintained consistent with all applicable policies			 and standards of 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[3]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"42 U.S.C. 4321 et seq."}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ). But actually it is: In the case of a request for a...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[3]/subparagraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(A)the Electric Reliability Organization and the applicable regional entity; and
+					"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[3]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(B)any Regional Transmission Organization or Independent System Operator with operational or
+			 functional control over the cross-border segment of the electric
+			 transmission facility.
+					"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[4]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[3]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (4) But actually it is: (3)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In the case of a request for a... But actually it is: In the case of a request for a...
+The Jaccard Index is: 0.83
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: In the case of a request for /of /the construction connection or maintenance of /an electric facility the Secretary of Energy shall require as a condition of /of /the request under paragraph 1 that /the electric transmission facility be connected operated or maintained consistent with all applicable and standards of 
+insertion: a crossing for a crossborder segment of issuing			 the crossing for the			 crossborder segment of 
+deletion: 
+change: approval to certificate / operation to operation			 / transmission to transmission			 / approval to certificate / constructed to constructed			 / policies to policies			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[4]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[3]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any Regional Transmission Orga... But actually it is: any Regional Transmission Orga...
+The Jaccard Index is: 0.84
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: any Regional Transmission Organization or Independent System Operator with operational functional control over the 
+insertion: 
+deletion: 
+change: or to or			 / electric transmission facility to crossborder segment of the electric			 transmission facility 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: No other approval required But actually it is: Exclusions
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: No Presidential permit (or sim... But actually it is: This section shall not apply t...
+The Jaccard Index is: 0.03
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"3 U.S.C. 301"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  note), Executive Order 11423 ... But actually it is: This section shall not apply t...
+The Jaccard Index is: 0.02
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/external-xref[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"3 U.S.C. 301"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  note),  But actually it is: This section shall not apply t...
+The Jaccard Index is: 0.01
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/external-xref[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"section 301"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/text()[4]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 3, United States Cod... But actually it is: This section shall not apply t...
+The Jaccard Index is: 0.26
+And the Smith Waterman Score is: 0.16
+The Detailes are shown as followings: 
+common words: Executive Order shall /be necessary for construction connection operation or maintenance 
+insertion: not 
+deletion:  of title 3 United States Code Executive Order 12038 Executive Order 10485 or any other 
+change: to which this section applies to of a			 crossborder segment of an oil pipeline or electric transmission facility			 for the import or export of oil or the transmission of electricity to or			 from Canada or Mexico 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(1)if the cross-border segment is operating for such import, export, or transmission as of the date of
+			 enactment of this Act;
+				"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(2)if a permit described in section 6 for such construction, connection, operation, or maintenance has
+			 been issued;
+				"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(3)if a certificate of crossing for such construction, connection, operation, or maintenance has
+			 previously been issued under this section; or
+				"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(4)if an application for a permit described in section 6 for such construction, connection, operation,
+			 or maintenance is pending on the date of enactment of this Act, until the
+			 earlier of—
+					(A)the date on which such application is denied; or
+					(B)July 1, 2016.
+					"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Exclusions But actually it is: Effect of other laws
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"This section shall not apply to any construction, connection, operation, or maintenance of an oil or natural gas pipeline or electric transmission facility at the national boundary of the United States for the import or export of oil, natural gas, or electricity to or from Canada or Mexico—"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (1) But actually it is: (2)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: if the pipeline or facility is... But actually it is: Nothing in this section or sec...
+The Jaccard Index is: 0.25
+And the Smith Waterman Score is: 0.08
+The Detailes are shown as followings: 
+common words: if the pipeline or facility is operating at such national boundary for such import or 
+insertion: in this section or section 7 shall affect the requirement to obtain approval or			 authorization under sections 3 and 7 of the Natural 
+deletion: 
+change: export as of the date of enactment of this Act to export			 natural gas 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Natural Gas Act"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (2) But actually it is: (3)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: if a permit described in subse... But actually it is: Nothing in this section or sec...
+The Jaccard Index is: 0.07
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Energy Policy and Conservation Act"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (3) But actually it is: (1)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: if approval of such constructi... But actually it is: Nothing in this section or sec...
+The Jaccard Index is: 0.29
+And the Smith Waterman Score is: 0.24
+The Detailes are shown as followings: 
+common words: if approval of such construction connection operation or maintenance 
+insertion: in this section or section 7 shall affect the application of any other Federal statute to a			 project for which a certificate of 
+deletion: 
+change: has previously been obtained under this section or to of a crossborder segment is sought			 under this section 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Application to projects"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[4]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (4) But actually it is: (3)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: if an application for a permit... But actually it is: Nothing in this section or sec...
+The Jaccard Index is: 0.14
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[4]/subparagraph[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/header[1]
+The reason of change is: element tag name
+The value is expected to be: subparagraph But actually it is: header
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[4]/subparagraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/header[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[4]/subparagraph[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(A)}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[4]/subparagraph[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"the date on which such application is denied; or"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[4]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (B)
+  July 1, 2016.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (e) But actually it is: (d)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Modifications to existing proj... But actually it is: Effect of other laws
+The Jaccard Index is: 0.02
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/text[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(1)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Application to projects"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"Nothing in this section or section 7 shall affect the application of any other Federal statute to a
+			 project for which a certificate of crossing for the construction,
+			 connection, operation, or maintenance of a cross-border segment is sought
+			 under this section."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(2)Natural Gas ActNothing in this section or section 7 shall affect the requirement to obtain approval or
+			 authorization under sections 3 and 7 of the Natural Gas Act for the
+			 siting, construction, or operation of any facility to import or export
+			 natural gas.
+				"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(3)Energy Policy and Conservation ActNothing in this section or section 7 shall affect the authority of the President under section
+			 103(a) of the Energy Policy and Conservation Act.
+				"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (f) But actually it is: (d)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/text[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(1)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Application to projects"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"Nothing in this section or section 7 shall affect the application of any other Federal statute to a
+			 project for which a certificate of crossing for the construction,
+			 connection, operation, or maintenance of a cross-border segment is sought
+			 under this section."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(2)Natural Gas ActNothing in this section or section 7 shall affect the requirement to obtain approval or
+			 authorization under sections 3 and 7 of the Natural Gas Act for the
+			 siting, construction, or operation of any facility to import or export
+			 natural gas.
+				"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(3)Energy Policy and Conservation ActNothing in this section or section 7 shall affect the authority of the President under section
+			 103(a) of the Energy Policy and Conservation Act.
+				"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (g) But actually it is: (d)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Definitions But actually it is: Effect of other laws
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"In this section—"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (1) But actually it is: (2)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the term  But actually it is: Nothing in this section or sec...
+The Jaccard Index is: 0.01
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[1]/text[1]/term[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: term But actually it is: null
+ Deleted paragraph content is: {"natural gas"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  has the meaning given that te... But actually it is: Nothing in this section or sec...
+The Jaccard Index is: 0.17
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[1]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"15 U.S.C. 717a"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[1]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ); But actually it is: Nothing in this section or sec...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Natural Gas Act"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[2]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (2) But actually it is: (3)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the term  But actually it is: Nothing in this section or sec...
+The Jaccard Index is: 0.02
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[2]/text[1]/term[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: term But actually it is: null
+ Deleted paragraph content is: {oil}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  means petroleum or a petroleu... But actually it is: Nothing in this section or sec...
+The Jaccard Index is: 0.01
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Energy Policy and Conservation Act"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[3]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (3) But actually it is: (1)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the terms  But actually it is: Nothing in this section or sec...
+The Jaccard Index is: 0.02
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[3]/text[1]/term[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: term But actually it is: null
+ Deleted paragraph content is: {"Electric Reliability Organization"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  and  But actually it is: Nothing in this section or sec...
+The Jaccard Index is: 0.01
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[3]/text[1]/term[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: term But actually it is: null
+ Deleted paragraph content is: {"regional entity"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[3]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  have the meanings given those... But actually it is: Nothing in this section or sec...
+The Jaccard Index is: 0.12
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[3]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"16 U.S.C. 824o"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[3]/text[1]/text()[4]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ); and But actually it is: Nothing in this section or sec...
+The Jaccard Index is: 0.01
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Application to projects"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[4]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (4) But actually it is: (3)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the terms  But actually it is: Nothing in this section or sec...
+The Jaccard Index is: 0.02
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[4]/text[1]/term[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: term But actually it is: null
+ Deleted paragraph content is: {"Independent System Operator"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  and  But actually it is: Nothing in this section or sec...
+The Jaccard Index is: 0.03
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[4]/text[1]/term[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: term But actually it is: null
+ Deleted paragraph content is: {"Regional Transmission Organization"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[4]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  have the meanings given those... But actually it is: Nothing in this section or sec...
+The Jaccard Index is: 0.15
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[4]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"16 U.S.C. 796"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[4]/text[1]/text()[4]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ). But actually it is: Nothing in this section or sec...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[3]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Energy Policy and Conservation Act"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) is amended by adding at the ... But actually it is: ) is amended by adding at the ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words:  is amended by adding at the end 
+insertion: 
+deletion: 
+change: the following to the			 following 
+
+We are at location: bill[1]/legis-body[1]/section[4]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: No order is required under sub... But actually it is: No order is required under sub...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.91
+The Detailes are shown as followings: 
+common words: No order is required under subsection a to authorize the export or import of any natural gas or from Canada or Mexico 
+insertion: 
+deletion: 
+change: to to to			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: insofar as such State regulati... But actually it is: insofar as such State regulati...
+The Jaccard Index is: 0.67
+And the Smith Waterman Score is: 0.93
+The Detailes are shown as followings: 
+common words: insofar as such State regulation does not conflict with the exercise of the 
+insertion: 
+deletion: 
+change: Commission to Commissions powers			 under or relating to subsection 202e 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) is amended by striking  But actually it is: ) is			 amended by striking 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words:  amended by striking 
+insertion: 
+deletion: 
+change: is to is			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[2]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[2]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the Commission has conducted h... But actually it is: the Commission has conducted h...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: the Commission has conducted hearings and made the findings required under section 202e of Federal Power Act 
+insertion: 
+deletion: 
+change: the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[2]/text[1]/quote[2]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[2]/text[1]/quote[2]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the Secretary has conducted he... But actually it is: the Secretary has conducted he...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.87
+The Detailes are shown as followings: 
+common words: the Secretary has conducted hearings and finds that the proposed transmission facilities would impair the sufficiency of electric supply within the United States would not impede or tend to impede the coordination in the public of facilities subject to the jurisdiction of the Secretary 
+insertion: 
+deletion: 
+change: not to not			 / or to or			 / interest to interest			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effective date; rulemaking dea... But actually it is: No Presidential permit require...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]   Compared with location: bill[1]/legis-body[1]/section[6]/text[1]
+The reason of change is: element tag name
+The value is expected to be: subsection But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[6]/text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(a)}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/header[1]   Compared with location: bill[1]/legis-body[1]/section[6]/text[1]/external-xref[1]
+The reason of change is: element tag name
+The value is expected to be: header But actually it is: external-xref
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/text[1]/external-xref[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effective date But actually it is: 3 U.S.C. 301
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/text[1]   Compared with location: bill[1]/legis-body[1]/section[6]/text[1]/text()[2]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/text[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {"Sections 3, 4, and 5, and the amendments made by such sections, shall take effect on July 1, 2015."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/text[1]/external-xref[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"section 301"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 3,
+			 United States Code, Executive Order 12038, Executive Order 10485, or any
+			 other Executive Order shall be necessary for the construction, connection,
+			 operation, or maintenance of an oil or natural gas pipeline or electric
+			 transmission facility, or any cross-border segment thereof."}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subsection But actually it is: null
+ Deleted paragraph content is: {"
+  (b)
+  Rulemaking deadlines
+  Each relevant official described in section 3(b)(2) shall—
+  
+    (1)
+    not later than 180 days after the date of enactment of this Act, publish in the Federal Register notice of a proposed rulemaking to carry out the applicable requirements of section 3; and
+  
+  
+    (2)
+    not later than 1 year after the date of enactment of this Act, publish in the Federal Register a final rule to carry out the applicable requirements of section 3.
+  
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[7]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"7.Modifications to existing projectsNo certificate of crossing under section 3, or permit described in section 6, shall be required for
+			 a modification to the construction, connection, operation, or maintenance
+			 of an oil or natural gas pipeline or electric transmission facility—
+			(1)that is operating for the import or export of oil or natural gas or the transmission of electricity
+			 to or from Canada or Mexico as of the date of enactment of the Act;
+			(2)for which a permit described in section 6 for such construction, connection, operation, or
+			 maintenance has been issued; or
+			(3)for which a certificate of crossing for the cross-border segment of the pipeline or facility has
+			 previously been issued under section 3.
+			"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[8]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"8.Effective date; rulemaking deadlines
+			(a)Effective dateSections 3 through 7, and the amendments made by such sections, shall take effect on July 1, 2015.
+			(b)Rulemaking deadlinesEach relevant official described in section 3(b)(2) shall—
+				(1)not later than 180 days after the date of enactment of this Act, publish in the Federal Register
+			 notice of a proposed rulemaking to carry out the applicable requirements
+			 of section 3; and
+				(2)not later than 1 year after the date of enactment of this Act, publish in the Federal Register a
+			 final rule to carry out the applicable requirements of section 3.
+				"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[9]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"9.DefinitionsIn this Act—
+			(1)the term cross-border segment means the portion of an oil or natural gas pipeline or electric transmission facility that is
+			 located at the national boundary of the United States with either Canada
+			 or Mexico;
+			(2)the term modification includes a reversal of flow direction, change in ownership, volume expansion, downstream or
+			 upstream interconnection, or adjustment to maintain flow (such as a
+			 reduction or increase in the number of pump or compressor stations);
+			(3)the term natural gas has the meaning given that term in section 2 of the Natural Gas Act (15 U.S.C. 717a);
+			(4)the term oil means petroleum or a petroleum product;
+			(5)the terms Electric Reliability Organization and regional entity have the meanings given those terms in section 215 of the Federal Power Act (16 U.S.C. 824o); and
+			(6)the terms Independent System Operator and Regional Transmission Organization have the meanings given those terms in section 3 of the Federal Power Act (16 U.S.C. 796).
+			"}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		June 19, 2014
+		Reported from the Committee on Energy and Commerce with an amendment
+		June 19, 2014
+		The Committees on Transportation and Infrastructure and Natural Resources discharged; committed to
+			 the Committee of the Whole House on the State of the Union and ordered to
+			 be printed"}
+

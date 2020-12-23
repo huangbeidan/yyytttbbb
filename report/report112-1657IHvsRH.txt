@@ -1,0 +1,161 @@
+===================================================
+
+total difference is: 36
+comparing document: BILLS-112hr1657ih.xml
+to document: BILLS-112hr1657rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Committee on Veterans’			 Affa... But actually it is: Committee on Veterans’ Affairs
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Committee on 
+insertion: 
+deletion: 
+change: Veterans’			 Affairs to Veterans’ Affairs 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend title 38, United Stat... But actually it is: To amend title 38, United Stat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: To amend title 38 United States Code to revise /enforcement penalties for misrepresentation of a business concern as a /business concern owned and controlled by veterans or as a small /concern owned and controlled by servicedisabled veterans 
+insertion: 
+deletion: revise a small 
+change:  to the /  to small /  to business / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 46"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 112–85]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {" 
+May 20, 2011 
+Committed to the Committee of the Whole House on the State of the Union and ordered to be printed 
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {" 
+ 
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Department of Veterans			 Affa... But actually it is: Department of Veterans Affairs...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Department of Affairs enforcement penalties for misrepresentation of a business concern as small business concern owned and controlled by veterans or as a small concern owned and controlled by servicedisabled veterans 
+insertion: 
+deletion: 
+change: Veterans			 to Veterans / a			 to a / business			 to business / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subsection (g) of section 8127... But actually it is: Subsection (g) of section 8127...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: Subsection g of section 8127 of title United States Code is amended 
+insertion: 
+deletion: 
+change: 38			 to 38 / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/paragraph[1]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/paragraph[1]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: (1) Any			 business But actually it is: (1) Any business
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: Any			 business to Any business 
+
+We are at location: bill[1]/legis-body[1]/section[1]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[1]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  and			 inserting  But actually it is:  and inserting 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: and			 inserting to and inserting 
+
+We are at location: bill[1]/legis-body[1]/section[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by adding at the			 end the fo... But actually it is: by adding at the end the follo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: by adding at end the following new paragraphs 
+insertion: 
+deletion: 
+change: the			 to the / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/paragraph[3]/quoted-block[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/paragraph[3]/quoted-block[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In the case of a debarment und... But actually it is: In the case of a debarment und...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: In the case of a debarment under /the Secretary shall commence debarment action against the business /not later than 30 days after determining that the concern misrepresented /of the concern as described in paragraph 1 and shall /actions against such concern by not later than 90 days after 
+insertion: paragraph concern the complete 
+deletion: 
+change: paragraph				1 to 1 / concern				by to by / the				status to status / complete				debarment to debarment / such				determination to such determination 
+
+We are at location: bill[1]/legis-body[1]/section[1]/paragraph[3]/quoted-block[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/paragraph[3]/quoted-block[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The debarment of a business co... But actually it is: The debarment of a business co...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: The debarment of a business /paragraph 1 includes the debarment of all principals in the /for a period of not less than 
+insertion: concern business 
+deletion: 
+change: concern				under to under / business				concern to concern / five				years to five years 
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+May 20, 2011
+Committed to the Committee of the Whole House on the State of the Union and ordered to be printed"}
+

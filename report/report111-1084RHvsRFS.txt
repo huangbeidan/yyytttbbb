@@ -1,0 +1,229 @@
+===================================================
+
+total difference is: 104
+comparing document: BILLS-111hr1084eh.xml
+to document: BILLS-111hr1084rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED		 ...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED		  STATES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To require the Federal Communi... But actually it is: To require the Federal Communi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: To require the Federal /Commission to prescribe a standard to preclude commercials from being /at louder volumes than the program material they accompany 
+insertion: Communications		 broadcast		 
+deletion: 
+change: Communications to  / broadcast to  / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			December 16, 2009
+			Received; read twice and referred to the
+			 Committee on Commerce, Science, and
+			 Transportation
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Commercial Advertisement Loudn... But actually it is: Commercial Advertisement Loudn...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Commercial Advertisement Mitigation Act 
+insertion: 
+deletion: 
+change: Loudness to Loudness			 / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[2]/short-title[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[2]/short-title[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"CALM Act"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Rulemaking on loud commercials... But actually it is: Rulemaking on loud commercials...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Rulemaking on loud 
+insertion: 
+deletion: 
+change: commercials required to commercials			 required 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Within 1 year after the date o... But actually it is: Within 1 year after the date o...
+The Jaccard Index is: 0.47
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Within 1 year after the date of of this Act the Federal Communications Commission shall prescribe pursuant the Communications Act of 1934 
+insertion: 
+deletion: 
+change: enactment to enactment			 / to to to			 / 47 USC 151 et seq a regulation that is limited to incorporating by reference and making mandatory subject to any waivers the Commission may grant pursuant to subsection b2 the to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Recommended Practice: Techniqu... But actually it is: Recommended Practice: Techniqu...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Recommended Practice Techniques for Establishing and Maintaining Loudness for Digital Television 
+insertion: 
+deletion: 
+change: Audio to Audio			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  (A/85), and any successor the... But actually it is: ) a regulation			 that is limi...
+The Jaccard Index is: 0.12
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"47 U.S.C. 151 et seq."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" (A/85), and any successor thereto,
+			 approved by the Advanced Television Systems Committee, only insofar as such
+			 recommended practice concerns the transmission of commercial advertisements by
+			 a television broadcast station, cable operator, or other multichannel video
+			 programming distributor."}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effective Date But actually it is: Effective			 Date
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Effective Date 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Federal Communications Com... But actually it is: The Federal			 Communications ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: The Communications Commission shall prescribe that the regulation adopted to subsection a shall become effective 1 year after the date of 
+insertion: 
+deletion: 
+change: Federal to Federal			 / pursuant to pursuant			 / its adoption to its			 adoption 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For any television broadcast s... But actually it is: For any television broadcast s...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: For any television broadcast station operator or other multichannel video programming distributor that that obtaining the equipment to comply with the regulation adopted pursuant subsection a would result in financial hardship the Federal Commission may grant a waiver of the effective date set forth in paragraph for 1 year and may renew such waiver for 1 additional year 
+insertion: 
+deletion: 
+change: cable to cable			 / demonstrates to demonstrates			 / to to to			 / Communications to Communications			 / 1 to 1			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/text[1]/term[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/text[1]/term[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: television broadcast station But actually it is: television broadcast			 statio...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: broadcast station to broadcast			 station 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  has the meaning given such te... But actually it is:  has the meaning given such te...
+The Jaccard Index is: 0.81
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words:  has the meaning given such term in section 325 of Communications Act of 1934 
+insertion: 
+deletion: 
+change: the to the			 / 47 USC 325 and to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"47 U.S.C. 325"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"); and"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be:  have the meanings given such ... But actually it is:  have the meanings given			 su...
+The Jaccard Index is: 0.83
+And the Smith Waterman Score is: 0.87
+The Detailes are shown as followings: 
+common words:  have the meanings such terms in section 602 of Communications Act of 1934 
+insertion: 
+deletion: 
+change: given to given			 / 47 USC 522 to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"47 U.S.C.
+			 522"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/text()[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {).}
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Passed the House of Representa... But actually it is: Passed the House of			 Represe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Passed the House Representatives December 15 2009 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/endorsement[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: endorsement But actually it is: null
+ Deleted paragraph content is: {""}
+

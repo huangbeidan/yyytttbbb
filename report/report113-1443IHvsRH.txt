@@ -1,0 +1,294 @@
+===================================================
+
+total difference is: 49
+comparing document: BILLS-113hr1443ih.xml
+to document: BILLS-113hr1443rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 113 HR 1443 IH: Tinnitus Resea... But actually it is: 113 HR 1443 RH: Tinnitus Resea...
+The Jaccard Index is: 0.9
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: 113 HR 1443 Tinnitus Research and Treatment Act of 2013 
+insertion: 
+deletion: 
+change: IH to RH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2013-04-09 But actually it is: 2013-10-22
+The Jaccard Index is: 0.23
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Committee on Veterans’			 Affa... But actually it is: Committee on Veterans’ Affairs
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Committee on 
+insertion: 
+deletion: 
+change: Veterans’			 Affairs to Veterans’ Affairs 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To direct the Secretary of Vet... But actually it is: To direct the Secretary of Vet...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: To direct the Secretary of Veterans Affairs to /tinnitus as a mandatory condition for research and treatment by the /of Veterans Affairs and for other purposes 
+insertion: 
+deletion: to the 
+change:  to recognize /  to Department / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 175"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 113–247]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+  October 22, 2013
+  Additional sponsors: Mr. O`Rourke, Ms. Brownley of California, Mr. Walz, and Mr. McGovern
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+  October 22, 2013
+  Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed
+  Strike out all after the enacting clause and insert the part printed in italic
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+  
+    
+  
+"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Tinnitus Research and Treatmen... But actually it is: Tinnitus Research and Treatmen...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Tinnitus Research and Treatment Act 
+insertion: 
+deletion: 
+change: of			 2013 to of 2013 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Recognition and			 treatment o... But actually it is: Recognition and treatment of t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Recognition treatment of tinnitus at Department of Veterans Affairs Auditory Centers 
+insertion: 
+deletion: 
+change: and			 to and / of			 Excellence to of Excellence 
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of			 Veterans A... But actually it is: The Secretary of Veterans Affa...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: The Secretary Veterans Affairs shall recognize tinnitus as a mandatory condition for and treatment by the Department of Veterans Affairs Auditory Centers 
+insertion: 
+deletion: 
+change: of			 to of / research			 to research / of			 Excellence to of Excellence 
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Research on			 prevention and ... But actually it is: Research on prevention and tre...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Research prevention and treatment of tinnitus 
+insertion: 
+deletion: 
+change: on			 to on / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of Veterans Affa... But actually it is: The Secretary of Veterans Affa...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: The Secretary of Veterans Affairs ensure that research is conducted at Department of Veterans Affairs on the prevention and treatment of tinnitus Such research 
+insertion: 
+deletion: 
+change: shall			 to shall / facilities			 to facilities / shall			 include to shall include 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: an assessment of			 the effica... But actually it is: an assessment of the efficacy ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: an assessment the efficacy of multidisciplinary tinnitus treatment modalities on subsets of patients 
+insertion: 
+deletion: 
+change: of			 to of / different			 to different / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: studies on the underlying etio... But actually it is: studies on the underlying etio...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: studies on the underlying etiology tinnitus in veteran populations that occur as a result of different factors including blastrelated tinnitus where there is no measurable loss versus other forms of noiseinduced tinnitus where there is hearing 
+insertion: 
+deletion: 
+change: of			 to of / causal			 to causal / hearing			 to hearing / loss			 and to loss and 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a study of the underlying mech... But actually it is: a study of the underlying mech...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: a study of the underlying between hearing loss and tinnitus including cases in which one or the condition is present but not both 
+insertion: 
+deletion: 
+change: mechanisms			 to mechanisms / other			 to other / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Interdepartmental			 cooperati... But actually it is: Interdepartmental cooperation
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Interdepartmental			 cooperation 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of			 Veterans A... But actually it is: The Secretary of Veterans Affa...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: The Secretary Veterans Affairs shall ensure the cooperation of the Department of Affairs with the Hearing Center of Excellence established by the Department Defense to further research on tinnitus 
+insertion: 
+deletion: 
+change: of			 to of / Veterans			 to Veterans / of			 to of / 
+
+We are at location: null   Compared with location: bill[1]/legis-body[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: legis-body
+ Inserted paragraph content is: {"
+  
+    1.
+    Short title
+    This Act may be cited as the Tinnitus Research and Treatment Act of 2013.
+  
+  
+    2.
+    Findings
+    Congress makes the following findings:
+    
+      (1)
+      Since 2006, the most prevalent service-connected disability for which veterans have received compensation under the laws administered by the Secretary of Veterans Affairs has been tinnitus.
+    
+    
+      (2)
+      The number of veterans receiving such compensation for tinnitus has risen each year since 2006, increasing the number and cost of the compensation claims paid by the Secretary.
+    
+    
+      (3)
+      A growing body of peer reviewed literature indicates a direct connection between traumatic brain injury, post traumatic stress disorder, and tinnitus.
+    
+    
+      (4)
+      An analysis of data collected by the Department of Veterans Affairs concluded that total amount of disability compensation paid for tinnitus by the Department of Veterans Affairs in 2012 was $1,500,000,000.
+    
+    
+      (5)
+      Based on projected rates of growth, the amount of disability compensation payable to veterans for tinnitus is expected to exceed $3,000,000,000 in 2017.
+    
+  
+  
+    3.
+    Recognition and treatment of tinnitus at Department of Veterans Affairs Auditory Centers of Excellence
+    The Secretary of Veterans Affairs shall recognize tinnitus as a condition for research and treatment by the Department of Veterans Affairs Auditory Centers of Excellence.
+  
+  
+    4.
+    Research on prevention and treatment of tinnitus
+    
+      (a)
+      In general
+      The Secretary of Veterans Affairs shall recognize the need to enhance the research and treatment of tinnitus and to ensure the allocation of appropriate resources directed at the research and enhanced treatment of tinnitus conducted by the Auditory Centers of Excellence of the Department of Veterans Affairs, commensurate with peer-review protocols. Such research shall include—
+      
+        (1)
+        an assessment of the efficacy of multidisciplinary tinnitus treatment modalities on different subsets of patients;
+      
+      
+        (2)
+        studies on the underlying etiology of tinnitus in veteran populations that occur as a result of different causal factors, including blast-related tinnitus where there is no measurable hearing loss versus other forms of noise-induced tinnitus where there is hearing loss; and
+      
+      
+        (3)
+        a study of the underlying mechanisms between hearing loss and tinnitus, including cases in which one or the other condition is present, but not both.
+      
+    
+    
+      (b)
+      Relationship to other authorities
+      Nothing in this section shall be construed as interfering with the discretion of the Secretary of Veterans Affairs to conduct research in accordance with peer-review protocols in order to ensure the quality and transparency of the research.
+    
+  
+  
+    5.
+    Interdepartmental cooperation
+    The Secretary of Veterans Affairs shall ensure the cooperation of the Department of Veterans Affairs with the Hearing Center of Excellence established by the Department of Defense to further research on tinnitus.
+  
+"}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+  October 22, 2013
+  Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed
+"}
+

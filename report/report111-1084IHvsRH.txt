@@ -1,0 +1,203 @@
+===================================================
+
+total difference is: 37
+comparing document: BILLS-111hr1084ih.xml
+to document: BILLS-111hr1084rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To require the Federal Communi... But actually it is: To require the Federal Communi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.43
+The Detailes are shown as followings: 
+common words: To require the Federal /Commission /prescribe a standard to preclude commercials from being /at /volumes than the program material 
+insertion: Communications		 broadcast		 
+deletion: Commission at 
+change: Communications to  /  to to / broadcast to  /  to louder / they accompany to they		  accompany 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 219"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No.
+		  111–374]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			December 14, 2009
+			Additional sponsors: Mr.
+			 Rothman of New Jersey, Mr. Moran of
+			 Virginia, Mr. Gordon of
+			 Tennessee, Ms.
+			 Shea-Porter, Mr. Towns,
+			 Mr. Cohen,
+			 Mrs. Myrick,
+			 Mr. Ellsworth,
+			 Mr. Spratt,
+			 Mr. Smith of Washington,
+			 Mr. Weiner,
+			 Mr. Murphy of Connecticut,
+			 Mrs. Capps,
+			 Ms. Woolsey,
+			 Mr. Holt, Mr. Engel, Mr.
+			 Pascrell, Mrs. Lowey,
+			 Mr. Carney,
+			 Mr. Murtha,
+			 Ms. Wasserman Schultz,
+			 Mr. Bishop of Georgia,
+			 Mr. Ackerman,
+			 Mr. Sarbanes,
+			 Mr. Farr, Ms. Castor of Florida,
+			 Mr. Payne,
+			 Ms. Schakowsky,
+			 Mr. Obey, Mr. Arcuri, Mr.
+			 Jackson of Illinois, Mr.
+			 Hinchey, Ms. Matsui,
+			 Mrs. Davis of California,
+			 Ms. Kilroy,
+			 Mrs. McCarthy of New York,
+			 Mr. Larson of Connecticut,
+			 Mr. Stupak,
+			 Mr. Tonko,
+			 Mr. Rahall,
+			 Mr. Israel,
+			 Mr. Connolly of Virginia,
+			 Mr. McNerney,
+			 Ms. DeGette,
+			 Mr. Ryan of Ohio,
+			 Ms. Baldwin,
+			 Ms. Slaughter,
+			 Mr. Meek of Florida,
+			 Mr. Markey of Massachusetts,
+			 Mr. Thompson of Mississippi,
+			 Mr. Cooper,
+			 Mr. Conyers,
+			 Mr. Carnahan,
+			 Ms. Berkley,
+			 Ms. Edwards of Maryland,
+			 Ms. DeLauro,
+			 Mr. Higgins,
+			 Mr. Kagen,
+			 Mr. Stark,
+			 Mr. Courtney,
+			 Mr. Hall of New York,
+			 Mr. Andrews,
+			 Mr. Barrow,
+			 Mr. Blumenauer,
+			 Ms. Bordallo,
+			 Mr. Braley of Iowa,
+			 Mr. Kennedy,
+			 Mr. McIntyre, and
+			 Mr. Nye
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			December 14, 2009
+			Reported with an amendment, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the average maximum			 loudnes... But actually it is: the average			 maximum loudnes...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: the maximum			 loudness of such advertisements shall not be substantially higher average maximum loudness of the program material that such advertisements			 accompany 
+insertion: 
+deletion: 
+change: average to average			 / than to than			 / the			 to the / 
+
+We are at location: null   Compared with location: bill[1]/legis-body[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: legis-body
+ Inserted paragraph content is: {"
+		1.Short titleThis Act may be cited as the
+			 Commercial Advertisement Loudness
+			 Mitigation Act or the CALM Act.
+		2.Rulemaking on loud
+			 commercials required
+			(a)Regulation
+			 RequiredWithin 1 year after
+			 the date of enactment of this Act, the Federal Communications Commission shall
+			 prescribe pursuant to the Communications Act of 1934 (47 U.S.C. 151 et seq.) a
+			 regulation that is limited to incorporating by reference the Recommended
+			 Practice: Techniques for Establishing and Maintaining Audio Loudness for
+			 Digital Television (A/85), and any successor thereto, approved by the
+			 Advanced Television Systems Committee, only insofar as such recommended
+			 practice concerns the transmission of commercial advertisements by a television
+			 broadcast station, cable operator, or other multichannel video programming
+			 distributor.
+			(b)Implementation
+				(1)Effective
+			 DateThe Federal Communications Commission shall prescribe that
+			 the regulation adopted pursuant to subsection (a) shall become effective 1 year
+			 after the date of its adoption.
+				(2)WaiverFor
+			 any television broadcast station, cable operator, or other multichannel video
+			 programming distributor that demonstrates that obtaining the equipment to
+			 comply with the regulation adopted pursuant to subsection (a) would result in
+			 financial hardship, the Federal Communications Commission may grant a waiver of
+			 the effective date set forth in paragraph (1) for 1 year and may renew such
+			 waiver for 1 additional year.
+				(c)DefinitionsFor purposes of this section—
+				(1)the term television
+			 broadcast station has the meaning given such term in section 325 of the
+			 Communications Act of 1934 (47 U.S.C. 325); and
+				(2)the terms cable
+			 operator and multichannel video programming distributor
+			 have the meanings given such terms in section 602 of Communications Act of 1934
+			 (47 U.S.C. 522).
+				"}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		December 14, 2009
+		Reported with an amendment, committed to the Committee of
+		  the Whole House on the State of the Union, and ordered to be
+		  printed
+	"}
+

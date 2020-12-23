@@ -1,0 +1,917 @@
+===================================================
+
+total difference is: 415
+comparing document: BILLS-111hr4714rh.xml
+to document: BILLS-111hr4714eh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Reported-in-House But actually it is: Engrossed-in-House
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IB But actually it is: I
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/calendar[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: calendar But actually it is: null
+ Deleted paragraph content is: {"Union Calendar No. 356"}
+
+We are at location: bill[1]/form[1]/associated-doc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: associated-doc But actually it is: null
+ Deleted paragraph content is: {"[Report No. 111–613]"}
+
+We are at location: bill[1]/form[1]/action[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {" 
+March 2, 2010 
+Mr. Oberstar (for himself, Mr. Mica, Mr. Costello, Mr. Petri, Mr. DeFazio, Ms. Norton, and Mr. Cummings) introduced the following bill; which was referred to the Committee on Transportation and Infrastructure 
+"}
+
+We are at location: bill[1]/form[1]/action[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+September 22, 2010
+Additional sponsor: Ms. Corrine Brown of Florida
+"}
+
+We are at location: bill[1]/form[1]/action[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {" 
+September 22, 2010 
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed 
+Strike out all after the enacting clause and insert the part printed in italic 
+For text of introduced bill, see copy of bill as introduced on March 2, 2010 
+"}
+
+We are at location: bill[1]/form[1]/action[4]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {" 
+ 
+"}
+
+We are at location: bill[1]/form[1]/legis-type[1]/text()[1]   Compared with location: bill[1]/form[1]/legis-type[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A BILL But actually it is: AN ACT
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/official-title[1]/pagebreak[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: pagebreak But actually it is: null
+ Deleted paragraph content is: {}
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[6]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[6]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 6. Recordings, transcript... But actually it is: Sec. 6. Disclosure, availabili...
+The Jaccard Index is: 0.16
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[11]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[11]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 11. Maritime casualty inv... But actually it is: Sec. 11. Marine casualty inves...
+The Jaccard Index is: 0.81
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Sec11Maritime casualty investigations 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[15]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[15]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 15. Coast Guard notificat... But actually it is: Sec. 15. Notification of marin...
+The Jaccard Index is: 0.28
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: Guard notification to of marine casualties 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {""}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(d)Accidental death and dismemberment insuranceSection 1113 is further amended by adding at the end the following: 
+ 
+(j)Accidental death and dismemberment insurance 
+(1)Authority to provide insuranceThe Board may procure accidental death and dismemberment insurance for an employee of the Board who travels for an accident investigation or other activity of the Board outside the United States or inside the United States under hazardous circumstances, as defined by the Board. 
+(2)Crediting of insurance benefits to offset United States tort liabilityAny amounts paid to a person under insurance coverage procured under this subsection shall be credited as offsetting any liability of the United States to pay damages to that person under section 1346(b) of title 28, chapter 171 of title 28, chapter 163 of title 10, or any other provision of law authorizing recovery based upon tort liability of the United States in connection with the injury or death resulting in the insurance payment. 
+(3)Treatment of insurance benefitsAny amounts paid under insurance coverage procured under this subsection shall not— 
+(A)be considered additional pay or allowances for purposes of section 5536 of title 5; or 
+(B)offset any benefits an employee may have as a result of government service, including compensation under chapter 81 of title 5. 
+(4)Entitlement to other insuranceNothing in this subsection shall be construed as affecting the entitlement of an employee to insurance under section 8704(b) of title 5.."}
+
+We are at location: bill[1]/legis-body[1]/section[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Recordings, transcripts, and i... But actually it is: Disclosure, availability, and ...
+The Jaccard Index is: 0.1
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Vessel recordings and transcri... But actually it is: Trade secrets, commercial info...
+The Jaccard Index is: 0.04
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 1114 is amended— But actually it is: Section 1114(b) is amended—
+The Jaccard Index is: 0.74
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Section is amended 
+insertion: 
+deletion: 
+change: 1114 to 1114b / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subsection (a)(1) by striki... But actually it is: by striking the subsection hea...
+The Jaccard Index is: 0.31
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: by striking 
+insertion: 
+deletion: in subsection a1 
+change: the subsection heading and inserting the following 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[1]/text[1]/quote[1]/header-in-text[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[1]/text[1]/quote[1]/header-in-text[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"Trade secrets, commercial information, and financial information"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  and inserting  But actually it is: ;
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[1]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[1]/text[1]/quote[1]/header-in-text[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[1]/text[1]/quote[1]/header-in-text[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"Trade secrets, commercial information, and financial information"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subsection (d)(1) by striki... But actually it is: in paragraph (1) in the matter...
+The Jaccard Index is: 0.1
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[2]/text[1]/quote[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"or vessel"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ;  But actually it is: in paragraph (1) in the matter...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[2]/subparagraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (A)
+  by inserting ‘‘submitted to the Board in the course of a Board investigation or study and’’ after ‘‘information’’; and
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[2]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (B)
+  by inserting ‘‘, or commercial or financial information if the information would otherwise be withheld under section 552(b)(4) of title 5,’’ after ‘‘title 18’’;
+"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by redesignating subsections (... But actually it is: in paragraph (2) by striking ‘...
+The Jaccard Index is: 0.14
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by inserting after subsection ... But actually it is: by adding at the end the follo...
+The Jaccard Index is: 0.28
+And the Smith Waterman Score is: 0.29
+The Detailes are shown as followings: 
+common words: by after subsection d the following 
+insertion: 
+deletion: 
+change: inserting to adding / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[4]/quoted-block[1]/subsection[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[4]/quoted-block[1]/paragraph[1]
+The reason of change is: element tag name
+The value is expected to be: subsection But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[4]/quoted-block[1]/subsection[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[4]/quoted-block[1]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (e) But actually it is: (4)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[4]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[4]/quoted-block[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Vessel recordings and transcri... But actually it is: Annotation of controlled infor...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[4]/quoted-block[1]/subsection[1]/paragraph[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[4]/quoted-block[1]/paragraph[1]/text[1]
+The reason of change is: element tag name
+The value is expected to be: paragraph But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[4]/quoted-block[1]/subsection[1]/paragraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[4]/quoted-block[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[4]/quoted-block[1]/subsection[1]/paragraph[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(1)}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[4]/quoted-block[1]/subsection[1]/paragraph[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Confidentiality of recordings and transcripts"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[4]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"The Board may not disclose publicly any part of a vessel’s voice or video recorder recording or transcript of oral communications by or among the crew, pilots, or docking masters of a vessel, vessel traffic services, or other vessels, or between the vessel’s crew and company communication centers, related to an accident investigated by the Board. However, the Board shall make public any part of a transcript or any written depiction of visual information that the Board decides is relevant to the accident—"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[4]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (A)
+  if the Board holds a public hearing on the accident, at the time of the hearing; or 
+"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[4]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (B)
+  if the Board does not hold a public hearing, at the time a majority of the other factual reports on the accident are placed in the public docket.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[4]/quoted-block[1]/subsection[1]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"
+  (2)
+  References to information in making safety recommendations
+  This subsection does not prevent the Board from referring at any time to voice or video recorder information in making safety recommendations.
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[4]/quoted-block[1]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (5)
+  Disclosures to protect public health and safety
+  Disclosures of information under paragraph (1)(D) may include disclosures through accident investigation reports, safety studies, and safety recommendations.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Party representatives to NTSB ... But actually it is: Surface vehicle recordings and...
+The Jaccard Index is: 0.01
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/text[1]
+The reason of change is: element tag name
+The value is expected to be: paragraph But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(1)}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"In general"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"Section 1114 is further amended by adding at the end the following:"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]/quoted-block[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quoted-block But actually it is: null
+ Deleted paragraph content is: {" 
+(h)Party representatives to NTSB investigations 
+(1)Prohibition on disclosure of informationA party representative to an accident investigation of the Board is prohibited from disclosing, orally or in written form, investigative information, as defined by the Board, to anyone who is not an employee of the Board or who is not a party representative to such investigation, except— 
+(A)as provided in paragraph (2); or 
+(B)at the conclusion of the fact finding stage of an investigation, which the investigator-in-charge shall announce by formal posting of a notice in the publicly available investigation docket. 
+(2)ExceptionIf the investigator-in-charge determines that a disclosure of information related to an accident investigation is necessary to prevent additional accidents, to address a perceived safety deficiency, or to assist in the conduct of the investigation, the investigator-in-charge may at any time authorize in writing a party representative to disclose such information under conditions approved by the investigator-in-charge. Such conditions shall ensure that, until the posting of a formal notice described in paragraph (1)(B), or until the information disclosed pursuant to this paragraph becomes publicly available by any other means, neither the entity represented by the party representative nor any other person may use such information in preparation for the prosecution of any claim or defense in litigation in connection with the accident being investigated or to make or deny any insurance claim in connection with such accident. 
+(3)ComplianceThe Board shall require any individual who is a party representative to an investigation of the Board to sign a party agreement that includes language informing the individual of the prohibition in paragraph (1). 
+(4)Representatives of Federal agenciesParagraph (3) shall not apply to an individual who is a representative of the Secretary of Transportation, the Secretary of the department in which the Coast Guard is operating, or any other Federal department, agency, or instrumentality participating in the investigation and deemed by the Board to be performing a law enforcement or similar function. 
+(5)Party representative definedIn this subsection, the term party representative means an individual representing a party to an investigation pursuant to section 831.11 of title 49, Code of Federal Regulations, as in effect on the date of enactment of this subsection.."}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(2)Civil penaltySection 1151 is amended— 
+(A)in the section heading by striking Aviation enforcement and inserting Enforcement; and 
+(B)by inserting 1114(h), before 1132, in each of subsections (a), (b)(1), and (c)."}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(3)Conforming amendmentThe analysis for chapter 11 is amended by striking the item relating to section 1151 and inserting the following: 
+ 
+ 
+1151. Enforcement.."}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: GAO study of party process But actually it is: Vessel recordings and transcri...
+The Jaccard Index is: 0.02
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"In general"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Comptroller General shall ... But actually it is: in subsection (a)(1) by striki...
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[1]/text[1]/quote[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"and (f)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" and inserting "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[1]/text[1]/quote[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"(e), and (g)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[1]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {;}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[2]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {Contents}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In conducting the study, the C... But actually it is: in subsection (d)(1) by striki...
+The Jaccard Index is: 0.04
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[2]/text[1]/quote[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"or vessel"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[2]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"; "}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[2]/subparagraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (A)
+  whether the composition of the party representatives should be broadened to include on-going representatives from other entities that could provide independent, technically qualified representatives to a Board investigation;
+"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[2]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (B)
+  whether the participation of party representatives in a Board investigation results in any unfair advantages for the entities represented by the party representatives while the Board is conducting the investigation; 
+"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[2]/subparagraph[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (C)
+  whether the use of party representatives leads to bias in the outcome of a Board investigation; and
+"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[2]/subparagraph[4]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (D)
+  whether Board investigations would be compromised in any way absent the participation and expertise of party representatives.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[3]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Report to Congress"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 18 months after... But actually it is: by redesignating subsections (...
+The Jaccard Index is: 0.08
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[3]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"Section 1114 is amended—"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(4)by inserting after subsection (d) the following: 
+ 
+(e)Vessel recordings and transcripts 
+(1)Confidentiality of recordings and transcriptsThe Board may not disclose publicly any part of a vessel’s voice or video recorder recording or transcript of oral communications by or among the crew, pilots, or docking masters of a vessel, vessel traffic services, or other vessels, or between the vessel’s crew and company communication centers, related to a marine casualty investigated by the Board. However, the Board shall make public any part of a transcript or any written depiction of visual information the Board decides is relevant to the marine casualty— 
+(A)if the Board holds a public hearing on the marine casualty, at the time of the hearing; or  
+(B)if the Board does not hold a public hearing, at the time a majority of the other factual reports on the marine casualty are placed in the public docket. 
+(2)References to information in making safety recommendationsThis subsection does not prevent the Board from referring at any time to voice or video recorder information in making safety recommendations.. "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(d)Foreign investigationsSection 1114(g) (as redesignated by subsection (c)(3) of this section) is amended— 
+(1)in paragraph (1)(A) by striking ‘‘shall’’ and inserting ‘‘may’’; and 
+(2)in paragraph (2) by inserting ‘‘, or other relevant information authorized for disclosure under this chapter,’’ after ‘‘information’’."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(e)Party representatives to NTSB investigations 
+(1)In generalSection 1114 is further amended by adding at the end the following: 
+ 
+(h)Party representatives to NTSB investigations 
+(1)Prohibition on disclosure of informationA party representative to an accident or marine casualty investigation of the Board is prohibited from disclosing, orally or in written form, investigative information, as defined by the Board, to anyone who is not an employee of the Board or who is not a party representative to such investigation, except— 
+(A)as provided in paragraph (2); or 
+(B)at the conclusion of the fact finding stage of an investigation, which the investigator-in-charge shall announce by formal posting of a notice in the publicly available investigation docket. 
+(2)ExceptionIf the investigator-in-charge determines that a disclosure of information related to an accident or marine casualty investigation is necessary to prevent additional accidents or marine casualties, to address a perceived safety deficiency, or to assist in the conduct of the investigation, the investigator-in-charge may at any time authorize in writing a party representative to disclose such information under conditions approved by the investigator-in-charge. Such conditions shall ensure that, until the posting of a formal notice described in paragraph (1)(B), or until the information disclosed pursuant to this paragraph becomes publicly available by any other means, neither the entity represented by the party representative nor any other person may use such information in preparation for the prosecution of any claim or defense in litigation in connection with the accident or marine casualty being investigated or to make or deny any insurance claim in connection with such accident or marine casualty. 
+(3)ComplianceThe Board shall require any individual who is a party representative to an investigation of the Board to sign a party agreement that includes language informing the individual of the prohibition in paragraph (1). 
+(4)Representatives of Federal agenciesParagraph (3) shall not apply to an individual who is a representative of the Secretary of Transportation, the Secretary of the department in which the Coast Guard is operating, or any other Federal department, agency, or instrumentality participating in the investigation and deemed by the Board to be performing a law enforcement or similar function. 
+(5)Compliance with FAA statutory obligationsNothing in this subsection prohibits the Federal Aviation Administration from fulfilling statutory obligations to ensure safe operations. 
+(6)Party representative definedIn this subsection, the term party representative means an individual representing a party to an investigation pursuant to section 831.11 of title 49, Code of Federal Regulations, as in effect on the date of enactment of this subsection.. 
+(2)Civil penaltySection 1151 is amended— 
+(A)in the section heading by striking Aviation enforcement and inserting Enforcement; and 
+(B)by inserting 1114(h), before 1132, in each of subsections (a), (b)(1), and (c). 
+(3)Conforming amendmentThe analysis for chapter 11 is amended by striking the item relating to section 1151 and inserting the following: 
+ 
+ 
+1151. Enforcement.."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[6]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(f)GAO study of party process 
+(1)In generalThe Comptroller General shall conduct a study on the use of party representatives in investigations conducted by the National Transportation Safety Board. 
+(2)ContentsIn conducting the study, the Comptroller General shall examine, at a minimum— 
+(A)whether the composition of the party representatives should be broadened to include on-going representatives from other entities that could provide independent, technically qualified representatives to a Board investigation; 
+(B)whether the participation of party representatives in a Board investigation results in any unfair advantages for the entities represented by the party representatives while the Board is conducting the investigation;  
+(C)whether the use of party representatives leads to bias in the outcome of a Board investigation; and 
+(D)whether Board investigations would be compromised in any way absent the participation and expertise of party representatives. 
+(3)Report to CongressNot later than 18 months after the date of enactment of this Act, the Comptroller General shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the study conducted under this subsection, including any recommendations for improvements in the Board’s use of the party representative process. "}
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Interim safety recommendations... But actually it is: Urgent safety recommendations ...
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Interim safety recommendations and 
+insertion: 
+deletion: 
+change: measures to interim measures 
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[2]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[2]/quoted-block[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Interim safety recommendations... But actually it is: Urgent safety recommendations ...
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Interim safety recommendations and 
+insertion: 
+deletion: 
+change: measures to interim measures 
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[2]/quoted-block[1]/subsection[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"Nothing in this section shall restrict the Board from—"}
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (1) But actually it is: (2)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: making urgent safety recommend... But actually it is: If the Board makes an urgent s...
+The Jaccard Index is: 0.18
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[2]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Inclusion in final accident reports"}
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[2]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (2) But actually it is: (1)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: recommending interim measures ... But actually it is: Nothing in this section shall ...
+The Jaccard Index is: 0.07
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Limitation on statutory construction"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (A)
+  making urgent safety recommendations, as identified by the Board during an ongoing safety investigation or study, to any department, agency, or instrumentality of the Federal Government, a State or local governmental authority, or a person concerned with transportation safety; or
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (B)
+  recommending interim measures, as identified by the Board, to a department, agency, instrumentality, authority, or person described in subparagraph (A) to mitigate risks to transportation safety pending implementation of more comprehensive responses by the department, agency, instrumentality, authority, or person.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[9]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: $117,368,000 for fiscal year 2... But actually it is: $107,583,000 for fiscal year 2...
+The Jaccard Index is: 0.6
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: 117368000 for fiscal year 2011 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[9]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: $120,258,000 for fiscal year 2... But actually it is: $115,347,000 for fiscal year 2...
+The Jaccard Index is: 0.59
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: 120258000 for fiscal year 2012 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[11]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[11]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Maritime casualty investigatio... But actually it is: Marine casualty investigations
+The Jaccard Index is: 0.76
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Maritime casualty investigations 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[11]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[11]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Maritime casualty investigatio... But actually it is: Marine casualty investigations
+The Jaccard Index is: 0.76
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Maritime casualty investigations 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[11]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[11]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notification and reporting But actually it is: Participation of Commandant in...
+The Jaccard Index is: 0.09
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[11]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[11]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Board and the Secretary sh... But actually it is: The Board shall provide for th...
+The Jaccard Index is: 0.17
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[11]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[11]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (c) But actually it is: (b)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[11]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[11]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  1132a. Maritime casualty inve... But actually it is: 1132a. Marine casualty investi...
+The Jaccard Index is: 0.79
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: 1132aMaritime casualty investigations 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[12]/text[1]   Compared with location: bill[1]/legis-body[1]/section[12]/subsection[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: subsection
+
+We are at location: bill[1]/legis-body[1]/section[12]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[12]/subsection[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[12]/subsection[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(a)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[12]/subsection[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Entry and inspection"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[12]/subsection[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"Section 1134(a) is amended in the matter preceding paragraph (1)—"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[12]/subsection[1]/paragraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (1)
+  by striking officer or employee and inserting officer, employee, or Federal designee; and
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[12]/subsection[1]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (2)
+  by inserting in the conduct of any accident investigation or study after National Transportation Safety Board.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[12]/paragraph[1]   Compared with location: bill[1]/legis-body[1]/section[12]/subsection[2]
+The reason of change is: element tag name
+The value is expected to be: paragraph But actually it is: subsection
+
+We are at location: bill[1]/legis-body[1]/section[12]/paragraph[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[12]/subsection[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (1) But actually it is: (b)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[12]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[12]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by striking  But actually it is: Section 1134(b) is amended to ...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[12]/paragraph[1]/text[1]/quote[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"officer or employee"}
+
+We are at location: bill[1]/legis-body[1]/section[12]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[12]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  and inserting  But actually it is: Section 1134(b) is amended to ...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[12]/paragraph[1]/text[1]/quote[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"officer, employee, or Federal designee"}
+
+We are at location: bill[1]/legis-body[1]/section[12]/paragraph[1]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[12]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ; and But actually it is: Section 1134(b) is amended to ...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[12]/subsection[2]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Inspection, testing, preservation, and moving of aircraft and parts"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[12]/subsection[2]/quoted-block[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quoted-block
+ Inserted paragraph content is: {" 
+(b)Inspection, testing, preservation, and moving of aircraft and parts 
+(1)Inspection and testingIn investigating an aircraft accident under this chapter, the Board may— 
+(A)inspect and test, to the extent necessary, any civil aircraft, aircraft engine, propeller, appliance, or property on an aircraft involved in an accident in air commerce; 
+(B)seize or otherwise obtain any recording device and recording pertinent to the accident; and 
+(C)require specific information only available from the manufacturer to enable the Board to read and interpret any flight parameter or navigation storage device or media on board the aircraft involved in the accident. 
+(2)Moving of aircraft and partsAny civil aircraft, aircraft engine, propeller, appliance, or property on an aircraft involved in an accident in air commerce shall be preserved, and may be moved, only as provided by regulations of the Board. 
+(3)Trade secrets, commercial information, and financial informationThe provisions of section 1114(b) shall apply to materials provided under paragraph (1)(C) and properly identified as trade secrets, commercial information, or financial information.."}
+
+We are at location: bill[1]/legis-body[1]/section[12]/paragraph[2]   Compared with location: bill[1]/legis-body[1]/section[12]/subsection[3]
+The reason of change is: element tag name
+The value is expected to be: paragraph But actually it is: subsection
+
+We are at location: bill[1]/legis-body[1]/section[12]/paragraph[2]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[12]/subsection[3]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (2) But actually it is: (c)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[12]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[12]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by inserting  But actually it is: Section 1134(c) is amended to ...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[12]/paragraph[2]/text[1]/quote[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"in the conduct of any accident investigation or study"}
+
+We are at location: bill[1]/legis-body[1]/section[12]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[12]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  after  But actually it is: Section 1134(c) is amended to ...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[12]/paragraph[2]/text[1]/quote[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"National Transportation Safety Board"}
+
+We are at location: bill[1]/legis-body[1]/section[12]/paragraph[2]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[12]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: . But actually it is: Section 1134(c) is amended to ...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[12]/subsection[3]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Avoiding unnecessary interference; preserving evidence"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[12]/subsection[3]/quoted-block[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quoted-block
+ Inserted paragraph content is: {" 
+(c)Avoiding unnecessary interference; preserving evidence 
+(1)Inspection and testingIn carrying out subsection (a)(1), an officer or employee may— 
+(A)examine or test any vehicle, vessel, rolling stock, track, or pipeline component; 
+(B)seize or otherwise obtain any recording device and recording pertinent to the accident; and 
+(C)require the production of specific information only available from the manufacturer to enable the Board to read and interpret any operational parameter or navigation storage device or media on board the vehicle, vessel, or rolling stock involved in the accident. 
+(2)Trade secrets, commercial information, and financial informationThe provisions of section 1114(b) shall apply to materials provided under paragraph (1)(C) and properly identified as trade secrets, commercial information, or financial information. 
+(3)Conduct of examinations and testsAn examination or test under paragraph (1)(A) shall be conducted in a way that— 
+(A)does not interfere unnecessarily with transportation services provided by the owner or operator of the vehicle, vessel, rolling stock, track, or pipeline component; and 
+(B)to the maximum extent feasible, preserves evidence related to the accident, consistent with the needs of the investigation and with the cooperation of that owner or operator.."}
+
+We are at location: bill[1]/legis-body[1]/section[15]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[15]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Coast Guard notification But actually it is: Notification of marine casualt...
+The Jaccard Index is: 0.2
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[15]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[15]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 6 months after ... But actually it is: Not later than 6 months after ...
+The Jaccard Index is: 0.71
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: Not later than 6 months after the date of enactment of this Act the National Transportation Safety Board and the Secretary of the department in which the Coast Guard is operating shall /regulations to the /prompt notification 
+insertion: jointly 
+deletion: the 
+change: issue to prescribe / provide to ensure / through the Coast Guard of all marine casualties of potential investigative interest to the Board to and reporting of marine casualties by the Coast Guard to the Board 
+
+We are at location: bill[1]/endorsement[1]/action-date[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-date But actually it is: null
+ Deleted paragraph content is: {"September 22, 2010"}
+
+We are at location: bill[1]/endorsement[1]/action-desc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-desc But actually it is: null
+ Deleted paragraph content is: {"Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: attestation
+ Inserted paragraph content is: {"
+  
+    Passed the House of Representatives September 28, 2010.
+    Lorraine C. Miller,
+    Clerk.
+  
+"}
+

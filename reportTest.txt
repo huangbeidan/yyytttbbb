@@ -1,0 +1,73 @@
+===================================================
+
+total difference is: 12
+comparing document: example.xml
+to document: example2.xml
+
+===================================================
+We are at location: document[1]/@id   Compared with location: document[1]/@id
+The reason of change is: attribute value
+The value is expected to be: 15 But actually it is: 16
+
+We are at location: document[1]/title[1]/text()[1]   Compared with location: document[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: New Zealand’s Gun Laws Draw Sc... But actually it is: Gun Laws In New Zealand Draw S...
+The Jaccard Index is: 0.79
+And the Smith Waterman Score is: 0.59
+The Detailes are shown as followings: 
+common words: Gun Laws /Draw Scrutiny After Mosque Shootings 
+insertion: In New Zealand 
+deletion: New Zealand’s 
+change: 
+
+We are at location: document[1]/body[1]   Compared with location: document[1]/body[1]
+The reason of change is: number of child nodes
+The value is expected to be: 4 But actually it is: 7
+
+We are at location: document[1]/body[1]/paragraph[1]/text()[1]   Compared with location: document[1]/body[1]/paragraph[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The shootings that killed at l... But actually it is: The shootings that killed at l...
+The Jaccard Index is: 0.92
+And the Smith Waterman Score is: 0.96
+The Detailes are shown as followings: 
+common words: The shootings that killed at least 49 people at two mosques in New Zealand on Friday have placed new scrutiny on New Zealand’s gun laws and sparked a debate about whether they were a factor in the gunman’s decision to carry out his attack there 
+insertion: 
+deletion: 
+change: fervent to serious / 
+
+We are at location: document[1]/body[1]/paragraph[2]/text()[1]   Compared with location: document[1]/body[1]/paragraph[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: The police have described the ... But actually it is: In the years since a gunman ki...
+The Jaccard Index is: 0.14
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: document[1]/body[1]/paragraph[3]/@id   Compared with location: document[1]/body[1]/paragraph[5]/@id
+The reason of change is: attribute value
+The value is expected to be: 3 But actually it is: 5
+
+We are at location: document[1]/body[1]/paragraph[3]   Compared with location: document[1]/body[1]/paragraph[5]
+The reason of change is: order change
+The value is expected to be: 2 But actually it is: 4
+
+We are at location: document[1]/body[1]/paragraph[4]/@id   Compared with location: document[1]/body[1]/paragraph[6]/@id
+The reason of change is: attribute value
+The value is expected to be: 4 But actually it is: 6
+
+We are at location: document[1]/body[1]/paragraph[4]   Compared with location: document[1]/body[1]/paragraph[6]
+The reason of change is: order change
+The value is expected to be: 3 But actually it is: 5
+
+We are at location: null   Compared with location: document[1]/body[1]/paragraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+
+We are at location: null   Compared with location: document[1]/body[1]/paragraph[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+
+We are at location: null   Compared with location: document[1]/body[1]/paragraph[7]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+

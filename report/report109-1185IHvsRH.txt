@@ -1,0 +1,341 @@
+===================================================
+
+total difference is: 585
+comparing document: BILLS-109hr1185ih.xml
+to document: BILLS-109hr1185rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 109 HR 1185 IH: Federal Deposi... But actually it is: 109 HR 1185 RH: Federal Deposi...
+The Jaccard Index is: 0.9
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: 109 HR 1185 Federal Deposit Insurance Reform Act of 2005 
+insertion: 
+deletion: 
+change: IH to RH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2005-03-09 But actually it is: 2005-04-29
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 33"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 109–67]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+April 29, 2005
+Additional sponsors: Mr. Aderholt, Ms. Ginny Brown-Waite of Florida, Mr. Lucas, Mr. Crowley, Mr. Meeks of New York, Ms. Velázquez, Mr. Price of Georgia, Mrs. Musgrave, Mr. Chabot, and Mr. Beauprez 
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {" 
+April 29, 2005 
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed 
+Strike out all after the enacting clause and insert the part printed in italic 
+For text of introduced bill, see copy of bill as introduced on March 9, 2005 
+"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any insured depository institu... But actually it is: Subject to paragraph (3), any ...
+The Jaccard Index is: 0.91
+And the Smith Waterman Score is: 0.98
+The Detailes are shown as followings: 
+common words: Any insured depository institution which fails or refuses to pay any assessment shall be subject to a penalty in an amount not more than 1 percent of the amount of the assessment due for each day that such violation continues 
+insertion: to paragraph 3 any 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/quoted-block[1]/subsection[1]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/quoted-block[1]/subsection[1]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authority to modify or remit p... But actually it is: Special rule for small assessm...
+The Jaccard Index is: 0.01
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/quoted-block[1]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/quoted-block[1]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Corporation, in the sole d... But actually it is: If the amount of the assessmen...
+The Jaccard Index is: 0.24
+And the Smith Waterman Score is: 0.07
+The Detailes are shown as followings: 
+common words: The Corporation in the /discretion of Corporation may compromise modify or remit any penalty /which /or has already assessed under paragraph 1 
+insertion: the amount of the assessment which an insured depository institution fails or refuses to pay is less than to 
+deletion: the which the Corporation may 
+change: the to such / upon a finding that good cause prevented the timely payment of an assessment to shall not exceed 100 for each day that such violation continues 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/quoted-block[1]/subsection[1]/paragraph[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (4)
+  Authority to modify or remit penalty
+  The Corporation, in the sole discretion of the Corporation, may compromise, modify or remit any penalty which the Corporation may assess or has already assessed under paragraph (1) upon a finding that good cause prevented the timely payment of an assessment.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[10]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Internal study by the FDIC But actually it is: Study of further possible chan...
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[10]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Concurrently with the study re... But actually it is: The Board of Directors of the ...
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is: 0.2
+The Detailes are shown as followings: 
+common words: Comptroller General under subsection a the Federal Deposit Insurance Corporation 
+insertion: 
+deletion: Concurrently with the study required to be conducted by the 
+change: shall conduct an internal study of the same conditions and factors included in the study under subsection a to and the National Credit Union Administration Board shall each conduct a study of the following 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[10]/subsection[2]/paragraph[1]/subparagraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (A)
+  The feasibility of establishing a voluntary deposit insurance system for deposits in excess of the maximum amount of deposit insurance for any depositor and the potential benefits and the potential adverse consequences that may result from the establishment of any such system.
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[10]/subsection[2]/paragraph[1]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (B)
+  The feasibility of privatizing all deposit insurance at insured depository institutions and insured credit unions.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[10]/subsection[2]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/subsection[2]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Report to the Congress But actually it is: Report
+The Jaccard Index is: 0.2
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[10]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Federal Deposit Insurance ... But actually it is: Before the end of the 1-year p...
+The Jaccard Index is: 0.81
+And the Smith Waterman Score is: 0.3
+The Detailes are shown as followings: 
+common words: before the end of the 1year period beginning on the date of the enactment of this Act /the /of /the /Corporation /to the /study required under paragraph 1 /together with such recommendations for legislative or administrative as the /may determine to be appropriate 
+insertion: Directors of Federal Deposit Insurance and the National Credit Union Administration Board shall each submit Congress on the containing the findings and conclusions of the reporting agency 
+deletion: The Federal Deposit Insurance Corporation shall submit a report to the Congress Act the findings the Board of Directors of 
+change: conclusions to Board / with to a / respect to report / action to changes / Corporation to agency / 
+
+We are at location: bill[1]/legis-body[1]/section[10]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Study of further possible chan... But actually it is: Study regarding appropriate de...
+The Jaccard Index is: 0.11
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[10]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Board of Directors of the ... But actually it is: The Federal Deposit Insurance ...
+The Jaccard Index is: 0.31
+And the Smith Waterman Score is: 0.24
+The Detailes are shown as followings: 
+common words: the Federal Deposit Insurance Corporation /shall /conduct a study of the 
+insertion: 
+deletion: The Board of Directors of Corporation and the National Credit Union Administration shall 
+change: following to feasibility of using actual domestic deposits rather than estimated insured deposits in calculating the reserve ratio of the Deposit Insurance Fund and designating a reserve ratio for such Fund 
+
+We are at location: bill[1]/legis-body[1]/section[10]/subsection[3]/paragraph[1]/subparagraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (A)
+  The feasibility of establishing a voluntary deposit insurance system for deposits in excess of the maximum amount of deposit insurance for any depositor and the potential benefits and the potential adverse consequences that may result from the establishment of any such system.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[10]/subsection[3]/paragraph[1]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (B)
+  The feasibility of privatizing all deposit insurance at insured depository institutions and insured credit unions.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[10]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Before the end of the 1-year p... But actually it is: The Federal Deposit Insurance ...
+The Jaccard Index is: 0.81
+And the Smith Waterman Score is: 0.3
+The Detailes are shown as followings: 
+common words: Before the end of the 1year period beginning on the date of the enactment of this Act /the /of /the /Corporation /to the /study required under paragraph 1 /together with such recommendations for legislative or administrative as the /may determine to be appropriate 
+insertion: Federal Deposit Insurance Corporation shall submit a report to the Congress before containing findings and Board of Directors of the 
+deletion: of Directors the Federal Deposit Corporation and the National Credit Union Administration Board shall each the Congress on 1 containing the findings and conclusions of the reporting 
+change: Board to conclusions / a to with / report to respect / changes to action / agency to Corporation / 
+
+We are at location: bill[1]/legis-body[1]/section[10]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Study regarding appropriate de... But actually it is: Study of reserve methodology a...
+The Jaccard Index is: 0.14
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[10]/subsection[4]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/subsection[4]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Federal Deposit Insurance ... But actually it is: The Federal Deposit Insurance ...
+The Jaccard Index is: 0.29
+And the Smith Waterman Score is: 0.28
+The Detailes are shown as followings: 
+common words: The Federal Deposit Insurance Corporation shall conduct a study of the 
+insertion: 
+deletion: 
+change: feasibility of using actual domestic deposits rather than estimated insured deposits in calculating the reserve ratio of the Deposit Insurance Fund and designating a reserve ratio for such Fund to reserve methodology and loss accounting used by the Corporation during the period beginning on January 1 1992 and ending December 31 2004 with respect to insured depository institutions in a troubled condition as defined in the regulations prescribed pursuant to section 32f of the 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[10]/subsection[4]/paragraph[1]/text[1]/act-name[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: act-name
+ Inserted paragraph content is: {"Federal Deposit Insurance Act"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[10]/subsection[4]/paragraph[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"). The Corporation shall obtain comments on the design of the study from the Comptroller General."}
+
+We are at location: bill[1]/legis-body[1]/section[10]/subsection[4]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/subsection[4]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Report But actually it is: Factors to be included
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[10]/subsection[4]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/subsection[4]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Federal Deposit Insurance ... But actually it is: In conducting the study pursua...
+The Jaccard Index is: 0.24
+And the Smith Waterman Score is: 0.36
+The Detailes are shown as followings: 
+common words: The Federal Deposit Insurance Corporation shall 
+insertion: conducting the study pursuant to paragraph 1 the 
+deletion: 
+change: submit a report to the Congress before the end of the 1year period beginning on the date of the enactment of this Act containing the findings and conclusions of the Corporation with respect to the study required under paragraph 1 together with such recommendations for legislative or administrative action as the Board of Directors of the Corporation may determine to be appropriate to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[10]/subsection[4]/paragraph[2]/subparagraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (A)
+  consider the overall effectiveness and accuracy of the methodology used by the Corporation for establishing and maintaining reserves and estimating and accounting for losses at insured depository institutions, during the period described in such paragraph;
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[10]/subsection[4]/paragraph[2]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(B)consider the appropriateness and reliability of information and criteria used by the Corporation in determining— 
+(i)whether an insured depository institution was in a troubled condition; and 
+(ii)the amount of any loss anticipated at such institution;"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[10]/subsection[4]/paragraph[2]/subparagraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (C)
+  analyze the actual historical loss experience over the period described in paragraph (1) and the causes of the exceptionally high rate of losses experienced by the Corporation in the final 3 years of that period; and
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[10]/subsection[4]/paragraph[2]/subparagraph[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (D)
+  rate the efforts of the Corporation to reduce losses in such 3-year period to minimally acceptable levels and to historical levels.
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[10]/subsection[4]/paragraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (3)
+  Report required
+  The Board of Directors of the Federal Deposit Insurance Corporation shall submit a report to the Congress before the end of the 6-month period beginning on the date of the enactment of this Act, containing the findings and conclusions of the Corporation with respect to the study required under paragraph (1), together with such recommendations for legislative or administrative action as the Board of Directors may determine to be appropriate. Before submitting the report to Congress, the Board of Directors shall provide a draft of the report to the Comptroller General for comment.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[10]/subsection[5]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/subsection[4]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (e) But actually it is: (d)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[10]/subsection[5]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/subsection[4]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Federal Deposit Insurance ... But actually it is: The Federal Deposit Insurance ...
+The Jaccard Index is: 0.91
+And the Smith Waterman Score is: 0.95
+The Detailes are shown as followings: 
+common words: The Federal Deposit Insurance Corporation /shall conduct a study of the reserve methodology and loss accounting used by the Corporation during the period beginning on January 1 1992 and ending December 31 2004 with respect to insured depository institutions in a troubled condition as defined in the regulations prescribed pursuant to section 32f of the 
+insertion: 
+deletion: Corporation in consultation with the Comptroller 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[10]/subsection[5]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[10]/subsection[4]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ). But actually it is: ). The Corporation shall obtai...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[10]/subsection[5]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/subsection[4]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Board of Directors of the ... But actually it is: The Board of Directors of the ...
+The Jaccard Index is: 0.88
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: The Board of Directors of the Federal Deposit Insurance Corporation shall submit a report to the Congress before the end of the 6month period beginning on the date of the enactment of this Act containing the findings and conclusions of the Corporation /with /respect to the study required under paragraph 1 together with such recommendations for legislative or administrative action as the Board of Directors may determine to be appropriate 
+insertion: 
+deletion: Corporation in with the Comptroller General 
+change: Before submitting the report to Congress the Board of Directors shall provide a draft of the report to the Comptroller General for comment 
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {" 
+April 29, 2005 
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+

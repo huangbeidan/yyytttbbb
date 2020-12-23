@@ -1,0 +1,350 @@
+===================================================
+
+total difference is: 90
+comparing document: BILLS-112hr1343ih.xml
+to document: BILLS-112hr1343rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To return unused or reclaimed ... But actually it is: To return unused or reclaimed ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.53
+The Detailes are shown as followings: 
+common words: To return unused or reclaimed funds /available /broadband awards in the American Recovery and Reinvestment Act /2009 to /Treasury of the United States 
+insertion: made		 of		 
+deletion: available to 
+change: made to  /  to for / of to  /  to the / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 149"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 112–228, Part
+		  I]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			September 29, 2011
+			Additional sponsors: Mr.
+			 Walden, Mr. Terry,
+			 Mr. Guthrie,
+			 Mr. Rogers of Michigan,
+			 Mr. Murphy of Pennsylvania,
+			 Mr. Whitfield,
+			 Mr. Sullivan,
+			 Mr. Burgess,
+			 Mrs. Blackburn,
+			 Mr. Bilbray,
+			 Mr. Gingrey of Georgia,
+			 Mr. Scalise,
+			 Mrs. McMorris Rodgers,
+			 Mr. Latta,
+			 Mr. Lance,
+			 Mr. Pompeo,
+			 Mr. Olson,
+			 Mr. Stearns,
+			 Mr. Harper,
+			 Mr. Kinzinger of Illinois,
+			 Mr. Cassidy,
+			 Mr. Shimkus,
+			 Mr. Barton of Texas,
+			 Mr. Upton, and
+			 Mr. Pitts
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			September 29, 2011
+			Reported from the
+			 Committee on Energy and
+			 Commerce with an amendment
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+			For text of introduced bill, see copy of bill as
+			 introduced on April 4, 2011
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			September 29, 2011
+			The  Committee on
+			 Agriculture discharged; committed to the Committee of the
+			 Whole House on the State of the Union and ordered to be printed
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Deobligation and			 return of ... But actually it is: Deobligation and return			 of ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.57
+The Detailes are shown as followings: 
+common words: Deobligation return of funds to Treasury 
+insertion: 
+deletion: 
+change: and			 to and / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Upon			 terminating an award u... But actually it is: Upon terminating an award unde...
+The Jaccard Index is: 0.51
+And the Smith Waterman Score is: 0.62
+The Detailes are shown as followings: 
+common words: Upon			 terminating an award under a the Administrator or the Secretary shall immediately an amount equivalent to such award /less allowable costs 
+insertion: 
+deletion: award as			 
+change: subsection to subsection			 / Assistant			 to Assistant / deobligate to deobligate			 / to the extent funds			 with respect to such award are available in the account relating to the			 Broadband Initiatives Program or the Broadband Technology Opportunities			 Program respectively If the Administrator or the Assistant Secretary			 subsequently recovers any additional amounts from such award the Administrator			 or the Assistant Secretary shall deobligate such additional amounts immediately			 upon receipt 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: No expenditures			 during term... But actually it is: No expenditures during			 term...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: No during termination process 
+insertion: 
+deletion: 
+change: expenditures			 to expenditures / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Administrator or the Assis... But actually it is: The Administrator or the Assis...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.61
+The Detailes are shown as followings: 
+common words: The Administrator or the shall promptly pursue available corrective measures to ensure received through an award terminated under subsection a are during the termination process 
+insertion: 
+deletion: 
+change: Assistant			 to Assistant / Secretary to Secretary			 / that			 to that / funds to funds			 / not			 to not / expended to expended			 / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/paragraph[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/paragraph[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Accounting by			 award recipie... But actually it is: Accounting by award			 recipie...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: by			 award recipient to by award			 recipient 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Administrator or the Assis... But actually it is: The Administrator or the Assis...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: The Administrator or the Assistant direct the recipient of an award terminated under subsection a provide the Administrator or the Assistant Secretary a complete and accurate			 accounting which may include an independent accounting for any award funds			 that as of the date of termination the recipient has received but has not			 expended on allowable costs 
+insertion: 
+deletion: 
+change: Secretary			 to Secretary / shall to shall			 / to			 to to / to to to			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Disposition of			 unused funds But actually it is: Disposition of unused			 funds
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of			 unused funds to of unused			 funds 
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Administrator			 of the Ru... But actually it is: The Administrator of the			 Ru...
+The Jaccard Index is: 0.98
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: The of Rural Utilities Service or the Assistant Secretary of Commerce for			 Communications and Information shall return to the general fund of the Treasury			 of the United States an amount equivalent to any award /allowable made under the Broadband Initiatives Program or the Opportunities Program respectively established pursuant to Recovery and Reinvestment Act of 2009 if such award has been to Administrator or Assistant Secretary or disclaimed by the recipient any time after the date of enactment of such Act 
+insertion: 
+deletion: award as 
+change: Administrator			 to Administrator / the to the			 / less			 to less / costs to costs			 / Broadband			 to Broadband / Technology to Technology			 / the			 to the / American to American			 / returned			 to returned / the to the			 / award			 to award / at to at			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Oversight and			 reporting req... But actually it is: Oversight and reporting			 req...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: and			 reporting requirements to and reporting			 requirements 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Action on			 information from ... But actually it is: Action on information			 from ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.57
+The Detailes are shown as followings: 
+common words: Action information from OIG or GAO 
+insertion: 
+deletion: 
+change: on			 to on / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If the Administrator of the Ru... But actually it is: If the			 Administrator of the...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.61
+The Detailes are shown as followings: 
+common words: If Administrator of the Rural Service or the Assistant Secretary Commerce for Communications Information receives information from official described in subsection with respect to an award made under Broadband Initiatives Program or Broadband Technology Program respectively established to the American Recovery Reinvestment Act of 2009 and such pertains to noncompliance with the award terms or provisions improper usage of funds the Administrator or the Assistant 
+insertion: 
+deletion: 
+change: the to the			 / Utilities			 to Utilities / of to of			 / and			 to and / an to an			 / b			 to b / the to the			 / the			 to the / Opportunities to Opportunities			 / pursuant			 to pursuant / and to and			 / information			 to information / material to material			 / or			 to or / award to award			 / Secretary			 shall to Secretary shall 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: immediately review			 such inf... But actually it is: immediately review such			 inf...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: immediately such information and 
+insertion: 
+deletion: 
+change: review			 to review / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: not later than 30			 days afte... But actually it is: not later than 30 days after r...
+The Jaccard Index is: 0.55
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: not later than days after receiving information determine whether cause exists terminate such award section 1a 
+insertion: 
+deletion: 
+change: 30			 to 30 / such to such			 / to			 to to / under to under			 / unless the official who provided such information recommends that			 the Administrator or the Assistant Secretary limit or not make such a			 determination 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: With respect to			 the Broadba... But actually it is: With respect to the			 Broadba...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: With respect Broadband Technology Opportunities Program the Inspector General of the			 Department of Commerce 
+insertion: 
+deletion: 
+change: to			 to to / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Comptroller			 General of ... But actually it is: The Comptroller General			 of ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.57
+The Detailes are shown as followings: 
+common words: The General of the United States 
+insertion: 
+deletion: 
+change: Comptroller			 to Comptroller / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the official who			 provided t... But actually it is: the official who provided			 t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: the official the information described in subsection a 
+insertion: 
+deletion: 
+change: who			 to who / provided to provided			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any action taken			 as a resul... But actually it is: any action taken as a			 resul...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: any action as result of the determination or why no action was necessary 
+insertion: 
+deletion: 
+change: taken			 to taken / a to a			 / 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(3)Confidential
+			 notification under certain circumstancesIn the case of a determination by the
+			 Administrator or the Assistant Secretary under subsection (a)(2) that cause
+			 does not exist to terminate the award, the Administrator or the Assistant
+			 Secretary may make the congressional notification required by paragraph (1)(A)
+			 on a confidential basis, if the Administrator or the Assistant Secretary
+			 determines, after consultation with the official who provided the information
+			 described in subsection (a), that—
+					(A)there is no merit to such
+			 information; and
+					(B)notification on a public
+			 basis would cause irreparable harm to any person the information is
+			 regarding.
+					"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/paragraph[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/paragraph[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: , and award these funds compet... But actually it is: , and			 award these funds com...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words:  award these funds competitively to new or existing consistent this section 
+insertion: 
+deletion: 
+change: and to and			 / applicants			 to applicants / with to with			 / 
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		September 29, 2011
+		Reported from the
+		  Committee on Energy and
+		  Commerce with an amendment
+		September 29, 2011
+		The Committee on
+		  Agriculture discharged; committed to the Committee of the
+		  Whole House on the State of the Union and ordered to be printed
+	"}
+

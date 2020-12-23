@@ -1,0 +1,1388 @@
+===================================================
+
+total difference is: 572
+comparing document: BILLS-109hr4650ih.xml
+to document: BILLS-109hr4650rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 109 HR 4650 IH: National Levee... But actually it is: 109 HR 4650 RH: National Levee...
+The Jaccard Index is: 0.86
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: 109 HR 4650 National Levee Safety Program Act of 
+insertion: 
+deletion: 
+change: IH to RH / 2005 to 2006 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2005-12-22 But actually it is: 2006-07-28
+The Jaccard Index is: 0.07
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/session[1]/text()[1]   Compared with location: bill[1]/form[1]/session[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 1st Session But actually it is: 2d Session
+The Jaccard Index is: 0.55
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 1st Session 
+insertion: 
+deletion: 
+change: 
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 350"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 109–609]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+July 28, 2006
+Additional sponsors: Mr. Herger, Mr. McGovern, Mr. Jindal, Mr. Murphy, Mr. Ford, Ms. Woolsey, Mr. Calvert, and Mr. Carnahan 
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {" 
+July 28, 2006 
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed 
+Strike out all after the enacting clause and insert the part printed in italic 
+For text of introduced bill, see copy of bill as introduced on December 22, 2005 
+"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: National Levee Safety Program ... But actually it is: National Levee Safety Program ...
+The Jaccard Index is: 0.95
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: National Levee Safety Program Act of 
+insertion: 
+deletion: 
+change: 2005 to 2006 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means the National Levee Safe... But actually it is:  means the National Levee Safe...
+The Jaccard Index is: 0.68
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words:  means the National Levee Safety Board established under section 
+insertion: 
+deletion: 
+change: Review to Advisory / 6a to 4d 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means the Interagency Committ... But actually it is:  means the Interagency Committ...
+The Jaccard Index is: 0.8
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words:  means the Interagency Committee on Levee Safety established 
+insertion: 
+deletion: 
+change: under section 5a to by section 4a 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the primary purpose of which i... But actually it is: the primary purpose of which i...
+The Jaccard Index is: 0.93
+And the Smith Waterman Score is: 0.95
+The Detailes are shown as followings: 
+common words: the primary purpose of which is to provide hurricane /and flood protection relating to seasonal high water and storm surges and 
+insertion: storm 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/subparagraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/subparagraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  includes structures along dra... But actually it is:  includes structures along can...
+The Jaccard Index is: 0.84
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words:  includes structures along /canals that /are subject to more frequent water loadings but that do not constitute a barrier across a watercourse 
+insertion: constrain water flows and 
+deletion: along 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Federal agency But actually it is: Federal entity
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: agency to entity 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[4]/text[1]/term[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[4]/text[1]/term[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Federal agency But actually it is: Federal entity
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: agency to entity 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[4]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means a Federal agency that d... But actually it is:  means a Federal agency or ent...
+The Jaccard Index is: 0.93
+And the Smith Waterman Score is: 0.94
+The Detailes are shown as followings: 
+common words:  means a Federal agency /that designs finances constructs owns operates maintains or regulates the construction operation or maintenance of a levee 
+insertion: or entity 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[5]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[5]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means the Secretary of the Ar... But actually it is:  means the Secretary of the Ar...
+The Jaccard Index is: 0.44
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words:  means the Secretary of the Army 
+insertion: 
+deletion: 
+change: acting through the Chief of Engineers to 
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Inspection of levees But actually it is: Inspection and inventory of le...
+The Jaccard Index is: 0.52
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Inspection of levees 
+insertion: and inventory 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: each levee in the United State... But actually it is: each levee in the United State...
+The Jaccard Index is: 0.93
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: each levee in the United States maintained by the Secretary 
+insertion: 
+deletion: 
+change: and to 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: each levee located in a State ... But actually it is: each levee constructed by a Fe...
+The Jaccard Index is: 0.35
+And the Smith Waterman Score is: 0.17
+The Detailes are shown as followings: 
+common words: the Governor of the State in a list transmitted to the Secretary 
+insertion: 
+deletion: each levee located in a State identified by 
+change: by the head of such entity 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/subparagraph[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(D)each levee constructed by a federally recognized Indian tribe, located on tribal lands, and identified to the Secretary by the head of such tribe; and "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/subparagraph[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(E)each levee located in a State identified by the Governor of the State in a list transmitted to the Secretary. "}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any levee that has been inspec... But actually it is: any levee that has been inspec...
+The Jaccard Index is: 0.97
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: any levee that has been inspected by a State levee safety agency during the 1year period immediately preceding the date of enactment of this Act if the Governor of the State requests an exception and 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: On request of a State levee sa... But actually it is: On request of a State levee sa...
+The Jaccard Index is: 0.63
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: On request of a State levee safety agency with respect to any levee /the failure of which would affect the State the 
+insertion: subject to an inspection under this Act and 
+deletion: 
+change: head of a Federal agency shall to Secretary shall 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: provide information to the Sta... But actually it is: allow an official of the State...
+The Jaccard Index is: 0.35
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: provide information to the State levee safety agency /to /the /of the levee and 
+insertion: an participate in 
+deletion: agency the construction operation 
+change: maintenance to inspection / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: allow an official of the State... But actually it is: provide information to the Sta...
+The Jaccard Index is: 0.32
+And the Smith Waterman Score is: 0.29
+The Detailes are shown as followings: 
+common words: an official of the State levee safety agency 
+insertion: 
+deletion: allow 
+change: to participate in the inspection of the levee to relating to the location construction operation or maintenance of the levee 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For the purpose of determining... But actually it is: For the purpose of determining...
+The Jaccard Index is: 0.92
+And the Smith Waterman Score is: 0.93
+The Detailes are shown as followings: 
+common words: For the purpose of determining whether the failure /a levee including the release of any water constrained by the levee constitutes a danger to human life or property the Secretary shall take into consideration the possibility that the levee may be in danger of failing due to disparities in floodwall height or construction materials overtopping due to /storm surges seepage settlement piping or internal erosion /cracking earth movement earthquakes hurricanes the failure of bulkheads or sheet walls flashboards gates or conduits /or other conditions that exist or may occur in any area in the vicinity of the levee 
+insertion: of flooding or wetlands erosion soil erosion hydrologic modification 
+deletion: erosion 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For any levee with respect to ... But actually it is: For any levee with respect to ...
+The Jaccard Index is: 0.86
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: For any levee with respect to which the Secretary made any determination regarding the safety of the levee before the date of the inspection of the levee under this section the Secretary shall review the determination taking into consideration information most recently available to the Secretary relating to 
+insertion: 
+deletion: 
+change: the matters referred to in paragraph 1 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(A)the likelihood that a storm surge would exceed the designed level of protection of the levee; and "}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/paragraph[2]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(B)the effect of wetlands erosion, subsidence, or any other natural process on the vulnerability of the area surrounding the levee to flooding or an extreme weather event. "}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[5]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: As soon as practicable after t... But actually it is: As soon as practicable after t...
+The Jaccard Index is: 0.58
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: As soon as practicable after the inspection of a levee /the Secretary shall notify the Governor of the State in which such levee is located 
+insertion: under this Act 
+deletion: 
+change: of the results of the inspection to the Governor of any other affected State any affected local government authority and any affected federally recognized Indian tribe of the results of the inspection 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/paragraph[2]/subparagraph[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Engineering studies"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[5]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In any case in which a hazardo... But actually it is: immediately notify the Governo...
+The Jaccard Index is: 0.15
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/paragraph[2]/subparagraph[2]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Notice and remedial measures"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[5]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary shall— But actually it is: provide to a Governor or entit...
+The Jaccard Index is: 0.02
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/paragraph[2]/subparagraph[2]/clause[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: clause But actually it is: null
+ Deleted paragraph content is: {"
+  (i)
+  immediately notify the Governor of a State of a hazardous condition found during an inspection of a levee located in the State under subparagraph (A); and
+"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/paragraph[2]/subparagraph[2]/clause[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: clause But actually it is: null
+ Deleted paragraph content is: {"
+  (ii)
+  provide to the Governor, upon request, advice relating to timely remedial measures necessary to mitigate or obviate the hazardous condition.
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[5]/paragraph[2]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"If the Secretary finds a hazardous condition during an inspection, the Secretary shall—"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Priority list But actually it is: National levee inventory
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than August 1 of eac... But actually it is: Not later than August 1, 2007,...
+The Jaccard Index is: 0.47
+And the Smith Waterman Score is: 0.61
+The Detailes are shown as followings: 
+common words: Not later than August 1 /the Secretary shall /submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate 
+insertion: 2007 and every publish and 
+deletion: 
+change: of to 2 / each to years / year to thereafter / a priority list of flood damage reduction studies and projects that constitutes a ranking of studies and projects that should be carried out taking into consideration the results of any inspection under this section to an inventory of 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/paragraph[1]/subparagraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(A)levees subject to inspection under this Act, and a characterization of the risk posed by such levees; and "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/paragraph[1]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(B)levees identified by a State under section 5(e)(2)(H). "}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In establishing the priority l... But actually it is: In determining the risk a leve...
+The Jaccard Index is: 0.31
+And the Smith Waterman Score is: 0.42
+The Detailes are shown as followings: 
+common words: In establishing the priority list under paragraph the Secretary shall consider 
+insertion: determining the 
+deletion: 
+change: 1 to 1A / the condition of the levee and the potential impact on human lives and property if the levee fails 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/paragraph[2]/subparagraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(A)the potential risk to human life or the environment if a study or project to address potential flood damage is not carried out; "}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/paragraph[2]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(B)the benefits of protecting critical infrastructure and population centers; and "}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/paragraph[2]/subparagraph[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(C)the implementation of Federal guidelines relating to levee safety. "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/paragraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(3)ContentsAn inventory to be submitted under paragraph (1) shall include for each levee the following information: 
+(A)The location of the levee. 
+(B)The owner of the levee and any other responsible party. 
+(C)The physical condition of the levee. 
+(D)The probability and consequences of a failure of the levee. "}
+
+We are at location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: National levee inventory But actually it is: Interagency Committee on Levee...
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/text[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: subsection
+
+We are at location: bill[1]/legis-body[1]/section[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(a)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {Establishment}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"There is established a committee to be known as the Interagency Committee on Levee Safety."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(b)MembershipThe Committee shall be composed of 5 members as follows: 
+(1)The Secretary (or the Secretary’s designee), who shall serve as the chairperson of the Committee. 
+(2)The Secretary of Agriculture (or the Secretary’s designee). 
+(3)The Secretary of the Interior (or the Secretary’s designee). 
+(4)The Director of the Federal Emergency Management Agency (or the Director’s designee). 
+(5)The United States Commissioner of the International Boundary and Water Commission (or the Commissioner’s designee). "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(c)DutiesThe Committee shall support the establishment and maintenance of effective Federal programs, policies, and guidelines to enhance levee safety for the protection of human life and property through coordination and information exchange among and between Federal and non-Federal entities concerning the implementation of Federal guidelines relating to levee safety. "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(d)National Levee Safety Advisory Board 
+(1)EstablishmentThe Committee shall establish an advisory board, to be known as the National Levee Safety Advisory Board, to advise the Committee on— 
+(A)the safety of levees in the United States; 
+(B)the implementation of this Act by State levee safety agencies; and 
+(C)policy relating to national levee safety. 
+(2)MembershipThe Board shall be composed of 14 members appointed by the Secretary as follows: 
+(A)A representative of State levee safety agencies for each of the 8 civil works divisions of the Corps of Engineers. 
+(B)2 representatives of the private sector who have expertise in levee safety. 
+(C)4 representatives of local and regional governmental agencies with expertise in levee safety. 
+(3)Duties 
+(A)In generalThe Board shall support the activities of the Committee and the establishment and maintenance of effective programs, policies, and guidelines to enhance levee safety for the protection of human life and property throughout the United States. 
+(B)Coordination and information exchange among agenciesIn carrying out subparagraph (A), the Board shall assist the Committee in coordination and information exchange among and between Federal entities and State levee safety agencies that share common problems and responsibilities relating to levee safety, including planning, design, construction, operation, emergency action planning, inspections, maintenance, regulation or licensing, technical or financial assistance, research, and data management. 
+(4)Compensation of membersA member of the Board shall serve without compensation. 
+(5)Travel expensesTo the extent amounts are made available in advance in appropriations Acts, the Secretary shall reimburse a member of the Board for travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter 1 of chapter 57 of title 5, United States Code, while away from the home or regular place of business of the member in performance of services for the Board. 
+(6)Applicability of federal advisory committee actThe Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Board. "}
+
+We are at location: bill[1]/legis-body[1]/section[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Interagency Committee on Levee... But actually it is: National levee safety program
+The Jaccard Index is: 0.11
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Establishment But actually it is: In general
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: There is established a committ... But actually it is: The Secretary, in consultation...
+The Jaccard Index is: 0.15
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/text[1]/quote[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"Interagency Committee on Levee Safety"}
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: . But actually it is: The Secretary, in consultation...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Membership But actually it is: Purposes
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Committee shall be compose... But actually it is: The purposes of the program un...
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary (or the Secretar... But actually it is: to ensure that human life and ...
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of Agriculture (... But actually it is: to encourage acceptable engine...
+The Jaccard Index is: 0.04
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of the Interior ... But actually it is: to encourage the establishment...
+The Jaccard Index is: 0.04
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Director of the Federal Em... But actually it is: to develop and support public ...
+The Jaccard Index is: 0.02
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(5)to build public awareness of the residual risks associated with living in levee protected areas; "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[6]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(6)to develop technical assistance materials for Federal and State levee safety programs; "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[7]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(7)to develop methods of providing technical assistance relating to levee safety to non-Federal entities; and "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[8]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(8)to develop technical assistance materials, seminars, and guidelines to improve the security of levees in the United States. "}
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Duties But actually it is: Strategic plan
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Committee shall support th... But actually it is: In carrying out the program un...
+The Jaccard Index is: 0.08
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(1)prepare a strategic plan to achieve the purposes of the program under this section; and "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(2)transmit, not later than 120 days after the date of enactment of this Act, the plan to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate. "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(d)Federal guidelines 
+(1)In generalIn carrying out the program under this section, the Secretary, in consultation with the Committee, shall establish Federal guidelines relating to levee safety. 
+(2)Incorporation of Federal activitiesThe Federal guidelines under paragraph (1) shall incorporate, to the maximum extent practicable, activities and practices carried out by a Federal entity as of the date on which the guidelines are established. 
+(3)Incorporation of State and local activitiesThe program under this section shall incorporate, to the maximum extent practicable— 
+(A)the activities and practices carried out by States, local governments, and the private sector to safely build, regulate, operate, and maintain levees; and 
+(B)Federal activities that foster State efforts to develop and implement effective programs for the safety of levees. "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(e)Assistance for State levee safety programs 
+(1)In generalTo encourage the establishment and maintenance of effective State programs intended to ensure levee safety to protect human life and property and to improve State levee safety programs, the Secretary shall provide assistance, using amounts made available to carry out this Act, to assist States in establishing and carrying out levee safety programs. 
+(2)CriteriaTo be eligible for assistance under this subsection, a State shall be in the process of establishing or have in effect a State levee safety program under which the State levee safety agency, in accordance with State law, shall— 
+(A)review and approve plans and specifications to construct, enlarge, modify, remove, and abandon levees; 
+(B)perform periodic inspections during levee construction to ensure compliance with approved plans and specifications; 
+(C)require or perform the inspection, at least once every 5 years, of all levees that would pose a significant threat to human life and property in case of failure to determine the continued safety of the levees and a procedure for more detailed and frequent safety inspections; 
+(D)require that all inspections of levees be performed under the supervision of a State-registered professional engineer with experience in levee design and construction; 
+(E)issue notices, when appropriate, to require owners of levees to perform necessary maintenance or remedial work, improve security, revise operating procedures, or take other actions, including breaching levees when necessary; 
+(F)provide necessary funds from State sources or by requiring levee owners to pay for timely repairs or other changes to, or removal of, a levee in order to protect human life and property; 
+(G)establish a system of emergency procedures to be used by the State, or required to be used by levee owners, if a levee fails or the failure of a levee is imminent; 
+(H)identify and provide information to the Secretary on— 
+(i)each levee the failure of which could be reasonably expected to endanger human life and property; 
+(ii)the maximum area that could be flooded if the levee failed; and 
+(iii)critical public facilities that would be affected by the flooding, including costs and consequences of the flooding; and 
+(I)issue regulations necessary to carry out the program. 
+(3)Budgeting requirementTo be eligible for assistance under this subsection, a State shall allocate sufficient funds in its budget to carry out a State levee safety program. 
+(4)Work plansThe Secretary shall enter into an agreement with each State receiving assistance under this subsection to develop a work plan necessary for the State levee safety program to reach a level of program performance specified in the agreement. 
+(5)Maintenance of effortAssistance may not be provided to a State under this subsection for a fiscal year unless the State enters into such agreement with the Secretary as the Secretary requires to ensure that the State will maintain the aggregate expenditures of the State from all other sources for programs to ensure levee safety for the protection of human life and property at or above a level equal to the average annual level of such expenditures for the 2 fiscal years preceding the fiscal year. 
+(6)Approval of programs 
+(A)SubmissionTo be eligible for assistance under this subsection, a State shall submit to the Secretary a State levee safety program and receive the Secretary’s approval of the program. 
+(B)Approval 
+(i)In generalIf the Secretary determines that a program submitted by a State under subparagraph (A) substantially meets the requirements of this subsection, the Secretary shall approve the program and immediately notify the State in writing of the approval. 
+(ii)Deemed approvalA program submitted by a State under subparagraph (A) shall be deemed to be approved by the Secretary on the 120th day following the date of the Secretary’s receipt of the program unless the Secretary before such 120th day approves or disapproves the program. 
+(C)Notification of disapprovalIf the Secretary determines that a program submitted by a State under subparagraph (A) does not substantially meet the requirements of this subsection, the Secretary shall disapprove the program, immediately notify the State in writing of the disapproval, and provide the reasons for the disapproval and the changes that are necessary for the program to be approved. 
+(7)Reviews of state levee safety programs 
+(A)Periodic reviewsThe Secretary shall periodically review State levee safety programs. 
+(B)Revocation of program approvalIf the Secretary finds that a State levee safety program has proven inadequate to reasonably protect human life and property, the Secretary shall revoke approval of the State levee safety program, and withhold assistance under this subsection, until the State levee safety program again substantially meets the requirements for approval. "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[6]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(f)ReportNot later than January 1, 2007, and every 2 years thereafter, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing— 
+(1)the status of the program under this section; 
+(2)the progress made by Federal entities during the 2 preceding fiscal years in implementing Federal guidelines relating to levee safety; 
+(3)the progress made by State levee safety agencies participating in the program; and 
+(4)recommendations for legislative or other action that the Secretary considers to be necessary, if any. "}
+
+We are at location: bill[1]/legis-body[1]/section[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: National Levee Safety Review B... But actually it is: Research program
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Establishment But actually it is: In general
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary shall establish ... But actually it is: The Secretary, in cooperation ...
+The Jaccard Index is: 0.13
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/text[1]/quote[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"National Levee Safety Review Board"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: , to— But actually it is: The Secretary, in cooperation ...
+The Jaccard Index is: 0.01
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: monitor the safety of levees i... But actually it is: improved techniques, historica...
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: monitor the implementation of ... But actually it is: the development of devices for...
+The Jaccard Index is: 0.23
+And the Smith Waterman Score is: 0.18
+The Detailes are shown as followings: 
+common words: monitor the implementation of this Act by State levee safety 
+insertion: development 
+deletion: 
+change: agencies and to 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: advise the Secretary on policy... But actually it is: the development and maintenanc...
+The Jaccard Index is: 0.14
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(4)public policy initiatives and other improvements relating to levee safety engineering, security, and management. "}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Membership But actually it is: Participation by State levee s...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Voting members"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Board shall be composed of... But actually it is: solicit participation from Sta...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]/subparagraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(A)The Secretary (or the Secretary’s designee), who shall serve as the chairperson of the Board. "}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(B)The Secretary of Agriculture (or the Secretary’s designee). "}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]/subparagraph[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(C)The Secretary of the Interior (or the Secretary’s designee). "}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]/subparagraph[4]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(D)The Administrator of the Environmental Protection Agency (or the Administrator’s designee). "}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]/subparagraph[5]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(E)The Director of the Federal Emergency Management Agency (or the Director’s designee). "}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]/subparagraph[6]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(F)4 representatives of State levee safety agencies, to be appointed by the Secretary. "}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]/subparagraph[7]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(G)1 representative of the private sector who has expertise in levee safety, to be appointed by the Secretary. "}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[2]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Nonvoting members"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary, in consultation... But actually it is: periodically update State leve...
+The Jaccard Index is: 0.07
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[2]/subparagraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(A)a representative of the National Laboratories; "}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[2]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(B)a representative of any Federal or State agency; or "}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[2]/subparagraph[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(C)a levee safety expert. "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"In carrying out the program under subsection (a), the Secretary shall—"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (c) But actually it is: (b)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Duties But actually it is: Participation by State levee s...
+The Jaccard Index is: 0.02
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/text[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"In carrying out the program under subsection (a), the Secretary shall—"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"In general"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Board shall support the es... But actually it is: solicit participation from Sta...
+The Jaccard Index is: 0.13
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[2]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Coordination and information exchange among agencies"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In carrying out paragraph (1),... But actually it is: periodically update State leve...
+The Jaccard Index is: 0.17
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[4]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (d) But actually it is: (b)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Contracts But actually it is: Participation by State levee s...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Board may use the expertis... But actually it is: In carrying out the program un...
+The Jaccard Index is: 0.17
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(1)solicit participation from State levee safety agencies; and "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(2)periodically update State levee safety agencies, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Environment and Public Works of the Senate on the status of the program. "}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[5]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (e) But actually it is: (b)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Working groups But actually it is: Participation by State levee s...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[5]/paragraph[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"In general"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[5]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary, in consultation... But actually it is: solicit participation from Sta...
+The Jaccard Index is: 0.03
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[5]/paragraph[2]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {Membership}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[5]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A working group under paragrap... But actually it is: periodically update State leve...
+The Jaccard Index is: 0.02
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[5]/paragraph[2]/subparagraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(A)members of the Board; and "}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[5]/paragraph[2]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(B)any other individual, as the Secretary determines to be appropriate. "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"In carrying out the program under subsection (a), the Secretary shall—"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[6]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (f) But actually it is: (b)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Compensation of members But actually it is: Participation by State levee s...
+The Jaccard Index is: 0.07
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/text[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"In carrying out the program under subsection (a), the Secretary shall—"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[6]/paragraph[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Federal employees"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[6]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A member of the Board who is a... But actually it is: solicit participation from Sta...
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[6]/paragraph[2]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Other members"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[6]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A member of the Board who is n... But actually it is: periodically update State leve...
+The Jaccard Index is: 0.07
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[7]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (g) But actually it is: (b)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[7]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Travel expenses But actually it is: Participation by State levee s...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/text[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"In carrying out the program under subsection (a), the Secretary shall—"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[7]/paragraph[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Representatives of Federal agencies"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[7]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To the extent amounts are made... But actually it is: solicit participation from Sta...
+The Jaccard Index is: 0.03
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[7]/paragraph[1]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"chapter 57"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[7]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 5, United States Cod... But actually it is: solicit participation from Sta...
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[7]/paragraph[2]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Other individuals"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[7]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To the extent amounts are made... But actually it is: periodically update State leve...
+The Jaccard Index is: 0.14
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[7]/paragraph[2]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"chapter 57"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[7]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 5, United States Cod... But actually it is: periodically update State leve...
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[8]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (h) But actually it is: (b)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[8]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Applicability of federal advis... But actually it is: Participation by State levee s...
+The Jaccard Index is: 0.02
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[8]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Federal Advisory Committee... But actually it is: In carrying out the program un...
+The Jaccard Index is: 0.07
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(1)solicit participation from State levee safety agencies; and "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(2)periodically update State levee safety agencies, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Environment and Public Works of the Senate on the status of the program. "}
+
+We are at location: bill[1]/legis-body[1]/section[7]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: National levee safety program But actually it is: Levee safety training program
+The Jaccard Index is: 0.42
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: levee safety 
+insertion: 
+deletion: National 
+change: program to training program 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]   Compared with location: bill[1]/legis-body[1]/section[7]/text[1]
+The reason of change is: element tag name
+The value is expected to be: subsection But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[7]/text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(a)}
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"In general"}
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"The Secretary, in consultation with the Committee, the Board, and State levee safety agencies, shall establish and maintain a national levee safety program."}
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subsection But actually it is: null
+ Deleted paragraph content is: {"(b)PurposesThe purposes of the program under this section are— 
+(1)to ensure that new and existing levees are safe through the development of technologically and economically feasible programs and procedures for hazard reduction relating to levees;  
+(2)to encourage acceptable engineering policies and procedures to be used for levee site investigation, design, construction, operation and maintenance, and emergency preparedness;  
+(3)to encourage the establishment and implementation of effective levee safety programs in each State based on State standards;  
+(4)to develop and support public education and awareness projects to increase public acceptance and support of State levee safety programs;  
+(5)to develop technical assistance materials for Federal and State levee safety programs;  
+(6)to develop methods of providing technical assistance relating to levee safety to non-Federal entities; and  
+(7)to develop technical assistance materials, seminars, and guidelines to improve the security of levees in the United States. "}
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subsection But actually it is: null
+ Deleted paragraph content is: {"(c)Strategic planIn carrying out the program under this section, the Secretary shall— 
+(1)prepare a strategic plan to achieve the purposes of the program under this section; and 
+(2)not later than 120 days after the date of enactment of this Act, transmit the plan to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate. "}
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[4]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subsection But actually it is: null
+ Deleted paragraph content is: {"(d)Federal guidelines 
+(1)In generalIn carrying out the program under this section, the Secretary, in consultation with the Board, shall establish Federal guidelines relating to levee safety.  
+(2)Incorporation of Federal activitiesThe Federal guidelines under paragraph (1) shall incorporate, to the maximum extent practicable, activities and practices carried out by a Federal agency as of the date on which the guidelines are established.  
+(3)Incorporation of State and local activitiesThe program under this section shall incorporate, to the maximum extent practicable— 
+(A)the activities and practices carried out by States, local governments, and the private sector to safely build, regulate, operate, and maintain levees; and  
+(B)Federal activities that foster State efforts to develop and implement effective programs for the safety of levees."}
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[5]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subsection But actually it is: null
+ Deleted paragraph content is: {"(e)Assistance for State levee safety programs 
+(1)In generalTo encourage the establishment and maintenance of effective State programs intended to ensure levee safety, to protect human life and public property, and to improve State levee safety programs, the Secretary shall provide assistance, using amounts made to carry out this Act, to assist States in establishing and carrying out levee safety programs. 
+(2)CriteriaTo be eligible for assistance under this subsection, a State shall have in effect a State levee safety program under which the State levee safety agency shall, in accordance with State law— 
+(A)review and approve plans and specifications to construct, enlarge, modify, remove, and abandon levees; 
+(B)perform periodic inspections during levee construction to ensure compliance with approved plans and specifications;  
+(C)require or perform the inspection, at least once every 5 years, of all levees that would pose a significant threat to human life and public property in case of failure to determine the continued safety of the levees and a procedure for more detailed and frequent safety inspections; 
+(D)require that all inspections of levees be performed under the supervision of a State-registered professional engineer with related experience in levee design and construction;  
+(E)issue notices, when appropriate, to require owners of levees to perform necessary maintenance or remedial work, improve security, revise operating procedures, or take other actions, including breaching levees when necessary;  
+(F)provide necessary funds— 
+(i)to ensure timely repairs or other changes to, or removal of, a levee in order to protect human life and public property; and 
+(ii)if the owner of the levee does not take an action described in clause (i), to take appropriate action as expeditiously as practicable;  
+(G)establish a system of emergency procedures to be used if a levee fails or if the failure of a levee is imminent; 
+(H)identify— 
+(i)each levee the failure of which could be reasonably expected to endanger human life; 
+(ii)the maximum area that could be flooded if the levee failed; and 
+(iii)necessary public facilities that would be affected by the flooding; and 
+(I)issue regulations to carry out the program.   
+(3)Budgeting requirementTo be eligible for assistance under this subsection, a State shall allocate sufficient funds in its budget to carry out a State levee safety program.  
+(4)Work plansThe Secretary shall enter into an agreement with each State receiving assistance under this subsection to develop a work plan necessary for the State levee safety program to reach a level of program performance specified in the agreement. 
+(5)Maintenance of effortAssistance may not be provided to a State under this subsection for a fiscal year unless the State enters into such agreement with the Secretary as the Secretary requires to ensure that the State will maintain the aggregate expenditures of the State from all other sources for programs to ensure levee safety for the protection of human life and property at or above a level equal to the average annual level of such expenditures for the 2 fiscal years preceding the fiscal year.  
+(6)Approval of programs 
+(A)SubmissionTo be eligible for assistance under this subsection, a State shall submit to the Secretary a State levee safety program and receive the Secretary’s approval of the program. 
+(B)Approval 
+(i)In generalIf the Secretary determines that a program submitted by a State under subparagraph (A) substantially meets the requirements of this subsection, the Secretary shall approve the program and immediately notify the State in writing of the approval. 
+(ii)Deemed approvalA program submitted by a State under subparagraph (A) shall be deemed to be approved by the Secretary on the 120th day following the date of the Secretary’s receipt of the program unless the Secretary before such 120th day approves or disapproves the program. 
+(C)Notification of disapprovalIf the Secretary determines that a program submitted by a State under subparagraph (A) does not substantially meet the requirements of this subsection, the Secretary shall disapprove the program, immediately notify the State in writing of the disapproval, and provide the reasons for the disapproval and the changes that are necessary for the program to be approved.  
+(7)Reviews of state levee safety programs 
+(A)Periodic reviewsUsing the expertise of the Board, the Secretary shall periodically review State levee safety programs. 
+(B)Revocation of program approvalIf the Board finds that a State levee safety program has proven inadequate to reasonably protect human life and public property and the Secretary concurs, the Secretary shall revoke approval of the State levee safety program, and withhold assistance under this subsection, until the State levee safety program again substantially meets the requirements for approval. "}
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[6]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subsection But actually it is: null
+ Deleted paragraph content is: {"(f)ReportNot later than January 1, 2007, and every 2 years thereafter, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing— 
+(1)the status of the program under this section;  
+(2)the progress made by Federal agencies during the 2 preceding fiscal years in implementing Federal guidelines for levee safety;  
+(3)the progress made by State levee safety agencies participating in the program; and  
+(4)recommendations for legislative or other action that the Secretary considers to be necessary, if any. "}
+
+We are at location: bill[1]/legis-body[1]/section[8]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Research program But actually it is: Effect of Act
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[1]   Compared with location: bill[1]/legis-body[1]/section[8]/text[1]
+The reason of change is: element tag name
+The value is expected to be: subsection But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[8]/text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(a)}
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"In general"}
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"The Secretary, in cooperation with the Board, shall carry out a program of technical and archival research to develop and support—"}
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[1]/paragraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(1)improved techniques, historical experience, and equipment for rapid and effective levee construction, rehabilitation, and inspection; "}
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[1]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(2)the development of devices for the continued monitoring of levee safety; "}
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[1]/paragraph[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(3)the development and maintenance of information resources systems required to manage levee safety projects; and "}
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[1]/paragraph[4]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(4)public policy initiatives and other improvements relating to levee safety engineering, security, and management. "}
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[2]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[1]
+The reason of change is: element tag name
+The value is expected to be: subsection But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[2]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (b) But actually it is: (1)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[2]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Participation by State levee safety agencies"}
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In carrying out the program un... But actually it is: creates any liability of the U...
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[2]/paragraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(1)solicit participation from State levee safety agencies; and "}
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[2]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(2)periodically update State levee safety agencies, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Environment and Public Works of the Senate on the status of the program. "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(2)relieves an owner or operator of a levee of a legal duty, obligation, or liability incident to the ownership or operation of a levee. "}
+
+We are at location: bill[1]/legis-body[1]/section[9]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Levee safety training program But actually it is: Authorization of appropriation...
+The Jaccard Index is: 0.02
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[9]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary shall establish ... But actually it is: There is authorized to be appr...
+The Jaccard Index is: 0.12
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[10]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 10. But actually it is: 9.
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[10]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effect of Act But actually it is: Authorization of appropriation...
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[10]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Nothing in this Act— But actually it is: There is authorized to be appr...
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"
+  (1)
+  creates any liability of the United States or its officers or employees for the recovery of damages caused by an action or failure to act; or
+"}
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(2)relieves an owner or operator of a levee of a legal duty, obligation, or liability incident to the ownership or operation of a levee.  "}
+
+We are at location: bill[1]/legis-body[1]/section[11]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 11. But actually it is: 9.
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[11]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: There is authorized to be appr... But actually it is: There is authorized to be appr...
+The Jaccard Index is: 0.97
+And the Smith Waterman Score is: 0.93
+The Detailes are shown as followings: 
+common words: There is authorized to be appropriated to the Secretary to carry out this Act for each of fiscal years 2007 through 2012 Such sums shall remain available until expended 
+insertion: 
+deletion: 
+change: 10000000 to 15000000 / 
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {" 
+July 28, 2006 
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed "}
+

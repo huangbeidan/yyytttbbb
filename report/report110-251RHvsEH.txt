@@ -1,0 +1,243 @@
+===================================================
+
+total difference is: 92
+comparing document: BILLS-110hr251rh.xml
+to document: BILLS-110hr251eh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Reported-in-House But actually it is: Engrossed-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 251 RH: Truth in Caller... But actually it is: 110 HR 251 EH: Truth in Caller...
+The Jaccard Index is: 0.87
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: 110 HR 251 Truth in Caller ID Act of 2007 
+insertion: 
+deletion: 
+change: RH to EH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2007-06-11 But actually it is: 0
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IB But actually it is: I
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/calendar[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: calendar But actually it is: null
+ Deleted paragraph content is: {"Union Calendar No. 112"}
+
+We are at location: bill[1]/form[1]/associated-doc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: associated-doc But actually it is: null
+ Deleted paragraph content is: {"[Report No. 110–188]"}
+
+We are at location: bill[1]/form[1]/action[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {" 
+January 5, 2007 
+Mr. Engel (for himself and Mr. Barton of Texas) introduced the following bill; which was referred to the Committee on Energy and Commerce 
+"}
+
+We are at location: bill[1]/form[1]/action[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+June 11, 2007
+Additional sponsors: Mr. Inslee, Mr. Towns, Mr. Burton of Indiana, Mr. Boucher, Mr. English of Pennsylvania, Mr. McHugh, Mrs. McMorris Rodgers, Ms. Jackson-Lee of Texas, Mr. Sensenbrenner, Mrs. Schmidt, Mr. Reichert, Mr. Fossella, Mr. Davis of Kentucky, Mr. Calvert, Mr. Shimkus, Mr. Buyer, Mrs. Myrick, Mr. Dicks, Mr. Kuhl of New York, Mr. Tim Murphy of Pennsylvania, Mr. Gillmor, Ms. Shea-Porter, Mrs. Lowey, Mr. Gallegly, Mrs. Cubin, Mr. Gordon of Tennessee, Ms. Matsui, Mr. Carnahan, Ms. Eshoo, and Mrs. Blackburn 
+"}
+
+We are at location: bill[1]/form[1]/action[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+June 11, 2007
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed
+Strike out all after the enacting clause and insert the part printed in italic
+"}
+
+We are at location: bill[1]/form[1]/legis-type[1]/text()[1]   Compared with location: bill[1]/form[1]/legis-type[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A BILL But actually it is: AN ACT
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[3]/text[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: subparagraph
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(A)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {Deadline}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"Not later than 6 months after the enactment of this subsection, the Commission shall prescribe regulations to implement this subsection."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (B)
+  Consideration of related regulations
+  In conducting the proceeding to prescribe the regulations required by subparagraph (A) of this paragraph, the Commission shall examine whether the Commission’s regulations under subsection (b)(2)(B) of this section should be revised to require non-commercial calls to residential telephone lines using an artificial or pre-recorded voice to deliver a message to transmit caller identification information that is not misleading or inaccurate.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Definitions But actually it is: Effect on other laws
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For purposes of this subsectio... But actually it is: Nothing in this subsection sha...
+The Jaccard Index is: 0.08
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(A)Caller identification informationThe term caller identification information means information provided to an end user by a caller identification service regarding the telephone number of, or other information regarding the origination of, a call made using a telecommunications service or VOIP service. "}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(B)Caller identification serviceThe term caller identification service means any service or device designed to provide the user of the service or device with the telephone number of, or other information regarding the origination of, a call made using a telecommunications service or VOIP service. Such term includes automatic number identification services. "}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(C)VOIP serviceThe term VOIP service means a service that— 
+(i)provides real-time voice communications transmitted through end user equipment using TCP/IP protocol, or a successor protocol, for a fee or without a fee; 
+(ii)is offered to the public, or such classes of users as to be effectively available to the public (whether part of a bundle of services or separately); and 
+(iii)has the capability to originate traffic to, and terminate traffic from, the public switched telephone network. "}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Nothing in this Act may be con... But actually it is: Except for paragraph (3)(B), n...
+The Jaccard Index is: 0.77
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Nothing in this may be construed to affect or alter the application of the Commission’s regulations regarding the requirements for transmission of caller identification information /issued pursuant to the Telephone Consumer Protection Act of 1991 
+insertion: for paragraph 3B nothing 
+deletion: information for telemarketing 
+change: Act to subsection / 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[6]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(6)DefinitionsFor purposes of this subsection: 
+(A)Caller identification informationThe term caller identification information means information provided to an end user by a caller identification service regarding the telephone number of, or other information regarding the origination of, a call made using a telecommunications service or VOIP service. 
+(B)Caller identification serviceThe term caller identification service means any service or device designed to provide the user of the service or device with the telephone number of, or other information regarding the origination of, a call made using a telecommunications service or VOIP service. Such term includes automatic number identification services. 
+(C)VOIP serviceThe term VOIP service means a service that— 
+(i)provides real-time voice communications transmitted through end user equipment using TCP/IP protocol, or a successor protocol, for a fee or without a fee; 
+(ii)is offered to the public, or such classes of users as to be effectively available to the public (whether part of a bundle of services or separately); and 
+(iii)has the capability to originate traffic to, or terminate traffic from, the public switched telephone network."}
+
+We are at location: bill[1]/legis-body[2]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Definitions But actually it is: Effect on other laws
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For purposes of this subsectio... But actually it is: Nothing in this subsection sha...
+The Jaccard Index is: 0.08
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (A)
+  Caller identification information
+  The term caller identification information means information provided to an end user by a caller identification service regarding the telephone number of, or other information regarding the origination of, a call made using a telecommunications service or VOIP service.
+"}
+
+We are at location: bill[1]/legis-body[2]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (B)
+  Caller identification service
+  The term caller identification service means any service or device designed to provide the user of the service or device with the telephone number of, or other information regarding the origination of, a call made using a telecommunications service or VOIP service. Such term includes automatic number identification services.
+"}
+
+We are at location: bill[1]/legis-body[2]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(C)VOIP serviceThe term VOIP service means a service that—
+(i)provides real-time voice communications transmitted through end user equipment using TCP/IP protocol, or a successor protocol, for a fee or without a fee;
+(ii)is offered to the public, or such classes of users as to be effectively available to the public (whether part of a bundle of services or separately); and
+(iii)has the capability to originate traffic to, or terminate traffic from, the public switched telephone network."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[6]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(6)DefinitionsFor purposes of this subsection: 
+(A)Caller identification informationThe term caller identification information means information provided to an end user by a caller identification service regarding the telephone number of, or other information regarding the origination of, a call made using a telecommunications service or VOIP service. 
+(B)Caller identification serviceThe term caller identification service means any service or device designed to provide the user of the service or device with the telephone number of, or other information regarding the origination of, a call made using a telecommunications service or VOIP service. Such term includes automatic number identification services. 
+(C)VOIP serviceThe term VOIP service means a service that— 
+(i)provides real-time voice communications transmitted through end user equipment using TCP/IP protocol, or a successor protocol, for a fee or without a fee; 
+(ii)is offered to the public, or such classes of users as to be effectively available to the public (whether part of a bundle of services or separately); and 
+(iii)has the capability to originate traffic to, or terminate traffic from, the public switched telephone network."}
+
+We are at location: bill[1]/endorsement[1]/action-date[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-date But actually it is: null
+ Deleted paragraph content is: {"June 11, 2007"}
+
+We are at location: bill[1]/endorsement[1]/action-desc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-desc But actually it is: null
+ Deleted paragraph content is: {"Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: attestation
+ Inserted paragraph content is: {"
+  
+    Passed the House of Representatives June 12, 2007.
+    Lorraine C. Miller,
+    Clerk.
+  
+"}
+

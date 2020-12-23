@@ -1,0 +1,147 @@
+===================================================
+
+total difference is: 32
+comparing document: BILLS-110hr674ih.xml
+to document: BILLS-110hr674rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: null
+The reason of change is: content change
+The value is expected to be: 110 HR 674 IH: To amend title ... But actually it is: 110 HR 674 RH: To amend title ...
+The Jaccard Index is: 0.31
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: 110 HR 674 To amend title 38 United States Code to 
+insertion: 
+deletion: 
+change: IH to RH / repeal the provision of law requiring termination of the Advisory Committee on Minority Veterans as of December 31 2009 to 
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/session[1]/text()[1]   Compared with location: bill[1]/form[1]/session[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 1st Session But actually it is: 2d Session
+The Jaccard Index is: 0.55
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 1st Session 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  (for himself and  But actually it is:  (for			 himself and 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words:  himself and 
+insertion: 
+deletion: 
+change: for to for			 / 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/cosponsor[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/cosponsor[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Ms. Corrine Brown of Florida But actually it is: Ms. Corrine Brown of			 Florid...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Ms Corrine Brown 
+insertion: 
+deletion: 
+change: of Florida to of			 Florida 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Committee on Veterans’ Affairs But actually it is: Committee on Veterans’			 Affa...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Committee on 
+insertion: 
+deletion: 
+change: Veterans’ Affairs to Veterans’			 Affairs 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend title 38, United Stat... But actually it is: To amend title 38, United Stat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: To amend title 38 United States Code /repeal the provision of law requiring termination of the Advisory Committee /Minority Veterans as of December 31 2009 
+insertion: to		 on		 
+deletion: 
+change: to to  / on to  / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 491"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No.
+		  110–772]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			July 24, 2008
+			Committed to the Committee of the Whole House on the State
+			 of the Union and ordered to be printed
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Repeal of sunset provision for... But actually it is: Repeal of sunset provision			 ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Repeal of sunset for advisory committee on minority veterans 
+insertion: 
+deletion: 
+change: provision to provision			 / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 38, United States Co... But actually it is:  of title 38,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words:  of title United States Code is repealed 
+insertion: 
+deletion: 
+change: 38 to 38			 / 
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		July 24, 2008
+		Committed to the Committee of the Whole House on the State
+		  of the Union and ordered to be printed
+	"}
+

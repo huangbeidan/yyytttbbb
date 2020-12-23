@@ -1,0 +1,837 @@
+===================================================
+
+total difference is: 227
+comparing document: BILLS-111hr3993ih.xml
+to document: BILLS-111hr3993rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/session[1]/text()[1]   Compared with location: bill[1]/form[1]/session[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 1st Session But actually it is: 2d Session
+The Jaccard Index is: 0.55
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 1st Session 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To require accurate and reason... But actually it is: To require accurate and reason...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.65
+The Detailes are shown as followings: 
+common words: To require accurate and /disclosure of /terms and conditions of prepaid telephone calling cards and		  services 
+insertion: reasonable		 
+deletion: of 
+change: reasonable to  /  to the / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 290"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No.
+		  111–507]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			June 15, 2010
+			Additional sponsors: Mr.
+			 Burton of Indiana and Ms.
+			 Tsongas
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			June 15, 2010
+			Reported with an amendment, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+			For text of introduced bill, see copy of bill as
+			 introduced on November 3, 2009
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/term[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/term[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: prepaid calling card But actually it is: prepaid			 calling card
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: prepaid calling card 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/term[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/term[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: prepaid			 calling card But actually it is: prepaid calling			 card
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: prepaid			 calling card 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be:  by section 64.5000(a) of the ... But actually it is:  by section 64.5000(a) of the ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words:  by section 645000a of the Federal regulations 47 CFR 645000a Such term shall also calling that use VoIP service or a successor protocol Such term also include electronic or other mechanism that allows users to pay advance for specified amount of calling Such term shall not include 
+insertion: 
+deletion: 
+change: Communications			 to Communications / Commission’s to Commission’s			 / include			 to include / cards to cards			 / shall			 to shall / an to an			 / in			 to in / a to a			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: calling cards or			 other righ... But actually it is: calling cards or other			 righ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.87
+The Detailes are shown as followings: 
+common words: calling cards rights of use that are provided for free or at no additional cost as a			 promotional item accompanying a product or service purchased by a			 consumer 
+insertion: 
+deletion: 
+change: or			 to or / other to other			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a provider of a			 prepaid cal... But actually it is: a provider of a prepaid			 cal...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: a provider of calling card that uses VoIP service or a successor protocol and 
+insertion: 
+deletion: 
+change: a			 to a / prepaid to prepaid			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a provider of a			 prepaid cal... But actually it is: a provider of a prepaid			 cal...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: a provider of calling card that allows users to pay in advance for a specified minutes through an electronic or other mechanism 
+insertion: 
+deletion: 
+change: a			 to a / prepaid to prepaid			 / amount			 to amount / of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[4]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means any entity or person th... But actually it is:  means any entity or person th...
+The Jaccard Index is: 0.86
+And the Smith Waterman Score is: 0.96
+The Detailes are shown as followings: 
+common words:  means any entity or person that purchases prepaid calling			 cards from a prepaid calling card provider or another prepaid calling card			 distributor and sells resells issues or distributes such cards to one or			 more distributors of such cards or to one or more retail sellers of 
+insertion: 
+deletion: 
+change: such			 cards to such cards			 Such term shall not include 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[4]/subparagraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(A)any retail seller whose only activity with
+			 respect to the sale of prepaid calling cards is point-of-sale transactions with
+			 end-user customers; or
+				"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[4]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(B)any person whose only
+			 activity with respect to the sale of prepaid calling cards is the transport or
+			 delivery of such cards.
+				"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[6]/text[1]/term[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[6]/text[1]/term[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: VoIP service But actually it is: VoIP			 service
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: VoIP service 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[6]/text[1]/term[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[6]/text[1]/term[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: interconnected			 Voice over I... But actually it is: interconnected Voice over			 I...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: interconnected			 Voice Internet protocol service 
+insertion: 
+deletion: 
+change: over to over			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[6]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[6]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be:  by section 9.3 of the Federal... But actually it is:  by section 9.3 of the Federal...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.68
+The Detailes are shown as followings: 
+common words:  by section 93 of the Commission’s regulations 47 CFR 93 Such term include any calling service that utilizes a voice over Internet or any protocol in the transmission of the call 
+insertion: 
+deletion: 
+change: Federal			 to Federal / Communications to Communications			 / shall			 to shall / voice to voice			 / protocol			 to protocol / successor to successor			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[7]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[7]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: required by			 Federal law or ... But actually it is: required by Federal law			 or ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.66
+The Detailes are shown as followings: 
+common words: required Federal or regulation or order of the Federal Communications Commission by the and regulations of any State or political subdivision of a 
+insertion: 
+deletion: 
+change: by			 to by / law to law			 / or			 to or / laws to laws			 / State			 or to State or 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[8]/text[1]/term[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[8]/text[1]/term[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: additional charge But actually it is: additional			 charge
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: additional charge 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[8]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[8]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means any charge assessed by ... But actually it is:  means any charge assessed by ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words:  means any charge assessed by a prepaid card provider prepaid calling card distributor for the use of a calling card than a fee or rate 
+insertion: 
+deletion: 
+change: calling			 to calling / or to or			 / prepaid			 to prepaid / other to other			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Required			 disclosures of pre... But actually it is: Required disclosures of			 pre...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Required			 disclosures prepaid calling cards 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any prepaid			 calling card pr... But actually it is: Any prepaid			 calling card pr...
+The Jaccard Index is: 0.83
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Any prepaid			 calling card provider or prepaid calling card distributor shall accurately			 disclose /the following information to the terms and conditions of prepaid calling card 
+insertion: 
+deletion: disclose in a clear and conspicuous 
+change: relating			 to relating / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The name of the prepaid callin... But actually it is: The name of the prepaid callin...
+The Jaccard Index is: 0.51
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: The name of the prepaid calling card			 provider and such provider’s customer service telephone number and hours of			 service 
+insertion: 
+deletion: 
+change: except that the hours of service may not be required to be disclosed			 if the provider’s customer service is provided and available 24 hours a day 7			 days per week 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[3]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[3]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a			 toll-free customer servic... But actually it is: a toll-free customer service n...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: a			 tollfree customer service number website if the provider maintains website where a consumer may obtain information described in A and a statement that such may be obtained through tollfree customer service number 
+insertion: 
+deletion: 
+change: and to and			 / a			 to a / the to the			 / subparagraph			 to subparagraph / information to information			 / such			 to such / and website to and			 website 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The following			 terms and con... But actually it is: The following terms and			 con...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.59
+The Detailes are shown as followings: 
+common words: The terms conditions pertaining to or associated with the use of the 
+insertion: 
+deletion: 
+change: following			 to following / and to and			 / prepaid			 calling card to prepaid calling			 card 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[4]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[4]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A description of			 any additi... But actually it is: A description of any			 additi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.62
+The Detailes are shown as followings: 
+common words: A description additional charges associated with the use of the prepaid calling card amount of such charges 
+insertion: 
+deletion: 
+change: of			 to of / any to any			 / and			 to and / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[4]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[4]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any limitation on			 the use o... But actually it is: Any limitation on the use			 o...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.62
+The Detailes are shown as followings: 
+common words: Any limitation the or period of time for which the promoted or advertised minutes or 
+insertion: 
+deletion: 
+change: on			 to on / use to use			 / rates			 will be available to rates will be			 available 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[4]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[4]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Applicable			 policies relatin... But actually it is: A description of the			 applic...
+The Jaccard Index is: 0.86
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Applicable			 policies relating to refund recharge and any decrease in of such card over a period of time 
+insertion: description of the			 applicable 
+deletion: 
+change: predetermined to predetermined			 / value			 to value / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[4]/subparagraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[4]/subparagraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any expiration			 date applica... But actually it is: Any expiration date			 applica...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Any date applicable to the prepaid calling card or the minutes available with such			 calling card 
+insertion: 
+deletion: 
+change: expiration			 to expiration / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Location of			 disclosure and ... But actually it is: Location of disclosure			 and ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Location disclosure and language requirement 
+insertion: 
+deletion: 
+change: of			 to of / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The disclosures required under... But actually it is: The disclosures required under...
+The Jaccard Index is: 0.91
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: The disclosures required under subsection			 a shall be printed in plain English language except as provided in paragraph			 2 in a clear and conspicuous manner and location on the prepaid calling			 card /If the card enclosed in packaging that obscures the disclosures on card disclosures also shall be printed on the outside packaging of 
+insertion: except as the Commission may provide under paragraph 3 
+deletion: 
+change: is to is			 / the			 to the / such to such			 / the			 card to the card 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/subparagraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/subparagraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Advertising and			 other promo... But actually it is: Advertising and other			 promo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: Advertising other promotional material 
+insertion: 
+deletion: 
+change: and			 to and / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any advertising for a prepaid ... But actually it is: Any			 advertising or other pr...
+The Jaccard Index is: 0.78
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: Any advertising for a prepaid card contains any representation expressly or by implication the value the per minute rate or the number of minutes provided by card include in a clear and conspicuous manner and location all described in subsection a 
+insertion: advertising or other promotional 
+deletion: 
+change: calling			 to calling / that to that			 / regarding			 to regarding / dollar to dollar			 / the			 to the / shall to shall			 / the			 to the / disclosures to disclosures			 / except as the Commission may provide under			 paragraph 3 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(3)Different location of
+			 certain information as determined by CommissionNotwithstanding the requirements of
+			 paragraph (1), the Commission may determine that some of the information
+			 required to be disclosed pursuant to subsection (a) does not need to be
+			 disclosed on the prepaid calling card, advertising, or other promotional
+			 material, if the Commission by regulation—
+					(A)requires the information
+			 to be otherwise disclosed and available to consumers; and
+					(B)determines that—
+						(i)such disclosures provide
+			 for easy comprehension and comparison by consumers; and
+						(ii)the remaining disclosures on the prepaid
+			 calling card, advertising, or other promotional material, include sufficient
+			 information to allow a consumer to effectively inquire about or seek
+			 clarification of the services provided by the calling card.
+						"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Minutes			 announced, promoted... But actually it is: Minutes announced,			 promoted...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Minutes			 announced promoted or advertised through voice prompts 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Disclosures			 required upon p... But actually it is: Disclosures required			 upon p...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Disclosures			 required upon purchase of additional minutes 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If a prepaid calling			 card p... But actually it is: If a prepaid calling card			 p...
+The Jaccard Index is: 0.93
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: If a prepaid permits a consumer to add value to the card or purchase additional minutes			 after the original purchase of the prepaid calling card any changes to the			 rates or additional charges required to be disclosed under subsection a shall			 apply only to the additional minutes to be purchased and shall be /the consumer before the completion of 
+insertion: disclosed			 clearly and 
+deletion: 
+change: calling			 to calling / card to card			 / disclosed to conspicuously / to			 to to / such purchase to such			 purchase 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(e)No false, misleading,
+			 or deceptive disclosuresNo
+			 prepaid calling card, packaging, advertisement, or other promotional material
+			 containing a disclosure required pursuant to this section shall contain any
+			 false, misleading, or deceptive representations relating to the terms and
+			 conditions of the prepaid calling card.
+			"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Enforcement by			 the Federal ... But actually it is: Federal Trade Commission			 Au...
+The Jaccard Index is: 0.43
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Federal Trade 
+insertion: 
+deletion: Enforcement by			 the 
+change: Commission to Commission			 Authority 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Unfair and			 deceptive act or... But actually it is: Unfair and deceptive			 act or...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Unfair deceptive act or practice 
+insertion: 
+deletion: 
+change: and			 to and / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A violation of section 3 shall... But actually it is: A violation of section 3 shall...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.66
+The Detailes are shown as followings: 
+common words: A violation of section 3 shall treated as violation of a rule defining an unfair or deceptive act practice under section 18a1B of the Federal Trade Act 15 
+insertion: 
+deletion: 
+change: be			 to be / a to a			 / or			 to or / prescribed to prescribed			 / Commission			 to Commission / USC 57aa1B to USC			 57aa1B 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 180			 days aft... But actually it is: Not later than 1			 year after...
+The Jaccard Index is: 0.93
+And the Smith Waterman Score is: 0.92
+The Detailes are shown as followings: 
+common words: Not later than after the date of enactment of this Act the Commission shall in			 consultation with the Federal Communications Commission and in accordance with			 section 553 of title 5 United States Code issue regulations to carry out this			 Act In promulgating such regulations the Commission shall 
+insertion: 
+deletion: 
+change: 180			 to 1			 / days to year / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: take into			 consideration the... But actually it is: take into consideration			 the...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.59
+The Detailes are shown as followings: 
+common words: take consideration the need for clear disclosures that provide for comprehension comparison by consumers taking into account the size prepaid calling 
+insertion: 
+deletion: 
+change: into			 to into / easy			 to easy / and to and			 / of			 to of / cards and to cards			 and 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: give due			 consideration to t... But actually it is: give due consideration to			 t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.64
+The Detailes are shown as followings: 
+common words: give consideration the views of the Federal Communications Commission with to matters which that Commission has particular expertise and authority shall into consideration the views of States 
+insertion: 
+deletion: 
+change: due			 to due / to to to			 / regard			 to regard / for to for			 / and			 to and / take to take			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/continuation-text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/continuation-text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In			 promulgating such regula... But actually it is: In			 promulgating such regula...
+The Jaccard Index is: 0.34
+And the Smith Waterman Score is: 0.36
+The Detailes are shown as followings: 
+common words: In			 promulgating such regulations the Commission shall not issue regulations otherwise the rates terms conditions of prepaid 
+insertion: promulgating such regulations the Commission may prescribe requirements			 concerning the order format presentation and design of disclosures required			 by this Act and may establish and require the use of uniform terms symbols or			 categories to describe or disclose fees and additional charges if the			 Commission finds that such requirements will assist consumers in making			 purchasing decisions and effectuate the purposes 
+deletion: 
+change: that			 to that / affect to specify / and to and			 / calling			 cards to calling cards 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(e)CoordinationIf the Federal Communications Commission
+			 initiates a rulemaking proceeding to establish requirements relating to the
+			 disclosure of terms and conditions of prepaid calling cards, the Federal
+			 Communications Commission shall coordinate with the Federal Trade Commission to
+			 ensure that any such requirements are not inconsistent with the requirements of
+			 this Act and the regulations issued under subsection (c).
+			"}
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In			 general But actually it is: In general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In			 general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: enforce compliance			 with thi... But actually it is: enforce compliance with			 thi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: enforce with this Act 
+insertion: 
+deletion: 
+change: compliance			 to compliance / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/paragraph[1]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/paragraph[1]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: obtain such other			 relief as... But actually it is: obtain such other relief			 as...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: obtain such as the court may consider to be appropriate 
+insertion: 
+deletion: 
+change: other			 to other / relief to relief			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/paragraph[2]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/paragraph[2]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: written notice of			 the actio... But actually it is: written notice of the			 actio...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: written notice 
+insertion: 
+deletion: 
+change: of			 the action and to of the			 action and 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/paragraph[2]/subparagraph[1]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/paragraph[2]/subparagraph[1]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a			 copy of the complaint for... But actually it is: a copy of the complaint			 for...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: a			 copy of the for the action 
+insertion: 
+deletion: 
+change: complaint to complaint			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to be heard with			 respect to... But actually it is: to be heard with respect			 to...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: to be heard to any matter that arises in that action 
+insertion: 
+deletion: 
+change: with			 to with / respect to respect			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to remove the			 action to the... But actually it is: to remove the action to			 the...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: to remove action the appropriate United States District Court and 
+insertion: 
+deletion: 
+change: the			 to the / to to to			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[2]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to file a petition			 for appe... But actually it is: to file a petition for			 appe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: to file a 
+insertion: 
+deletion: 
+change: petition			 for appeal to petition for			 appeal 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: administer oaths			 or affirma... But actually it is: administer oaths or			 affirma...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: oaths			 or affirmations to oaths or			 affirmations 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: compel the			 attendance of wi... But actually it is: compel the attendance of			 wi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.57
+The Detailes are shown as followings: 
+common words: compel attendance witnesses or the production of documentary and other 
+insertion: 
+deletion: 
+change: the			 to the / of to of			 / evidence			 or to evidence or 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Venue; service			 of process But actually it is: Venue; service of			 process
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: service			 of process to service of			 process 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[5]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[5]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: may be			 found. But actually it is: may be found.
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: be			 found to be found 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[6]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[5]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (f) But actually it is: (e)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Limitation But actually it is: Venue; service of			 process
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[6]/text[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[5]/paragraph[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[5]/paragraph[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[5]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(1)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[5]/paragraph[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {Venue}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[5]/paragraph[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"Any
+			 action brought under subsection (a) may be brought in the district court of the
+			 United States that meets applicable requirements relating to venue under
+			 section 1391 of title 28, United States Code."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[5]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(2)Service of
+			 processIn an action brought under subsection (a), process may be
+			 served in any district in which the defendant—
+					(A)is an inhabitant;
+			 or
+					(B)may be found.
+					"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any prepaid			 calling card is... But actually it is: any prepaid calling card			 is...
+The Jaccard Index is: 0.96
+And the Smith Waterman Score is: 0.59
+The Detailes are shown as followings: 
+common words: any calling issued or placed into the stream of commerce beginning after the on which final regulations are promulgated pursuant to 4c and 
+insertion: 
+deletion: 
+change: prepaid			 to prepaid / card to card			 / 90 to 180 / days			 to days / date to date			 / section			 to section / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any advertising, promotion, po... But actually it is: any advertising, promotion, po...
+The Jaccard Index is: 0.96
+And the Smith Waterman Score is: 0.94
+The Detailes are shown as followings: 
+common words: any advertising promotion pointofsale			 material or voice prompt regarding a prepaid calling card that is disseminated			 beginning days after the date on which final regulations are promulgated			 pursuant to section 4c 
+insertion: 
+deletion: 
+change: 90 to 180 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/continuation-text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: continuation-text But actually it is: null
+ Deleted paragraph content is: {"If the
+			 Commission determines that it is not feasible for prepaid calling card
+			 providers or distributors to comply with the requirements of this Act with
+			 respect to prepaid calling cards issued or placed into the stream of commerce
+			 after such 90-day period, the Commission may extend such period by not more
+			 than an additional 90 days."}
+
+We are at location: bill[1]/legis-body[1]/section[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Nothing in this Act shall			 a... But actually it is: After the date on which			 fin...
+The Jaccard Index is: 0.31
+And the Smith Waterman Score is: 0.11
+The Detailes are shown as followings: 
+common words: Nothing in this Act shall			 affect the authority of State establish or continue in effect provision of 
+insertion: the date on which			 final regulations are promulgated pursuant to 
+deletion: 
+change: any to a / to to may / a			 to any			 / the law of a State relating to regulation of prepaid calling			 cards prepaid calling card distributors prepaid calling services or prepaid			 calling service providers except to the extent that such provision of law is			 inconsistent with the provisions of this Act or a regulation prescribed under			 this Act and then only to the extent of such inconsistency A provision of the			 law of a State is not inconsistent with this Act or a regulation prescribed			 under this Act if such provision provides equal or greater protection to			 consumers than what is provided under this Act or the regulations prescribed			 under this Act to law that contains requirements regarding disclosures to be printed			 on prepaid calling cards or packaging unless such requirements are identical to			 the requirements of section 3 
+
+We are at location: bill[1]/legis-body[1]/section[8]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: GAO			 Study But actually it is: Studies
+The Jaccard Index is: 0.2
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[8]/text[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: subsection
+
+We are at location: bill[1]/legis-body[1]/section[8]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(a)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"GAO Study"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"Beginning 2 years after the date on which
+			 final regulations are promulgated pursuant to section 4(c), the Comptroller
+			 General shall conduct a study of the effectiveness of this Act and the
+			 disclosures required under this Act and shall submit a report of such study to
+			 Congress not later than 3 years after the date of enactment of this Act."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(b)FTC StudyThe Commission shall, in consultation with
+			 the Federal Communications Commission, conduct a study of the extent to which
+			 the business practices of the prepaid calling card industry intended to be
+			 addressed by this Act exist in the prepaid wireless industry and shall submit a
+			 report of such study, including recommendations, if any, to Congress not later
+			 than 3 years after the date of enactment of this Act.
+			"}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		June 15, 2010
+		Reported with an amendment, committed to the Committee of
+		  the Whole House on the State of the Union, and ordered to be
+		  printed
+	"}
+

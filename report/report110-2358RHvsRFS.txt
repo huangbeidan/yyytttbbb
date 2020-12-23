@@ -1,0 +1,821 @@
+===================================================
+
+total difference is: 88
+comparing document: BILLS-110hr2358eh.xml
+to document: BILLS-110hr2358rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 2358 EH: Native America... But actually it is: 110 HR 2358 : Native American ...
+The Jaccard Index is: 0.77
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: 110 HR 2358 Native American 1 Coin 
+insertion: 
+deletion: 
+change: EH to  / Act to 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 0 But actually it is: 2007-06-13
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED		 ...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED		  STATES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To require the Secretary of th... But actually it is: To require the Secretary of th...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: To require the Secretary of the Treasury /mint and issue coins in commemoration of Native Americans and the /contributions made by Indian tribes and individual Native Americans to /development of the United States and the history of the United States and 
+insertion: to		 important		 the		 
+deletion: 
+change: to to  / important to  / the to  / for other purposes to for		  other purposes 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			June 13, 2007
+			Received; read twice and referred to the Committee on
+			 Banking, Housing, and Urban Affairs
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Native American $1 Coin Act But actually it is: Native American $1 Coin			 Act
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Native American 1 
+insertion: 
+deletion: 
+change: Coin Act to Coin			 Act 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Native American $1 coin progra... But actually it is: Native American			 $1 coin pro...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Native 1 coin program 
+insertion: 
+deletion: 
+change: American to American			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"Section 5112"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 31, United States Co... But actually it is: Section 5112 of			 title 31, U...
+The Jaccard Index is: 0.86
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words:  of title 31 United States Code is amended by adding at the end 
+insertion: 5112 
+deletion: 
+change: the following to the			 following 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Redesign and issuance of circu... But actually it is: Redesign and				issuance of ci...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: and issuance of circulating 1 coins honoring Native Americans and the /made by Indian tribes and individual Native Americans in 
+insertion: 
+deletion: Redesign the 
+change: contributions to important				contributions / United States history to United				States history 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Redesign beginning in 2008 But actually it is: Redesign				beginning in 2008
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: beginning in 2008 
+insertion: 
+deletion: Redesign 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In				general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: general to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effective beginning January 1,... But actually it is: Effective beginning January 1,...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: Effective beginning January 1 2008 /d in addition to the coins to be issued pursuant to /and in accordance with this subsection the Secretary shall mint and 
+insertion: 
+deletion: 2008 to 
+change: subsection to notwithstanding				subsection / n to subsection				n / issue 1 coins that to issue				1 coins that 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: have as the designs on the obv... But actually it is: have as the				designs on the ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: have as /on the obverse the socalled 
+insertion: 
+deletion: as 
+change: designs to the				designs / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[1]/clause[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[1]/clause[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ; and But actually it is: ;				and
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: and to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[1]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[1]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: have a design on the reverse s... But actually it is: have a design on				the revers...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: have a design /reverse selected in accordance with paragraph 2A subject to 
+insertion: 
+deletion: design 
+change: the to on				the / paragraph 3A to paragraph				3A 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Delayed date But actually it is: Delayed				date
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: date to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If the date of the enactment o... But actually it is: If the date of the				enactmen...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: If the date of /of the Native American 1 Coin Act is after July 31 /A shall be applied by substituting 
+insertion: 
+deletion: of 31 
+change: enactment to the				enactment / subparagraph to 2007				subparagraph / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Design requirements But actually it is: Design				requirements
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: requirements to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The $1 coins issued in accorda... But actually it is: The $1 coins issued in accorda...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: The 1 coins issued in accordance with paragraph /meet the following design requirements 
+insertion: 
+deletion: paragraph 
+change: shall to 1				shall / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Coin reverse But actually it is: Coin				reverse
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: reverse to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: images celebrating the importa... But actually it is: images celebrating				the impo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: celebrating the important contributions made by Indian tribes and individual /to the development of the United States and the history of the 
+insertion: 
+deletion: images individual 
+change: Americans to Native				Americans / United States to United				States 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Coin obverse But actually it is: Coin				obverse
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: obverse to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The design on the obverse shal... But actually it is: The design on the				obverse s...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: The design on 
+insertion: 
+deletion: 
+change: the obverse shall to the				obverse shall 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: be chosen by the Secretary, af... But actually it is: be chosen by the Secretary, af...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: be chosen by the Secretary /with the Commission of Fine Arts and review by the /Advisory Committee and 
+insertion: 
+deletion: Secretary the 
+change: consultation to after				consultation / Coinage to Citizens				Coinage / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/clause[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/clause[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sakakawea design But actually it is: Sakakawea				design
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: design to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Edge-incused inscriptions But actually it is: Edge-incused				inscriptions
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: inscriptions to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[3]/clause[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[3]/clause[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In				general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: general to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[3]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[3]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The inscription of the year of... But actually it is: The inscription of the year of...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: The inscription of the year of minting and issuance /coin and the inscriptions 
+insertion: 
+deletion: issuance 
+change: the to of				the / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[3]/clause[1]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[3]/clause[1]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: In God We Trust But actually it is: In God				We Trust
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: God We Trust to God				We Trust 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[3]/clause[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[3]/clause[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Preservation of distinctive ed... But actually it is: Preservation of				distinctive...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of distinctive edge to of				distinctive edge 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[3]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[3]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The edge-incusing of the inscr... But actually it is: The edge-incusing of the inscr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: The edgeincusing of the inscriptions /i on coins issued under this subsection shall be done in a manner /the distinctive edge of the coin so that the denomination of the /readily discernible including by individuals who are blind or 
+insertion: 
+deletion: inscriptions manner the 
+change: clause to under				clause / preserves to that				preserves / is to coin				is / visually impaired to visually				impaired 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Reverse design selection But actually it is: Reverse design				selection
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: design selection to design				selection 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The designs selected for the r... But actually it is: The designs selected for the r...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: The designs selected for the reverse of the /under this subsection 
+insertion: 
+deletion: the 
+change: described to coins				described / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: shall be chosen by the Secreta... But actually it is: shall be chosen by the Secreta...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: shall be chosen by the Secretary /with the Committee on Indian Affairs of the Senate /Native American Caucus of the House of Representatives /of Fine Arts and the National Congress of American Indians 
+insertion: 
+deletion: Secretary Senate Representatives 
+change: consultation to after				consultation / Congressional to the				Congressional / Commission to the				Commission / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: shall be reviewed by the Citiz... But actually it is: shall be reviewed				by the Ci...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: shall be /the Citizens Coinage Advisory Committee 
+insertion: 
+deletion: be 
+change: by to reviewed				by / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: may depict individuals and eve... But actually it is: may depict				individuals and ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: depict individuals and events such as 
+insertion: 
+deletion: may 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[3]/subclause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[3]/subclause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the creation of Cherokee writt... But actually it is: the creation of				Cherokee wr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: the creation 
+insertion: 
+deletion: 
+change: of Cherokee written language to of				Cherokee written language 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[3]/subclause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[3]/subclause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the Iroquois Confederacy; But actually it is: the Iroquois				Confederacy;
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: Iroquois Confederacy to Iroquois				Confederacy 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[3]/subclause[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[3]/subclause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Wampanoag Chief Massasoit; But actually it is: Wampanoag Chief				Massasoit;
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: Chief Massasoit to Chief				Massasoit 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[3]/subclause[4]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[3]/subclause[4]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Pueblo Revolt But actually it is: Pueblo				Revolt
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: Revolt to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[3]/subclause[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[3]/subclause[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Olympian Jim Thorpe; But actually it is: Olympian Jim				Thorpe;
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: Jim Thorpe to Jim				Thorpe 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[3]/subclause[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[3]/subclause[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Ely S. Parker, a general on th... But actually it is: Ely S. Parker, a				general on...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Ely S Parker /on the staff of General Ulysses S Grant and later head of the /Indian Affairs and 
+insertion: 
+deletion: Parker the 
+change: general to a				general / of to Bureau				of / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[3]/subclause[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[3]/subclause[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: code talkers who served the Un... But actually it is: code talkers who				served the...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: code talkers /the United States Armed Forces during World War I and World War 
+insertion: 
+deletion: talkers 
+change: served to who				served / II and to II				and 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in the case of a design depict... But actually it is: in the case of a				design dep...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: in the case of /depicting the contribution of an individual Native American to /of the United States and the history of the United States /depict the individual in a size such that the coin could be considered 
+insertion: 
+deletion: of to States 
+change: design to a				design / development to the				development / not to shall				not / to be a to to				be a 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Issuance of coins commemoratin... But actually it is: Issuance of				coins commemora...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: of coins commemorating 1 Native American event during each year 
+insertion: 
+deletion: Issuance 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In				general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: general to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Each design for the reverse of... But actually it is: Each design for the reverse of...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: Each design for the reverse of the 1 coins issued /year shall be emblematic of 1 important Native American or Native 
+insertion: 
+deletion: issued 
+change: each to during				each / American contribution each year to American				contribution each year 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Issuance period But actually it is: Issuance				period
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: period to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Each $1 coin minted with a des... But actually it is: Each $1 coin minted				with a ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: Each 1 coin /a design on the reverse in accordance with this subsection for any /be issued during the 1year period beginning on January 1 of that /shall be available throughout the entire 1year period 
+insertion: 
+deletion: coin any that 
+change: with to minted				with / shall to year				shall / and to year				and / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Order of issuance of designs But actually it is: Order of				issuance of design...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: of issuance of designs 
+insertion: 
+deletion: Order 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Each coin issued under this su... But actually it is: Each coin				issued under this...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: coin issued under this subsection commemorating Native Americans and 
+insertion: 
+deletion: Each 
+change: their contributions to their				contributions 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[3]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[3]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: shall be issued, to the maximu... But actually it is: shall be issued, to the maximu...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: shall be issued to the maximum /in the chronological order in which the Native Americans lived /events occurred until the termination of the coin program described 
+insertion: 
+deletion: maximum lived 
+change: practicable to extent				practicable / the to or				the / in subsection n and to in				subsection n and 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[3]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[3]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: thereafter shall be issued in ... But actually it is: thereafter shall be issued in ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: thereafter shall be issued in any /to be appropriate by the Secretary after consultation with /on Indian Affairs of the Senate the Congressional Native /of the House of Representatives and the National Congress of 
+insertion: 
+deletion: any with Native 
+change: determined to order				determined / Committee to the				Committee / Caucus to American				Caucus / American Indians to American				Indians 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Issuance of numismatic coins But actually it is: Issuance of				numismatic coin...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of numismatic coins to of				numismatic coins 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary may mint and iss... But actually it is: The Secretary may mint and iss...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: The Secretary may mint and issue such number /coins of each design selected under this subsection in uncirculated /qualities as the Secretary determines to be appropriate 
+insertion: 
+deletion: number uncirculated 
+change: 1 to of				1 / proof to and				proof / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The number of $1 coins minted ... But actually it is: The number of $1 coins minted ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: The number of 1 coins minted and issued /year with the Sakakaweadesign on the obverse shall be not less than /of the total number of 1 coins minted and issued in 
+insertion: 
+deletion: issued than 
+change: a to in				a / percent to 20				percent / such year to such				year 
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Technical and conforming amend... But actually it is: Technical and			 conforming am...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Technical conforming amendments 
+insertion: 
+deletion: 
+change: and to and			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"Section 5112"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 31, United States Co... But actually it is: Section 5112 of			 title 31, U...
+The Jaccard Index is: 0.78
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words:  of title 31 United States Code is amended 
+insertion: 5112 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subsection (n)(1)— But actually it is: in			 subsection (n)(1)—
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: in subsection n1 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by striking the paragraph desi... But actually it is: by striking the			 paragraph d...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: by striking paragraph designation and heading and all that follows 
+insertion: 
+deletion: 
+change: the to the			 / through to through			 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  and inserting the following: But actually it is:  and inserting the			 followin...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words:  and inserting 
+insertion: 
+deletion: 
+change: the following to the			 following 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[1]/quoted-block[1]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[1]/quoted-block[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Redesign beginning in 2007 But actually it is: Redesign				beginning in 2007
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: beginning in 2007 
+insertion: 
+deletion: Redesign 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[1]/quoted-block[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[1]/quoted-block[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notwithstanding subsection (d) But actually it is: Notwithstanding subsection				...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: subsection d to subsection				d 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by striking subparagraph (B); ... But actually it is: by striking			 subparagraph (B...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: by subparagraph B and 
+insertion: 
+deletion: 
+change: striking to striking			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by redesignating clauses (i) a... But actually it is: by redesignating			 clauses (i...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: by clauses i and ii as subparagraphs A and B respectively and the subparagraphs appropriately 
+insertion: 
+deletion: 
+change: redesignating to redesignating			 / indenting to indenting			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in paragraphs (3)(C) and (5) o... But actually it is: in paragraphs (3)(C) and (5) o...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: in paragraphs 3C and 5 of p by striking 
+insertion: 
+deletion: 
+change: subsection to subsection			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  each place such term appears ... But actually it is:  each place such term appears	...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words:  each place such term and inserting 
+insertion: 
+deletion: 
+change: appears to appears			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Removal of barriers to circula... But actually it is: Removal of			 barriers to circ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Removal barriers to circulation of 1 coin 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In			 general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In order to remove barriers to... But actually it is: In order to remove			 barriers...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: In order to barriers to circulation the Secretary of the Treasury shall carry out aggressive costeffective continuing campaign to encourage enterprises to accept and dispense 1 coins that have as designs on the the socalled 
+insertion: 
+deletion: 
+change: remove to remove			 / an to an			 / commercial to commercial			 / obverse to obverse			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of the Treasury ... But actually it is: The			 Secretary of the Treasu...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: The Secretary of the Treasury shall submit to Congress an annual report on success of the efforts described in subsection a 
+insertion: 
+deletion: 
+change: the to the			 / 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Passed the House of Representa... But actually it is: Passed the House of			 Represe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Passed the House Representatives June 12 2007 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/endorsement[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: endorsement But actually it is: null
+ Deleted paragraph content is: {""}
+

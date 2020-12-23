@@ -1,0 +1,607 @@
+===================================================
+
+total difference is: 105
+comparing document: BILLS-110hr2895eh.xml
+to document: BILLS-110hr2895rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 2895 EH: National Affor... But actually it is: 110 HR 2895 : National Afforda...
+The Jaccard Index is: 0.86
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: 110 HR 2895 National Affordable Housing 
+insertion: 
+deletion: 
+change: EH to  / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 0 But actually it is: 2007-10-15
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IB But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF		  REPRESENTAT... But actually it is: IN THE SENATE OF THE UNITED		 ...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF		  REPRESENTATIVES to SENATE OF THE UNITED		  STATES 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			October 15, 2007
+			Received; read twice and referred to the
+			 Committee on Banking, Housing, and Urban
+			 Affairs
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  ( But actually it is:  (42			 U.S.C. 12721 et seq.) ...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"42 U.S.C. 12721 et seq."}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) is amended by adding at the ... But actually it is:  (42			 U.S.C. 12721 et seq.) ...
+The Jaccard Index is: 0.68
+And the Smith Waterman Score is: 0.92
+The Detailes are shown as followings: 
+common words:  is amended by adding at the end the			 following new subtitle 
+insertion: 42			 USC 12721 et seq 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[2]/subsection[5]/paragraph[1]/subparagraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[2]/subsection[5]/paragraph[1]/subparagraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ), the additional amount (not ... But actually it is: ), the additional				amount (n...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.46
+The Detailes are shown as followings: 
+common words:  the /not /including				any costs of such mortgage insurance resulting from /or the /by this Act if any necessary to ensure that /subsidy cost /mortgage insurance for such fiscal year 
+insertion: including amendments of 
+deletion: the from that 
+change: amount to additional				amount / Act to this				Act / amendments				made to made / credit to the				credit / of				such to such / is 0 to is				0 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[2]/subsection[5]/paragraph[1]/subparagraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[2]/subsection[5]/paragraph[1]/subparagraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ), in				connection with homeb... But actually it is: ),				in connection with homeb...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words:  in				connection with homebuyers and homeowners with mortgages insured under the National Housing Act from the amount appropriated for the preceding				fiscal year to 100000000 
+insertion: 
+deletion: 
+change: title to title				II / II				of to of / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[2]/subsection[5]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[2]/subsection[5]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: No				funds may be made availa... But actually it is: No				funds may be made availa...
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is: 0.96
+The Detailes are shown as followings: 
+common words: No				funds may be made available under paragraph 2 of subsection b for any				fiscal year unless the Secretary of Housing and Urban Development has by rule				making in accordance 
+insertion: 
+deletion: 
+change: with to with				section				553 of title 5 United States Code notwithstanding subsections				a2 bB and d3 of such section made a determination that premiums				being or to be charged during such fiscal year for mortgage insurance under				title II of the National Housing Act are established at the minimum amount				sufficient to comply with the requirements of section 205f of such Act				relating to required capital ratio for the Mutual Mortgage Insurance Fund and				ensure the safety and soundness of the other mortgage insurance funds under				such Act and any negative credit subsidy for such fiscal year resulting from				such mortgage insurance programs adequately ensures the efficient delivery and				availability of such programs 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[2]/subsection[5]/paragraph[3]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"section 553"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[2]/subsection[5]/paragraph[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[2]/subsection[5]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 5, United States Cod... But actually it is: No				funds may be made availa...
+The Jaccard Index is: 0.84
+And the Smith Waterman Score is: 0.38
+The Detailes are shown as followings: 
+common words:  of title 5 United States bB and d3 of such section /determination that /or to be charged during such fiscal /mortgage insurance /II of the National Housing Act /at the minimum /to comply with the requirements /205f of such /to required capital ratio for the /Insurance Fund /the safety and soundness of the /insurance funds /Act and any negative credit subsidy /fiscal year resulting /mortgage insurance programs /the efficient delivery /of such programs 
+insertion: may be made available under paragraph 2 of subsection b for any				fiscal year unless the Secretary of Housing and Urban Development has by rule				making in accordance with				section				553 made year are of Mutual other for adequately 
+deletion: that insurance minimum such Fund funds resulting delivery 
+change: Code				notwithstanding to Code / subsections to notwithstanding / a2 to subsections				a2 / made				a to a / being to premiums				being / year				for to for / title to under				title / are				established to established / sufficient to amount				sufficient / of				section to section / relating to Act				relating / Mutual				Mortgage to Mortgage / ensure to and				ensure / other				mortgage to mortgage / such to under				such / for				such to such / such to from				such / adequately				ensures to ensures / availability to and				availability / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[2]/subsection[5]/paragraph[4]/subparagraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[2]/subsection[5]/paragraph[4]/subparagraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: )				of such insurance; and But actually it is: ) of				such insurance; and
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 				of such insurance and 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[2]/subsection[5]/paragraph[4]/subparagraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[2]/subsection[5]/paragraph[4]/subparagraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 5, United States Cod... But actually it is:  of title 5, United States				...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words:  of title 5 United subsections a2 bB and d3 of such				section 
+insertion: 
+deletion: 
+change: States to States				Code / Code				notwithstanding to notwithstanding / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[4]/subsection[1]/paragraph[2]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[4]/subsection[1]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the formula amount				for each... But actually it is: the formula amount				for each...
+The Jaccard Index is: 0.65
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: the formula amount				for each State insular area or participating local jurisdiction shall be				determined by applying for such State insular area or participating local				jurisdiction the percentage that is equal to the percentage of the total				amounts made available for such fiscal year for allocation under subtitle A of				this title 
+insertion: 
+deletion: 
+change: 42				USC 12741 et seq that are allocated in such year pursuant				to such subtitle to such State insular area or participating local				jurisdiction respectively and the allocation for each State insular area or				participating jurisdiction for purposes of subsection e shall except as				provided in subsection d be the formula amount for the State insular area				or participating jurisdiction respectively 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[4]/subsection[1]/paragraph[2]/subparagraph[3]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"42 U.S.C. 12741 et seq."}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[4]/subsection[1]/paragraph[2]/subparagraph[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[4]/subsection[1]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ) that are allocated in such y... But actually it is: the formula amount				for each...
+The Jaccard Index is: 0.64
+And the Smith Waterman Score is: 0.98
+The Detailes are shown as followings: 
+common words:  that are allocated in such year pursuant				to such subtitle to such State insular area or participating local				jurisdiction respectively and the allocation for each State insular area or				participating jurisdiction for purposes of subsection e shall except as				provided in subsection d be the formula amount for the State insular area				or participating jurisdiction respectively 
+insertion: formula amount				for each State insular area or participating local jurisdiction shall be				determined by applying for such State insular area or participating local				jurisdiction the percentage that is equal to the percentage of the total				amounts made available for such fiscal year for allocation under subtitle A of				this title 42				USC 12741 et seq 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[4]/subsection[4]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[4]/subsection[4]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the Secretary finds				that th... But actually it is: the Secretary finds				that th...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.99
+The Detailes are shown as followings: 
+common words: the Secretary finds				that the jurisdiction has demonstrated a capacity to carry out provisions of				this subtitle and the State in which such jurisdiction is located has				authorized the Secretary to transfer to the jurisdiction a portion of the				State’s allocation that is equal to or greater than the difference between the				jurisdiction’s formula amount and 750000 or the State or jurisdiction has				made available such an amount from the State’s or jurisdiction’s own sources				available for use by the jurisdiction in accordance with this 
+insertion: 
+deletion: 
+change: subtitle or to subtitle				or 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[4]/subsection[6]/paragraph[1]/subparagraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[4]/subsection[6]/paragraph[1]/subparagraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ), 25 percent of such grant			... But actually it is: ), 25 percent of				such grant...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words:  25 percent 
+insertion: 
+deletion: 
+change: of such grant				amounts to of				such grant amounts 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[4]/subsection[6]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[4]/subsection[6]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In the case of				any area tha... But actually it is: In the case of				any area tha...
+The Jaccard Index is: 0.52
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: In the case of				any area that is subject to a declaration by the President of a major disaster				or emergency under the Robert T Stafford Disaster Relief and Emergency				Assistance Act 
+insertion: 
+deletion: 
+change: 42				USC 5121 the Secretary shall for the fiscal year				following such declaration waive the requirement under paragraph 1 with				respect to any eligible activities to be carried out in such area 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[4]/subsection[6]/paragraph[5]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"42 U.S.C. 5121"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[4]/subsection[6]/paragraph[5]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[4]/subsection[6]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ), the Secretary shall, for th... But actually it is: In the case of				any area tha...
+The Jaccard Index is: 0.57
+And the Smith Waterman Score is: 0.96
+The Detailes are shown as followings: 
+common words:  the Secretary shall for the fiscal year				following such declaration waive the requirement under paragraph 1 with				respect to any eligible activities to be carried out in such area 
+insertion: the case of				any area that is subject to a declaration by the President of a major disaster				or emergency under the Robert T Stafford Disaster Relief and Emergency				Assistance Act 42				USC 5121 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[5]/subsection[1]/paragraph[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[5]/subsection[1]/paragraph[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) or any				applicable consoli... But actually it is: )				or any applicable consoli...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.48
+The Detailes are shown as followings: 
+common words:  or any				applicable consolidated submission used for purposes of applying planning and development and housing assistance the Secretary for the applicable State insular 
+insertion: 
+deletion: 
+change: for to for				other / other				community to community / programs to programs				administered / administered				by to by / area jurisdiction or				grantee under section 294i to area				jurisdiction or grantee under section 294i 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[5]/subsection[3]/paragraph[2]/subparagraph[2]/clause[9]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[5]/subsection[3]/paragraph[2]/subparagraph[2]/clause[9]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be: ), State or local assistance,	... But actually it is: ), State or local				assistanc...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.54
+The Detailes are shown as followings: 
+common words:  State or to increase tenant income crosssubsidization and 
+insertion: 
+deletion: 
+change: local to local				assistance / assistance				programs to programs / any other				resources to any				other resources 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[6]/subsection[3]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[6]/subsection[3]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the poverty line				(as such t... But actually it is: the poverty line				(as such t...
+The Jaccard Index is: 0.52
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: the poverty line				as such term is defined in section 673 of the Omnibus Budget Reconciliation				Act of 1981 
+insertion: 
+deletion: 
+change: 42				USC 9902 including any revision required by such section				applicable to a family of the size involved 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[6]/subsection[3]/paragraph[2]/subparagraph[2]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"42 U.S.C. 9902"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[6]/subsection[3]/paragraph[2]/subparagraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[6]/subsection[3]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ), including any revision requ... But actually it is: the poverty line				(as such t...
+The Jaccard Index is: 0.49
+And the Smith Waterman Score is: 0.93
+The Detailes are shown as followings: 
+common words:  including any revision required by such section				applicable to a family of the size involved 
+insertion: poverty line				as such term is defined in section 673 of the Omnibus Budget Reconciliation				Act of 1981 42				USC 9902 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[6]/subsection[7]/paragraph[2]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[6]/subsection[7]/paragraph[2]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be:  ( But actually it is:  (42				U.S.C. 5301 et seq.);
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[6]/subsection[7]/paragraph[2]/text[1]/external-xref[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[6]/subsection[7]/paragraph[2]/text[1]/external-xref[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 42 U.S.C. 5301 et seq. But actually it is: 42 U.S.C. 12721 et seq.
+The Jaccard Index is: 0.58
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: 42 USC et seq 
+insertion: 
+deletion: 
+change: 5301 to 12721 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[6]/subsection[7]/paragraph[2]/text[1]/text()[4]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[6]/subsection[7]/paragraph[2]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be: ); But actually it is:  (42				U.S.C. 5301 et seq.);
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[6]/subsection[7]/paragraph[6]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[6]/subsection[7]/paragraph[6]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  ( But actually it is:  (42				U.S.C. 1471 et seq.);
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[6]/subsection[7]/paragraph[6]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"42 U.S.C. 1471 et seq."}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[6]/subsection[7]/paragraph[6]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[6]/subsection[7]/paragraph[6]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ); But actually it is:  (42				U.S.C. 1471 et seq.);
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A rental dwelling				unit (whi... But actually it is: A rental dwelling				unit (whi...
+The Jaccard Index is: 0.68
+And the Smith Waterman Score is: 0.95
+The Detailes are shown as followings: 
+common words: A rental dwelling				unit which may include a dwelling unit in limited equity cooperative housing				as such term is defined 
+insertion: 
+deletion: 
+change: in to in				section				143k of the Internal Revenue Code of 1986 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[1]/text[1]/external-xref[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[1]/text[1]/external-xref[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: section 143(k) But actually it is: 26 U.S.C. 143(k)
+The Jaccard Index is: 0.24
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: section 143k 
+insertion: USC 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of the Internal Revenue Code ... But actually it is: ) or				in housing of a cooper...
+The Jaccard Index is: 0.13
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[1]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) or in housing of a cooperati... But actually it is: ) or				in housing of a cooper...
+The Jaccard Index is: 0.26
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: or in housing of a cooperative housing corporation as 
+insertion: 
+deletion:  
+change: such				term is defined in to such term is defined in				section				216b of the Internal Revenue Code of 1986 26 USA				216b shall be considered affordable housing for purposes of this subtitle				only if the dwelling unit is subject to legally binding commitments that ensure				that the dwelling unit meets all of the following requirements 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[1]/text[1]/external-xref[3]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[1]/text[1]/external-xref[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: section 216(b) But actually it is: 26 U.S.C. 143(k)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[1]/text[1]/text()[4]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of the Internal Revenue Code ... But actually it is: ) or				in housing of a cooper...
+The Jaccard Index is: 0.79
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words:  of the Internal Revenue Code of 1986 shall be considered affordable housing for purposes of if the dwelling unit is subject to legally binding /that /the dwelling unit meets all of the 
+insertion: or				in housing of a cooperative housing corporation as such term is defined in				section				216b ensure				that 
+deletion: binding 
+change: 26				USA to 26 / 216b to USA				216b / this				subtitle to this / only to subtitle				only / ensure to commitments / following				requirements to following requirements 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[1]/paragraph[3]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[1]/paragraph[3]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be: ) because of the status of the... But actually it is: ) because of the				status of ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.52
+The Detailes are shown as followings: 
+common words:  because of /of /tenant as a holder of such voucher 
+insertion: the 
+deletion: of 
+change: status to the				status / the				prospective to prospective / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[1]/paragraph[4]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[1]/paragraph[4]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The dwelling unit is located i... But actually it is: The dwelling unit is located i...
+The Jaccard Index is: 0.15
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[1]/paragraph[4]/subparagraph[1]/clause[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: clause But actually it is: null
+ Deleted paragraph content is: {"
+  (i)
+  that receives assistance
+				under this subtitle; and
+  (ii)for which not more than
+				50 percent of the rental units in the project that are not previously occupied
+				may be rented initially only to families with incomes described in section
+				296(c)(2), as determined at a reasonable time before occupancy.
+											
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[1]/paragraph[4]/subparagraph[3]/clause[1]/subclause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[1]/paragraph[4]/subparagraph[3]/clause[1]/subclause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: located in a				rural area, as... But actually it is: located in a				rural area, as...
+The Jaccard Index is: 0.82
+And the Smith Waterman Score is: 0.94
+The Detailes are shown as followings: 
+common words: located in a				rural area as such term is defined in section 520 of the Housing Act of 
+insertion: 
+deletion: 
+change: 1949				 to 1949				42 USC				1490 or 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[1]/paragraph[4]/subparagraph[3]/clause[1]/subclause[2]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"42 U.S.C. 1490"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[1]/paragraph[4]/subparagraph[3]/clause[1]/subclause[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[1]/paragraph[4]/subparagraph[3]/clause[1]/subclause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ); or But actually it is: located in a				rural area, as...
+The Jaccard Index is: 0.03
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For purposes of any				eligibl... But actually it is: For purposes of any				eligibl...
+The Jaccard Index is: 0.58
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: For purposes of any				eligible activity involving one to fourfamily owneroccupied housing which				may include housing of a cooperative housing corporation as such term is				defined in 
+insertion: 
+deletion: 
+change: section				216b of the Internal Revenue Code of 1986 26 USA				216b such a residence shall be considered affordable housing for purposes				of this subtitle only if 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[2]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"section 216(b)"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of the Internal Revenue Code ... But actually it is: For purposes of any				eligibl...
+The Jaccard Index is: 0.54
+And the Smith Waterman Score is: 0.96
+The Detailes are shown as followings: 
+common words:  of the Internal Revenue Code of 1986 26 USA				216b such a residence shall be considered affordable housing for purposes				of this subtitle only if 
+insertion: purposes of any				eligible activity involving one to fourfamily owneroccupied housing which				may include housing of a cooperative housing corporation as such term is				defined in section				216b 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[2]/paragraph[1]/subparagraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[2]/paragraph[1]/subparagraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ), except				that any referenc... But actually it is: ),				except that any referenc...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words:  except				that any reference in such section to assistance under title II of for purposes of this section be considered to refer to Fund grant amounts 
+insertion: 
+deletion: 
+change: this to this				Act / Act				shall to shall / assistance to assistance				from / from				Trust to Trust / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[7]/subsection[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) or				occupancy in public ho... But actually it is: )				or occupancy in public ho...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.96
+The Detailes are shown as followings: 
+common words:  or				occupancy in public housing assisted under such Act and have applied to a				public housing agency for such assistance or occupancy as applicable and been				on a waiting list of a public housing agency for such assistance or occupancy				as applicable for at least 12 consecutive months 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[8]/subsection[2]/paragraph[2]/subparagraph[1]/clause[1]/subclause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[8]/subsection[2]/paragraph[2]/subparagraph[1]/clause[1]/subclause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: describes the activities funde... But actually it is: describes the				activities fu...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.53
+The Detailes are shown as followings: 
+common words: the activities funded under this subtitle during such year with amounts of the grantee 
+insertion: 
+deletion: describes 
+change: the				Trust to the / Fund to Trust / grant to Fund				grant / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[9]/paragraph[7]/text[1]/quote[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[9]/paragraph[7]/text[1]/term[1]
+The reason of change is: element tag name
+The value is expected to be: quote But actually it is: term
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[9]/paragraph[8]/text[1]/quote[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[9]/paragraph[8]/text[1]/term[1]
+The reason of change is: element tag name
+The value is expected to be: quote But actually it is: term
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[9]/paragraph[9]/text[1]/quote[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[9]/paragraph[9]/text[1]/term[1]
+The reason of change is: element tag name
+The value is expected to be: quote But actually it is: term
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[9]/paragraph[10]/subparagraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[9]/paragraph[10]/subparagraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) as a participating				jurisd... But actually it is: ) as a				participating jurisd...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.56
+The Detailes are shown as followings: 
+common words:  as for purposes of title II 
+insertion: 
+deletion: 
+change: a to a				participating / participating				jurisdiction to jurisdiction / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[9]/paragraph[12]/text[1]/quote[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[9]/paragraph[12]/text[1]/term[1]
+The reason of change is: element tag name
+The value is expected to be: quote But actually it is: term
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[9]/paragraph[13]/text[1]/quote[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[9]/paragraph[13]/text[1]/term[1]
+The reason of change is: element tag name
+The value is expected to be: quote But actually it is: term
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[9]/paragraph[13]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[9]/paragraph[13]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  has the meaning given				such... But actually it is:  has the meaning given such			...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words:  has the meaning in section 520 of the Housing Act of 1949 
+insertion: 
+deletion: 
+change: given				such to given / term to such				term / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[9]/paragraph[17]/text[1]/quote[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subtitle[1]/section[9]/paragraph[17]/text[1]/term[1]
+The reason of change is: element tag name
+The value is expected to be: quote But actually it is: term
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  ( But actually it is:  (42			 U.S.C. 12701 note) is ...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"42 U.S.C. 12701"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be:  note) is amended by striking  But actually it is:  and inserting 
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: This			 title But actually it is: Subtitles A through F of this	...
+The Jaccard Index is: 0.23
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: This			 title 
+insertion: A through F of this			 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[4]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[4]
+The reason of change is: content change
+The value is expected to be:  and inserting  But actually it is: .
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subtitles A through F of this ... But actually it is: This			 title
+The Jaccard Index is: 0.23
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: this title 
+insertion: 
+deletion: Subtitles A through F of 
+change: 
+
+We are at location: bill[1]/endorsement[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: endorsement But actually it is: null
+ Deleted paragraph content is: {"
+	"}
+

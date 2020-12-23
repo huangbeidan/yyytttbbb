@@ -1,0 +1,659 @@
+===================================================
+
+total difference is: 72
+comparing document: BILLS-111hr1796eh.xml
+to document: BILLS-111hr1796rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IB But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED		 ...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED		  STATES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend the Consumer Product ... But actually it is: To amend the Consumer Product ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: To amend the Consumer Product Safety Act /require residential carbon monoxide detectors to meet the applicable /standard by treating that standard as a consumer product safety rule /encourage States to require the installation of such detectors in homes /for other purposes 
+insertion: to		 ANSIUL		 to		 and		 
+deletion: 
+change: to to  / ANSIUL to  / to to  / and to  / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			July 29, 2010
+			Received
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			August 5, 2010
+			Read twice and referred to the
+			 Committee on Commerce, Science, and
+			 Transportation
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Carbon Monoxide Poisoning Prev... But actually it is: Carbon Monoxide Poisoning Prev...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Carbon Monoxide Poisoning 
+insertion: 
+deletion: 
+change: Prevention Act to Prevention			 Act 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Carbon monoxide is a colorless... But actually it is: Carbon monoxide is			 a colorl...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Carbon monoxide a colorless odorless gas produced by burning any fuel Exposure to levels of carbon monoxide can lead to carbon monoxide poisoning a health condition that could result in death 
+insertion: 
+deletion: 
+change: is to is			 / unhealthy to unhealthy			 / serious to serious			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Unintentional carbon monoxide ... But actually it is: Unintentional			 carbon monoxi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: Unintentional carbon monoxide poisoning from motor vehicles and the abnormal operation fuelburning appliances such as furnaces water heaters portable and stoves in residential homes and other dwelling units kills more than people each year and sends more than 20000 to hospital emergency rooms 
+insertion: 
+deletion: 
+change: of to of			 / generators to generators			 / 400 to 400			 / for treatment to for			 treatment 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Research shows that purchasing... But actually it is: Research shows			 that purchas...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: Research that purchasing and installing carbon monoxide alarms close to the areas in residential homes and other dwelling units can help 
+insertion: 
+deletion: 
+change: shows to shows			 / sleeping to sleeping			 / avoid fatalities to avoid			 fatalities 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Congress should promote the pu... But actually it is: Congress should promote the pu...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: Congress should promote the purchase installation of carbon monoxide alarms in residential homes and dwelling nationwide in order to promote the health and public safety of throughout the Nation 
+insertion: 
+deletion: 
+change: and to and			 / units to units			 / citizens to citizens			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For purposes of this Act, the ... But actually it is: For purposes of this Act, the ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: For purposes of this Act the definitions apply 
+insertion: 
+deletion: 
+change: following to following			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: approved carbon monoxide alarm But actually it is: approved carbon monoxide			 al...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: approved carbon 
+insertion: 
+deletion: 
+change: monoxide alarm to monoxide			 alarm 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means a carbon monoxide alarm... But actually it is:  means a carbon monoxide alarm...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words:  means a carbon monoxide alarm that complies with the published incorporated or amended by the Commission with respect to alarms pursuant to this Act 
+insertion: 
+deletion: 
+change: standards to standards			 / such to such			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means a device that detects c... But actually it is: 			 means a device that detect...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words:  means a device that detects carbon monoxide and sounds a distinctive alert before concentrations of carbon monoxide reach levels that would symptoms of carbon monoxide poisoning 
+insertion: 
+deletion: 
+change: audible to audible			 / cause to cause			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[4]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means a room or suite of room... But actually it is:  means a room or suite of room...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words:  means a room or suite of rooms used for habitation and includes a single family residence as well as each living of a multiple family residence including apartment buildings and each unit in a mixed use building 
+insertion: 
+deletion: 
+change: human to human			 / unit to unit			 / living to living			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[5]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[5]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means officials of the fire s... But actually it is:  means officials of the fire s...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words:  means officials of the fire code enforcement agency of a State or local government 
+insertion: 
+deletion: 
+change: safety to safety			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[6]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[6]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means the Standard for the In... But actually it is:  means the Standard for the In...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words:  means the Standard for the Installation of Monoxide Warning Equipment in Dwelling Units issued by the National Protection Association in 2008 and any amended or similar successor pertaining to the proper installation of carbon monoxide alarms in 
+insertion: 
+deletion: 
+change: Carbon to Carbon			 / Fire to Fire			 / standard to standard			 / dwelling units to dwelling			 units 
+
+We are at location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Adoption of consumer product s... But actually it is: Adoption of			 consumer produc...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Adoption consumer product safety rules 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Mandatory standards But actually it is: Mandatory			 standards
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Mandatory standards 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notwithstanding any other prov... But actually it is: Notwithstanding any			 other p...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Notwithstanding other provision of law not later than 90 days after the date of enactment this Act the Commission shall publish in the Federal Register as consumer product safety standards the American National Standard for Single Multiple Station Carbon Monoxide Alarms ANSIUL 2034 and the National Standard for Gas and Vapor Detectors and Sensors ANSIUL 2075 mandatory consumer product safety standards shall take effect 180 days they are published 
+insertion: 
+deletion: 
+change: any to any			 / of to of			 / mandatory to mandatory			 / and to and			 / American to American			 / Such to Such			 / after to after			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Revision of standards But actually it is: Revision of			 standards
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of standards to of			 standards 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Beginning 1 year after the dat... But actually it is: Beginning 1 year			 after the ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Beginning 1 after the date of enactment of this Act if either standard described subsection a is revised through the applicable consensus development process Underwriters Laboratories shall notify the Commission the revision and the revision shall be incorporated in the consumer safety rule unless within 60 days of such notice the Commission that such revision does not carry out the purposes of this Act and the basis for such a determination in the Federal Register 
+insertion: 
+deletion: 
+change: year to year			 / in to in			 / standards to standards			 / of to of			 / product to product			 / determines to determines			 / publishes to publishes			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notwithstanding any other prov... But actually it is: Notwithstanding any other prov...
+The Jaccard Index is: 0.59
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: Notwithstanding any other provision of Act the Commission may at any time subsequent to publication of the product safety standards required by subsection a initiate a rulemaking accordance with 
+insertion: 
+deletion: 
+change: this to this			 / consumer to consumer			 / in to in			 / section 553 of title 5 United States Code to amend either standard to include any provision that the Commission determines is reasonably necessary to ensure the safe and effective operation of carbon monoxide alarms to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"section 553"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 5, United States
+			 Code, to amend either standard to include any provision that the Commission
+			 determines is reasonably necessary to ensure the safe and effective operation
+			 of carbon monoxide alarms."}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Treatment of standards for pur... But actually it is: Treatment of			 standards for ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Treatment standards for purposes of enforcement 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For purposes of enforcement un... But actually it is: For purposes of enforcement un...
+The Jaccard Index is: 0.92
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: For purposes of enforcement under Consumer Product Safety Act the standards published by the Commission to subsection a including any revision to such standards pursuant subsection b or c shall be consumer product safety rules as defined section 3a6 of such Act 
+insertion: 
+deletion: 
+change: the to the			 / pursuant to pursuant			 / to to to			 / in to in			 / 15 USC 2052a6 to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[4]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"15 U.S.C. 2052(a)(6)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[4]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {).}
+
+We are at location: bill[1]/legis-body[1]/section[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Report to Congress But actually it is: Report to			 Congress
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: to Congress to to			 Congress 
+
+We are at location: bill[1]/legis-body[1]/section[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 1 year after th... But actually it is: Not later than 1 year			 after...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: Not later than 1 after the date of enactment of this Act the Commission shall complete a to evaluate whether requiring a language or languages in addition to would improve the effectiveness of the label required of manufacturers portable generators by the Commission under part 1407 of title 16 Code Federal Regulations to warn consumers of carbon monoxide hazards 
+insertion: 
+deletion: 
+change: year to year			 / study to study			 / English to English			 / of to of			 / of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Grant program for carbon monox... But actually it is: Grant program for			 carbon mo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Grant program carbon monoxide poisoning prevention 
+insertion: 
+deletion: 
+change: for to for			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In			 general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subject to the availability of... But actually it is: Subject to the availability of...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: Subject to the availability of appropriations by subsection f the Commission shall establish a grant program to assistance to eligible States and local governments to carry out the monoxide poisoning prevention activities in subsection d 
+insertion: 
+deletion: 
+change: authorized to authorized			 / provide to provide			 / carbon to carbon			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To be eligible for a grant und... But actually it is: To			 be eligible for a grant ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: To be eligible for a grant under the program a State or local 
+insertion: 
+deletion: 
+change: government shall to government			 shall 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: demonstrate to the satisfactio... But actually it is: demonstrate to the			 satisfac...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: demonstrate to satisfaction of the Commission that a State or local government has adopted statute or a State or local government agency has adopted a rule or similar measure with the force and effect of law requiring approved monoxide alarms to be installed in accordance with NFPA 720 in dwelling 
+insertion: 
+deletion: 
+change: the to the			 / a to a			 / regulation to regulation			 / carbon to carbon			 / units and to units			 and 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: submit an application to the C... But actually it is: submit an			 application to th...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: submit application to the Commission at such time in such form and containing additional information as the Commission may require which application may filed on behalf of any qualified State or local government by the fire enforcement officials for such State or local government 
+insertion: 
+deletion: 
+change: an to an			 / such to such			 / be to be			 / code to code			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Grant amount; priority But actually it is: Grant amount;			 priority
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: amount priority to amount			 priority 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Commission shall determine... But actually it is: The Commission shall determine...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: The Commission shall determine the amount of the awarded under this section and shall give priority to applications from or local governments that 
+insertion: 
+deletion: 
+change: grants to grants			 / States to States			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: require approved carbon monoxi... But actually it is: require approved carbon monoxi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: require approved carbon monoxide alarms be installed in each existing dwelling unit 
+insertion: 
+deletion: 
+change: to to to			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: within which a fuel-burning ap... But actually it is: within which a			 fuel-burning...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: within which fuelburning appliance is installed including a furnace boiler water fireplace or any other apparatus appliance or device that burns 
+insertion: 
+deletion: 
+change: a to a			 / heater to heater			 / fuel or to fuel			 or 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: which has an attached garage; But actually it is: which has an			 attached garag...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: which has attached garage 
+insertion: 
+deletion: 
+change: an to an			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: propose to serve vulnerable po... But actually it is: propose to serve			 vulnerable...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: propose to vulnerable populations such as children the elderly or lowincome 
+insertion: 
+deletion: 
+change: serve to serve			 / households and to households			 and 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: demonstrate greater than avera... But actually it is: demonstrate			 greater than av...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: demonstrate greater than average losses of life from carbon monoxide poisoning in 
+insertion: 
+deletion: 
+change: the home to the			 home 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Use of funds But actually it is: Use of			 funds
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of funds to of			 funds 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A State receiving a grant unde... But actually it is: A State receiving a grant unde...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: A State receiving a grant under this section may use 
+insertion: 
+deletion: 
+change: grant funds to grant			 funds 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[4]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[4]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to purchase and install approv... But actually it is: to purchase and			 install app...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: to purchase install approved carbon monoxide alarms in the dwelling units of families or elderly persons facilities that commonly serve children or elderly including childcare facilities public schools and senior centers student dwelling units owned by public universities 
+insertion: 
+deletion: 
+change: and to and			 / lowincome to lowincome			 / the to the			 / or to or			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[4]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[4]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to train State or local fire c... But actually it is: to train State or			 local fir...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: to train State local fire code enforcement officials in the proper enforcement of State local laws concerning approved carbon monoxide alarms and the installation such alarms in accordance with NFPA 720 
+insertion: 
+deletion: 
+change: or to or			 / or to or			 / of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[4]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[4]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: for the development and dissem... But actually it is: for the			 development and dis...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: for development and dissemination of training materials instructors and any costs related to the training sessions authorized by this 
+insertion: 
+deletion: 
+change: the to the			 / other to other			 / subsection and to subsection			 and 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[4]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[4]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to educate the public about th... But actually it is: to educate the			 public about...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: to educate public about the risk associated with carbon monoxide as a poison and importance of proper carbon monoxide alarm use 
+insertion: 
+deletion: 
+change: the to the			 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Limitation on use of funds But actually it is: Limitation on			 use of funds
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Limitation use of funds 
+insertion: 
+deletion: 
+change: on to on			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[5]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[5]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Administrative costs But actually it is: Administrative			 costs
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Administrative costs 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[5]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[5]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: No more than 10 percent of any... But actually it is: No more than 10 percent of any...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: No more than 10 percent of any grant funds may be used cover administrative costs not directly related to training described paragraph 2 of subsection d 
+insertion: 
+deletion: 
+change: to to to			 / in to in			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[5]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[5]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Public outreach But actually it is: Public			 outreach
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Public outreach 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[5]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[5]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: No more than 25 percent of any... But actually it is: No more than 25 percent of any...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.91
+The Detailes are shown as followings: 
+common words: No more than 25 percent of any grant may be used cover costs of activities described in paragraph 4 of subsection d 
+insertion: 
+deletion: 
+change: to to to			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[6]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authorization of appropriation... But actually it is: Authorization of			 appropriat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of appropriations to of			 appropriations 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: There are authorized to be app... But actually it is: There are authorized to be app...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: There are authorized to be appropriated to Commission 2000000 for each of fiscal years 2011 through 2015 to carry this Act such sums to remain available until expended Any appropriated pursuant to this paragraph that remain unexpended and at the end of fiscal year 2015 shall be retained by the Commission and to the appropriations account that funds enforcement of the Consumer Safety Act 
+insertion: 
+deletion: 
+change: the to the			 / out to out			 / amounts to amounts			 / unobligated to unobligated			 / credited to credited			 / Product to Product			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[7]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[7]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Commission report But actually it is: Commission			 report
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Commission report 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 1 year after th... But actually it is: Not later than 1 year after th...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: Not later than 1 year after the last day of each year for which grants are made under this section the Commission shall to Congress a report evaluating the implementation of the grant authorized by this section 
+insertion: 
+deletion: 
+change: fiscal to fiscal			 / submit to submit			 / program to program			 / 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Passed the House of Representa... But actually it is: Passed the House of			 Represe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Passed the House Representatives July 28 2010 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clerk. But actually it is: Clerk
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/endorsement[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: endorsement But actually it is: null
+ Deleted paragraph content is: {""}
+

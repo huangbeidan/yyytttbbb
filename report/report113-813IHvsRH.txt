@@ -1,0 +1,1035 @@
+===================================================
+
+total difference is: 82
+comparing document: BILLS-113hr813ih.xml
+to document: BILLS-113hr813rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 113 HR 813 IH: Putting Veteran... But actually it is: 111 HR 813 RH: Putting Veteran...
+The Jaccard Index is: 0.81
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: 113 HR 813 Putting Veterans Funding First Act of 2013 
+insertion: 
+deletion: 
+change: IH to RH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2013-02-25 But actually it is: 2013-09-17
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/text()[2]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: )			 introduced the following ... But actually it is: ) introduced the following bil...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: 			 introduced the following bill which was referred to 
+insertion: 
+deletion: 
+change: the			 to the 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Committee on Veterans’			 Affa... But actually it is: Committee on Veterans’ Affairs
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Committee on 
+insertion: 
+deletion: 
+change: Veterans’			 Affairs to Veterans’ Affairs 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend title 38, United Stat... But actually it is: To amend title 38, United Stat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: To amend title 38 United States Code to provide /advance appropriations for certain discretionary accounts of the Department 
+insertion: 
+deletion: provide 
+change:  to for / of		  Veterans Affairs to of Veterans Affairs 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 156"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 113–212]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+  September 17, 2013
+  Additional sponsors: Mrs. Roby, Ms. Brownley of California, Mr. Gene Green of Texas, Mr. Lamborn, Mr. O`Rourke, Mr. Lynch, Mrs. Kirkpatrick, Mr. Carson of Indiana, Mr. Connolly, Mr. Holt, Ms. Michelle Lujan Grisham of New Mexico, Mr. Johnson of Ohio, Mr. Jones, Mr. Loebsack, Mr. Amodei, Mr. Wittman, Ms. Sinema, Mr. Stivers, Ms. Schakowsky, Mr. Veasey, and Mr. Latham
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+  September 17, 2013
+  Reported with amendments, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed
+  Strike out all after the enacting clause and insert the part printed in italic
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+  
+    
+  
+"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"Putting Veterans Funding First Act of 2013"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Advance			 appropriations for ... But actually it is: Advance appropriations for cer...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Advance			 appropriations for certain discretionary accounts of the Department of 
+insertion: 
+deletion: 
+change: Veterans			 Affairs to Veterans Affairs 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In			 general But actually it is: In general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In			 general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 117 of title			 38, Un... But actually it is:  of title 38, United States Co...
+The Jaccard Index is: 0.8
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: 117 of 38 United States Code is amended 
+insertion: 
+deletion: Section 
+change: title			 to title / 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"Section 117"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  each place it appears			 and ... But actually it is:  each place it appears and ins...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words:  each place it and inserting 
+insertion: 
+deletion: 
+change: appears			 to appears / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subsection			 (c)— But actually it is: in subsection (c)—
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: subsection			 c to subsection c 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: medical care accounts of the V... But actually it is: medical care accounts of the V...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: medical care accounts of the Veterans Health Administration of Veterans Affairs account 
+insertion: 
+deletion: 
+change: Department			 to Department / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[1]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[1]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: accounts of the			 Department ... But actually it is: accounts of the Department of ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: accounts of Department of Veterans Affairs account 
+insertion: 
+deletion: 
+change: the			 to the / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in paragraph (1),			 by insert... But actually it is: in paragraph (1), by inserting...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: in paragraph by inserting 
+insertion: 
+deletion: 
+change: 1			 to 1 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in paragraph (2),			 by insert... But actually it is: in paragraph (2), by inserting...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: in paragraph by inserting 
+insertion: 
+deletion: 
+change: 2			 to 2 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in paragraph (3),			 by insert... But actually it is: in paragraph (3), by inserting...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: in paragraph by inserting 
+insertion: 
+deletion: 
+change: 3			 to 3 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by adding at the			 end the fo... But actually it is: by adding at the end the follo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: by adding at end the following new paragraphs 
+insertion: 
+deletion: 
+change: the			 to the / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/quoted-block[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/quoted-block[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Veterans Health Administration... But actually it is: Veterans Health Administration...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Veterans Health Administration 
+insertion: 
+deletion: 
+change: Medical				Research and Support to Medical Research and Support 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/quoted-block[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/quoted-block[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: National Cemetery				Administr... But actually it is: National Cemetery Administrati...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: Cemetery				Administration to Cemetery Administration 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/quoted-block[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/quoted-block[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Veterans Benefits				Administr... But actually it is: Veterans Benefits Administrati...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: Veterans Benefits				Administration Native American Veteran Housing Loan Program Account 
+insertion: Benefits 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/quoted-block[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/quoted-block[1]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Departmental				Administration... But actually it is: Departmental Administration, G...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Departmental				Administration General Administration General Operating Expenses 
+insertion: Administration 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/quoted-block[1]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/quoted-block[1]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Departmental				Administration... But actually it is: Departmental Administration, G...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Departmental				Administration General Operating Expenses Veterans 
+insertion: Administration 
+deletion: 
+change: Benefits				Administration to Benefits Administration 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/quoted-block[1]/paragraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/quoted-block[1]/paragraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Departmental				Administration... But actually it is: Departmental Administration, I...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Departmental				Administration Information Technology Systems 
+insertion: Administration 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/quoted-block[1]/paragraph[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/quoted-block[1]/paragraph[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Departmental				Administration... But actually it is: Departmental Administration, O...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Departmental				Administration Office of the Inspector General 
+insertion: Administration 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/quoted-block[1]/paragraph[8]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/quoted-block[1]/paragraph[8]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Departmental				Administration... But actually it is: Departmental Administration, C...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Departmental				Administration Construction Major Projects 
+insertion: Administration 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/quoted-block[1]/paragraph[9]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/quoted-block[1]/paragraph[9]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Departmental				Administration... But actually it is: Departmental Administration, C...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Departmental				Administration Construction Minor Projects 
+insertion: Administration 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/quoted-block[1]/paragraph[10]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/quoted-block[1]/paragraph[10]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Departmental				Administration... But actually it is: Departmental Administration, G...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Departmental				Administration Grants for Construction of State Extended 
+insertion: Administration 
+deletion: 
+change: Care				Facilities to Care Facilities 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/quoted-block[1]/paragraph[11]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/quoted-block[1]/paragraph[11]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Departmental				Administration... But actually it is: Departmental Administration, G...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Departmental				Administration Grants for Construction of 
+insertion: Administration 
+deletion: 
+change: Veterans				Cemeteries to Veterans Cemeteries 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/quoted-block[1]/after-quoted-block[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[5]/quoted-block[1]/after-quoted-block[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ;				and But actually it is: ; and
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: and 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in the subsection			 heading, ... But actually it is: in the subsection heading, by ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: in the heading by striking 
+insertion: 
+deletion: 
+change: subsection			 to subsection / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[6]/text[1]/quote[2]/header-in-text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/subparagraph[6]/text[1]/quote[2]/header-in-text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Discretionary			 accounts But actually it is: Discretionary accounts
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Discretionary			 accounts 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in the section			 heading, by ... But actually it is: in the section heading, by str...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: in the heading by striking 
+insertion: 
+deletion: 
+change: section			 to section / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/text[1]/quote[1]/header-in-text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/text[1]/quote[1]/header-in-text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: certain			 medical care accoun... But actually it is: certain medical care accounts
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: certain			 medical care accounts 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/text[1]/quote[2]/header-in-text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/text[1]/quote[2]/header-in-text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: certain discretionary			 accou... But actually it is: certain discretionary accounts
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: discretionary			 accounts to discretionary accounts 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effective			 date But actually it is: Effective date
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Effective			 date 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The amendments made by subsect... But actually it is: The amendments made by subsect...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: The amendments made by subsection a shall apply respect to fiscal year 2016 and each subsequent fiscal year 
+insertion: 
+deletion: 
+change: with			 to with / 
+
+We are at location: null   Compared with location: bill[1]/legis-body[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: legis-body
+ Inserted paragraph content is: {"
+  
+    1.
+    Short title
+    This Act may be cited as the Putting Veterans Funding First Act of 2013.
+  
+  
+    2.
+    Scoring of budgetary effects
+    The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled Budgetary Effects of PAYGO Legislation for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
+  
+  
+    3.
+    Advance appropriations for certain discretionary accounts of the Department of Veterans Affairs
+    
+      (a)
+      In general
+      Section 117 of title 38, United States Code, is amended—
+      
+        (1)
+        by striking medical care accounts of the Department each place it appears and inserting discretionary accounts of the Department;
+      
+      
+        (2)
+        in subsection (c)—
+        
+          (A)
+          by striking medical care accounts of the Veterans Health Administration, Department of Veterans Affairs account and inserting accounts of the Department of Veterans Affairs account;
+        
+        
+          (B)
+          in paragraph (1), by inserting Veterans Health Administration, after (1);
+        
+        
+          (C)
+          in paragraph (2), by inserting Veterans Health Administration, after (2);
+        
+        
+          (D)
+          in paragraph (3), by inserting Veterans Health Administration, after (3);
+        
+        
+          (E)
+          by adding at the end the following new paragraphs:
+          
+            
+              (4)
+              Veterans Health Administration, Medical and Prosthetic Research.
+            
+            
+              (5)
+              National Cemetery Administration.
+            
+            
+              (6)
+              Veterans Benefits Administration, Native American Veteran Housing Loan Program Account.
+            
+            
+              (7)
+              Departmental Administration, General Administration, General Operating Expenses.
+            
+            
+              (8)
+              Departmental Administration, General Operating Expenses, Veterans Benefits Administration.
+            
+            
+              (9)
+              Departmental Administration, Information Technology Systems.
+            
+            
+              (10)
+              Departmental Administration, Office of the Inspector General.
+            
+            
+              (11)
+              Departmental Administration, Construction, Major Projects.
+            
+            
+              (12)
+              Departmental Administration, Construction, Minor Projects.
+            
+            
+              (13)
+              Departmental Administration, Grants for Construction of State Extended Care Facilities.
+            
+            
+              (14)
+              Departmental Administration, Grants for Construction of Veterans Cemeteries.
+            
+            ; and
+          
+        
+        
+          (F)
+          in the subsection heading, by striking Medical care accounts and inserting Discretionary accounts; and
+        
+      
+      
+        (3)
+        in the section heading, by striking certain medical care accounts and inserting certain discretionary accounts.
+      
+    
+    
+      (b)
+      Clerical Amendment
+      The table of sections at the beginning of chapter 1 of title 38, United States Code, is amended by striking the item relating to section 117 and inserting the following new item:
+      
+        
+          117. Advance appropriations for certain discretionary accounts.
+        
+        .
+      
+    
+    
+      (c)
+      Effective date
+      The amendments made by subsection (a) shall apply with respect to fiscal year 2016 and each subsequent fiscal year.
+    
+  
+  
+    4.
+    Comptroller General review of Department of Veterans Affairs medical care budget submission
+    Section 4 of the Veterans Health Care Budget Reform and Transparency Act of 2009 (Public Law 111–81; 38 U.S.C. 117 note) is amended to read as follows:
+    
+      
+        4.
+        Comptroller General review of Department of Veterans Affairs medical care budget submission
+        
+          (a)
+          Review of budget submission; reports
+          For each of fiscal years 2015, 2016, and 2017, the Comptroller General of the United States shall—
+          
+            (1)
+            review the budget requests for the medical care accounts of the Department of Veterans Affairs in the President’s budget request submitted pursuant to section 1105 of title 31, United States Code; and
+          
+          
+            (2)
+            submit to the Committees on Veterans’ Affairs, Appropriations, and the Budget of the Senate and House of Representatives a report or reports on the results of each such review.
+          
+        
+        
+          (b)
+          Timing and scope of reports
+          In determining the timing and scope for the submittal of the report or reports required under subsection (a), the Comptroller General shall consult with the Committees on Veterans’ Affairs of the Senate and House of Representatives.
+        
+        
+          (c)
+          Medical care accounts
+          In this section, the term medical care accounts of the Department of Veterans Affairs means the following medical care accounts of the Veterans Health Administration, Department of Veterans Affairs account:
+          
+            (1)
+            Medical Services.
+          
+          
+            (2)
+            Medical Support and Compliance.
+          
+          
+            (3)
+            Medical Facilities.
+          
+        
+      
+      .
+    
+  
+  
+    5.
+    Department of Veterans Affairs budget planning reform
+    
+      (a)
+      Future-Years Veterans Program
+      
+        (1)
+        In general
+        Chapter 1 of title 38, United States Code, is amended by adding at the end the following new section:
+        
+          
+            119.
+            Future-Years Veterans Program
+            
+              (a)
+              Submission to Congress
+              The Secretary shall submit to Congress each year, at or about the time that the President’s budget is submitted to Congress pursuant to section 1105(a) of title 31, a Future-Years Veterans Program reflecting the estimated expenditures and proposed appropriations included in that budget. Any such Future-Years Veterans Program shall cover the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years.
+            
+            
+              (b)
+              Consistency
+              
+                (1)
+                The Secretary shall ensure that amounts described in subparagraph (A) of paragraph (2) for any fiscal year are consistent with amounts described in subparagraph (B) of such paragraph for that fiscal year.
+              
+              
+                (2)
+                Amounts referred to in paragraph (1) are the following:
+                
+                  (A)
+                  The amounts specified in program and budget information submitted to Congress by the Secretary in support of expenditure estimates and proposed appropriations in the budget submitted to Congress by the President under section 1105(a) of title 31 for any fiscal year, as shown in the Future-Years Veterans Program submitted pursuant to subsection (a).
+                
+                
+                  (B)
+                  The total amounts of estimated expenditures and proposed appropriations necessary to support the programs, projects, and activities of the Department of Veterans Affairs included pursuant to paragraph (5) of section 1105(a) of title 31 in the budget submitted to Congress under that section for any fiscal year.
+                
+              
+            
+            
+              (c)
+              Contents
+              The Future-Years Veterans Program under subsection (a) shall set forth the five-year plan of the Department to address the commitment of the United States to veterans and the resources necessary to meet that commitment and shall be developed and updated, as appropriate, annually by the Secretary. Each Future-Years Veterans Program shall include an explanation of—
+              
+                (1)
+                the information that was used to develop program planning guidance for the Future-Years Veterans Program; and
+              
+              
+                (2)
+                how the resource allocations included in the Future-Years Veterans Program correlate to such five-year strategy.
+              
+            
+          
+          .
+        
+      
+      
+        (2)
+        Clerical amendment
+        The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 118 the following new item:
+        
+          
+            119. Future-Years Veterans Program.
+          
+          .
+        
+      
+      
+        (3)
+        Effective Date
+        Section 119 of title 38, United States Code, as added by paragraph (1), shall apply with respect to the preparation and submission of the fiscal year 2018 budget request for the Department of Veterans Affairs.
+      
+    
+    
+      (b)
+      Quadrennial Veterans Review
+      
+        (1)
+        In general
+        Such chapter is further amended by adding after section 119, as added by subsection (a)(1), the following new section:
+        
+          
+            120.
+            Quadrennial veterans review
+            
+              (a)
+              Requirement
+              
+                (1)
+                Not later than fiscal year 2017, and every fourth year thereafter, the Secretary shall conduct a review of the strategy for meeting the commitment of the United States to veterans and the resources necessary to meet that commitment (in this section referred to as a quadrennial veterans review).
+              
+              
+                (2)
+                Each quadrennial veterans review shall include a comprehensive examination of the policies and strategies of the United States with respect to veterans, including recommendations regarding the long-term strategy and priorities for programs, services, benefits, and outcomes regarding veterans and guidance on the programs, assets, capabilities, budget, policies, and authorities of the Department.
+              
+              
+                (3)
+                The Secretary shall conduct each quadrennial veterans review in consultation with key officials of the Department, the heads of other Federal agencies, and other relevant governmental and nongovernmental entities, including State, local, and tribal government officials, members of Congress, veterans service organizations, private sector representatives, academics, and other policy experts.
+              
+              
+                (4)
+                The Secretary shall ensure that each quadrennial veterans review is coordinated with the Future-Years Veterans Program required under section 119 of this title.
+              
+            
+            
+              (b)
+              Contents of review
+              In each quadrennial veterans review, the Secretary shall—
+              
+                (1)
+                delineate a veterans strategy consistent with the commitment of the United States to veterans and refine a strategy for the types of, and provision of, programs, services, benefits, and outcomes consistent with current authorities and requirements;
+              
+              
+                (2)
+                outline and prioritize the full range of programs and capabilities regarding veterans provided by the Federal Government;
+              
+              
+                (3)
+                identify the budget plan required to provide sufficient resources to successfully execute the full range of such programs and capabilities;
+              
+              
+                (4)
+                include an assessment of the organizational alignment of the Department with respect to the strategy referred to in paragraph (1) and the programs and capabilities referred to in paragraph (2);
+              
+              
+                (5)
+                review and assess the effectiveness of the mechanisms of the Department for executing the process of turning the requirements identified in the quadrennial veterans review into a plan to meet such requirements, including an expenditure plan for the Department; and
+              
+              
+                (6)
+                identify emerging trends, problems, opportunities, and issues that could affect veterans or the Department during the ten-year period following the period covered by the review.
+              
+            
+            
+              (c)
+              Submission to Congress
+              
+                (1)
+                The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report regarding each quadrennial veterans review. The Secretary shall submit the report in the year following the year in which the review is conducted, but not later than the date on which the President submits the budget for the next fiscal year to Congress under section 1105 of title 31, United States Code.
+              
+              
+                (2)
+                Each report submitted under paragraph (1) shall include—
+                
+                  (A)
+                  the results of the quadrennial veterans review;
+                
+                
+                  (B)
+                  a description of the challenges to, and opportunities for, the assumed or defined veterans-related interests of the Nation that were examined for the purposes of that review;
+                
+                
+                  (C)
+                  the strategy for meeting the Nation’s commitment to veterans, including a prioritized list of the missions of the Department;
+                
+                
+                  (D)
+                  a description of the interagency cooperation, preparedness of Federal assets, infrastructure, budget plan, and other elements of the programs and policies of the Nation associated with the strategy referred to in subsection (b)(1) that are required to execute successfully the full range of programs and capabilities identified in such strategy and the programs and capabilities outlined under subsection (b)(2);
+                
+                
+                  (E)
+                  an assessment of the organizational alignment of the Department with the strategy referred to in subsection (b)(1) and the programs and capabilities outlined under subsection (b)(2), including the Department`s organizational structure, management systems, budget and accounting systems, human resources systems, procurement systems, and physical and technical infrastructure;
+                
+                
+                  (F)
+                  a discussion of the status of cooperation among Federal agencies in the effort to promote national support for veterans;
+                
+                
+                  (G)
+                  a discussion of the status of cooperation between the Federal Government and State, local, and tribal governments in supporting veterans and providing programs, services, benefits, and outcomes to assist veterans;
+                
+                
+                  (H)
+                  an explanation of any underlying assumptions used in conducting the review; and
+                
+                
+                  (I)
+                  any other matter the Secretary considers appropriate.
+                
+              
+            
+          
+          .
+        
+      
+      
+        (2)
+        Clerical amendment
+        The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 119, as added by subsection (a)(2), the following new item:
+        
+          
+            120. Quadrennial veterans review.
+          
+          .
+        
+      
+    
+    
+      (c)
+      Policy Guidance
+      
+        (1)
+        In general
+        Such chapter is further amended by adding after section 120, as added by subsection (b)(1), the following new section:
+        
+          
+            121.
+            Policy guidance
+            The Secretary shall provide annually to the appropriate officials of the Department written policy guidance for the preparation and review of the planning and program recommendations and budget proposals of the elements of the Department of such officials. Such guidance shall include guidance on the objectives of the Department in accordance with Future-Years Veterans Program under section 119 of this title and the quadrennial veterans review under section 120 and the resource levels projected to be available for the period of time for which such recommendations and proposals are to be effective.
+          
+          .
+        
+      
+      
+        (2)
+        Clerical amendment
+        The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 120, as added by subsection (b)(2), the following new item:
+        
+          
+            121. Policy guidance.
+          
+          .
+        
+      
+    
+    
+      (d)
+      Chief strategy officer of the Department of Veterans Affairs
+      
+        (1)
+        In general
+        Chapter 3 of title 38, United States Code, is amended by adding at the end the following new section:
+        
+          
+            323.
+            Chief Strategy Officer
+            
+              (a)
+              In general
+              The Secretary shall designate the Assistant Secretary whose functions include planning, studies, and evaluations as the Chief Strategy Officer of the Department. The Chief Strategy Officer shall advise the Secretary on long-range strategy and implications.
+            
+            
+              (b)
+              Responsibilities
+              The Chief Strategy Officer is the principal advisor to the Secretary and other senior officials of the Department, and shall provide independent analysis and advice to the Secretary and such officials. The Chief Strategy Officer shall carry out the following responsibilities:
+              
+                (1)
+                Conducting cost estimation and cost analysis for the programs of the Department.
+              
+              
+                (2)
+                Establishing policies for, and overseeing the integration of, the planning, programming, budgeting and execution process for the Department.
+              
+              
+                (3)
+                Providing analysis and advice on matters relating to the planning and programming phase of the planning, programming, budgeting and execution process, and the preparation of materials and guidance for such process, as directed by the Secretary, working in coordination with the Assistant Secretary for Management.
+              
+              
+                (4)
+                Developing and executing the Future-Years Veterans Program of the Department, as specified under section 119 of this title.
+              
+              
+                (5)
+                Developing resource discussions relating to requirements under consideration in the quadrennial veterans review under section 120 of this title.
+              
+              
+                (6)
+                Formulating study guidance for analysis of alternatives for programs and initiatives, including any necessary acquisitions, development, or procurement commensurate with such alternatives, and performance of such analysis as directed by the Secretary.
+              
+              
+                (7)
+                Reviewing, analyzing, and evaluating programs for executing approved strategies and policies, ensuring that information on programs and expected outcomes is presented accurately and completely.
+              
+              
+                (8)
+                Ensuring that the costs of programs and alternatives are presented accurately and completely by assisting in establishing standards, policies, and procedures for the conduct of cost estimation and cost analysis throughout the Department, including guidance relating to the proper selection of confidence levels in cost estimates generally and for specific programs of the Department.
+              
+              
+                (9)
+                Conducting studies at the request of the Secretary regarding costs, policy assumptions, and strategic implications of current policies and possible alternatives.
+              
+              
+                (10)
+                Communicating directly to the Secretary and the Deputy Secretary of Veterans Affairs about matters for which the Chief Strategy Officer is responsible without obtaining the approval or concurrence of any other official within the Department.
+              
+            
+          
+          .
+        
+      
+      
+        (2)
+        Clerical amendment
+        The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 322 the following new item:
+        
+          
+            323. Chief Strategy Officer.
+          
+          .
+        
+      
+    
+  
+  
+    6.
+    Study on the functions and organizational structure of the Office of the Secretary of Veterans Affairs and of the Department of Veterans Affairs
+    
+      (a)
+      Secretary of Veterans Affairs Study
+      The Secretary of Veterans Affairs shall conduct a study of the functions and organizational structure of the Office of the Secretary and of the Department of Veterans Affairs.
+    
+    
+      (b)
+      Contents of Study
+      In conducting the study under subsection (a), the Secretary shall consider whether the allocation of functions and the organizational structure of the Department, as of the date of the enactment of this Act, constitute the most effective, efficient, and economical allocation and structure to assist the Secretary in carrying out the duties and responsibilities of the Secretary. The Secretary shall also consider—
+      
+        (1)
+        whether the organization of the Office and the Department is—
+        
+          (A)
+          optimally structured to assist the Secretary in the effective exercise of control over the Department, including—
+          
+            (i)
+            policy development and strategic planning;
+          
+          
+            (ii)
+            programming, planning, and budget development and policy, program, and budget execution; and
+          
+          
+            (iii)
+            contingency planning; and
+          
+        
+        
+          (B)
+          the most effective and efficient organization for the initiation, development, and articulation of veterans’ policy and the provision of benefits and services;
+        
+      
+      
+        (2)
+        means of improving and strengthening the oversight and accountability within the Office and Department;
+      
+      
+        (3)
+        factors inhibiting efficient and effective execution of the functions of the Office and the Department, including factors relating to—
+        
+          (A)
+          any duplication of functions (both within and between the Office and Department);
+        
+        
+          (B)
+          the availability to the Secretary of sufficient and detailed information regarding the operation of the Department to enable effective planning, policy execution, and oversight; and
+        
+        
+          (C)
+          the sufficiency of resources, including personnel, to carry out current and projected requirements in a more effective and efficient manner; and
+        
+      
+      
+        (4)
+        possible alternative allocations and realignments of authorities and functions within the Office and Department to improve the Department’s overall operation and better provide benefits and services.
+      
+    
+    
+      (c)
+      Independent Contractor Study
+      The Secretary shall enter into a contract with an appropriate entity under which the entity shall carry out an independent study of the same matters required to be considered by the Secretary under subsection (b). The Secretary shall ensure that the entity has full access to such information as the contractor requires in order to conduct the study and that the contractor otherwise receives full cooperation from all officials and entities of the Department of Veterans Affairs.
+    
+    
+      (d)
+      Report to Congress
+      Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Secretary’s study under subsection (a). The report shall include—
+      
+        (1)
+        the findings and conclusions of the Secretary with respect to each of the matters set forth in subsection (b);
+      
+      
+        (2)
+        any recommendations of the Secretary for organizational changes in the Office of the Secretary and the overall Department and a description of the means for implementing each recommendation; and
+      
+      
+        (3)
+        a copy of the report of the independent contractor under subsection (c), together with such comments on such report as the Secretary considers appropriate.
+      
+    
+  
+  
+    7.
+    Performance awards in the Senior Executive Service
+    For each of fiscal years 2014 through 2018, the Secretary of Veterans Affairs may not pay any performance awards under section 5384 of title 5, United States Code.
+  
+"}
+
+We are at location: null   Compared with location: bill[1]/official-title-amendment[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: official-title-amendment
+ Inserted paragraph content is: {"Amend the title so as to read: A bill to amend title 38, United States Code, to provide for advance appropriations for certain discretionary accounts of the Department of Veterans Affairs, to direct the Secretary of Veterans Affairs to submit to Congress a Future-Years Veterans Program and a quadrennial veterans review, to establish in the Department of Veterans Affairs a Chief Strategy Officer, and for other purposes.."}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+  September 17, 2013
+  Reported with amendments, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed
+"}
+

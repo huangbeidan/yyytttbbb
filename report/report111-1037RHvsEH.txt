@@ -1,0 +1,87 @@
+===================================================
+
+total difference is: 43
+comparing document: BILLS-111hr1037rh.xml
+to document: BILLS-111hr1037eh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Reported-in-House But actually it is: Engrossed-in-House
+
+We are at location: bill[1]/form[1]/calendar[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: calendar But actually it is: null
+ Deleted paragraph content is: {"Union Calendar No. 80"}
+
+We are at location: bill[1]/form[1]/associated-doc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: associated-doc But actually it is: null
+ Deleted paragraph content is: {"[Report No. 111–162]"}
+
+We are at location: bill[1]/form[1]/action[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {" 
+February 12, 2009 
+Ms. Herseth Sandlin (for herself and Mr. Grijalva) introduced the following bill; which was referred to the Committee on Veterans’ Affairs 
+"}
+
+We are at location: bill[1]/form[1]/action[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+June 18, 2009
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed
+Strike out all after the enacting clause and insert the part printed in italic
+"}
+
+We are at location: bill[1]/form[1]/legis-type[1]/text()[1]   Compared with location: bill[1]/form[1]/legis-type[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A BILL But actually it is: AN ACT
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: There is authorized to be appr... But actually it is: There is authorized to be appr...
+The Jaccard Index is: 0.96
+And the Smith Waterman Score is: 0.93
+The Detailes are shown as followings: 
+common words: There is authorized to be appropriated to the Secretary 10000000 for each of fiscal years 2010 through to carry out the pilot project under this section 
+insertion: 
+deletion: 
+change: 2013 to 2014 / 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"
+  (e)
+  Source of funds
+  Notwithstanding any other provision of law, this section shall not be carried out with any funds provided for or under any authority of the Readjustment benefits program described by the list of Appropriated Entitlements and Mandatories for Fiscal Year 1997 contained in the Conference Report to accompany H.R. 2015 of the 105th Congress, the Balanced Budget Act of 1997 (H. Report 105–217). No funds shall be obligated for the purpose of carrying out this section except discretionary funds appropriated specifically for the purpose of carrying out this section in appropriation Acts enacted after the date of the enactment of this Act.
+"}
+
+We are at location: bill[1]/endorsement[1]/action-date[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-date But actually it is: null
+ Deleted paragraph content is: {"June 18, 2009"}
+
+We are at location: bill[1]/endorsement[1]/action-desc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-desc But actually it is: null
+ Deleted paragraph content is: {"Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: attestation
+ Inserted paragraph content is: {"
+  
+    Passed the House of Representatives July 14, 2009.
+    Lorraine C. Miller,
+    Clerk.
+  
+"}
+

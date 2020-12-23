@@ -1,0 +1,269 @@
+===================================================
+
+total difference is: 88
+comparing document: BILLS-110hr2192rh.xml
+to document: BILLS-110hr2192eh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Reported-in-House But actually it is: Engrossed-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 2192 RH: To amend title... But actually it is: 110 HR 2192 EH: To amend title...
+The Jaccard Index is: 0.95
+And the Smith Waterman Score is: 0.9
+The Detailes are shown as followings: 
+common words: 110 HR 2192 To amend title 38 United States Code to establish an Ombudsman within the Department of Veterans Affairs 
+insertion: 
+deletion: 
+change: RH to EH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2008-07-24 But actually it is: 0
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/calendar[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: calendar But actually it is: null
+ Deleted paragraph content is: {"Union Calendar No. 492"}
+
+We are at location: bill[1]/form[1]/associated-doc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: associated-doc But actually it is: null
+ Deleted paragraph content is: {"[Report No. 110–773]"}
+
+We are at location: bill[1]/form[1]/action[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {" 
+May 7, 2007 
+Mr. Hodes introduced the following bill; which was referred to the Committee on Veterans’ Affairs 
+"}
+
+We are at location: bill[1]/form[1]/action[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+July 24, 2008
+Additional sponsors: Ms. Moore of Wisconsin, Mr. Crowley, Mr. Jones of North Carolina, Mr. Matheson, Ms. Kaptur, Ms. DeGette, Ms. Schakowsky, Mr. Shuler, Mr. Doyle, Mr. Hastings of Florida, Mr. Abercrombie, Mr. Butterfield, Mr. Larson of Connecticut, Mr. Boswell, Mr. Andrews, Mr. Cohen, Mr. Yarmuth, Mr. Allen, Mr. Marshall, Mr. Gonzalez, Mr. Conaway, Mr. Scott of Virginia, Mr. Lynch, Mr. Moore of Kansas, Mrs. McCarthy of New York, Mrs. Gillibrand, Mr. Gilchrest, Mr. McDermott, Mr. Waxman, Mr. Braley of Iowa, Mr. Murphy of Connecticut, Mr. Cummings, Mr. Filner, Mr. Ellison, Mr. Bishop of New York, Ms. Woolsey, Ms. Hirono, Mr. McIntyre, Mr. Cuellar, Mr. Hinojosa, Mr. Carson, Mr. Michaud, Mr. Tim Murphy of Pennsylvania, and Mr. Buyer
+"}
+
+We are at location: bill[1]/form[1]/action[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+July 24, 2008
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed
+Strike out all after the enacting clause and insert the part printed in italic
+"}
+
+We are at location: bill[1]/form[1]/legis-type[1]/text()[1]   Compared with location: bill[1]/form[1]/legis-type[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A BILL But actually it is: AN ACT
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Establishment of Office of the... But actually it is: Establishment of Office of the...
+The Jaccard Index is: 0.56
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: Establishment of Office of the Ombudsman in 
+insertion: 
+deletion: 
+change: Department of Veterans Affairs to Veterans Health Administration 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Establishment But actually it is: Office of the Ombudsman
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/text[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/paragraph[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/text[1]/external-xref[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/paragraph[1]/enum[1]
+The reason of change is: element tag name
+The value is expected to be: external-xref But actually it is: enum
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/text[1]/external-xref[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Chapter 3 But actually it is: (1)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/paragraph[1]/header[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {Establishment}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/paragraph[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"Subchapter I of chapter 73 of title 38, United States Code, is amended by adding at the end the following new section:"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/paragraph[1]/quoted-block[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quoted-block
+ Inserted paragraph content is: {"
+7309.Office of the Ombudsman 
+(a)Office; DirectorsThere is established in the Veterans Health Administration an Office of the Ombudsman (in this section referred to as the Office). The Office shall be headed by a Director appointed by the Secretary. The Director shall report directly to the Secretary. 
+(b)Duties of officeThe Office shall— 
+(1)be responsible for ensuring— 
+(A)all matters referred to the Office are handled in a confidential manner; and 
+(B)any action taken by the Administration with respect to such a matter does not negatively affect the ability of any veteran to receive health care or benefits under a law administered by the Secretary; and 
+(2)serve as a last resort for complaints and issues that cannot be resolved at a local or regional level in the Administration. 
+(c)Duties of directorThe Director shall— 
+(1)be responsible for overseeing the efforts of patient advocates in the Administration; 
+(2)develop and make available to local offices of the Administration tools for monitoring the work of such patient advocates and standards to evaluate the work of such patient advocates; 
+(3)determine trends, in terms of numbers, topics, and facility locations, in patient issues and complaints; 
+(4)participate in such national quality conferences of the Administration as the Under Secretary for Health may designate; 
+(5)help coordinate assistance for veterans who need assistance from the Administration in more than one region of the Administration; and 
+(6)maintain a public Web site with links to contact information for each patient advocate at each medical center of the Department. 
+(d)Regional administratorsThe Director shall appoint three regional administrators to support facilities of the Administration and veterans integrated service networks in their patient advocacy work, to identify best practices for patient advocacy work and inform such facilities and networks of such best practices, and to receive and refer to the board established under subsection (e) appeals from veterans in their respective regions who are not satisfied with the efforts of their local medical center of the Department and veteran integrated service network. 
+(e)BoardThe Director shall establish a board composed of the Director and the three regional administrators appointed under subsection (d) to hear appeals referred to the board by a regional administrator under subsection (d) and issue a letter explaining the board’s decision regarding such appeal and outlining possible steps for resolving issues raised in such appeal. 
+(f)Limitation on statutory constructionNothing in this section shall be construed as affecting the authority and responsibility of coordinators of patient advocates for severely injured veterans of Operation of Enduring Freedom and severely injured veterans of Operation Iraqi Freedom. ."}
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/paragraph[2]
+The reason of change is: element tag name
+The value is expected to be: quoted-block But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/paragraph[2]/enum[1]
+The reason of change is: element tag name
+The value is expected to be: section But actually it is: enum
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {321.}
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Office of the Ombudsman"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subsection But actually it is: null
+ Deleted paragraph content is: {"(a)In generalThere is established in the Department an Office of the Ombudsman (in this section referred to as the Office). The Secretary shall designate an Ombudsman to carry out the duties of the Office. "}
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subsection But actually it is: null
+ Deleted paragraph content is: {"(b)DutiesThe Office shall act as a liaison for veterans and their family members with respect to the receipt of health care and benefits administered by the Department. "}
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subsection But actually it is: null
+ Deleted paragraph content is: {"(c)Availability of servicesThe Secretary shall ensure that the services of the Office are available to all veterans and their family members. "}
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[4]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subsection But actually it is: null
+ Deleted paragraph content is: {"(d)ConfidentialityAny information provided by veterans or their family members to the Office may be disclosed only to the extent necessary to carry out the duties of the Office. "}
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[5]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subsection But actually it is: null
+ Deleted paragraph content is: {"(e)OutreachThe Secretary shall make available to each veteran, and to the family members of all veterans, information on contacting and utilizing the services of the Office. "}
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/after-quoted-block[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/paragraph[2]/header[1]
+The reason of change is: element tag name
+The value is expected to be: after-quoted-block But actually it is: header
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/after-quoted-block[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: . But actually it is: Clerical amendment
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/paragraph[2]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 7308 the following new item:"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/paragraph[2]/quoted-block[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quoted-block
+ Inserted paragraph content is: {"
+ 
+7309. Office of the Ombudsman. ."}
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clerical amendment But actually it is: Deadline for designation of Om...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The table of sections at the b... But actually it is: Not later than 180 days after ...
+The Jaccard Index is: 0.08
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"section 7309"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 38, United States Code, as added by subsection (a)."}
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/quoted-block[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quoted-block But actually it is: null
+ Deleted paragraph content is: {" 
+ 
+321. Office of the Ombudsman.  ."}
+
+We are at location: bill[1]/endorsement[1]/action-date[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-date But actually it is: null
+ Deleted paragraph content is: {"July 24, 2008"}
+
+We are at location: bill[1]/endorsement[1]/action-desc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-desc But actually it is: null
+ Deleted paragraph content is: {"Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: attestation
+ Inserted paragraph content is: {"
+  
+    Passed the House of Representatives July 29, 2008.
+    Lorraine C. Miller,
+    Clerk.
+  
+"}
+

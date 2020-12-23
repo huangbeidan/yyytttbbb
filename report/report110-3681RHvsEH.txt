@@ -1,0 +1,332 @@
+===================================================
+
+total difference is: 94
+comparing document: BILLS-110hr3681rh.xml
+to document: BILLS-110hr3681eh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Reported-in-House But actually it is: Engrossed-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 3681 RH: Veterans Benef... But actually it is: 110 HR 3681 EH: Veterans Benef...
+The Jaccard Index is: 0.8
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: 110 HR 3681 Veterans Benefits Awareness Act of 
+insertion: 
+deletion: 
+change: RH to EH / 2008 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2008-05-15 But actually it is: 0
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/calendar[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: calendar But actually it is: null
+ Deleted paragraph content is: {"Union Calendar No. 405"}
+
+We are at location: bill[1]/form[1]/associated-doc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: associated-doc But actually it is: null
+ Deleted paragraph content is: {"[Report No.
+		  110–644]"}
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF		  REPRESENTAT... But actually it is: IN THE HOUSE OF REPRESENTATIVE...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF		  REPRESENTATIVES to OF REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/action[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+			September 27, 2007
+			Mr. Boozman (for
+			 himself and Ms. Herseth Sandlin)
+			 introduced the following bill; which was referred to the
+			 Committee on Veterans’
+			 Affairs
+		"}
+
+We are at location: bill[1]/form[1]/action[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+			May 15, 2008
+			Additional sponsors: Mr.
+			 Souder, Mr. Space,
+			 Mr. Carney,
+			 Mr. Mitchell,
+			 Mr. Barrow,
+			 Mr. Boucher,
+			 Mr. Brown of South Carolina,
+			 Mr. English of Pennsylvania,
+			 Mr. Filner,
+			 Mr. Hall of New York, and
+			 Mr. Buyer
+		"}
+
+We are at location: bill[1]/form[1]/action[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+			May 15, 2008
+			Reported with an amendment, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+		"}
+
+We are at location: bill[1]/form[1]/legis-type[1]/text()[1]   Compared with location: bill[1]/form[1]/legis-type[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A BILL But actually it is: AN ACT
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend title 38, United Stat... But actually it is: To amend title 38, United Stat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: To amend title 38 United States Code /authorize the Secretary of Veterans Affairs to advertise in the national /to promote awareness of benefits under laws administered by 
+insertion: 
+deletion: Code national 
+change:  to to /  to media / the		  Secretary to the Secretary 
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Veterans Benefits Awareness Ac... But actually it is: Veterans Benefits Awareness Ac...
+The Jaccard Index is: 0.94
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Veterans Benefits Awareness Act 
+insertion: 
+deletion: 
+change: of			 2007 to of 2008 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authority of			 Secretary of V... But actually it is: Authority of secretary of vete...
+The Jaccard Index is: 0.84
+And the Smith Waterman Score is: 0.53
+The Detailes are shown as followings: 
+common words: Authority Secretary of Affairs to advertise to promote awareness of under laws administered by the 
+insertion: 
+deletion: 
+change: of			 to of / Veterans to veterans / benefits			 to benefits / Secretary to secretary 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authority To			 advertise But actually it is: Authority To advertise
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: To			 advertise to To advertise 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 38, United States			... But actually it is:  of title 38, United States Co...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words:  of title 38 United Code is amended by adding at the end the following new section 
+insertion: 
+deletion: 
+change: States			 to States / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authority to				advertise in n... But actually it is: Authority to advertise in nati...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Authority to				advertise in national media 
+insertion: to 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary may purchase adv... But actually it is: The Secretary may purchase adv...
+The Jaccard Index is: 0.38
+And the Smith Waterman Score is: 0.65
+The Detailes are shown as followings: 
+common words: The Secretary may purchase advertising /media outlets for the purpose of promoting awareness of benefits 
+insertion: in 
+deletion: 
+change: in				national to national / under				laws administered by the				Secretary to under laws administered by the Secretary including promoting awareness of assistance provided by the Secretary including assistance for programs to assist homeless veterans to promote veteranowned small businesses and to provide opportunities for employment in the Department of Veterans Affairs and for education training compensation pension vocational rehabilitation and healthcare benefits and mental healthcare including the prevention of suicide among veterans 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clerical			 amendment But actually it is: Clerical amendment
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Clerical			 amendment 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The table of			 sections at th... But actually it is: The table of sections at the b...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: The table sections at the beginning of such chapter is amended by inserting after item relating to section 531 the following 
+insertion: 
+deletion: 
+change: of			 to of / the			 to the / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 532. Authority to advertise in... But actually it is: 532. Authority to advertise in...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: 532 Authority to advertise in 
+insertion: 
+deletion: 
+change: national				media to national media 
+
+We are at location: bill[1]/legis-body[2]/section[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"Veterans Benefits Awareness Act of 2008"}
+
+We are at location: bill[1]/legis-body[2]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authority of secretary			 of v... But actually it is: Authority of secretary of vete...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: Authority of of veterans affairs to advertise to promote awareness of benefits under administered by the secretary 
+insertion: 
+deletion: 
+change: secretary			 to secretary / laws			 to laws / 
+
+We are at location: bill[1]/legis-body[2]/section[2]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authority To			 advertise But actually it is: Authority To advertise
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: To			 advertise to To advertise 
+
+We are at location: bill[1]/legis-body[2]/section[2]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 38, United States Co... But actually it is:  of title 38, United States Co...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words:  of title 38 United States Code is amended by adding at the end following new section 
+insertion: 
+deletion: 
+change: the			 to the / 
+
+We are at location: bill[1]/legis-body[2]/section[2]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authority to advertise				in n... But actually it is: Authority to advertise in nati...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: Authority to 
+insertion: 
+deletion: 
+change: advertise				in national media to advertise in national media 
+
+We are at location: bill[1]/legis-body[2]/section[2]/subsection[1]/quoted-block[1]/section[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The				Secretary may purchase ... But actually it is: The Secretary may purchase adv...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: The				Secretary may purchase advertising in national media outlets for the purpose /awareness of benefits under laws administered by the /promoting awareness of assistance provided by the /assistance for programs to assist homeless veterans to /small businesses and to provide opportunities for employment /Department of Veterans Affairs and for education training /vocational rehabilitation and healthcare benefits and /including the prevention of suicide 
+insertion: Secretary of Secretary Secretary promote in compensation mental 
+deletion: 
+change: of				promoting to promoting / Secretary				including to including / Secretary				including to including / promote				veteranowned to veteranowned / in				the to the / compensation				pension to pension / mental				healthcare to healthcare / among				veterans to among veterans 
+
+We are at location: bill[1]/legis-body[2]/section[2]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clerical			 amendment But actually it is: Clerical amendment
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Clerical			 amendment 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[2]/section[2]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The table of sections at the b... But actually it is: The table of sections at the b...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: The table of sections at the beginning of such is amended by inserting after the item relating to section 531 
+insertion: 
+deletion: 
+change: chapter			 to chapter / the			 following to the following 
+
+We are at location: bill[1]/legis-body[2]/section[2]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 532. Authority to advertise in... But actually it is: 532. Authority to advertise in...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: 532 Authority to advertise in 
+insertion: 
+deletion: 
+change: national				media to national media 
+
+We are at location: bill[1]/endorsement[1]/action-date[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-date But actually it is: null
+ Deleted paragraph content is: {"May 15, 2008"}
+
+We are at location: bill[1]/endorsement[1]/action-desc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-desc But actually it is: null
+ Deleted paragraph content is: {"Reported with an amendment, committed to the Committee of
+		  the Whole House on the State of the Union, and ordered to be
+		  printed"}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: attestation
+ Inserted paragraph content is: {"
+  
+    Passed the House of Representatives May 20, 2008.
+    Lorraine C. Miller,
+    Clerk.
+  
+"}
+

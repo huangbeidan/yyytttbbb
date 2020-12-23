@@ -1,0 +1,570 @@
+===================================================
+
+total difference is: 178
+comparing document: BILLS-113hr3670ih.xml
+to document: BILLS-113hr3670rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 113 HR 3670 IH: Anti-Spoofing ... But actually it is: 113 HR 3670 RH: Anti-Spoofing ...
+The Jaccard Index is: 0.81
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: 113 HR 3670 AntiSpoofing Act of 
+insertion: 
+deletion: 
+change: IH to RH / 2013 to 2014 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2013-12-05 But actually it is: 2014-09-08
+The Jaccard Index is: 0.07
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/session[1]/text()[1]   Compared with location: bill[1]/form[1]/session[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 1st Session But actually it is: 2d Session
+The Jaccard Index is: 0.55
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 1st Session 
+insertion: 
+deletion: 
+change: 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 423"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 113–572]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+September 8, 2014
+Additional sponsors: Mr. Van Hollen, Mr. Ben Ray Luján of New Mexico, Ms. Matsui, Mr. Dingell, Mr. Meeks, Mr. Cummings, Mr. Delaney, Ms. Edwards, Mrs. Ellmers, Ms. Eshoo, Mr. Latta, Mr. Guthrie, Mr. Shimkus, Mr. Pallone, Mr. Sarbanes, Mr. Braley of Iowa, Mr. Kinzinger of Illinois, Mr. Welch, Mr. Walden, Mr. Long, Mr. Langevin, and Mr. Rush
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+September 8, 2014
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed
+Strike out all after the enacting clause and insert the part printed in italic
+For text of introduced bill, see copy of bill as introduced on December 5, 2013
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+
+"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Anti-Spoofing Act of 2013 But actually it is: Anti-Spoofing Act of 2014
+The Jaccard Index is: 0.92
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: AntiSpoofing Act of 
+insertion: 
+deletion: 
+change: 2013 to 2014 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Spoofing service But actually it is: Text messaging service
+The Jaccard Index is: 0.36
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Spoofing service 
+insertion: messaging 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"In general"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 227(e) of the Communic... But actually it is: in subparagraph (A), by insert...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/external-xref[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/quote[1]
+The reason of change is: element tag name
+The value is expected to be: external-xref But actually it is: quote
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/external-xref[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 47 U.S.C. 227(e) But actually it is: (including a text message sent...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) is amended— But actually it is:  before the period at the end;
+The Jaccard Index is: 0.03
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/subparagraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (A)
+  by striking paragraph (4);
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (B)
+  by redesignating paragraph (3) as paragraph (4);
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/subparagraph[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (C)
+  by inserting after paragraph (2) the following:
+  
+    
+      (3)
+      Spoofing service
+      The Commission shall prescribe regulations requiring a provider of a spoofing service to take such steps as the Commission may prescribe to verify that any person who uses the service is informed of any applicable Federal or State law.
+    
+    ; and
+  
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/subparagraph[4]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (D)
+  in paragraph (8), by adding at the end the following:
+  
+    
+      (D)
+      Spoofing service
+      The term spoofing service means a service that permits a user to knowingly cause any caller identification service to transmit misleading or inaccurate caller identification information. Such term does not include a service to the extent such service transmits or displays without alteration caller identification information generated by another person.
+    
+    .
+  
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Conforming amendment"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 227(e)(1) of the Commu... But actually it is: in the first sentence of subpa...
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"47 U.S.C. 227(e)(1)"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) is further amended by striki... But actually it is:  before the period at the end;...
+The Jaccard Index is: 0.03
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: paragraph (3)(B) But actually it is: (including a text message sent...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  and inserting  But actually it is:  before the period at the end;...
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: paragraph (4)(B) But actually it is: (including a text message sent...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[4]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: . But actually it is:  before the period at the end;...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"Section 227(e)(8) of the Communications Act of 1934 (47 U.S.C. 227(e)(8)) is amended—"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(3)by adding at the end the following:
+
+(D)Text messageThe term text message means a real-time or near real-time message consisting of text, images, sounds, or other information that is transmitted from or received by a device that is identified as the transmitting or receiving device by means of a telephone number. Such term—
+(i)includes a short message service (SMS) message, an enhanced message service (EMS) message, and a multimedia message service (MMS) message; and
+(ii)does not include a real-time, two-way voice or video communication.
+(E)Text messaging serviceThe term text messaging service means a service that permits the transmission or receipt of a text message, including a service provided as part of or in connection with a telecommunications service or an IP-enabled voice service.."}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Text messaging service But actually it is: Coverage of outgoing-Call-Only...
+The Jaccard Index is: 0.11
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]
+The reason of change is: element tag name
+The value is expected to be: paragraph But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(1)}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/header[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/external-xref[1]
+The reason of change is: element tag name
+The value is expected to be: header But actually it is: external-xref
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/external-xref[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: 47 U.S.C. 227(e)(8)(C)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/text[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[2]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {"Section 227(e)(8) of the Communications Act of 1934 ("}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"47 U.S.C. 227(e)(8)"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/text[1]/text()[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {") is amended—"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/subparagraph[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/quote[1]
+The reason of change is: element tag name
+The value is expected to be: subparagraph But actually it is: quote
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/subparagraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/quote[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/subparagraph[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(A)}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/subparagraph[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"in subparagraph (A), by inserting (including a text message sent using a text messaging service) before the period at the end;"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/subparagraph[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[3]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/subparagraph[2]/enum[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: enum But actually it is: null
+ Deleted paragraph content is: {(B)}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/subparagraph[2]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"in the first sentence of subparagraph (B), by inserting (including a text message sent using a text messaging service) before the period at the end; and"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/subparagraph[3]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/quote[2]
+The reason of change is: element tag name
+The value is expected to be: subparagraph But actually it is: quote
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/subparagraph[3]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/quote[2]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/subparagraph[3]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(C)}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/subparagraph[3]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"by adding at the end the following:"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/subparagraph[3]/quoted-block[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quoted-block But actually it is: null
+ Deleted paragraph content is: {"
+  
+    (E)
+    Text message
+    The term text message means a real-time or near real-time message consisting of text, images, sounds, or other information that is transmitted from or received by a device that is identified as the transmitting or receiving device by means of a telephone number. Such term—
+    
+      (i)
+      includes a short message service (SMS) message, an enhanced message service (EMS) message, and a multimedia message service (MMS) message; and
+    
+    
+      (ii)
+      does not include a real-time, two-way voice or video communication.
+    
+  
+  
+    (F)
+    Text messaging service
+    The term text messaging service means a service that permits the transmission or receipt of a text message, including a service provided as part of or in connection with a telecommunications service or an IP-enabled voice service.
+  
+  .
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {.}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"
+  (2)
+  Rule of construction
+  Nothing in this section or any amendment made by this section shall be construed to modify, limit, or otherwise affect—
+  
+    (A)
+    any other authority of the Federal Communications Commission under section 227 of the Communications Act of 1934 (47 U.S.C. 227) or the CAN–SPAM Act of 2003 (15 U.S.C. 7701 et seq.) to interpret a call to include a text message; or
+  
+  
+    (B)
+    any rule or order adopted by the Commission under such section or such Act that provides that a call includes a text message.
+  
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Coverage of outgoing-Call-Only... But actually it is: Regulations
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(1)}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/external-xref[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/header[1]
+The reason of change is: element tag name
+The value is expected to be: external-xref But actually it is: header
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/external-xref[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 47 U.S.C. 227(e)(8)(C) But actually it is: In general
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/text[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/text[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"Section 227(e)(3)(A) of the Communications Act of 1934 ("}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"47 U.S.C. 227(e)(3)(A)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended by striking "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/text[1]/quote[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"Not later than 6 months after the date of enactment of the Truth in Caller ID Act of 2009, the Commission"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" and inserting "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/text[1]/quote[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"The Commission"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/text[1]/text()[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {.}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/quote[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"has the meaning"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/text()[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {" and all that follows and inserting "}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/quote[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"means the provision of real-time voice communications offered to the public, or such class of users as to be effectively available to the public, transmitted using Internet protocol, or a successor protocol, (whether part of a bundle of services or separately) with interconnection capability such that the service can originate traffic to, or terminate traffic from, the public switched telephone network, or a successor network."}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/text()[4]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {.}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (2)
+  Deadline
+  The Federal Communications Commission shall prescribe regulations to implement the amendments made by this section not later than 18 months after the date of the enactment of this Act.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Regulations But actually it is: Effective date
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/text[1]
+The reason of change is: element tag name
+The value is expected to be: paragraph But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(1)}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"In general"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"Section 227(e)(4)(A) of the Communications Act of 1934, as redesignated, is amended by striking Not later than 6 months after the date of enactment of the Truth in Caller ID Act of 2009, the Commission and inserting The Commission."}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"
+  (2)
+  Deadline
+  The Federal Communications Commission shall prescribe regulations to implement the amendments made by this section not later than 18 months after the date of the enactment of this Act.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[6]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (f) But actually it is: (e)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+September 8, 2014
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+

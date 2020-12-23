@@ -1,0 +1,94 @@
+===================================================
+
+total difference is: 94
+comparing document: BILLS-109hr3043ih.xml
+to document: BILLS-109hr3043rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 109 HR 3043 IH: Zero Downpayme... But actually it is: 109 HR 3043 RH: Zero Downpayme...
+The Jaccard Index is: 0.86
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: 109 HR 3043 Zero Downpayment Pilot Program Act of 
+insertion: 
+deletion: 
+change: IH to RH / 2005 to 2006 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2005-06-23 But actually it is: 2006-07-17
+The Jaccard Index is: 0.14
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/session[1]/text()[1]   Compared with location: bill[1]/form[1]/session[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 1st Session But actually it is: 2d Session
+The Jaccard Index is: 0.55
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 1st Session 
+insertion: 
+deletion: 
+change: 
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 326"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 109-571]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {" 
+July 17, 2006 
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed 
+Strike out all after the enacting clause and insert the part printed in italic 
+For text of introduced bill, see copy of bill as introduced on June 23, 2005 
+"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Zero Downpayment Pilot Program... But actually it is: Zero Downpayment Pilot Program...
+The Jaccard Index is: 0.95
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: Zero Downpayment Pilot Program Act of 
+insertion: 
+deletion: 
+change: 2005 to 2006 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(d)GAO study of expanded or extended programIf at any time authority to insure mortgages under section 203(l) of the National Housing Act (as added by subsection (a) of this section) is— 
+(1)expanded to more than 50,000 mortgages, or 
+(2)extended to a date after September 30, 2010, including any permanent extension of such authority,the Comptroller General of the United States shall conduct a study of the financial soundness, at such time, of the Mutual Mortgage Insurance Fund and the effects of such expansion or extension on such financial soundness, and shall submit a report to the Congress regarding the conclusions of such study not later than 60 days after the date of the enactment of the law providing for such expansion or extension. "}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {" 
+July 17, 2006 
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+

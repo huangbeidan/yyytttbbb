@@ -1,0 +1,818 @@
+===================================================
+
+total difference is: 1003
+comparing document: BILLS-110hr6003ih.xml
+to document: BILLS-110hr6003rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 6003 IH: Passenger Rail... But actually it is: 110 HR 6003 RH: Passenger Rail...
+The Jaccard Index is: 0.91
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: 110 HR 6003 Passenger Rail Investment and Improvement Act of 2008 
+insertion: 
+deletion: 
+change: IH to RH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2008-05-08 But actually it is: 2008-06-05
+The Jaccard Index is: 0.45
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 434"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 110–690]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+June 5, 2008
+Additional sponsors: Mr. Loebsack, Mr. Rehberg, Mr. Farr, Ms. McCollum of Minnesota, Mr. Snyder, Mr. Ryan of Ohio, and Mr. Clay
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+June 5, 2008
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed
+Strike out all after the enacting clause and insert the part printed in italic
+For text of introduced bill, see copy of bill as introduced on May 8, 2008
+"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[32]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[32]/text()[1]
+The reason of change is: content change
+The value is expected to be: Title III—Intercity Passenger ... But actually it is: Sec. 223. Amtrak Inspector Gen...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[33]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[33]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 301. Capital assistance f... But actually it is: Sec. 224. Amtrak service prefe...
+The Jaccard Index is: 0.1
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[34]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[34]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 302. State rail plans. But actually it is: Title III—Intercity Passenger ...
+The Jaccard Index is: 0.03
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[35]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[35]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 303. Next generation corr... But actually it is: Sec. 301. Capital assistance f...
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[36]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[36]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 304. Rail cooperative res... But actually it is: Sec. 302. State rail plans.
+The Jaccard Index is: 0.14
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[37]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[37]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 305. Passenger rail syste... But actually it is: Sec. 303. Next generation corr...
+The Jaccard Index is: 0.09
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[38]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[38]/text()[1]
+The reason of change is: content change
+The value is expected to be: Title IV—Commuter Rail Transit... But actually it is: Sec. 304. Rail cooperative res...
+The Jaccard Index is: 0.04
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[39]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[39]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 401. Commuter rail transi... But actually it is: Sec. 305. Passenger rail syste...
+The Jaccard Index is: 0.11
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[40]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[40]/text()[1]
+The reason of change is: content change
+The value is expected to be: Title V—High-Speed Rail But actually it is: Title IV—Commuter Rail Transit...
+The Jaccard Index is: 0.13
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[41]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[41]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 501. High-speed rail corr... But actually it is: Sec. 401. Commuter rail transi...
+The Jaccard Index is: 0.12
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[42]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[42]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 502. Additional high-spee... But actually it is: Title V—High-Speed Rail
+The Jaccard Index is: 0.09
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[43]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[43]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 503. Southeast high-speed... But actually it is: Sec. 501. High-speed rail corr...
+The Jaccard Index is: 0.29
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: highspeed rail 
+insertion: 
+deletion: Sec503Southeast 
+change: study to corridor program 
+
+We are at location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[44]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[44]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 504. Grant conditions. But actually it is: Sec. 502. Additional high-spee...
+The Jaccard Index is: 0.16
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[45]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: toc-entry
+ Inserted paragraph content is: {"Sec. 503. High-speed rail study."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/toc[1]/toc-entry[46]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: toc-entry
+ Inserted paragraph content is: {"Sec. 504. Grant conditions."}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Board of directors But actually it is: Board of Directors
+The Jaccard Index is: 0.68
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Board of 
+insertion: 
+deletion: 
+change: directors to Directors 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[9]/subsection[2]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"Section 24904(c)(2) is amended by—"}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[9]/subsection[2]/paragraph[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[9]/subsection[2]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (1) But actually it is: (2)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[9]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[9]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: inserting  But actually it is: The chapter analysis for chapt...
+The Jaccard Index is: 0.08
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[9]/subsection[2]/paragraph[1]/text[1]/quote[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"commuter rail passenger and"}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[9]/subsection[2]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[2]/section[9]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  after  But actually it is: The chapter analysis for chapt...
+The Jaccard Index is: 0.02
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[9]/subsection[2]/paragraph[1]/text[1]/quote[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {between}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[9]/subsection[2]/paragraph[1]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/title[2]/section[9]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ; and But actually it is: The chapter analysis for chapt...
+The Jaccard Index is: 0.02
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[9]/subsection[2]/paragraph[2]/quoted-block[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quoted-block
+ Inserted paragraph content is: {"
+
+24905. Northeast Corridor Infrastructure and Operations Advisory Commission.."}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[9]/subsection[2]/paragraph[2]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[9]/subsection[2]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (2) But actually it is: (1)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[9]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[9]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: striking  But actually it is: Section 24904(c)(2) is amended...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[9]/subsection[2]/paragraph[2]/text[1]/quote[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {freight}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[9]/subsection[2]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[2]/section[9]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  in the second sentence. But actually it is: Section 24904(c)(2) is amended...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[9]/subsection[2]/paragraph[1]/subparagraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (A)
+  inserting commuter rail passenger and after between; and
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[9]/subsection[2]/paragraph[1]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (B)
+  striking freight in the second sentence.
+"}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[14]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[14]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: plan to operate within the fun... But actually it is: plan to operate within the fun...
+The Jaccard Index is: 0.98
+And the Smith Waterman Score is: 0.96
+The Detailes are shown as followings: 
+common words: plan to operate within the funding levels authorized by section 24104 of this chapter including /budgetary goals for fiscal years 1998 through 2002 
+insertion: 
+deletion: including 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[17]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[17]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to add a third track, crossove... But actually it is: identified by Amtrak as necess...
+The Jaccard Index is: 0.08
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[17]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[17]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to add sections of second trac... But actually it is: designated by the Secretary as...
+The Jaccard Index is: 0.08
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[17]/subsection[2]/paragraph[3]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[17]/subsection[2]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (3) But actually it is: (2)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[17]/subsection[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[17]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to add a third track, crossove... But actually it is: designated by the Secretary as...
+The Jaccard Index is: 0.04
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[17]/subsection[2]/paragraph[4]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[17]/subsection[2]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (4) But actually it is: (2)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[17]/subsection[2]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[17]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to add new signals, reconfigur... But actually it is: designated by the Secretary as...
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[17]/subsection[2]/paragraph[5]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[17]/subsection[2]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (5) But actually it is: (2)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[21]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"Section 24305(f)"}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[21]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[21]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is: Section 24305(f) is amended to...
+The Jaccard Index is: 0.38
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: States Code is amended to read as follows 
+insertion: 
+deletion:  of title 49 United 
+change: 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[23]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"
+  223.
+  Amtrak Inspector General utilization study
+  Not later than 9 months after the date of enactment of this Act, the Amtrak Inspector General shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on Amtrak’s utilization of its facilities, including the Beech Grove Repair facility in Indiana. The report shall include an examination of Amtrak’s utilization of its existing facilities to determine the extent Amtrak is maximizing the opportunities for each facility, including any attempts to provide maintenance and repair to other rail carriers. In developing this report, the Amtrak Inspector General shall consult with other railroad carriers as it deems appropriate.
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[24]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"224.Amtrak service preference studyNot later than 6 months after the date of enactment of this Act, the Surface Transportation Board shall transmit to the Congress a report containing—
+(1)the findings of a study of the effectiveness of the implementation of section 24308(c) of title 49, United States Code, in ensuring the preference of Amtrak service over freight transportation service; and
+(2)recommendations with respect to any regulatory or legislative actions that would improve such effectiveness."}
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/quoted-block[1]/chapter[1]/toc[1]/toc-entry[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/quoted-block[1]/chapter[1]/toc[1]/toc-entry[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 24401. Definitions. But actually it is: Sec.
+The Jaccard Index is: 0.09
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/quoted-block[1]/chapter[1]/toc[1]/toc-entry[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/quoted-block[1]/chapter[1]/toc[1]/toc-entry[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 24402. Capital investment... But actually it is: 24401. Definitions.
+The Jaccard Index is: 0.02
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/quoted-block[1]/chapter[1]/toc[1]/toc-entry[3]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/quoted-block[1]/chapter[1]/toc[1]/toc-entry[3]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 24403. Project management... But actually it is: 24402. Capital investment gran...
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/quoted-block[1]/chapter[1]/toc[1]/toc-entry[4]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/quoted-block[1]/chapter[1]/toc[1]/toc-entry[4]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 24404. Use of capital gra... But actually it is: 24403. Project management over...
+The Jaccard Index is: 0.07
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/quoted-block[1]/chapter[1]/toc[1]/toc-entry[5]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/quoted-block[1]/chapter[1]/toc[1]/toc-entry[5]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 24405. Grant conditions. But actually it is: 24404. Use of capital grants t...
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/quoted-block[1]/chapter[1]/toc[1]/toc-entry[6]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: toc-entry
+ Inserted paragraph content is: {"24405. Grant conditions."}
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/quoted-block[1]/chapter[1]/section[5]/subsection[5]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[1]/quoted-block[1]/chapter[1]/section[5]/subsection[5]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the National Railroad Passenge... But actually it is: the National Railroad Passenge...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: the National Railroad Passenger Corporation’s access rights to railroad rights of way and facilities under current law 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Conforming amendments But actually it is: Conforming amendment
+The Jaccard Index is: 0.94
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: amendments to amendment 
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/paragraph[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/text[1]
+The reason of change is: element tag name
+The value is expected to be: paragraph But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/paragraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/paragraph[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(1)}
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/paragraph[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"The table of chapters for the title is amended by inserting the following after the item relating to chapter 243:"}
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/paragraph[1]/quoted-block[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quoted-block But actually it is: null
+ Deleted paragraph content is: {" 
+ 
+244.Intercity passenger rail service capital assistance24401  ."}
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/paragraph[2]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/quoted-block[1]
+The reason of change is: element tag name
+The value is expected to be: paragraph But actually it is: quoted-block
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/paragraph[2]/enum[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/quoted-block[1]/toc[1]
+The reason of change is: element tag name
+The value is expected to be: enum But actually it is: toc
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/paragraph[2]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/quoted-block[1]/toc[1]/multi-column-toc-entry[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/quoted-block[1]/toc[1]/multi-column-toc-entry[1]/toc-enum[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: toc-enum
+ Inserted paragraph content is: {244.}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/quoted-block[1]/toc[1]/multi-column-toc-entry[1]/level-header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: level-header
+ Inserted paragraph content is: {"INTERCITY PASSENGER RAIL SERVICE CORRIDOR CAPITAL ASSISTANCE"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/quoted-block[1]/toc[1]/multi-column-toc-entry[1]/target[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: target
+ Inserted paragraph content is: {24401}
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/paragraph[2]/text[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/quoted-block[1]/after-quoted-block[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: after-quoted-block
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/quoted-block[1]/after-quoted-block[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The chapter analysis for subti... But actually it is: .
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/subsection[2]/paragraph[2]/quoted-block[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quoted-block But actually it is: null
+ Deleted paragraph content is: {" 
+ 
+244.Intercity passenger rail service capital assistance24401 ."}
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[1]/quoted-block[1]/chapter[1]/toc[1]/toc-entry[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[1]/quoted-block[1]/chapter[1]/toc[1]/toc-entry[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 22501. Definitions. But actually it is: Sec.
+The Jaccard Index is: 0.09
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[1]/quoted-block[1]/chapter[1]/toc[1]/toc-entry[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[1]/quoted-block[1]/chapter[1]/toc[1]/toc-entry[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 22502. Authority. But actually it is: 22501. Definitions.
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[1]/quoted-block[1]/chapter[1]/toc[1]/toc-entry[3]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[1]/quoted-block[1]/chapter[1]/toc[1]/toc-entry[3]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 22503. Purposes. But actually it is: 22502. Authority.
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[1]/quoted-block[1]/chapter[1]/toc[1]/toc-entry[4]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[1]/quoted-block[1]/chapter[1]/toc[1]/toc-entry[4]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 22504. Transparency; coor... But actually it is: 22503. Purposes.
+The Jaccard Index is: 0.04
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[1]/quoted-block[1]/chapter[1]/toc[1]/toc-entry[5]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[1]/quoted-block[1]/chapter[1]/toc[1]/toc-entry[5]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 22505. Content. But actually it is: 22504. Transparency; coordinat...
+The Jaccard Index is: 0.04
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[1]/quoted-block[1]/chapter[1]/toc[1]/toc-entry[6]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[1]/quoted-block[1]/chapter[1]/toc[1]/toc-entry[6]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 22506. Review. But actually it is: 22505. Content.
+The Jaccard Index is: 0.07
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[1]/quoted-block[1]/chapter[1]/toc[1]/toc-entry[7]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: toc-entry
+ Inserted paragraph content is: {"22506. Review."}
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Conforming amendments But actually it is: Conforming amendment
+The Jaccard Index is: 0.94
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: amendments to amendment 
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[2]/paragraph[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[2]/text[1]
+The reason of change is: element tag name
+The value is expected to be: paragraph But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[2]/paragraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[2]/paragraph[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(1)}
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[2]/paragraph[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"The table of chapters for the title is amended by inserting the following after the item relating to chapter 223:"}
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[2]/paragraph[1]/quoted-block[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quoted-block But actually it is: null
+ Deleted paragraph content is: {" 
+ 
+225.State rail plans22501  ."}
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[2]/paragraph[2]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[2]/quoted-block[1]
+The reason of change is: element tag name
+The value is expected to be: paragraph But actually it is: quoted-block
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[2]/paragraph[2]/enum[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[2]/quoted-block[1]/toc[1]
+The reason of change is: element tag name
+The value is expected to be: enum But actually it is: toc
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[2]/paragraph[2]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[2]/quoted-block[1]/toc[1]/multi-column-toc-entry[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[2]/quoted-block[1]/toc[1]/multi-column-toc-entry[1]/toc-enum[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: toc-enum
+ Inserted paragraph content is: {225.}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[2]/quoted-block[1]/toc[1]/multi-column-toc-entry[1]/level-header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: level-header
+ Inserted paragraph content is: {"STATE RAIL PLANS AND HIGH PRIORITY PROJECTS"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[2]/quoted-block[1]/toc[1]/multi-column-toc-entry[1]/target[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: target
+ Inserted paragraph content is: {22501}
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[2]/paragraph[2]/text[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[2]/quoted-block[1]/after-quoted-block[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: after-quoted-block
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[2]/quoted-block[1]/after-quoted-block[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The chapter analysis for subti... But actually it is: .
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[2]/subsection[2]/paragraph[2]/quoted-block[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quoted-block But actually it is: null
+ Deleted paragraph content is: {" 
+ 
+225.State rail plans22501  ."}
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[4]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[4]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary may make grants ... But actually it is: The Secretary may make grants ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: The Secretary may make grants to and enter into cooperative agreements with the National Academy of Sciences to carry out such activities relating to the research technology and technology transfer activities described in subsection b as the Secretary deems appropriate 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[4]/section[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[4]/section[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Part E of subtitle V of title ... But actually it is: Part E of subtitle V is amende...
+The Jaccard Index is: 0.68
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: Part E of subtitle V /is amended by adding at the end the following 
+insertion: 
+deletion: V of title 49 United States 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[4]/section[1]/subsection[1]/quoted-block[1]/chapter[1]/toc[1]/toc-entry[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[4]/section[1]/subsection[1]/quoted-block[1]/chapter[1]/toc[1]/toc-entry[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: 28501.Definitions But actually it is: 28501. Definitions
+The Jaccard Index is: 0.72
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: Definitions 
+
+We are at location: bill[1]/legis-body[1]/title[5]/section[1]/subsection[1]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"Chapter 261"}
+
+We are at location: bill[1]/legis-body[1]/title[5]/section[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[5]/section[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is: Chapter 261 is amended by addi...
+The Jaccard Index is: 0.53
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: States Code is amended by adding at the end thereof the following 
+insertion: 
+deletion:  of title 49 United 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[5]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/paragraph[2]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[5]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: has the legal, financial , and... But actually it is: has the legal, financial, and ...
+The Jaccard Index is: 0.97
+And the Smith Waterman Score is: 0.92
+The Detailes are shown as followings: 
+common words: has the legal financial /and technical capacity to carry out the project and 
+insertion: 
+deletion: financial 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[5]/section[1]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[5]/section[1]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The table of sections for  But actually it is: The table of sections for chap...
+The Jaccard Index is: 0.24
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: The table of sections for 
+insertion: 
+deletion: 
+change: chapter 261 is amended by adding after the item relating to section 26105 the following new item 
+
+We are at location: bill[1]/legis-body[1]/title[5]/section[1]/subsection[2]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"chapter 261"}
+
+We are at location: bill[1]/legis-body[1]/title[5]/section[1]/subsection[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[5]/section[1]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is: The table of sections for chap...
+The Jaccard Index is: 0.61
+And the Smith Waterman Score is: 0.68
+The Detailes are shown as followings: 
+common words:  of /49 United States Code is amended by adding after the item relating to section 26105 the following new item 
+insertion: table 
+deletion: of 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[5]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[5]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Southeast high-speed rail stud... But actually it is: High-speed rail study
+The Jaccard Index is: 0.6
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: highspeed rail study 
+insertion: 
+deletion: Southeast 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[5]/section[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[5]/section[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 1 year after th... But actually it is: Not later than 1 year after th...
+The Jaccard Index is: 0.47
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Not later than 1 year after the date of enactment of this Act the Secretary of Transportation shall conduct 
+insertion: 
+deletion: 
+change: an alternatives analysis of the Secretary’s December 1 1998 extension of the designation of the Southeast HighSpeed Rail Corridor as authorized under to 
+
+We are at location: bill[1]/legis-body[1]/title[5]/section[3]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"section 104(d)(2)"}
+
+We are at location: bill[1]/legis-body[1]/title[5]/section[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[5]/section[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 23, United States Co... But actually it is: Not later than 1 year after th...
+The Jaccard Index is: 0.15
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[5]/section[3]/paragraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (1)
+  an alternatives analysis of the Secretary’s December 1, 1998, extension of the designation of the Southeast High-Speed Rail Corridor as authorized under section 104(d)(2) of title 23, United States Code; and
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[5]/section[3]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (2)
+  a feasibility analysis regarding the expansion of the South Central High-Speed Rail Corridor to the Port of Houston, Texas. 
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[5]/section[3]/continuation-text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: continuation-text
+ Inserted paragraph content is: {"These analyses shall consider changes that have occurred in the region’s population, anticipated patterns of population growth, connectivity with other modes of transportation, ability of the designation to reduce regional traffic congestion, and the ability of current and proposed routings to meet the needs of tourists. The Secretary shall submit recommendations to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate and conduct a redesignation of one or both corridors if necessary."}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+June 5, 2008
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+

@@ -1,0 +1,156 @@
+===================================================
+
+total difference is: 38
+comparing document: BILLS-112hr802ih.xml
+to document: BILLS-112hr802rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To direct the Secretary of Vet... But actually it is: To direct the Secretary of Vet...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.52
+The Detailes are shown as followings: 
+common words: To direct the Secretary of Veterans /to /a VetStar Award Program 
+insertion: Affairs		 
+deletion: to 
+change: Affairs to  /  to establish / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 41"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No.
+		  112–80]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			May 20, 2011
+			Additional sponsors: Mr.
+			 Grimm and Mr. Johnson of
+			 Ohio
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			May 20, 2011
+			Reported with amendments, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			
+		"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: legis-body
+ Inserted paragraph content is: {"
+		1.VetStar Award
+			 Program
+			(a)In
+			 generalSection 532 of title
+			 38, United States Code, is amended—
+				(1)by striking The
+			 Secretary may and inserting
+					
+						(a)Advertising in national
+				mediaThe Secretary
+				may
+						;
+				and
+				(2)by adding at the end the
+			 following new subsection:
+					
+						(b)VetStar Award
+				Program(1)The Secretary shall
+				establish an award program, to be known as the VetStar Award
+				Program, to annually recognize businesses for their contributions to
+				veterans’ employment.
+							(2)The Secretary shall
+				establish a process for the administration of the award program, including
+				criteria for—
+								(A)categories and sectors of
+				businesses eligible for recognition each year; and
+								(B)objective measures to be
+				used in selecting businesses to receive the
+				award.
+								.
+				(b)Clerical
+			 amendments
+				(1)Section
+			 headingThe heading of such section is amended by adding at the
+			 end the following: ; VetStar
+			 Award Program.
+				(2)Table of
+			 sectionsThe table of
+			 sections at the beginning of chapter 5 of such title is amended by striking the
+			 item relating to section 532 and inserting the following new item:
+					
+						
+							532. Authority to advertise in national media;
+				VetStar Award
+				Program.
+						
+						.
+				"}
+
+We are at location: null   Compared with location: bill[1]/official-title-amendment[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: official-title-amendment
+ Inserted paragraph content is: {"Amend the title so as to read:
+	 A bill to amend title 38, United States Code, to direct the Secretary of
+	 Veterans Affairs to establish a VetStar Award
+	 Program.."}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		May 20, 2011
+		Reported with amendments, committed to the Committee of the
+		  Whole House on the State of the Union, and ordered to be printed
+	"}
+

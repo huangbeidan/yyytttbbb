@@ -1,0 +1,268 @@
+===================================================
+
+total difference is: 113
+comparing document: BILLS-112hr1484ih.xml
+to document: BILLS-112hr1484rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend title 38, United Stat... But actually it is: To amend title 38, United Stat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.52
+The Detailes are shown as followings: 
+common words: To amend title 38 United States Code /improve /appeals process of the Department of Veterans Affairs and /establish /commission to study judicial review of the determination 
+insertion: to		 to		 
+deletion: improve establish 
+change: to to  /  to the / to to  /  to a / of veterans’		  benefits to of		  veterans’ benefits 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 44"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No.
+		  112–83]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			May 20, 2011
+			Additional sponsor: Mr.
+			 Michaud
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			May 20, 2011
+			Reported with an amendment, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+			For text of introduced bill, see copy of bill as
+			 introduced on April 12, 2011
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Waiver of			 regional office j... But actually it is: Waiver of regional			 office j...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Waiver regional office jurisdiction over incorporation of supplemental evidence 
+insertion: 
+deletion: 
+change: of			 to of / into			 previously submitted claims to into previously			 submitted claims 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If a claimant submits new evid... But actually it is: If a claimant or the claimant’...
+The Jaccard Index is: 0.74
+And the Smith Waterman Score is: 0.41
+The Detailes are shown as followings: 
+common words: If a claimant /submits new evidence /of a case for which /appeal has been filed such /be submitted to /directly and not to /of unless the claimant /requests that the evidence be reviewed by /before being submitted to the				Board 
+insertion: or the claimant’s				representative in evidence or				the claimant’s representative the				agency 
+deletion: which to to 
+change: in				support to support / substantive to a				substantive / evidence				shall to shall / Board to the				Board / regional to the / office to agency / the				Department to jurisdiction / the				regional to of / office to jurisdiction / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Commission to			 study judicia... But actually it is: Commission to study			 judicia...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: Commission study judicial review of the determination of veterans’ benefits 
+insertion: 
+deletion: 
+change: to			 to to / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Two individuals			 appointed b... But actually it is: Two individuals appointed			 b...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: Two appointed by the minority leader of the Senate 
+insertion: 
+deletion: 
+change: individuals			 to individuals / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: include			 individuals who— But actually it is: include individuals			 who—
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: include			 individuals who 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: are			 current or retired memb... But actually it is: are current or retired			 memb...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: are			 current or members of the judiciary 
+insertion: 
+deletion: 
+change: retired to retired			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/subparagraph[2]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: are			 members of the legal or... But actually it is: are members of the legal			 or...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: are			 members of the or academic community or 
+insertion: 
+deletion: 
+change: legal to legal			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Powers of			 Members and agent... But actually it is: Powers of Members and			 agent...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.2
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of			 Members and agents to of Members and			 agents 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any member or agent of the Com... But actually it is: Any member or agent of the Com...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: Any member or agent of the Commission may by the Commission take any action which the Commission authorized to by this section 
+insertion: 
+deletion: 
+change: if			 to if / authorized to authorized			 / is			 to is / take to take			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Obtaining			 official data But actually it is: Obtaining official			 data
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: Obtaining			 official data 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Commission			 may secure d... But actually it is: The Commission may			 secure d...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: The may secure directly from any department or agency of the United necessary to enable it to carry out this Act Upon request of of the Commission the head of that department or agency furnish information to the Commission 
+insertion: 
+deletion: 
+change: Commission			 to Commission / States			 to States / information to information			 / the			 to the / Chairperson to Chairperson			 / shall			 to shall / that to that			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Administrative			 support serv... But actually it is: Administrative support			 serv...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: Administrative			 support services 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[7]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Upon the			 request of the Com... But actually it is: Upon the request of			 the Com...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: Upon request the Commission the Administrator of General Services shall to Commission on a reimbursable basis the administrative support services			 necessary for the Commission to carry out its responsibilities under this			 Act 
+insertion: 
+deletion: 
+change: the			 to the / of to of			 / provide			 to provide / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[8]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[8]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: relevant			 background and sta... But actually it is: relevant background and			 sta...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: relevant			 background statistical information associated with such recommendations 
+insertion: 
+deletion: 
+change: and to and			 / and			 solutions and to and solutions			 and 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[8]/paragraph[2]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[8]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: other information			 the Commi... But actually it is: other information the			 Commi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: other the Commission determines appropriate 
+insertion: 
+deletion: 
+change: information			 to information / 
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		May 20, 2011
+		Reported with an amendment, committed to the Committee of
+		  the Whole House on the State of the Union, and ordered to be
+		  printed
+	"}
+

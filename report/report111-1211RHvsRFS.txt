@@ -1,0 +1,1687 @@
+===================================================
+
+total difference is: 176
+comparing document: BILLS-111hr1211eh.xml
+to document: BILLS-111hr1211rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED		 ...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED		  STATES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend title 38, United Stat... But actually it is: To amend title 38, United Stat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: To amend title 38 United States Code /expand and improve health care services available to women veterans /those serving in Operation Enduring Freedom and Operation Iraqi Freedom /the Department of Veterans Affairs and for other purposes 
+insertion: to		 especially		 from		 
+deletion: 
+change: to to  / especially to  / from to  / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			June 24, 2009
+			Received; read twice and referred to the
+			 Committee on Veterans`
+			 Affairs
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Short title; table of contents But actually it is: Short title; table of			 conte...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Short title table 
+insertion: 
+deletion: 
+change: of contents to of			 contents 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Short title But actually it is: Short			 title
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Short title 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Women Veterans Health Care Imp... But actually it is: Women Veterans Health Care Imp...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Women Veterans Health Care 
+insertion: 
+deletion: 
+change: Improvement Act to Improvement			 Act 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Table of contents But actually it is: Table of			 contents
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of contents to of			 contents 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: Title I—STUDIES AND ASSESSMENT... But actually it is: Title I—STUDIES AND ASSESSMENT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: Title ISTUDIES AND ASSESSMENTS OF DEPARTMENT OF VETERANS /SERVICES FOR WOMEN VETERANS 
+insertion: 
+deletion: VETERANS 
+change: HEALTH to AFFAIRS				HEALTH / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[3]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[3]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 101. Study of barriers fo... But actually it is: Sec. 101. Study of barriers fo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: Sec101Study of barriers for women veterans to health /the Department of Veterans Affairs 
+insertion: 
+deletion: health 
+change: from to care				from / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[4]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[4]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 102. Comprehensive assess... But actually it is: Sec. 102. Comprehensive assess...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Sec102Comprehensive assessment of women’s health /of the Department of Veterans Affairs 
+insertion: 
+deletion: health 
+change: programs to care				programs / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[5]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[5]/text()[1]
+The reason of change is: content change
+The value is expected to be: Title II—IMPROVEMENT AND EXPAN... But actually it is: Title II—IMPROVEMENT AND EXPAN...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: Title IIIMPROVEMENT AND EXPANSION OF HEALTH CARE PROGRAMS OF /OF VETERANS AFFAIRS FOR WOMEN VETERANS 
+insertion: 
+deletion: OF 
+change: DEPARTMENT to THE				DEPARTMENT / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[6]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[6]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 201. Medical care for new... But actually it is: Sec. 201. Medical care for new...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: Sec201Medical care for newborn children of women 
+insertion: 
+deletion: 
+change: veterans receiving maternity care to veterans				receiving maternity care 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[7]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[7]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 202. Training and certifi... But actually it is: Sec. 202. Training and certifi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Sec202Training and certification for mental health /of the Department of Veterans Affairs on care for veterans /sexual trauma and posttraumatic stress disorder 
+insertion: 
+deletion: health veterans 
+change: providers to care				providers / from to suffering				from / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[8]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[8]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 203. Pilot program for pr... But actually it is: Sec. 203. Pilot program for pr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: Sec203Pilot program for provision of child care /certain veterans receiving certain types of health care services 
+insertion: 
+deletion: care 
+change: to to assistance				to / at Department facilities to at				Department facilities 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[9]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/toc[1]/toc-entry[9]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 204. Addition of recently... But actually it is: Sec. 204. Addition of recently...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Sec204Addition of recently separated women and /to serve on advisory committees 
+insertion: 
+deletion: and 
+change: veterans to minority				veterans / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: STUDIES AND ASSESSMENTS OF DEP... But actually it is: STUDIES AND			 ASSESSMENTS OF ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: STUDIES ASSESSMENTS OF DEPARTMENT OF VETERANS AFFAIRS HEALTH SERVICES FOR 
+insertion: 
+deletion: 
+change: AND to AND			 / WOMEN VETERANS to WOMEN			 VETERANS 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Study of barriers for women ve... But actually it is: Study of			 barriers for women...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: Study barriers for women veterans to health care from the Department of 
+insertion: 
+deletion: 
+change: of to of			 / Veterans Affairs to Veterans			 Affairs 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Study required But actually it is: Study			 required
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Study required 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of Veterans Affa... But actually it is: The Secretary of Veterans Affa...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: The Secretary of Veterans Affairs shall conduct comprehensive study of the barriers to the provision of comprehensive care by the Department of Veterans Affairs encountered by women who veterans In conducting the study the Secretary shall 
+insertion: 
+deletion: 
+change: a to a			 / health to health			 / are to are			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: survey women veterans who seek... But actually it is: survey women			 veterans who s...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: survey veterans who seek or receive hospital care or medical services provided by Department of Veterans Affairs as well as women veterans who do not seek receive such care or services 
+insertion: 
+deletion: 
+change: women to women			 / the to the			 / or to or			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: build on the work of the study... But actually it is: build on the work			 of the st...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: build on the of the study of the Department of Veterans Affairs entitled 
+insertion: 
+deletion: 
+change: work to work			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/paragraph[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/paragraph[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: National Survey of Women Veter... But actually it is: National			 Survey of Women Ve...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: National Survey of Women Veterans in Fiscal Year 20072008 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: administer the survey to a rep... But actually it is: administer the survey to a rep...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: administer the survey to a sample of women veterans from each Veterans Integrated Service 
+insertion: 
+deletion: 
+change: representative to representative			 / Network and to Network			 and 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ensure that the sample of wome... But actually it is: ensure that the sample of wome...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: ensure that the sample of women surveyed is of sufficient size for the study results to be significant and is a larger sample than that of the study of the Department Veterans Affairs entitled 
+insertion: 
+deletion: 
+change: veterans to veterans			 / statistically to statistically			 / of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/paragraph[4]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/paragraph[4]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: National Survey of Women Veter... But actually it is: National Survey of Women Veter...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: National Survey of Women Veterans in Year 20072008 
+insertion: 
+deletion: 
+change: Fiscal to Fiscal			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Elements of study But actually it is: Elements of			 study
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of study to of			 study 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In conducting the study requir... But actually it is: In conducting the study requir...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.87
+The Detailes are shown as followings: 
+common words: In conducting the study required by subsection a Secretary of Veterans Affairs shall conduct research on the effects of following on the women veterans surveyed in the study 
+insertion: 
+deletion: 
+change: the to the			 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The perceived stigma associate... But actually it is: The perceived			 stigma associ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: The stigma associated with seeking mental health care services 
+insertion: 
+deletion: 
+change: perceived to perceived			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The effect of driving distance... But actually it is: The effect of			 driving dista...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: The effect driving distance or availability of other forms of transportation to nearest medical facility on access to care 
+insertion: 
+deletion: 
+change: of to of			 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The availability of child care... But actually it is: The availability			 of child c...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: The of child care 
+insertion: 
+deletion: 
+change: availability to availability			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The acceptability of integrate... But actually it is: The acceptability			 of integr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: The of integrated primary care women’s health clinics or both 
+insertion: 
+deletion: 
+change: acceptability to acceptability			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The comprehension of eligibili... But actually it is: The comprehension			 of eligib...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: The of eligibility requirements for and the scope of services available hospital care and medical services 
+insertion: 
+deletion: 
+change: comprehension to comprehension			 / under to under			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/paragraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/paragraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The perception of the personal... But actually it is: The perception of			 the perso...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: The perception the personal safety and comfort of women veterans in inpatient outpatient behavioral health facilities of the Department 
+insertion: 
+deletion: 
+change: of to of			 / and to and			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/paragraph[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/paragraph[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The gender sensitivity of heal... But actually it is: The gender			 sensitivity of h...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: The sensitivity of health care providers and staff to issues that affect women 
+insertion: 
+deletion: 
+change: gender to gender			 / particularly to particularly			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/paragraph[8]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/paragraph[8]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The effectiveness of outreach ... But actually it is: The effectiveness			 of outrea...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: The of outreach for health care services available to women veterans 
+insertion: 
+deletion: 
+change: effectiveness to effectiveness			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/paragraph[9]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/paragraph[9]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The location and operating hou... But actually it is: The location and			 operating ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: The location operating hours of health care facilities that provide services to 
+insertion: 
+deletion: 
+change: and to and			 / women veterans to women			 veterans 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/paragraph[10]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/paragraph[10]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Such other significant barrier... But actually it is: Such other			 significant barr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Such significant barriers as the Secretary of Veterans Affairs may identify 
+insertion: 
+deletion: 
+change: other to other			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authority To enter into contra... But actually it is: Authority To			 enter into con...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Authority enter into contracts 
+insertion: 
+deletion: 
+change: To to To			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of Veterans Affa... But actually it is: The Secretary of Veterans Affa...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: The Secretary of Veterans Affairs enter into a contract with a qualified independent entity or organization carry out the studies and research required under this section 
+insertion: 
+deletion: 
+change: shall to shall			 / to to to			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Mandatory review of data by ce... But actually it is: Mandatory review			 of data by...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Mandatory of data by certain divisions within the Department 
+insertion: 
+deletion: 
+change: review to review			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[4]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[4]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In			 general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[4]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[4]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of Veterans Affa... But actually it is: The Secretary of Veterans Affa...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: The Secretary of Veterans Affairs shall ensure that head of each division of the Department of Veterans Affairs specified paragraph 2 reviews the results of the study conducted under this The head of each such division shall submit findings with respect to the to the Under Secretary for Health and to other pertinent program offices the Department of Veterans Affairs with duties relating to health care for women veterans 
+insertion: 
+deletion: 
+change: the to the			 / in to in			 / section to section			 / study to study			 / within to within			 / services to services			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[4]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[4]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Specified divisions of the Dep... But actually it is: Specified			 divisions of the ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Specified divisions of the Department 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[4]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[4]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The divisions of the Departmen... But actually it is: The divisions of the Departmen...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: The divisions of the Department Veterans Affairs specified in this paragraph are 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the Center for Women Veterans,... But actually it is: the Center for			 Women Vetera...
+The Jaccard Index is: 0.49
+And the Smith Waterman Score is: 0.57
+The Detailes are shown as followings: 
+common words: the Center Women Veterans established 
+insertion: 
+deletion: 
+change: for to for			 / under section 318 of title 38 United States Code and to under			 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"section
+			 318"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 38, United States Code; and"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the Advisory Committee on Wome... But actually it is: the Advisory			 Committee on W...
+The Jaccard Index is: 0.59
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: the Committee on Women Veterans established 
+insertion: 
+deletion: 
+change: Advisory to Advisory			 / under section 542 of title 38 United States Code to under			 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"section
+			 542"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[2]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 38, United States Code."}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[5]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[5]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Report on implementation But actually it is: Report on			 implementation
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: on implementation to on			 implementation 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[5]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[5]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 6 months after ... But actually it is: Not later than 6 months after ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Not later than 6 months after the date on the Department of Veterans Affairs publishes a final report on the 
+insertion: 
+deletion: 
+change: which to which			 / study entitled to study			 entitled 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[5]/paragraph[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[5]/paragraph[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: National Survey of Women Veter... But actually it is: National Survey of Women Veter...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: National Survey of Women Veterans in Fiscal 
+insertion: 
+deletion: 
+change: Year 20072008 to Year			 20072008 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[5]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[5]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: , the Secretary of Veterans Af... But actually it is: , the Secretary of Veterans Af...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.9
+The Detailes are shown as followings: 
+common words:  the Secretary of Veterans Affairs shall submit to Congress report on the status of the implementation of the section 
+insertion: 
+deletion: 
+change: a to a			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[5]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[5]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Report on study But actually it is: Report on			 study
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: on study to on			 study 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[5]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[5]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 30 months after... But actually it is: Not later than 30 months after...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: Not later than 30 months after the date on which Department publishes such final report the Secretary of Veterans Affairs submit to Congress a report on the study required under this section report shall include recommendations for such administrative and action as the Secretary of Veterans Affairs determines to be appropriate report shall also include the findings of the head of each specified of the Department and of the Under Secretary for Health 
+insertion: 
+deletion: 
+change: the to the			 / shall to shall			 / The to The			 / legislative to legislative			 / The to The			 / division to division			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[6]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Definition of facility of the ... But actually it is: Definition of			 facility of t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Definition facility of the Department 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In this section the term  But actually it is: In			 this section the term 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: In this section the term 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[6]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[6]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  has the meaning given that te... But actually it is:  has the meaning			 given that...
+The Jaccard Index is: 0.41
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words:  has the given that term in 
+insertion: 
+deletion: 
+change: meaning to meaning			 / section 17013 of title 38 United States Code to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[6]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"section 1701(3)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[6]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 38, United
+			 States Code."}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[7]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[7]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authorization of appropriation... But actually it is: Authorization of			 appropriat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of appropriations to of			 appropriations 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: There is authorized to be appr... But actually it is: There is authorized to be appr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: There is authorized to be appropriated to Secretary of Veterans Affairs 4000000 to carry out this section 
+insertion: 
+deletion: 
+change: the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Comprehensive assessment of wo... But actually it is: Comprehensive			 assessment of...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: Comprehensive assessment of women’s health care programs of the Department of 
+insertion: 
+deletion: 
+change: Veterans Affairs to Veterans			 Affairs 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In			 general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of Veterans Affa... But actually it is: The Secretary of Veterans Affa...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: The Secretary of Veterans Affairs shall conduct comprehensive assessment of all health care services and programs provided the Department of Veterans Affairs for the health care needs of women Such comprehensive assessment shall include assessments of specialized for women with posttraumatic stress disorder for women who are homeless women who require care for substance abuse or mental illnesses and for who require obstetric and gynecologic care 
+insertion: 
+deletion: 
+change: a to a			 / by to by			 / veterans to veterans			 / programs to programs			 / for to for			 / women to women			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Specific matters studied But actually it is: Specific matters			 studied
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: matters studied to matters			 studied 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Identification of programs But actually it is: Identification			 of programs
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Identification of programs 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For each medical facility of t... But actually it is: For each medical facility of t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: For each medical facility of the Department Veterans Affairs the Secretary of Veterans Affairs shall identify each of following types of programs for women veterans provided by the Department determine whether effective health care services including health care services are readily available to and easily accessed by 
+insertion: 
+deletion: 
+change: of to of			 / the to the			 / and to and			 / evidencedbased to evidencedbased			 / women veterans to women			 veterans 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Health promotion programs, inc... But actually it is: Health promotion			 programs, ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Health programs including reproductive health promotion programs 
+insertion: 
+deletion: 
+change: promotion to promotion			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Disease prevention programs. But actually it is: Disease prevention			 programs...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: prevention programs to prevention			 programs 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/paragraph[1]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/paragraph[1]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Health care programs. But actually it is: Health care			 programs.
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: care programs to care			 programs 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Identification of relevant iss... But actually it is: Identification of			 relevant ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Identification relevant issues 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In making such determination, ... But actually it is: In making such determination, ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: In making such determination the Secretary Veterans Affairs shall identify for each medical facility of the Department Veterans Affairs 
+insertion: 
+deletion: 
+change: of to of			 / of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the frequency with which such ... But actually it is: the frequency with			 which su...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: the frequency which such services are available and provided 
+insertion: 
+deletion: 
+change: with to with			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the demographics of the women ... But actually it is: the demographics			 of the wom...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: the of the women veterans population 
+insertion: 
+deletion: 
+change: demographics to demographics			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/paragraph[2]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the sites where such services ... But actually it is: the sites where			 such servic...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: the sites such services are available and provided and 
+insertion: 
+deletion: 
+change: where to where			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/paragraph[2]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/paragraph[2]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: whether, and to what extent, w... But actually it is: whether, and to			 what extent...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: whether and what extent waiting lists geographic distance and other factors obstruct receipt of any of such services at any such site 
+insertion: 
+deletion: 
+change: to to to			 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authority To enter into a cont... But actually it is: Authority To			 enter into a c...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Authority enter into a contract 
+insertion: 
+deletion: 
+change: To to To			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of Veterans Affa... But actually it is: The Secretary of Veterans Affa...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: The Secretary of Veterans Affairs enter into a contract with a qualified independent entity or organization carry out the studies and research required under this section 
+insertion: 
+deletion: 
+change: shall to shall			 / to to to			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Development of plan To improve... But actually it is: Development of			 plan To impr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Development plan To improve services 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[4]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[4]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Plan required But actually it is: Plan			 required
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Plan required 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[4]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[4]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: After conducting the comprehen... But actually it is: After conducting the comprehen...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: After conducting the comprehensive assessment by subsection a the Secretary of Veterans Affairs shall develop a plan improve the provision of health care services to women veterans and to the future health care needs including the mental health care needs of serving in the combat theaters of Operation Enduring Freedom and Iraqi Freedom 
+insertion: 
+deletion: 
+change: required to required			 / to to to			 / project to project			 / women to women			 / Operation to Operation			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[4]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[4]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: List of services But actually it is: List of			 services
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of services to of			 services 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[4]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[4]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In developing the plan under t... But actually it is: In developing the plan under t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: In developing the plan under this subsection Secretary of Veterans Affairs shall list the types of services available women veterans at each medical center of the Department 
+insertion: 
+deletion: 
+change: the to the			 / for to for			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than one year after ... But actually it is: Not			 later than one year aft...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Not later than one year after the date of the enactment of this Act the of Veterans Affairs shall submit to Congress a report on the conducted pursuant to subsection a and the plan required under d The report shall include recommendations for such administrative legislative action as the Secretary of Veterans Affairs determines to 
+insertion: 
+deletion: 
+change: Secretary to Secretary			 / assessment to assessment			 / subsection to subsection			 / and to and			 / be appropriate to be			 appropriate 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[6]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: GAO report But actually it is: GAO			 report
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: GAO report 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 6 months after ... But actually it is: Not later than 6 months after ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: Not later than 6 months after the date on which Secretary of Veterans Affairs submits the report required under subsection the Comptroller General shall submit to Congress a report containing findings of the Comptroller General with respect to the report of Secretary which may include such recommendations for administrative legislative actions as the Comptroller General determines to 
+insertion: 
+deletion: 
+change: the to the			 / e to e			 / the to the			 / the to the			 / or to or			 / be appropriate to be			 appropriate 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[7]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[7]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authorization of appropriation... But actually it is: Authorization of			 appropriat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of appropriations to of			 appropriations 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: There is authorized to be appr... But actually it is: There is			 authorized to be a...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: There authorized to be appropriated to the Secretary of Veterans Affairs to carry out this section 
+insertion: 
+deletion: 
+change: is to is			 / 5000000 to 5000000			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IMPROVEMENT AND EXPANSION OF H... But actually it is: IMPROVEMENT AND			 EXPANSION O...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: IMPROVEMENT EXPANSION OF HEALTH CARE PROGRAMS OF THE DEPARTMENT OF VETERANS AFFAIRS WOMEN VETERANS 
+insertion: 
+deletion: 
+change: AND to AND			 / FOR to FOR			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Medical care for newborn child... But actually it is: Medical care			 for newborn ch...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Medical for newborn children of women veterans receiving maternity care 
+insertion: 
+deletion: 
+change: care to care			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Newborn Care But actually it is: Newborn			 Care
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Newborn Care 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subchapter VIII of chapter 17 ... But actually it is: Subchapter VIII of			 
+The Jaccard Index is: 0.16
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"chapter 17"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 38,
+			 United States Code, is amended by adding at the end the following new
+			 section:"}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Hospital care and medical serv... But actually it is: Hospital care				and medical s...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: care and medical services for newborn children of women veterans receiving 
+insertion: 
+deletion: Hospital 
+change: maternity care to maternity				care 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[1]/quoted-block[1]/section[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[1]/quoted-block[1]/section[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In the case of a child of a wo... But actually it is: In the case of a child of				a...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: In the case of a child /woman veteran who is receiving hospital care or medical services at /facility or in another facility pursuant to a contract entered /the Secretary relating to the birth of that child the Secretary /hospital care and medical services to that child at that /the sevenday period beginning on the date of the birth of 
+insertion: 
+deletion: child at entered Secretary that 
+change: a to of				a / Department to a				Department / by to into				by / furnish to may				furnish / during to facility				during / the child to the				child 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clerical Amendment But actually it is: Clerical			 Amendment
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Clerical Amendment 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The table of sections at the b... But actually it is: The table of sections at the b...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: The table of sections at the beginning of chapter 17 such title is amended by inserting after the item relating to section 1785 following new item 
+insertion: 
+deletion: 
+change: of to of			 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 1786. Hospital care and medica... But actually it is: 1786. Hospital care and medica...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: 1786 Hospital care and medical /newborn children of women veterans receiving 
+insertion: 
+deletion: medical 
+change: for to services				for / maternity care to maternity				care 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Training and certification for... But actually it is: Training and			 certification ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: Training certification for mental health care providers of the Department of Affairs on care for veterans suffering from sexual trauma and stress disorder 
+insertion: 
+deletion: 
+change: and to and			 / Veterans to Veterans			 / posttraumatic to posttraumatic			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 1720D of title 38, Uni... But actually it is:  of			 title 38, United States...
+The Jaccard Index is: 0.77
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: 1720D of title 38 United States Code is amended 
+insertion: 
+deletion: Section 
+change: 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"Section 1720D"}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by redesignating subsection (d... But actually it is: by redesignating			 subsection...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: by subsection d as subsection f and 
+insertion: 
+deletion: 
+change: redesignating to redesignating			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by inserting after subsection ... But actually it is: by inserting after			 subsecti...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: by inserting subsection c the following new subsections 
+insertion: 
+deletion: 
+change: after to after			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary shall carry out ... But actually it is: The Secretary				shall carry o...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: Secretary shall carry out a program to provide graduate medical education /and continuing medical education for mental health /provide counseling care and services under subsection a In /such program the Secretary shall ensure that all such mental /have been trained in a consistent manner and that such /principles of evidencebased treatment and care for sexual trauma 
+insertion: 
+deletion: The education health In mental such 
+change: certification to training				certification / who to professionals				who / out to carrying				out / professionals to health				professionals / includes to training				includes / and posttraumatic stress disorder to and				posttraumatic stress disorder 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[2]/quoted-block[1]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[2]/quoted-block[1]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary shall submit to ... But actually it is: The Secretary				shall submit ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: Secretary shall submit to Congress an annual report on the counseling care and /to veterans pursuant to this section Each report shall include /the year covered by the report with respect to each of 
+insertion: 
+deletion: The and include 
+change: provided to services				provided / for to data				for / the following to the				following 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[2]/quoted-block[1]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[2]/quoted-block[1]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The number of mental health pr... But actually it is: The number of				mental health...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: The number /health professionals graduate medical education trainees and /providers who have been certified under the program required by /and the amount and nature of continuing medical education provided /program to such professionals trainees and providers who are 
+insertion: 
+deletion: number and by provided 
+change: mental to of				mental / care to primary				care / d to subsection				d / such to under				such / so certified to so				certified 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[2]/quoted-block[1]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[2]/quoted-block[1]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The number of women veterans w... But actually it is: The number of				women veteran...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.68
+The Detailes are shown as followings: 
+common words: The number /veterans who received counseling and care and services under /from professionals and providers who received training under 
+insertion: 
+deletion: number under 
+change: women to of				women / a to subsection				a / subsection d to subsection				d 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[2]/quoted-block[1]/subsection[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[2]/quoted-block[1]/subsection[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The number of graduate medical... But actually it is: The number of				graduate medi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.65
+The Detailes are shown as followings: 
+common words: The number /medical education training certification and continuing /courses provided by reason of subsection d 
+insertion: 
+deletion: number continuing 
+change: graduate to of				graduate / education to medical				education / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[2]/quoted-block[1]/subsection[2]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[2]/quoted-block[1]/subsection[2]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The number of trained full-tim... But actually it is: The number of				trained full-...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.68
+The Detailes are shown as followings: 
+common words: The number /fulltime equivalent employees required in each facility of /to meet the needs of veterans requiring treatment and care /trauma and posttraumatic stress disorder 
+insertion: 
+deletion: number of care 
+change: trained to of				trained / Department to the				Department / sexual to for				sexual / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[2]/quoted-block[1]/subsection[2]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[2]/quoted-block[1]/subsection[2]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any recommended improvements f... But actually it is: Any recommended				improvement...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: recommended improvements for treating women veterans with sexual trauma and 
+insertion: 
+deletion: Any 
+change: posttraumatic stress disorder to posttraumatic				stress disorder 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[2]/quoted-block[1]/subsection[2]/paragraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[2]/quoted-block[1]/subsection[2]/paragraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Such other information as the ... But actually it is: Such other				information as t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: other information as the Secretary determines to 
+insertion: 
+deletion: Such 
+change: be appropriate to be				appropriate 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Pilot program for provision of... But actually it is: Pilot program			 for provision...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: Pilot for provision of child care assistance to certain veterans receiving types of health care services at Department facilities 
+insertion: 
+deletion: 
+change: program to program			 / certain to certain			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In			 general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Pilot program required But actually it is: Pilot program			 required
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: program required to program			 required 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than six months afte... But actually it is: Not later than six months afte...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: Not later than six months after the date of enactment of this Act the Secretary of Veterans Affairs shall carry out twoyear pilot program under which subject to paragraph 2 the shall provide child care assistance to a qualified veteran child care needed the veteran during the period of time described in paragraph 3 
+insertion: 
+deletion: 
+change: the to the			 / a to a			 / Secretary to Secretary			 / by to by			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Form of child care assistance But actually it is: Form of child			 care assistan...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Form of care assistance 
+insertion: 
+deletion: 
+change: child to child			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Child care assistance under th... But actually it is: Child care assistance under th...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Child care assistance under this section 
+insertion: 
+deletion: 
+change: may include to may			 include 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: stipends for the payment of ch... But actually it is: stipends for the			 payment of...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: stipends for payment of child care offered by licensed child care centers either or through a voucher program 
+insertion: 
+deletion: 
+change: the to the			 / directly to directly			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the development of partnership... But actually it is: the development of			 partners...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: the development partnerships with private agencies 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[2]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: collaboration with facilities ... But actually it is: collaboration with			 faciliti...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: collaboration facilities or programs of other Federal departments or agencies and 
+insertion: 
+deletion: 
+change: with to with			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[2]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[2]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the arrangement of after-schoo... But actually it is: the arrangement of			 after-sc...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: the arrangement afterschool care 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Period of time But actually it is: Period of			 time
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of time to of			 time 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Child care assistance under th... But actually it is: Child care assistance under th...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.9
+The Detailes are shown as followings: 
+common words: Child care assistance under the pilot program may only provided for the period of time that the qualified veteran 
+insertion: 
+deletion: 
+change: be to be			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[3]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[3]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: receives a health care service... But actually it is: receives a health			 care serv...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: receives a care service referred to in paragraph 4 at a facility of the 
+insertion: 
+deletion: 
+change: health to health			 / Department and to Department			 and 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[3]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[3]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: requires to travel to and retu... But actually it is: requires to travel			 to and r...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: requires to to and return from such facility for the receipt of such health 
+insertion: 
+deletion: 
+change: travel to travel			 / care service to care			 service 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Qualified veteran defined But actually it is: Qualified			 veteran defined
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Qualified veteran defined 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[4]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[4]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: qualified veteran But actually it is: qualified			 veteran
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: qualified veteran 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[4]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means a veteran who is the pr... But actually it is:  means a veteran who is the pr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.87
+The Detailes are shown as followings: 
+common words:  means a veteran who is the primary caretaker of a child and is receiving from the Department of Veterans Affairs one or more of following health care services 
+insertion: 
+deletion: 
+change: who to who			 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[4]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[4]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Regular mental health care ser... But actually it is: Regular mental			 health care ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Regular health care services 
+insertion: 
+deletion: 
+change: mental to mental			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[4]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[4]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Intensive mental health care s... But actually it is: Intensive mental			 health car...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Intensive health care services 
+insertion: 
+deletion: 
+change: mental to mental			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[4]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[4]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any other intensive health car... But actually it is: Any other			 intensive health ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Any intensive health care services for which the Secretary determines that provision of child care would improve access by qualified veterans 
+insertion: 
+deletion: 
+change: other to other			 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Location of pilot program But actually it is: Location of			 pilot program
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Location pilot program 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary shall carry out ... But actually it is: The Secretary shall carry out ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: The Secretary shall carry out the pilot program no fewer than three Veterans Integrated Service Networks 
+insertion: 
+deletion: 
+change: at to at			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authorization of appropriation... But actually it is: Authorization of			 appropriat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of appropriations to of			 appropriations 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: There is authorized to be appr... But actually it is: There is authorized to be appr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.87
+The Detailes are shown as followings: 
+common words: There is authorized to be appropriated to Secretary of Veterans Affairs 1500000 for each of fiscal years 2010 and to carry out the pilot program under this section 
+insertion: 
+deletion: 
+change: the to the			 / 2011 to 2011			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than six months afte... But actually it is: Not			 later than six months a...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: Not later than six months after the completion of the pilot program the shall submit to Congress a report on the pilot program and shall recommendations for the continuation or expansion of the pilot program 
+insertion: 
+deletion: 
+change: Secretary to Secretary			 / include to include			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Addition of recently separated... But actually it is: Addition of recently			 separa...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: Addition of separated women and minority veterans to serve on advisory committees 
+insertion: 
+deletion: 
+change: recently to recently			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Advisory committee on women ve... But actually it is: Advisory			 committee on women...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Advisory committee on women veterans 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subsection (a)(2)(A) of sectio... But actually it is: Subsection (a)(2)(A) of			 
+The Jaccard Index is: 0.31
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Subsection a2A 
+insertion: 
+deletion: 
+change: of section 542 of title 38 United States Code is amended to of			 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"section
+			 542"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 38, United States Code, is amended—"}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by striking the period at the ... But actually it is: by striking the			 period at t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: by striking period at the end of clause iii and inserting 
+insertion: 
+deletion: 
+change: the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[1]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[1]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ; and But actually it is: ;			 and
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words:  and 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by inserting after clause (iii... But actually it is: by inserting after			 clause (...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: by inserting clause iii the following new clause 
+insertion: 
+deletion: 
+change: after to after			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[1]/paragraph[3]/quoted-block[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[1]/paragraph[3]/quoted-block[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: women who are recently separat... But actually it is: women who are recently separat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: women who are recently 
+insertion: 
+deletion: 
+change: separated veterans to separated				veterans 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Advisory committee on minority... But actually it is: Advisory			 committee on minor...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Advisory committee on minority veterans 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subsection (a)(2)(A) of sectio... But actually it is: Subsection (a)(2)(A) of			 
+The Jaccard Index is: 0.31
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Subsection a2A 
+insertion: 
+deletion: 
+change: of section 544 of title 38 United States Code is amended to of			 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"section
+			 544"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[2]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 38, United States Code, is amended—"}
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by striking the period at the ... But actually it is: by striking the			 period at t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: by striking period at the end of clause iv and inserting 
+insertion: 
+deletion: 
+change: the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by inserting after clause (iv)... But actually it is: by inserting after			 clause (...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: by inserting clause iv the following new clause 
+insertion: 
+deletion: 
+change: after to after			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[2]/paragraph[3]/quoted-block[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[2]/paragraph[3]/quoted-block[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: recently separated veterans wh... But actually it is: recently separated veterans wh...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: recently separated veterans who 
+insertion: 
+deletion: 
+change: are minority group members to are				minority group				members 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effective date But actually it is: Effective			 date
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Effective date 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The amendments made by this se... But actually it is: The amendments made by this se...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.91
+The Detailes are shown as followings: 
+common words: The amendments made by this section shall first apply appointments made on or after the date of the enactment of this Act 
+insertion: 
+deletion: 
+change: to to to			 / 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Passed the House of Representa... But actually it is: Passed the House of			 Represe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Passed the House Representatives June 23 2009 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/endorsement[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: endorsement But actually it is: null
+ Deleted paragraph content is: {""}
+

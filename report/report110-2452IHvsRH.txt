@@ -1,0 +1,895 @@
+===================================================
+
+total difference is: 223
+comparing document: BILLS-110hr2452ih.xml
+to document: BILLS-110hr2452rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 2452 IH: Raw Sewage Ove... But actually it is: 110 HR 2452 RH: Amend the titl...
+The Jaccard Index is: 0.14
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2007-05-23 But actually it is: 2008-06-19
+The Jaccard Index is: 0.07
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/session[1]/text()[1]   Compared with location: bill[1]/form[1]/session[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 1st Session But actually it is: 2d Session
+The Jaccard Index is: 0.55
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 1st Session 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend the Federal Water Pol... But actually it is: To amend the Federal Water Pol...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: To amend the Federal Water /Control Act /ensure that sewage treatment plants monitor for and /discharges of /sewage and for other purposes 
+insertion: Pollution		 report		 
+deletion: Act of 
+change: Pollution to  /  to to / report to  /  to raw / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 458"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No.
+		  110–723]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			June 19, 2008
+			Additional sponsors: Mr.
+			 Payne, Mr. Smith of New
+			 Jersey, Mr. Kucinich,
+			 Mr. Hinchey,
+			 Ms. Schakowsky,
+			 Mrs. Lowey,
+			 Mr. Waxman,
+			 Mr. Filner,
+			 Mr. Pallone,
+			 Ms. Jackson-Lee of Texas,
+			 Mr. McNulty,
+			 Mr. Gilchrest,
+			 Mr. Holt, Ms. Lee, Mr.
+			 Courtney, Mr. Platts,
+			 Mr. Boswell,
+			 Mr. Carnahan,
+			 Mr. Engel,
+			 Mr. Baird,
+			 Mr. Wilson of South Carolina,
+			 Mr. Braley of Iowa,
+			 Mr. Pascrell,
+			 Mr. King of New York,
+			 Mr. Sires,
+			 Mr. Hastings of Florida,
+			 Mr. Rothman,
+			 Mr. Capuano,
+			 Ms. Baldwin,
+			 Mr. Levin,
+			 Ms. Wasserman Schultz,
+			 Ms. DeLauro,
+			 Mr. Wynn, Ms. McCollum of Minnesota,
+			 Mr. Arcuri,
+			 Mr. Shays,
+			 Mr. Serrano,
+			 Mr. Cohen,
+			 Mr. Murphy of Connecticut,
+			 Mr. Wexler,
+			 Mr. Hinojosa,
+			 Ms. Woolsey,
+			 Mr. Klein of Florida,
+			 Mr. Israel,
+			 Mr. Sestak, and
+			 Mr. Ruppersberger
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			June 19, 2008
+			Reported with amendments, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+			For text of introduced bill, see copy of bill as
+			 introduced on May 23, 2007
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Raw Sewage Overflow Community	... But actually it is: Sewage Overflow Community			 R...
+The Jaccard Index is: 0.91
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Sewage Overflow Community			 RighttoKnow Act 
+insertion: 
+deletion: Raw 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Findings But actually it is: Definitions
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Congress finds the following: But actually it is: Section 502 of the Federal Wat...
+The Jaccard Index is: 0.07
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"33 U.S.C. 1362"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended by adding at the end the
+			 following:"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]
+The reason of change is: element tag name
+The value is expected to be: paragraph But actually it is: quoted-block
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/paragraph[1]
+The reason of change is: element tag name
+The value is expected to be: enum But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/paragraph[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(25)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/paragraph[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Sanitary sewer
+				overflow"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/paragraph[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"The term sanitary sewer overflow means an
+				overflow, spill, release, or diversion of wastewater from a sanitary sewer
+				system. Such term does not include municipal combined sewer overflows or other
+				discharges from a municipal combined storm and sanitary sewer system and does
+				not include wastewater backups into buildings caused by a blockage or other
+				malfunction of a building lateral that is privately owned. Such term includes
+				overflows or releases of wastewater that reach waters of the United States,
+				overflows or releases of wastewater in the United States that do not reach
+				waters of the United States, and wastewater backups into buildings that are
+				caused by blockages or flow conditions in a sanitary sewer other than a
+				building lateral."}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/paragraph[2]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/paragraph[2]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(26)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/paragraph[2]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Treatment
+				works"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/paragraph[2]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"The term
+				treatment works has the meaning given that term in section
+				212."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/after-quoted-block[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: after-quoted-block
+ Inserted paragraph content is: {". "}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(2)Inadequately
+			 treated sewage is filled with bacteria, viruses, parasites, and worms that make
+			 people sick.
+			"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(3)People who ingest
+			 or inhale inadequately treated sewage can contract gastroenteritis, hepatitis,
+			 giardiasis, cryptosporidiosis, dysentery, and other gastrointestinal and
+			 respiratory diseases.
+			"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[4]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(4)Between 1,800,000
+			 and 3,500,000 Americans become sick every year just from swimming in waters
+			 contaminated by sewer overflows.
+			"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[5]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(5)The loss of
+			 swimming opportunities (beach closings) due to pathogen contamination is valued
+			 at $1,000,000,000 to $2,000,000,000 annually in the United States.
+			"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[6]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(6)Economic losses
+			 due to swimming-related illnesses are estimated at $28,000,000,000
+			 annually.
+			"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[7]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(7)Many sewer systems
+			 do not routinely monitor to detect sewer overflows or report those that do
+			 occur to environmental or public health agencies.
+			"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[8]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(8)Better monitoring,
+			 reporting, and public notification of sewer overflows would save millions of
+			 Americans from getting sick every year.
+			"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[9]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(9)Public health
+			 authorities are not routinely notified of sewer overflows that threaten public
+			 health.
+			"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Definitions But actually it is: Monitoring, reporting,			 and ...
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 502 of the			  But actually it is: Section 402 of the Federal Wat...
+The Jaccard Index is: 0.26
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 502 of the			 to 402 of the Federal Water Pollution			 Control Act 
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/act-name[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: act-name But actually it is: null
+ Deleted paragraph content is: {"Federal Water Pollution Control Act"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: 			 ( But actually it is: ) is amended by adding at the ...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/external-xref[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/external-xref[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 33 U.S.C. 1362 But actually it is: 33 U.S.C. 1342
+The Jaccard Index is: 0.71
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: 33 USC 
+insertion: 
+deletion: 
+change: 1362 to 1342 
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) is amended by adding at the ... But actually it is: ) is amended by adding at the ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words:  is amended by adding at the end 
+insertion: 
+deletion: 
+change: the following to the			 following 
+
+We are at location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/paragraph[1]   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]
+The reason of change is: element tag name
+The value is expected to be: paragraph But actually it is: subsection
+
+We are at location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/paragraph[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (25) But actually it is: (r)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sanitary sewer				overflow But actually it is: Sewer Overflow				Notification...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: sewer				overflow to Overflow				Notifications 
+
+We are at location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/paragraph[1]/text[1]   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/paragraph[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/paragraph[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(1)}
+
+We are at location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/paragraph[1]/text[1]/term[1]   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/paragraph[1]/header[1]
+The reason of change is: element tag name
+The value is expected to be: term But actually it is: header
+
+We are at location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/paragraph[1]/text[1]/term[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: sanitary sewer overflow But actually it is: General				requirements
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"Not later than one year after the date of enactment
+				of this subsection, the Administrator shall take such action as may be
+				necessary to ensure that each permit issued under this section before, on, or
+				after the date of enactment of this subsection for a publicly owned treatment
+				works shall require, at a minimum, that the owner or operator of the treatment
+				works—"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(A)institute and utilize a
+				feasible methodology, technology, or management program to alert the owner or
+				operator to the occurrence of a sewer overflow in a timely manner;
+						"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(B)notify the public of a
+				sewer overflow as soon as practicable, but not later than 24 hours after the
+				time the owner or operator becomes aware of such overflow, if such overflow has
+				the potential to affect human health, except for overflows that are wastewater
+				backups into single-family residences;
+						"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(C)immediately notify public health
+				authorities and other affected entities, such as public water systems, of any
+				sewer overflow that may imminently and substantially endanger human health,
+				except for overflows that are wastewater backups into single-family
+				residences;
+						"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(D)report each sewer overflow (other than a
+				release of wastewater that occurs in the course of maintenance of the treatment
+				works, is managed consistently with the treatment works’ best management
+				practices, and is intended to prevent overflows) on its monthly discharge
+				monitoring report to the Administrator or the State, as the case may be, by
+				describing—
+							(i)the magnitude, duration,
+				and suspected cause of the overflow;
+							(ii)the steps taken or
+				planned to reduce, eliminate, or prevent recurrence of the overflow; and
+							(iii)the steps taken or
+				planned to mitigate the impact of the overflow; and
+							"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(E)report to the Administrator or the State,
+				as the case may be, the total number of sewer overflows (other than a release
+				of wastewater that occurs in the course of maintenance of the treatment works,
+				is managed consistently with the treatment works’ best management practices,
+				and is intended to prevent overflows) in a calendar year, including—
+							(i)the details of how much
+				wastewater was released per incident;
+							(ii)the duration of each
+				sewer overflow;
+							(iii)the location of the
+				overflow and any potentially affected receiving waters;
+							(iv)the responses taken to
+				clean up the overflow; and
+							(v)the actions taken to
+				mitigate impacts and avoid further sewer overflows at the site.
+							"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(2)Report to
+				EPAIf a State receives a report under paragraph (1)(E), the
+				State shall report to the Administrator annually, in summary, the details of
+				reported sewer overflows that occurred in that State.
+					"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/paragraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(3)Rulemaking by
+				EPANot later than one year after the date of enactment of this
+				subsection, the Administrator shall, after providing notice and the opportunity
+				for public comment, issue regulations to—
+						(A)establish a set of
+				criteria to guide owners and operators of publicly owned treatment works in
+				assessing whether a sewer overflow has the potential to affect human health or
+				may imminently and substantially endanger human health; and
+						(B)define the terms
+				feasible and timely as such terms apply to paragraph
+				(1)(A).
+						"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/paragraph[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(4)Site specific
+				conditionsThe definitions under paragraph (3)(B) shall include
+				site specific conditions.
+					"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/paragraph[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(5)Definitions
+						(A)Sewer
+				overflowIn this subsection,
+				the term sewer overflow means a sanitary sewer overflow or a
+				municipal combined sewer overflow.
+						(B)Single family
+				residenceIn this subsection,
+				the term single-family residence means an individual dwelling
+				unit, including an apartment, condominium, house, or dormitory. Such term does
+				not include the common areas of a multi-dwelling structure.
+						"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(26)Combined sewer
+				overflowThe term
+				combined sewer overflow means an overflow, spill, release or
+				diversion of wastewater from a combined sanitary system at a point prior to the
+				publicly owned treatment works treatment plant.
+				"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/paragraph[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(27)Sewer
+				overflowThe term sewer overflow means a sanitary
+				sewer overflow or a combined sewer overflow.
+				"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Monitoring,			 reporting, and ... But actually it is: Eligibility for			 assistance
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/text[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: subsection
+
+We are at location: bill[1]/legis-body[1]/section[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(a)}
+
+We are at location: bill[1]/legis-body[1]/section[4]/text[1]/act-name[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/header[1]
+The reason of change is: element tag name
+The value is expected to be: act-name But actually it is: header
+
+We are at location: bill[1]/legis-body[1]/section[4]/text[1]/act-name[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Federal Water Pollution Contro... But actually it is: Purpose of State			 Revolving ...
+The Jaccard Index is: 0.02
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"Section 601(a)
+			 of the Federal Water Pollution Control Act ("}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"33 U.S.C. 1381(a)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is
+			 amended—"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/text[1]/external-xref[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]
+The reason of change is: element tag name
+The value is expected to be: external-xref But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[4]/text[1]/external-xref[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(1)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"by striking
+			 and the first place it appears; and"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/enum[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: enum
+ Inserted paragraph content is: {(2)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"by inserting after
+			 section 320 the following: , and (4) for the
+			 implementation of requirements to monitor for sewer overflows under section
+			 402."}
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]
+The reason of change is: element tag name
+The value is expected to be: quoted-block But actually it is: subsection
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/enum[1]
+The reason of change is: element tag name
+The value is expected to be: subsection But actually it is: enum
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/enum[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(r)}
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"sewer overflow
+				notifications"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/paragraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(1)General
+				requirementsNot later than 1 year after the date of enactment of
+				this subsection, the owner or operator of a publicly owned treatment works (as
+				defined in section 403.3(p) of the Code of Federal Regulations, as in effect on
+				March 1, 2007) under a permit issued under this section—
+						(A)must institute and
+				utilize a methodology, technology, or management program that will alert the
+				owner or operator to the occurrence of a sewer overflow in a timely
+				manner;
+						(B)must notify the
+				public of a sewer overflow in any area where the overflow has the potential to
+				affect human health;
+						(C)must notify the
+				public as soon as practicable but not later than 24 hours of the time the owner
+				or operator becomes aware of the overflow;
+						(D)must immediately
+				notify public health authorities and other affected entities, such as public
+				water systems, of any sewer overflow that may imminently and substantially
+				endanger human health;
+						(E)must provide to
+				the Administrator or the State in the case of a State that has a permit program
+				approved under this section either an oral or electronic report as soon as
+				practicable within 24 hours of the time the owner or operator becomes aware of
+				the overflow;
+						(F)must provide to
+				the Administrator or the State, as the case may be, within 5 days of the time
+				the owner or operator becomes aware of the overflow a written report
+				describing—
+							(i)the magnitude,
+				duration, and suspected cause of the overflow;
+							(ii)the steps taken
+				or planned to reduce, eliminate, and prevent recurrence of the overflow;
+				and
+							(iii)the steps taken
+				or planned to mitigate the impact of the overflow;
+							(G)must report all
+				sewer overflows to waters of the United States on its monthly discharge
+				monitoring report to the Administrator or the State, as the case may be;
+				and
+						(H)must report to the
+				Administrator or the State, as the case may be, the total number of sewer
+				overflows (including sewer overflows that do not reach any waters of the United
+				States) in a calendar year, including the details of how much wastewater was
+				released per incident, the duration of each sewer overflow, the location of the
+				overflow and any potentially affected receiving waters, the responses taken to
+				clean up the overflow, and the actions taken to mitigate impacts and avoid
+				further sewer overflows at the site.
+						"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(2)Report to
+				epaIf a State receives a report under paragraph (1)(H), the
+				State shall report to the Administrator annually, in summary, the details of
+				reported sewer overflows that occurred in that
+				State.
+					"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/after-quoted-block[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/header[1]
+The reason of change is: element tag name
+The value is expected to be: after-quoted-block But actually it is: header
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/after-quoted-block[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: . But actually it is: Water Pollution Control			 Rev...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"Section 603(c) of the Federal Water
+			 Pollution Control Act (33 U.S.C. 1383(c)) is amended—"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(1)by striking
+			 and the first place it appears; and
+				"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(2)by inserting after
+			 section 320 of this Act the following: , and (4) for the
+			 implementation of requirements to monitor for sewer overflows under section 402
+			 of this Act.
+				"}
+
+We are at location: bill[1]/legis-body[1]/section[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Eligibility for			 assistance But actually it is: Limitation on statutory			 con...
+The Jaccard Index is: 0.02
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 603(c) of			 the  But actually it is: Nothing in this			 Act, includ...
+The Jaccard Index is: 0.01
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[5]/text[1]/act-name[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: act-name But actually it is: null
+ Deleted paragraph content is: {"Federal Water Pollution Control
+			 Act"}
+
+We are at location: bill[1]/legis-body[1]/section[5]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  ( But actually it is: Nothing in this			 Act, includ...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[5]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"33 U.S.C. 1383(c)"}
+
+We are at location: bill[1]/legis-body[1]/section[5]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ) is amended— But actually it is: Nothing in this			 Act, includ...
+The Jaccard Index is: 0.08
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by striking			  But actually it is: to limit the ability of			 any...
+The Jaccard Index is: 0.04
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[1]/text[1]/quote[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[1]/text[1]/external-xref[1]
+The reason of change is: element tag name
+The value is expected to be: quote But actually it is: external-xref
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[1]/text[1]/external-xref[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: and But actually it is: 33 U.S.C. 1251 et seq.
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  the first place it appears; a... But actually it is: ); or
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by inserting after			  But actually it is: to supplant or diminish			 obl...
+The Jaccard Index is: 0.02
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[2]/text[1]/quote[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"320 of this Act"}
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  the following:  But actually it is: to supplant or diminish			 obl...
+The Jaccard Index is: 0.03
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[2]/text[1]/quote[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {", and (4) for the
+			 implementation of requirements to monitor, report, and notify the public of
+			 sewer overflows under section 402"}
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[2]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: . But actually it is: to supplant or diminish			 obl...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/official-title-amendment[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: official-title-amendment
+ Inserted paragraph content is: {"Amend the title so as to read:
+	 A bill to amend the Federal Water Pollution Control Act to ensure that
+	 sewage treatment plants monitor for and report discharges of sewage, and for
+	 other purposes.."}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		June 19, 2008
+		Reported with amendments, committed to the Committee of the
+		  Whole House on the State of the Union, and ordered to be printed
+	"}
+

@@ -1,0 +1,165 @@
+===================================================
+
+total difference is: 37
+comparing document: BILLS-112hr1383ih.xml
+to document: BILLS-112hr1383rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To temporarily preserve higher... But actually it is: To temporarily preserve higher...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.43
+The Detailes are shown as followings: 
+common words: To temporarily preserve higher rates /tuition and /for programs of education at nonpublic institutions of /learning /by individuals enrolled in the Post911 /Assistance Program of /Department of Veterans Affairs before the /of the Post911 /Educational Assistance Improvements Act of 2010 
+insertion: for		 higher		 Educational		 enactment		 
+deletion: and learning of Post911 
+change: for to  /  to fees / higher to  /  to pursued / Educational to  /  to the / enactment to  /  to Veterans / and for other		  purposes to and		  for other purposes 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 42"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No.
+		  112–81]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			May 20, 2011
+			Additional sponsors: Mr.
+			 Bishop of New York, Mr.
+			 Runyan, Mr. Hanna,
+			 Mr. Johnson of Ohio,
+			 Mr. Conyers,
+			 Mr. Israel,
+			 Mr. Rehberg,
+			 Mrs. Adams,
+			 Mrs. McCarthy of New York, and
+			 Mr. Serrano
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			May 20, 2011
+			Reported with an amendment, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			
+		"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: legis-body
+ Inserted paragraph content is: {"
+		1.Short titleThis Act may be cited as the
+			 Restoring GI Bill Fairness Act of
+			 2011.
+		2.Preservation of higher
+			 rates for tuition and fees for programs of education at non-public institutions
+			 of higher learning pursued by individuals enrolled in such programs prior to
+			 change in maximum amount
+			(a)In
+			 generalNotwithstanding paragraph (1)(A)(ii) of section 3313(c)
+			 of title 38, United States Code (as amended by the Post-9/11 Veterans
+			 Educational Assistance Improvements Act of 2010 (Public Law 111–377)), the
+			 amount payable under that paragraph (or as appropriately adjusted under
+			 paragraphs (2) through (7) of that section) for tuition and fees for pursuit by
+			 an individual described in subsection (b) of an approved program of education
+			 at a non-public institution of higher learning during the period beginning on
+			 August 1, 2011, and ending on July 31, 2014, shall be the lesser of—
+				(1)$27,000; or
+				(2)the established charges
+			 payable for the program of education.
+				(b)Covered
+			 individualsAn individual described in this subsection is an
+			 individual entitled to educational assistance under chapter 33 of title 38,
+			 United States Code, who, on or before April 1, 2011, was enrolled in a
+			 non-public institution of higher learning in a State in which—
+				(1)the maximum amount of tuition per credit in
+			 the 2010–2011 academic year, as determined using the table of the Department of
+			 Veterans Affairs entitled Post-9/11 GI Bill 2010–2011 Tuition and Fee
+			 In-State Maximums, published October 27, 2010 (75 Fed. Reg. 66193),
+			 exceeded $700; and
+				(2)the combined amount of
+			 tuition and fees for full-time attendance in the program of education in such
+			 academic year exceeded $17,500.
+				(c)DefinitionsIn
+			 this section:
+				(1)The term approved
+			 program of education has the meaning given that term in section 3313(b)
+			 of title 38, United States Code.
+				(2)The term
+			 established charges, with respect to a program of education, means
+			 the actual charges (as determined pursuant to regulations prescribed by the
+			 Secretary of Veterans Affairs on the basis of a full academic year) for tuition
+			 and fees which similarly circumstanced nonveterans enrolled in the program of
+			 education would be required to pay.
+				(3)The term
+			 institution of higher learning has the meaning given that term in
+			 section 3452(f) of title 38, United States Code.
+				3.Limitation on cost of
+			 living increases for certain educational assistance programs of the Department
+			 of Veterans AffairsDuring the
+			 24-month period beginning on October 1, 2011, the maximum amount of the monthly
+			 stipend payable under subparagraph (B) of paragraph (1) of subsection (c) of
+			 section 3313 of title 38, United States Code, is the amount payable under
+			 clause (i) of such subparagraph on August 1, 2011. Upon the expiration on the
+			 24-month period, the amount of such monthly stipend shall be the amount
+			 otherwise authorized under section 3313(c)(1)(B) of title 38, United States
+			 Code.
+		"}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		May 20, 2011
+		Reported with an amendment, committed to the Committee of
+		  the Whole House on the State of the Union, and ordered to be
+		  printed
+	"}
+

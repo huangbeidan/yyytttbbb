@@ -1,0 +1,190 @@
+===================================================
+
+total difference is: 40
+comparing document: BILLS-111hr3976ih.xml
+to document: BILLS-111hr3976rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/session[1]/text()[1]   Compared with location: bill[1]/form[1]/session[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 1st Session But actually it is: 2d Session
+The Jaccard Index is: 0.55
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 1st Session 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To extend certain expiring pro... But actually it is: To extend certain expiring pro...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.41
+The Detailes are shown as followings: 
+common words: To extend certain expiring /providing /protections for servicemembers relating to mortgages 
+insertion: provisions		 
+deletion: providing 
+change: provisions to  /  to enhanced / and mortgage		  foreclosure to and		  mortgage foreclosure 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 260"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No.
+		  111–451]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			March 22, 2010
+			Additional sponsors: Mr.
+			 Buyer and Mr.
+			 Teague
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			March 22, 2010
+			Reported with amendments, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 2203(c)(2) of the Hous... But actually it is: Section 2203(c)(2) of the Hous...
+The Jaccard Index is: 0.94
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Section 2203c2 of the Housing and			 Economic Recover Act of 2008 Public Law 110289 is amended 
+insertion: 
+deletion: 
+change: 
+
+We are at location: null   Compared with location: bill[1]/legis-body[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: legis-body
+ Inserted paragraph content is: {"
+		1.Short titleThis Act may be cited as the Veterans
+			 Employment and Home Preservation Act of 2010.
+		2.Extension of enhanced
+			 protections for servicemembers relating to mortgages and mortgage foreclosure
+			 under Servicemembers Civil Relief Act
+			(a)ExtensionParagraph (2) of section 2203(c) of the
+			 Housing and Economic Recovery Act of 2008 (Public Law 110-289) is
+			 amended—
+				(1)by striking
+			 December 31, 2010 and inserting December 31,
+			 2015; and
+				(2)by striking
+			 January 1, 2011 and inserting January 1, 2016.
+				(b)Protection for
+			 surviving spouse
+				(1)In
+			 generalSection 303 of the Servicemembers Civil Relief Act (50
+			 U.S.C. App. 533) is amended by adding at the end the following new
+			 subsection:
+					
+						(e)Protection for
+				surviving spouseWith respect
+				to a servicemember who dies while in military service and whose death is
+				service-connected, this section shall apply to the surviving spouse of the
+				servicemember if such spouse is the successor in interest to property covered
+				under subsection
+				(a).
+						.
+				(2)Effective
+			 dateSubsection (e) of section 303 of such Act, as added by
+			 paragraph (1), shall apply to a surviving spouse of a servicemember whose death
+			 is on or after the date of the enactment of this Act.
+				3.Temporary reduction of
+			 required amount of wages for on-the-job training programs
+			(a)In general
+				(1)Reducing
+			 requirementClause (ii) of
+			 section 3677(b)(1)(A) of title 38, United States Code, is amended by striking
+			 85 per centum and inserting 60 percent.
+				(2)Effective
+			 dateThe amendment made by
+			 paragraph (1) shall take effect on October 1, 2010, and shall apply to a
+			 veteran who enrolls in a program of training on the job approved under section
+			 3677 of such title on or after such date.
+				(b)Sunset
+				(1)ReversionEffective October 1, 2013, clause (ii) of
+			 section 3677(b)(1)(A) of title 38, United States Code, as amended by subsection
+			 (a) of this section, is amended by striking 60 percent and
+			 inserting 85 percent.
+				(2)ApplicationThe amendment made by paragraph (1) shall
+			 apply to a veteran who enrolls in a program of training on the job approved
+			 under section 3677 of such title on or after October 1, 2013.
+				(c)GAO
+			 ReportNot later than October
+			 1, 2013, the Comptroller General of the United States shall submit to the
+			 Committee on Veterans’ Affairs of the House of Representatives and the
+			 Committee on Veterans’ Affairs of the Senate a report on the effects of the
+			 amendment made by subsection (a)(1) that reduces the wage increase requirement
+			 under section 3677(b)(1)(A)(ii) of title 38, United States Code.
+			"}
+
+We are at location: null   Compared with location: bill[1]/official-title-amendment[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: official-title-amendment
+ Inserted paragraph content is: {"Amend the title so as to read:
+	 A bill to extend certain expiring provisions providing enhanced
+	 protections for servicemembers relating to mortgages and mortgage foreclosure,
+	 and for other purposes.."}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		March 22, 2010
+		Reported with amendments, committed to the Committee of the
+		  Whole House on the State of the Union, and ordered to be printed
+	"}
+

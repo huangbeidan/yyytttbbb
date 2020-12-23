@@ -1,0 +1,430 @@
+===================================================
+
+total difference is: 64
+comparing document: BILLS-110hr251ih.xml
+to document: BILLS-110hr251rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 251 IH: Truth in Caller... But actually it is: 110 HR 251 RH: Truth in Caller...
+The Jaccard Index is: 0.76
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: 110 HR 251 Truth in Caller ID Act of 
+insertion: 
+deletion: 
+change: IH to RH / 2007 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2007-01-05 But actually it is: 2007-06-11
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  (for			 himself and  But actually it is:  (for himself and 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words:  himself and 
+insertion: 
+deletion: 
+change: for			 to for / 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/text()[2]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: )			 introduced the following ... But actually it is: ) introduced the following bil...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: 			 introduced the following bill which was referred to 
+insertion: 
+deletion: 
+change: the			 to the 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Committee on Energy and			 Com... But actually it is: Committee on Energy and Commer...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Committee on Energy 
+insertion: 
+deletion: 
+change: and			 Commerce to and Commerce 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend the Communications Ac... But actually it is: To amend the Communications Ac...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: To amend the Communications Act of 1934 to /manipulation of caller identification information and for 
+insertion: 
+deletion: to 
+change:  to prohibit / other		  purposes to other purposes 
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 112"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 110–188]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+June 11, 2007
+Additional sponsors: Mr. Inslee, Mr. Towns, Mr. Burton of Indiana, Mr. Boucher, Mr. English of Pennsylvania, Mr. McHugh, Mrs. McMorris Rodgers, Ms. Jackson-Lee of Texas, Mr. Sensenbrenner, Mrs. Schmidt, Mr. Reichert, Mr. Fossella, Mr. Davis of Kentucky, Mr. Calvert, Mr. Shimkus, Mr. Buyer, Mrs. Myrick, Mr. Dicks, Mr. Kuhl of New York, Mr. Tim Murphy of Pennsylvania, Mr. Gillmor, Ms. Shea-Porter, Mrs. Lowey, Mr. Gallegly, Mrs. Cubin, Mr. Gordon of Tennessee, Ms. Matsui, Mr. Carnahan, Ms. Eshoo, and Mrs. Blackburn 
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+June 11, 2007
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed
+Strike out all after the enacting clause and insert the part printed in italic
+"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Truth in Caller ID Act of			 2... But actually it is: Truth in Caller ID Act of 2007
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Truth in Caller ID Act 
+insertion: 
+deletion: 
+change: of			 2007 to of 2007 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Prohibition			 regarding manip... But actually it is: Prohibition regarding manipula...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: Prohibition			 regarding manipulation of caller identification information 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 227 of the Communicati... But actually it is: Section 227 of the Communicati...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Section 227 of the Communications Act 
+insertion: 
+deletion: 
+change: of			 1934 to of 1934 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by redesignating subsections (... But actually it is: by redesignating subsections (...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.87
+The Detailes are shown as followings: 
+common words: by redesignating subsections e f and g as subsections f g h respectively and 
+insertion: 
+deletion: 
+change: and			 to and / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by inserting after			 subsecti... But actually it is: by inserting after subsection ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: by inserting subsection d the following new subsection 
+insertion: 
+deletion: 
+change: after			 to after / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Prohibition on				provision of... But actually it is: Prohibition on provision of de...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Prohibition on				provision of deceptive caller identification information 
+insertion: on 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In				general But actually it is: In general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: general 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: It shall be unlawful				for an... But actually it is: It shall be unlawful for any p...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.68
+The Detailes are shown as followings: 
+common words: It shall be /any person within the United States in connection with /service or VOIP service to cause any caller /to transmit misleading or inaccurate caller identification /the intent to defraud or cause harm 
+insertion: unlawful any identification information 
+deletion: 
+change: unlawful				for to for / any				telecommunications to telecommunications / identification				service to service / information				with to with / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Protection for				blocking cal... But actually it is: Protection for blocking caller...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Protection for				blocking caller identification information 
+insertion: for 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Nothing in this				subsection ... But actually it is: Nothing in this subsection may...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Nothing in /may be construed to prevent or restrict any person from blocking /of any caller identification service to transmit 
+insertion: this the 
+deletion: 
+change: this				subsection to subsection / the				capability to capability / caller				identification information to caller identification information 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not				later than 6 months aft... But actually it is: Not later than 6 months after ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: Not				later than 6 months after the enactment of this subsection the /prescribe regulations to implement this subsection 
+insertion: later Commission 
+deletion: 
+change: Commission				shall to shall / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For				purposes of this subsec... But actually it is: For purposes of this subsectio...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: For				purposes of this subsection 
+insertion: purposes 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Caller				identification infor... But actually it is: Caller identification informat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Caller				identification information 
+insertion: identification 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: caller identification				infor... But actually it is: caller identification informat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: identification				information to identification information 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means information provided to... But actually it is:  means information provided to...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words:  means information provided to an end user by a /service regarding the telephone number of or other /the origination of a call made using a telecommunications service 
+insertion: caller information 
+deletion: 
+change: caller				identification to identification / information				regarding to regarding / or				VOIP service to or VOIP service 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Caller				identification servi... But actually it is: Caller identification service
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Caller				identification service 
+insertion: identification 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: caller identification				servi... But actually it is: caller identification service
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: identification				service to identification service 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means any service or device d... But actually it is:  means any service or device d...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words:  means any service or device designed to provide the user of /or device with the telephone number of or other information /origination of a call made using a telecommunications service or /Such term includes automatic number identification services 
+insertion: the regarding VOIP 
+deletion: 
+change: the				service to service / regarding				the to the / VOIP				service to service / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: VOIP				service But actually it is: VOIP service
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: service 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[3]/text[1]/term[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[3]/text[1]/term[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: VOIP				service But actually it is: VOIP service
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: service 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[3]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[3]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: provides real-time voice commu... But actually it is: provides real-time voice commu...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: provides realtime voice /through end user equipment using TCPIP protocol or a /for a fee or without a fee 
+insertion: communications successor 
+deletion: 
+change: communications				transmitted to transmitted / successor				protocol to protocol / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[3]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[3]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: is				offered to the public, o... But actually it is: is offered to the public, or s...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: is				offered to the public or such classes of users as to be effectively /the public whether part of a bundle of services or separately and 
+insertion: offered available 
+deletion: 
+change: available				to to to / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[3]/clause[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[3]/clause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: has the				capability to origi... But actually it is: has the capability to originat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.64
+The Detailes are shown as followings: 
+common words: has the				capability to originate traffic to and terminate traffic from the 
+insertion: the 
+deletion: 
+change: public				switched telephone network to public switched telephone network 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Savings				provision But actually it is: Savings provision
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: provision 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Nothing in this Act				may be ... But actually it is: Nothing in this Act may be con...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.66
+The Detailes are shown as followings: 
+common words: Nothing in this /be construed to affect or alter the application of the /regarding the requirements for transmission of /information for telemarketing calls issued pursuant to /Consumer Protection Act of 1991 
+insertion: Act Commission’s caller the 
+deletion: 
+change: Act				may to may / Commission’s				regulations to regulations / caller				identification to identification / the				Telephone to Telephone / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[5]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[5]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) and the				amendments made b... But actually it is: ) and the amendments made by s...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words:  and 
+insertion: 
+deletion: 
+change: the				amendments made by such				Act to the amendments made by such Act 
+
+We are at location: null   Compared with location: bill[1]/legis-body[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: legis-body
+ Inserted paragraph content is: {"
+1.Short titleThis Act may be cited as the Truth in Caller ID Act of 2007.
+2.Prohibition regarding manipulation of caller identification informationSection 227 of the Communications Act of 1934 (47 U.S.C. 227) is amended—
+(1)by redesignating subsections (e), (f), and (g) as subsections (f), (g), and (h), respectively; and
+(2)by inserting after subsection (d) the following new subsection:
+
+(e)Prohibition on provision of deceptive caller identification information
+(1)In generalIt shall be unlawful for any person within the United States, in connection with any telecommunications service or VOIP service, to cause any caller identification service to transmit misleading or inaccurate caller identification information, with the intent to defraud or cause harm.
+(2)Protection for blocking caller identification informationNothing in this subsection may be construed to prevent or restrict any person from blocking the capability of any caller identification service to transmit caller identification information.
+(3)Regulations
+(A)DeadlineNot later than 6 months after the enactment of this subsection, the Commission shall prescribe regulations to implement this subsection.
+(B)Consideration of related regulationsIn conducting the proceeding to prescribe the regulations required by subparagraph (A) of this paragraph, the Commission shall examine whether the Commission’s regulations under subsection (b)(2)(B) of this section should be revised to require non-commercial calls to residential telephone lines using an artificial or pre-recorded voice to deliver a message to transmit caller identification information that is not misleading or inaccurate.
+(4)DefinitionsFor purposes of this subsection:
+(A)Caller identification informationThe term caller identification information means information provided to an end user by a caller identification service regarding the telephone number of, or other information regarding the origination of, a call made using a telecommunications service or VOIP service.
+(B)Caller identification serviceThe term caller identification service means any service or device designed to provide the user of the service or device with the telephone number of, or other information regarding the origination of, a call made using a telecommunications service or VOIP service. Such term includes automatic number identification services.
+(C)VOIP serviceThe term VOIP service means a service that—
+(i)provides real-time voice communications transmitted through end user equipment using TCP/IP protocol, or a successor protocol, for a fee or without a fee;
+(ii)is offered to the public, or such classes of users as to be effectively available to the public (whether part of a bundle of services or separately); and
+(iii)has the capability to originate traffic to, or terminate traffic from, the public switched telephone network.
+(5)Savings provisionExcept for paragraph (3)(B), nothing in this subsection may be construed to affect or alter the application of the Commission’s regulations regarding the requirements for transmission of caller identification information, issued pursuant to the Telephone Consumer Protection Act of 1991 (Public Law 102–243) and the amendments made by such Act..
+"}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+June 11, 2007
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+

@@ -1,0 +1,976 @@
+===================================================
+
+total difference is: 105
+comparing document: BILLS-112hr910eh.xml
+to document: BILLS-112hr910rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IB But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED		 ...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED		  STATES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend the Clean Air Act to ... But actually it is: To amend the Clean Air Act to ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: To amend the Clean Air Act to prohibit /Administrator of the Environmental Protection Agency from promulgating /regulation concerning taking action relating to or taking into /the emission of a greenhouse gas to address climate change and for 
+insertion: the		 any		 consideration		 
+deletion: 
+change: the to  / any to  / consideration to  / other purposes to other		  purposes 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			April 8, 2011
+			Received; read twice and referred to the
+			 Committee on Environment and Public
+			 Works
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Energy Tax Prevention Act of 2... But actually it is: Energy Tax Prevention Act of		...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Energy Tax Prevention Act 
+insertion: 
+deletion: 
+change: of 2011 to of			 2011 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: No Regulation of emissions of ... But actually it is: No			 Regulation of emissions ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: No Regulation of emissions of greenhouse gases 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Title III of the Clean Air Act... But actually it is: Title III of the Clean Air Act...
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: Title III of the Clean Air 
+insertion: 
+deletion: 
+change: Act 42 USC 7601 et seq is amended by adding at the end the following to Act			 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 7601 et
+			 seq."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended by adding at the end the following:"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: No Regulation of emissions of ... But actually it is: No Regulation				of emissions ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Regulation of emissions of greenhouse gases 
+insertion: 
+deletion: No 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In this section, the term  But actually it is: In				this section, the term 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: this section the term 
+insertion: 
+deletion: In 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means any of the following: But actually it is:  means any of the				following...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words:  means any of 
+insertion: 
+deletion: 
+change: the following to the				following 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Water vapor. But actually it is: Water				vapor.
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: vapor to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Carbon dioxide. But actually it is: Carbon				dioxide.
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: dioxide to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Nitrous oxide. But actually it is: Nitrous				oxide.
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: oxide to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sulfur hexafluoride. But actually it is: Sulfur				hexafluoride.
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: hexafluoride to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[8]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[8]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any other substance subject to... But actually it is: Any other				substance subject...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: other substance subject to or proposed to be subject to regulation action /under this Act to address climate change 
+insertion: 
+deletion: Any action 
+change: consideration to or				consideration / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Limitation on agency action But actually it is: Limitation on				agency action
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: on agency action to on				agency action 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[1]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[1]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In				general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: general to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Administrator may not, und... But actually it is: The Administrator may not, und...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: The Administrator may not under this Act promulgate /concerning take action relating to or take into consideration /of a greenhouse gas to address climate change 
+insertion: 
+deletion: promulgate consideration 
+change: regulation to any				regulation / emission to the				emission / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[1]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[1]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Air pollutant definition But actually it is: Air pollutant				definition
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: pollutant definition to pollutant				definition 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[1]/subparagraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[1]/subparagraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  in section 302(g) does not in... But actually it is: 				in section 302(g) does not...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: in section 302g does not include a greenhouse gas Notwithstanding /sentence such definition may include a greenhouse gas for purposes /concerns other than climate change 
+insertion: 
+deletion:  Notwithstanding purposes 
+change: previous to the				previous / addressing to of				addressing / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Paragraph (1) does not prohibi... But actually it is: Paragraph				(1) does not proh...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: 1 does not prohibit the following 
+insertion: 
+deletion: Paragraph 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notwithstanding paragraph (4)(... But actually it is: Notwithstanding paragraph (4)(...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Notwithstanding paragraph /and enforcement of the rule entitled 
+insertion: 
+deletion: paragraph 
+change: implementation to 4B				implementation / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Light-Duty Vehicle Greenhouse ... But actually it is: Light-Duty Vehicle				Greenhou...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: Vehicle Greenhouse Gas Emission Standards and Corporate Average Fuel 
+insertion: 
+deletion: LightDuty 
+change: Economy Standards to Economy				Standards 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  (as published at 75 Fed. Reg.... But actually it is:  (as published at 75 Fed. Reg....
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words:  as published at 75 Fed Reg 25324 May 7 2010 and /revision and finalization implementation enforcement and /the proposed rule entitled 
+insertion: 
+deletion: and and 
+change: further to without				further / of to revision				of / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: Greenhouse Gas Emissions Stand... But actually it is: Greenhouse Gas Emissions Stand...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: Greenhouse Gas Emissions Standards /Efficiency Standards for Medium and HeavyDuty Engines 
+insertion: 
+deletion: Standards 
+change: Fuel to and				Fuel / and Vehicles to and				Vehicles 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Implementation and enforcement... But actually it is: Implementation and				enforcem...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: and enforcement of section 211o 
+insertion: 
+deletion: Implementation 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Statutorily authorized Federal... But actually it is: Statutorily authorized Federal...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.64
+The Detailes are shown as followings: 
+common words: Statutorily authorized Federal /demonstration programs and voluntary programs addressing 
+insertion: 
+deletion: Federal 
+change: development to research				development / climate change to climate				change 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Implementation and enforcement... But actually it is: Implementation and				enforcem...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: and enforcement of title VI to the extent such implementation or enforcement /one or more class I substances or class II substances as such /defined in section 601 
+insertion: 
+deletion: Implementation enforcement such 
+change: involves to only				involves / are to terms				are / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Implementation and enforcement... But actually it is: Implementation and				enforcem...
+The Jaccard Index is: 0.35
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: and enforcement of section 821 
+insertion: 
+deletion: Implementation 
+change: 42 USC 7651k note of Public Law 101549 commonly referred to as the to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[5]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[5]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clean Air Act Amendments of 19... But actually it is: Clean Air Act				Amendments of...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: Clean Air 
+insertion: 
+deletion: 
+change: Act Amendments of 1990 to Act				Amendments of 1990 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[5]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[5]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ). But actually it is:  note) of				
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[5]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 7651k"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[5]/text[1]/external-xref[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"Public Law
+				101–549"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[5]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" (commonly referred to as the "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[5]/text[1]/text()[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {).}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Inapplicability of provisions But actually it is: Inapplicability				of provisio...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: of provisions 
+insertion: 
+deletion: Inapplicability 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Nothing listed in paragraph (2... But actually it is: Nothing listed in paragraph (2...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: Nothing listed in paragraph 2 shall cause /gas to be subject to part C of title I relating to prevention /deterioration of air quality or considered an air pollutant /of title V relating to permits 
+insertion: 
+deletion: cause prevention pollutant 
+change: greenhouse to a				greenhouse / significant to of				significant / purposes to for				purposes / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Certain prior agency actions But actually it is: Certain prior				agency action...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: prior agency actions to prior				agency actions 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The following rules and action... But actually it is: The following rules and action...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: The following rules and actions including /or revision to such rules and actions are repealed and shall 
+insertion: 
+deletion: including 
+change: supplement to any				supplement / have no legal effect to have				no legal effect 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Mandatory Reporting of Greenho... But actually it is: Mandatory				Reporting of Gree...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Reporting of Greenhouse Gases 
+insertion: 
+deletion: Mandatory 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: , published at 74 Fed. Reg. 56... But actually it is: , published at 74 Fed. Reg. 56...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words:  published at 74 Fed Reg 56260 
+insertion: 
+deletion: 
+change: October 30 2009 to October				30 2009 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Endangerment and Cause or Cont... But actually it is: Endangerment				and Cause or C...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: and Cause or Contribute Findings for Greenhouse Gases Under Section 202a /Clean Air Act 
+insertion: 
+deletion: Endangerment 202a 
+change: the to of				the / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: , published at 74 Fed. Reg. 66... But actually it is: , published at 74 Fed. Reg. 66...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words:  published at 74 Fed Reg 66496 December 
+insertion: 
+deletion: 
+change: 15 2009 to 15				2009 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[3]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[3]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Reconsideration of Interpretat... But actually it is: Reconsideration				of Interpre...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: of Interpretation of Regulations That Determine Pollutants Covered by Clean 
+insertion: 
+deletion: Reconsideration 
+change: Air Act Permitting Programs to Air				Act Permitting Programs 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: , published at 75 Fed. Reg. 17... But actually it is: , published at 75 Fed. Reg. 17...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words:  published at 75 Fed Reg 17004 April /and the memorandum from Stephen L Johnson Environmental /EPA Administrator to EPA Regional Administrators 
+insertion: 
+deletion: April Environmental 
+change: 2010 to 2				2010 / Agency to Protection				Agency / concerning to concerning				 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[3]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[3]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: EPA’s Interpretation of Regula... But actually it is: EPA’s Interpretation of Regula...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: EPA’s Interpretation of Regulations that Determine Pollutants Covered /Prevention of Significant Deterioration PSD Permit Program 
+insertion: 
+deletion: Covered 
+change: Federal to by				Federal / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[4]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[4]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Prevention of Significant Dete... But actually it is: Prevention				of Significant D...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.9
+The Detailes are shown as followings: 
+common words: of Significant Deterioration and Title V Greenhouse Gas Tailoring Rule 
+insertion: 
+deletion: Prevention 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: , published at 75 Fed. Reg. 31... But actually it is: ,				published at 75 Fed. Reg....
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: published at 75 Fed Reg 31514 June 3 2010 
+insertion: 
+deletion:  
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[5]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[5]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Action To Ensure Authority To ... But actually it is: Action To				Ensure Authority ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: To Ensure Authority To Issue Permits Under the Prevention of /Program to Sources of Greenhouse Gas Emissions Finding /Inadequacy and SIP Call 
+insertion: 
+deletion: Action of Finding 
+change: Deterioration to Significant				Deterioration / Substantial to of				Substantial / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: , published at 75 Fed. Reg. 77... But actually it is: , published at 75 Fed. Reg. 77...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words:  published at 75 Fed Reg 
+insertion: 
+deletion: 
+change: 77698 December 13 2010 to 77698				December 13 2010 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[6]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[6]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Action To Ensure Authority To ... But actually it is: Action To Ensure Authority To ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: Action To Ensure Authority To /Under the Prevention of Significant Deterioration Program to Sources /Gas Emissions Finding of Failure To Submit State /Revisions Required for Greenhouse Gases 
+insertion: 
+deletion: To Sources State 
+change: Permits to Issue				Permits / Greenhouse to of				Greenhouse / Plan to Implementation				Plan / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: , published at 75 Fed. Reg. 81... But actually it is: , published at 75 Fed. Reg.			...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words:  published at 75 Fed /December 29 2010 
+insertion: 
+deletion: Fed 
+change: 81874 to Reg				81874 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[7]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[7]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Action to Ensure Authority To ... But actually it is: Action to				Ensure Authority ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.65
+The Detailes are shown as followings: 
+common words: to Ensure Authority To Issue Permits Under the Prevention of /Program to Sources of Greenhouse Gas Emissions 
+insertion: 
+deletion: Action of 
+change: Deterioration to Significant				Deterioration / Federal Implementation Plan to Federal				Implementation Plan 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: , published at 75 Fed. Reg. 82... But actually it is: , published at 75 Fed. Reg. 82...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words:  published at 75 Fed Reg 82246 December 
+insertion: 
+deletion: 
+change: 30 2010 to 30				2010 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[8]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[8]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Action to Ensure Authority to ... But actually it is: Action to				Ensure Authority ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.64
+The Detailes are shown as followings: 
+common words: to Ensure Authority to Implement Title V Permitting Programs Under the 
+insertion: 
+deletion: Action 
+change: Greenhouse Gas Tailoring Rule to Greenhouse				Gas Tailoring Rule 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[8]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[8]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: , published at 75 Fed. Reg. 82... But actually it is: , published at 75 Fed. Reg. 82...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words:  published at 75 Fed Reg 82254 December 
+insertion: 
+deletion: 
+change: 30 2010 to 30				2010 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[9]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[9]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Determinations Concerning Need... But actually it is: Determinations				Concerning N...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.68
+The Detailes are shown as followings: 
+common words: Concerning Need for Error Correction Partial Approval and Partial /Federal Implementation Plan Regarding Texas Prevention of 
+insertion: 
+deletion: Determinations Partial 
+change: and to Disapproval				and / Significant Deterioration Program to Significant				Deterioration Program 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[9]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[9]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: , published at 75 Fed. Reg. 82... But actually it is: , published at 75 Fed. Reg. 82...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words:  published at 75 Fed Reg 82430 December 
+insertion: 
+deletion: 
+change: 30 2010 to 30				2010 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[10]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[10]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Limitation of Approval of Prev... But actually it is: Limitation				of Approval of P...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: of Approval of Prevention of Significant Deterioration Provisions /Gas EmittingSources in State Implementation Plans 
+insertion: 
+deletion: Limitation Provisions 
+change: Greenhouse to Concerning				Greenhouse / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[10]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[10]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: , published at 75 Fed. Reg. 82... But actually it is: ,				published at 75 Fed. Reg....
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: published at 75 Fed Reg 82536 December 30 2010 
+insertion: 
+deletion:  
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[11]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[11]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Determinations Concerning Need... But actually it is: Determinations Concerning Need...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.57
+The Detailes are shown as followings: 
+common words: Determinations Concerning Need /Correction Partial Approval and Partial Disapproval and /Plan Regarding Texas Prevention of Significant 
+insertion: 
+deletion: Need and 
+change: Error to for				Error / Implementation to Federal				Implementation / Deterioration Program Proposed Rule to Deterioration				Program Proposed Rule 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[11]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[11]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: , published at 75 Fed. Reg. 82... But actually it is: , published at 75 Fed. Reg. 82...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words:  published at 75 Fed Reg 82365 December 
+insertion: 
+deletion: 
+change: 30 2010 to 30				2010 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[12]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[4]/subparagraph[12]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Except for actions listed in p... But actually it is: Except for actions				listed i...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Except for /in paragraph 2 any other Federal action under this Act /the date of enactment of this section that applies a stationary /requirement or an emissions standard for a greenhouse gas to 
+insertion: 
+deletion: for Act stationary 
+change: listed to actions				listed / before to occurring				before / permitting to source				permitting / address climate change to address				climate change 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: State action But actually it is: State				action
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: action to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[5]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[5]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: No limitation But actually it is: No				limitation
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: limitation to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[5]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[5]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: This section does not limit or... But actually it is: This section does				not limit...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: This section /limit or otherwise affect the authority of a State to adopt /or repeal State laws and regulations pertaining to the emission of 
+insertion: 
+deletion: section adopt 
+change: not to does				not / enforce to amend				enforce / a greenhouse gas to a				greenhouse gas 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[5]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[5]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notwithstanding subparagraph (... But actually it is: Notwithstanding				subparagrap...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: subparagraph A any provision described in clause ii 
+insertion: 
+deletion: Notwithstanding 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[5]/subparagraph[2]/clause[1]/subclause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[5]/subparagraph[2]/clause[1]/subclause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: is not federally enforceable; But actually it is: is not federally				enforceabl...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: is not 
+insertion: 
+deletion: 
+change: federally enforceable to federally				enforceable 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[5]/subparagraph[2]/clause[1]/subclause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[5]/subparagraph[2]/clause[1]/subclause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: is not deemed to be a part of ... But actually it is: is not deemed to				be a part ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: is not deemed /a part of Federal law and 
+insertion: 
+deletion: deemed 
+change: be to to				be / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[5]/subparagraph[2]/clause[1]/subclause[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[5]/subparagraph[2]/clause[1]/subclause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: is deemed to be stricken from ... But actually it is: is deemed to be				stricken fr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: is deemed to /from the plan described in clause iiI or the program or /in clause iiII as applicable 
+insertion: 
+deletion: to or 
+change: stricken to be				stricken / described to permit				described / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[5]/subparagraph[2]/clause[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[5]/subparagraph[2]/clause[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Provision defined But actually it is: Provision				defined
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: defined to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[5]/subparagraph[2]/clause[2]/subclause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[5]/subparagraph[2]/clause[2]/subclause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: is contained in a State implem... But actually it is: is contained in a State implem...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: is contained in a State implementation /section 110 and authorizes or requires a limitation on or imposes /requirement for the emission of a greenhouse gas to address 
+insertion: 
+deletion: implementation imposes 
+change: under to plan				under / permit to a				permit / climate change or to climate				change or 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[5]/subparagraph[2]/clause[2]/subclause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[5]/subparagraph[2]/clause[2]/subclause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: is part of an operating permit... But actually it is: is part of an operating permit...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: is part of an operating permit /title V or a permit issued pursuant to title V and authorizes /a limitation on the emission of a greenhouse gas to address 
+insertion: 
+deletion: permit authorizes 
+change: under to program				under / requires to or				requires / climate change to climate				change 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[5]/subparagraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[5]/subparagraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Action by Administrator But actually it is: Action by				Administrator
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: by Administrator to by				Administrator 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[5]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[5]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Administrator may not appr... But actually it is: The Administrator may not appr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: The Administrator may not approve or make /any provision described in 
+insertion: 
+deletion: make 
+change: enforceable to federally				enforceable / subparagraph Bii to subparagraph				Bii 
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Preserving one national standa... But actually it is: Preserving one			 national sta...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Preserving national standard for automobiles 
+insertion: 
+deletion: 
+change: one to one			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 209(b) of the Clean Ai... But actually it is: Section 209(b) of the Clean Ai...
+The Jaccard Index is: 0.39
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: Section 209b of the Clean Air 
+insertion: 
+deletion: 
+change: Act 42 USC 7543 is amended by adding at the end the following to Act			 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C.
+			 7543"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended by adding at the end the following:"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: With respect to standards for ... But actually it is: With respect to standards for ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: With respect to standards for emissions /gases as defined in section 330 for model year 2017 or /model year new motor vehicles and new motor vehicle engines 
+insertion: 
+deletion: emissions or 
+change: greenhouse to of				greenhouse / subsequent to any				subsequent / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the Administrator may not waiv... But actually it is: the Administrator may not waiv...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: the Administrator may not /of subsection a and 
+insertion: 
+deletion: not 
+change: application to waive				application / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: no waiver granted prior to the... But actually it is: no waiver granted prior to the...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: no waiver granted prior to the date /of /this paragraph may be construed to waive the application 
+insertion: of				enactment 
+deletion: of enactment 
+change: of subsection a to of				subsection				a 
+
+We are at location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sense of Congress But actually it is: Sense of			 Congress
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of Congress to of			 Congress 
+
+We are at location: bill[1]/legis-body[1]/section[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: It is the sense of the Congres... But actually it is: It is the sense of			 the Cong...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: It is the sense the Congress that 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: there is established scientifi... But actually it is: there is			 established scient...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: there established scientific concern over warming of the climate system based evidence from observations of increases in global average air and temperatures widespread melting of snow and ice and rising global average 
+insertion: 
+deletion: 
+change: is to is			 / upon to upon			 / ocean to ocean			 / sea level to sea			 level 
+
+We are at location: bill[1]/legis-body[1]/section[4]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: addressing climate change is a... But actually it is: addressing climate			 change i...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: addressing change is an international issue involving complex scientific and 
+insertion: 
+deletion: 
+change: climate to climate			 / economic considerations to economic			 considerations 
+
+We are at location: bill[1]/legis-body[1]/section[4]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the United States has a role t... But actually it is: the United States			 has a rol...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: the United has a role to play in resolving global climate change matters on international basis and 
+insertion: 
+deletion: 
+change: States to States			 / an to an			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Congress should fulfill that r... But actually it is: Congress should			 fulfill tha...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Congress fulfill that role by developing policies that do not adversely affect American economy energy supplies and employment 
+insertion: 
+deletion: 
+change: should to should			 / the to the			 / 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Passed the House of Representa... But actually it is: Passed the House of			 Represe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Passed the House Representatives April 7 2011 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clerk. But actually it is: Clerk
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/endorsement[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: endorsement But actually it is: null
+ Deleted paragraph content is: {""}
+

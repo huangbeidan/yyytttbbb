@@ -1,0 +1,2858 @@
+===================================================
+
+total difference is: 295
+comparing document: BILLS-110hr698eh.xml
+to document: BILLS-110hr698rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 698 EH: Industrial Bank... But actually it is: 110 HR 698 : Industrial Bank H...
+The Jaccard Index is: 0.81
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: 110 HR 698 Industrial Bank Holding Company Act of 
+insertion: 
+deletion: 
+change: EH to  / 2007 to 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 0 But actually it is: 2007-05-22
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED		 ...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED		  STATES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend the Federal Deposit I... But actually it is: To amend the Federal Deposit I...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: To amend the Federal Deposit Insurance /to establish industrial bank holding company regulation and for 
+insertion: Act		 
+deletion: 
+change: Act to  / other purposes to other		  purposes 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			May 22, 2007
+			 Received; read twice and referred to the
+			 Committee on Banking, Housing, and Urban
+			 Affairs
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Industrial Bank Holding Compan... But actually it is: Industrial Bank Holding Compan...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Industrial Bank Holding Company Act 
+insertion: 
+deletion: 
+change: of 2007 to of			 2007 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Industrial bank holding compan... But actually it is: Industrial bank			 holding com...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Industrial holding company regulation 
+insertion: 
+deletion: 
+change: bank to bank			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Industrial bank But actually it is: Industrial			 bank
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Industrial bank 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 3(a) of the Federal De... But actually it is: Section 3(a) of the Federal De...
+The Jaccard Index is: 0.42
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: Section 3a of the Federal Deposit Insurance 
+insertion: 
+deletion: 
+change: Act to Act			 12 USC			 1813a is amended by adding at the end the following new			 paragraph 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"12 U.S.C. 1813(a)"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ) is amended by adding at the ... But actually it is: Section 3(a) of the Federal De...
+The Jaccard Index is: 0.46
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words:  is amended by adding at the end the following 
+insertion: 3a of the Federal Deposit Insurance Act			 12 USC			 1813a 
+deletion: 
+change: new paragraph to new			 paragraph 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/quoted-block[1]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/quoted-block[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Industrial bank But actually it is: Industrial				bank
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: bank to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/quoted-block[1]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/quoted-block[1]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means any insured State bank ... But actually it is:  means any insured State bank ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words:  means any insured State bank that is an /industrial /loan company or other institution that is excluded /section 2c2H of the Bank Holding Company Act of 1956 from /of the term 
+insertion: industrial				bank 
+deletion: industrial bank excluded from 
+change: to to pursuant				to / definition to the				definition / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/quoted-block[1]/paragraph[1]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/quoted-block[1]/paragraph[1]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be:  for purposes of such Act. But actually it is:  for purposes of such				Act.
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words:  for purposes of 
+insertion: 
+deletion: 
+change: such Act to such				Act 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Industrial bank holding compan... But actually it is: Industrial bank			 holding com...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Industrial holding company 
+insertion: 
+deletion: 
+change: bank to bank			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 3(w) of the Federal De... But actually it is: Section 3(w) of the Federal De...
+The Jaccard Index is: 0.42
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: Section 3w of the Federal Deposit Insurance 
+insertion: 
+deletion: 
+change: Act to Act			 12 USC			 1813w is amended by adding at the end the following new			 paragraphs 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"12 U.S.C. 1813(w)"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ) is amended by adding at the ... But actually it is: Section 3(w) of the Federal De...
+The Jaccard Index is: 0.47
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words:  is amended by adding at the end the following 
+insertion: 3w of the Federal Deposit Insurance Act			 12 USC			 1813w 
+deletion: 
+change: new paragraphs to new			 paragraphs 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Industrial bank holding compan... But actually it is: Industrial bank				holding com...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: bank holding company to bank				holding company 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[1]/text[1]/term[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[1]/text[1]/term[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: industrial bank holding compan... But actually it is: industrial bank holding				com...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: industrial bank 
+insertion: 
+deletion: 
+change: holding company to holding				company 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: controls (as determined by the... But actually it is: controls (as				determined by ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: as determined by the Corporation pursuant to section 2a of the Bank /Act of 1956 directly or indirectly any industrial bank and 
+insertion: 
+deletion: controls Bank 
+change: Company to Holding				Company / 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 1 or more of the following: a ... But actually it is: 1 or more of the following: a ...
+The Jaccard Index is: 0.72
+And the Smith Waterman Score is: 0.68
+The Detailes are shown as followings: 
+common words: 1 or more of the following a bank /a savings and loan holding company a company that is subject to /Holding Company Act of 1956 pursuant to section 8a of the /Act of 1978 or a holding company regulated by the Securities 
+insertion: 
+deletion: bank to the 
+change: company to holding				company / Bank to the				Bank / Banking to International				Banking / and Exchange Commission pursuant to to and				Exchange Commission pursuant to				section				24015c31a7 of title 17 of the Code of Federal Regulations				as in effect on January 29 2007 or 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[1]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"section 240.15c3–1(a)(7)"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 17 of the Code of Fe... But actually it is: 1 or more of the following: a ...
+The Jaccard Index is: 0.3
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words:  of title 17 of the Code of Federal /in effect on January 29 2007 or 
+insertion: or more of the following a bank holding				company a savings and loan holding company a company that is subject to the				Bank Holding Company Act of 1956 pursuant to section 8a of the International				Banking Act of 1978 or a holding company regulated by the Securities and				Exchange Commission pursuant to				section				24015c31a7 
+deletion: Federal 
+change: as to Regulations				as / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: controlled by a company descri... But actually it is: controlled by a				company des...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.57
+The Detailes are shown as followings: 
+common words: controlled by /described in clause i 
+insertion: 
+deletion: by 
+change: company to a				company / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Capital terms relating to indu... But actually it is: Capital terms				relating to i...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: terms relating to industrial bank holding companies 
+insertion: 
+deletion: Capital 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[2]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[2]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Adequately capitalized But actually it is: Adequately				capitalized
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: capitalized to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: With respect to an industrial ... But actually it is: With respect to				an industri...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: With respect /industrial bank holding company the term 
+insertion: 
+deletion: respect 
+change: an to to				an / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[2]/subparagraph[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[2]/subparagraph[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: adequately capitalized But actually it is: adequately				capitalized
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: capitalized to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[2]/subparagraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[2]/subparagraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means a level of capitalizati... But actually it is:  means a level of capitalizati...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words:  means a level of capitalization which meets or exceeds /Federal regulatory capital standards 
+insertion: 
+deletion: exceeds 
+change: applicable to all				applicable / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[2]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[2]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Well capitalized But actually it is: Well				capitalized
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: capitalized to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: With respect to an industrial ... But actually it is: With respect to				an industri...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: With respect /industrial bank holding company the term 
+insertion: 
+deletion: respect 
+change: an to to				an / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[2]/subparagraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[2]/subparagraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means a level of capitalizati... But actually it is: 				means a level of capitaliz...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: means a level of capitalization which meets or exceeds the required /for well capitalized industrial bank holding companies established 
+insertion: 
+deletion:  required 
+change: levels to capital				levels / by the Corporation to by				the				Corporation 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Technical and conforming amend... But actually it is: Technical and			 conforming am...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Technical conforming amendments to other definitions 
+insertion: 
+deletion: 
+change: and to and			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Appropriate federal banking ag... But actually it is: Appropriate			 federal banking...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Appropriate federal banking agency 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 3(q)(3) of the Federal... But actually it is: Section 3(q)(3) of the Federal...
+The Jaccard Index is: 0.65
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Section 3q3 of the Federal Insurance Act 
+insertion: 
+deletion: 
+change: Deposit to Deposit			 / 12			 USC 1813q3 is amended 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[1]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"12 U.S.C. 1813(q)(3)"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ) is amended— But actually it is: Section 3(q)(3) of the Federal...
+The Jaccard Index is: 0.14
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by striking  But actually it is: by			 striking 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: by striking 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[1]/clause[1]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[1]/clause[1]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: , any foreign But actually it is: , any			 foreign
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: any foreign to any			 foreign 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[1]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[1]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by inserting  But actually it is: by			 inserting 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: by inserting 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[1]/clause[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[1]/clause[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: , and any industrial bank hold... But actually it is: , and any industrial bank hold...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.9
+The Detailes are shown as followings: 
+common words:  and any industrial bank holding company and any of an industrial bank holding company other than a bank 
+insertion: 
+deletion: 
+change: subsidiary to subsidiary			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Depository institution holding... But actually it is: Depository			 institution hold...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Depository institution holding company 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 3(w)(1) of the Federal... But actually it is: Section 3(w)(1) of the Federal...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Section 3w1 of the Deposit Insurance Act 
+insertion: 
+deletion: 
+change: Federal to Federal			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) is amended— But actually it is: ) is			 amended—
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: is amended to is			 amended 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by striking  But actually it is: by			 striking 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: by striking 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[2]/clause[1]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[2]/clause[1]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: , any savings But actually it is: , any			 savings
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: any savings to any			 savings 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[2]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by inserting  But actually it is: by			 inserting 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: by inserting 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[2]/clause[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[2]/clause[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  before the period at the end. But actually it is:  before the			 period at the e...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words:  before period at the end 
+insertion: 
+deletion: 
+change: the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Industrial bank holding compan... But actually it is: Industrial bank			 holding com...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Industrial holding company registration and ownership 
+insertion: 
+deletion: 
+change: bank to bank			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Federal Deposit Insurance ... But actually it is: The Federal Deposit			 Insuran...
+The Jaccard Index is: 0.31
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: The Federal Insurance Act 
+insertion: 
+deletion: 
+change: Deposit to Deposit			 / 12			 USC 1811 et seq is amended by adding at the end the			 following new section 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"12 U.S.C. 1811 et seq."}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ) is amended by adding at the ... But actually it is: The Federal Deposit			 Insuran...
+The Jaccard Index is: 0.49
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words:  is amended by adding at the end following new section 
+insertion: Federal Deposit			 Insurance Act 12			 USC 1811 et seq 
+deletion: 
+change: the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Industrial bank holding compan... But actually it is: Industrial bank				holding com...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: bank holding company regulation 
+insertion: 
+deletion: Industrial 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Acquisition of industrial bank... But actually it is: Acquisition of				industrial b...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: of industrial bank shares or assets 
+insertion: 
+deletion: Acquisition 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 3 of the Bank Holding ... But actually it is: Section 3 of the Bank Holding ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: Section 3 of the Bank Holding Company /1956 other than section 3c3B of that Act shall apply to any /is or would become an industrial bank holding company in the same /such section applies to a company that is or would become a bank /except that for purposes of applying this subsection 
+insertion: 
+deletion: Company any same bank 
+change: of to Act				of / that to company				that / as to manner				as / company to holding				company / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  in such section 3 shall be de... But actually it is:  in such section 3 shall be de...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words:  in such section 3 shall be deemed to be 
+insertion: 
+deletion: 
+change: a reference to an to a				reference to an 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  in such section 3 shall be de... But actually it is:  in				such section 3 shall be...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: in such section 3 shall be deemed to be a reference to an 
+insertion: 
+deletion:  
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: industrial bank But actually it is: industrial				bank
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: bank to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any reference to the  But actually it is: any reference to				the 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: any reference 
+insertion: 
+deletion: 
+change: to the to to				the 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  in such section 3 shall be de... But actually it is:  in such section				3 shall be...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words:  in such /shall be deemed to be a reference to the 
+insertion: 
+deletion: such 
+change: 3 to section				3 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: Industrial Bank Holding Compan... But actually it is: Industrial Bank Holding				Com...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Industrial Bank /Act of 2007 
+insertion: 
+deletion: Bank 
+change: Company to Holding				Company / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[5]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[5]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: home State But actually it is: home				State
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: State to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[5]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[5]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: with respect to an industrial ... But actually it is: with respect to an				industri...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: with respect to /bank holding company the State in which the total deposits of /subsidiaries of such company were the largest on the later of 
+insertion: 
+deletion: to of 
+change: industrial to an				industrial / banking to all				banking / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[5]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[5]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: January 28, 2007; or But actually it is: January 28, 2007;				or
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: January 28 
+insertion: 
+deletion: 
+change: 2007 or to 2007				or 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[5]/subparagraph[1]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[5]/subparagraph[1]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the date on which the company ... But actually it is: the date on which				the compa...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: the date on /company becomes an industrial bank holding company under this section and 
+insertion: 
+deletion: on 
+change: the to which				the / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[5]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[5]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: with respect to an industrial ... But actually it is: with respect to an				industri...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: with respect to /bank the home State of the bank as determined under section 44g 
+insertion: 
+deletion: to 
+change: industrial to an				industrial / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[6]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[6]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: host State But actually it is: host				State
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: State to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[6]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[6]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: with respect to an industrial ... But actually it is: with respect to an				industri...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: with respect to /bank holding company a State other than the home State of /in which the company controls or seeks to control an industrial 
+insertion: 
+deletion: to of 
+change: industrial to an				industrial / company to the				company / bank subsidiary and to bank				subsidiary and 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[6]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[6]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: with respect to an industrial ... But actually it is: with respect to an				industri...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: with respect to /bank the host State of the bank as determined under 
+insertion: 
+deletion: to 
+change: industrial to an				industrial / section 44g to section				44g 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[7]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[7]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: out-of-State bank holding comp... But actually it is: out-of-State				bank holding c...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: bank holding company 
+insertion: 
+deletion: outofState 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[7]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[7]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  in such section 3 shall be de... But actually it is:  in such section 3 shall be de...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words:  in such section 3 shall be deemed to be /to with respect to any State an industrial bank holding /home State is another State and 
+insertion: 
+deletion: be holding 
+change: reference to a				reference / whose to company				whose / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[8]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[8]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: out-of-State bank But actually it is: out-of-State				bank
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: bank to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[8]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[8]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  in such section 3 shall be de... But actually it is:  in such section 3 shall be de...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words:  in such section 3 shall be deemed to be a reference to /to any State an industrial bank whose home State is 
+insertion: 
+deletion: to 
+change: respect to with				respect / another State to another				State 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Application process But actually it is: Application				process
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: process to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: An application filed under sub... But actually it is: An application filed				under ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: An application /subsection a to acquire control of an industrial bank shall be /an application for a deposit facility for purposes of this Act and any 
+insertion: 
+deletion: application be 
+change: under to filed				under / as to treated				as / other Federal law to other				Federal law 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In				general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: general to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Each industrial bank holding c... But actually it is: Each industrial bank				holdin...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: Each industrial /company shall register with the Corporation on forms prescribed by /before the end of the 180day period beginning on the 
+insertion: 
+deletion: industrial by 
+change: holding to bank				holding / Corporation to the				Corporation / later of to later				of 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the date the company becomes a... But actually it is: the date the company becomes a...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: the date the company becomes an /holding company or 
+insertion: 
+deletion: an 
+change: bank to industrial				bank / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the date of the enactment of t... But actually it is: the date of the enactment of t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: the date of the enactment of the /Holding Company Act of 2007 
+insertion: 
+deletion: the 
+change: Bank to Industrial				Bank / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Information to be included But actually it is: Information to				be included
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: to be included to to				be included 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Each registration submitted un... But actually it is: Each registration submitted un...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Each registration submitted under paragraph 1 /such information under oath with respect to the financial /operations management and intercompany relationships of /bank holding company and subsidiaries of such holding company /factors including information described in subsection d1C as /may determine to be appropriate to carry out the purposes of 
+insertion: 
+deletion: 1 financial of company as 
+change: include to shall				include / ownership to condition				ownership / industrial to the				industrial / other to and				other / Corporation to the				Corporation / this section to this				section 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Extension of time for submitti... But actually it is: Extension of				time for submi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: of time for submitting complete information 
+insertion: 
+deletion: Extension 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Upon application by an industr... But actually it is: Upon application by an				indu...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.68
+The Detailes are shown as followings: 
+common words: Upon application by /bank holding company and subject to such requirements factors /as the Corporation may require the Corporation may extend the /in paragraph 1 within which such company shall register and 
+insertion: 
+deletion: by factors the 
+change: industrial to an				industrial / evidence to and				evidence / described to period				described / file the requisite information to file				the requisite information 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Reports and examinations But actually it is: Reports and				examinations
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: and examinations to and				examinations 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Reports required But actually it is: Reports				required
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: required to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Each industrial bank holding c... But actually it is: Each industrial bank holding c...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: Each industrial bank holding company and each /an industrial bank holding company other than an industrial bank /with the Corporation such reports as may be required by 
+insertion: 
+deletion: each bank 
+change: of to subsidiary				of / file to shall				file / the Corporation to the				Corporation 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Form and manner But actually it is: Form and				manner
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: and manner to and				manner 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Reports filed under subparagra... But actually it is: Reports filed under subparagra...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Reports filed under subparagraph A shall be made /and shall be in such form and for such periods as the Corporation 
+insertion: 
+deletion: made 
+change: oath to under				oath / may prescribe to may				prescribe 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Each report filed under subpar... But actually it is: Each report filed under subpar...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Each report filed under subparagraph /contain such information as the Corporation may 
+insertion: 
+deletion: subparagraph 
+change: shall to A				shall / require concerning to require				concerning 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[3]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[3]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the operations of the industri... But actually it is: the operations of				the indus...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.64
+The Detailes are shown as followings: 
+common words: the operations /industrial bank holding company and the holding 
+insertion: 
+deletion: operations 
+change: the to of				the / company’s subsidiaries to company’s				subsidiaries 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[3]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[3]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the financial condition of the... But actually it is: the financial condition of the...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: the financial condition of the /holding company and such subsidiaries together with information /maintained within the holding company or within any such subsidiary /and controlling financial and operating risks and transactions /depository institution subsidiaries of the holding company 
+insertion: 
+deletion: the information subsidiary transactions 
+change: bank to industrial				bank / systems to on				systems / monitoring to for				monitoring / insured to with				insured / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[3]/clause[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[3]/clause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: compliance by the industrial b... But actually it is: compliance by the industrial b...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: compliance by the industrial bank /and the holding company’s subsidiaries with all applicable Federal 
+insertion: 
+deletion: bank 
+change: company to holding				company / and State law and to and				State law and 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[3]/clause[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[3]/clause[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: such other information as the ... But actually it is: such other				information as t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: other information as the Corporation may require 
+insertion: 
+deletion: such 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Acceptance of existing reports But actually it is: Acceptance of				existing repo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of existing reports to of				existing reports 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For purposes of this paragraph... But actually it is: For purposes				of this paragr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: purposes of this paragraph the Corporation may accept reports that an industrial /company or any subsidiary of such company has provided or has /to provide to any other Federal or State supervisor or to 
+insertion: 
+deletion: For industrial has 
+change: holding to bank				holding / required to been				required / any appropriate selfregulatory organization to any				appropriate selfregulatory organization 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In				general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: general to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Each industrial bank holding c... But actually it is: Each industrial bank holding c...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: Each industrial bank holding company and each /each such holding company other than an industrial bank shall be /such examinations by the Corporation as the Corporation may prescribe /of this section 
+insertion: 
+deletion: each be prescribe 
+change: of to subsidiary				of / to to subject				to / purposes to for				purposes / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Furnishing reports to other ag... But actually it is: Furnishing				reports to other...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: reports to other agencies 
+insertion: 
+deletion: Furnishing 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Examination and other reports ... But actually it is: Examination and other reports ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Examination and other reports made /under this section may be furnished by the Corporation to any /Federal agency or any appropriate State bank supervisor or /financial supervisory agency 
+insertion: 
+deletion: made any or 
+change: received to or				received / appropriate to other				appropriate / State to other				State / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Use of reports from other agen... But actually it is: Use of reports				from other a...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: Use of 
+insertion: 
+deletion: 
+change: reports from other agencies to reports				from other agencies 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Corporation may use, for t... But actually it is: The				Corporation may use, fo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Corporation may use for the purposes of this subsection reports /made by any other appropriate Federal agency any appropriate /supervisor or any other State financial supervisory authority /to any industrial bank holding company or subsidiary of any /company to the extent the Corporation may determine such use to /for such purposes 
+insertion: 
+deletion: The reports appropriate authority any to 
+change: examination to of				examination / bank to State				bank / respect to with				respect / holding to such				holding / feasible to be				feasible / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[3]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[3]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In				general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: general to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[3]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[3]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  The Corporation may not, by r... But actually it is: The Corporation may				not, by...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: The Corporation /by regulation guideline order or otherwise prescribe or impose /or capital adequacy rules guidelines standards or requirements /functionally regulated affiliate as defined in section 45 of /institution that is controlled by an industrial bank holding 
+insertion: 
+deletion:  Corporation impose requirements of 
+change: not to may				not / capital to any				capital / any to on				any / depository to any				depository / company that to company				that 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[3]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[3]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: is not a depository institutio... But actually it is: is not a				depository institu...
+The Jaccard Index is: 0.97
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: is not 
+insertion: 
+deletion: 
+change: a depository institution and to a				depository institution and 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[3]/subparagraph[1]/clause[2]/subclause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[3]/subparagraph[1]/clause[2]/subclause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in compliance with the applica... But actually it is: in compliance with				the appl...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 0.61
+The Detailes are shown as followings: 
+common words: in compliance /applicable capital requirements of the appropriate Federal /of the affiliate including the Securities and Exchange Commission 
+insertion: 
+deletion: compliance Federal 
+change: the to with				the / agency to supervisory				agency / or State insurance authority to or				State insurance authority 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[3]/subparagraph[1]/clause[2]/subclause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[3]/subparagraph[1]/clause[2]/subclause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: properly registered as an inve... But actually it is: properly				registered as an i...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: registered as an investment adviser under the Investment Advisers Act of /with any State or 
+insertion: 
+deletion: properly of 
+change: or to 1940				or / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[3]/subparagraph[1]/clause[2]/subclause[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[3]/subparagraph[1]/clause[2]/subclause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: is licensed as an insurance ag... But actually it is: is licensed as				an insurance...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: is licensed /insurance agent with the appropriate State insurance authority 
+insertion: 
+deletion: licensed 
+change: an to as				an / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[3]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[3]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Rule of construction But actually it is: Rule of				construction
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of construction to of				construction 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[3]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[3]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subparagraph (A) shall not be ... But actually it is: Subparagraph (A)				shall not ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: A shall not be construed as preventing the Corporation from imposing capital /adequacy rules guidelines standards or requirements with 
+insertion: 
+deletion: Subparagraph capital 
+change: capital to or				capital / respect to to respect				to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[3]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[3]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: activities of a registered inv... But actually it is: activities of a				registered ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: activities of /investment adviser other than with respect to investment /or activities incidental to investment advisory activities or 
+insertion: 
+deletion: of investment 
+change: registered to a				registered / activities to advisory				activities / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[3]/subparagraph[2]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[3]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: activities of a licensed insur... But actually it is: activities of a				licensed in...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: activities of /insurance agent other than insurance agency activities or /to insurance agency activities 
+insertion: 
+deletion: of or 
+change: licensed to a				licensed / incidental to activities				incidental / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Access to information But actually it is: Access to				information
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: to information to to				information 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Information provided by corpor... But actually it is: Information				provided by cor...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: provided by corporation 
+insertion: 
+deletion: Information 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any confidential supervisory i... But actually it is: Any				confidential supervisor...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: confidential supervisory information including examination or other /to an industrial bank furnished by the Corporation to any /agency or any appropriate State supervisory agency shall /unless the Corporation in writing otherwise consents 
+insertion: 
+deletion: Any other any shall 
+change: pertaining to reports				pertaining / Federal to other				Federal / confidential to remain				confidential / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Deference to depository instit... But actually it is: Deference to				depository ins...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: to depository institution examinations 
+insertion: 
+deletion: Deference 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any appropriate Federal superv... But actually it is: Any appropriate Federal superv...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: Any appropriate Federal supervisory /a holding company of an industrial bank shall to the fullest /forego any examination of any depository institution subsidiary /holding company and use the reports of examinations of the institution /the appropriate Federal banking agency and the appropriate State /in lieu of a direct examination 
+insertion: 
+deletion: supervisory fullest subsidiary institution State 
+change: of to agency				of / possible to extent				possible / the to of				the / by to made				by / supervisor to bank				supervisor / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Information to be provided to ... But actually it is: Information to				be provided ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: to be provided to corporation 
+insertion: 
+deletion: Information 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[3]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[3]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Request to agency But actually it is: Request to				agency
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: to agency to to				agency 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[3]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[3]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Upon request by the Corporatio... But actually it is: Upon request by the Corporatio...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: Upon request by the Corporation an appropriate /agency may provide to the Corporation information regarding /of an industrial bank any holding company that controls /bank or any other affiliate of any such holding company that /to assess risk to the industrial bank 
+insertion: 
+deletion: appropriate regarding controls that 
+change: supervisory to Federal				supervisory / condition to the				condition / industrial to such				industrial / necessary to is				necessary / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[3]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[3]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Availability from holding comp... But actually it is: Availability				from holding c...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: from holding company directly 
+insertion: 
+deletion: Availability 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[3]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[3]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notwithstanding section 45, se... But actually it is: Notwithstanding section 45, se...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Notwithstanding section 45 /of the GrammLeachBliley Act or any other provision of law including /if the information requested under subparagraph A is /to the Corporation and the information is necessary to assess risk /industrial bank the Corporation may require the holding company /referred to in such subparagraph with respect to such bank to /information to the Corporation 
+insertion: 
+deletion: 45 including is risk company to 
+change: 115 to section				115 / regulation to any				regulation / provided to not				provided / the to to				the / affiliate to or				affiliate / such to provide				such / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Examinations by corporation But actually it is: Examinations by				corporation
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: by corporation to by				corporation 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[4]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[4]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in general But actually it is: in				general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: general to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[4]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[4]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subject to subparagraph (B) an... But actually it is: Subject to				subparagraph (B)...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: to subparagraph B and notwithstanding section 45 section 115 of /Act or any other provision of law including /no law shall be construed as preventing the Corporation /an affiliate of an industrial bank pursuant to paragraph 2 3 /of section 10b as may be necessary to disclose fully the /the industrial bank and the affiliate and the effect of /on the industrial bank if the Corporation finds such /to determine the condition of an industrial bank 
+insertion: 
+deletion: Subject of including Corporation 3 the of such 
+change: GrammLeachBliley to the				GrammLeachBliley / regulation to any				regulation / examining to from				examining / 4 to or				4 / between to relationship				between / relationship to such				relationship / necessary to examination				necessary / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[4]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[4]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Functionally regulated affilia... But actually it is: Functionally				regulated affi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: regulated affiliates 
+insertion: 
+deletion: Functionally 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[4]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[4]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  Before the Corporation may ex... But actually it is: Before the Corporation may exa...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Before the Corporation may examine /of an industrial bank that is 
+insertion: 
+deletion:  examine 
+change: affiliate to any				affiliate / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[4]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[4]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a broker, a dealer, an investm... But actually it is: a				broker, a dealer, an inve...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.91
+The Detailes are shown as followings: 
+common words: broker a dealer an investment company or an investment advisor or 
+insertion: 
+deletion: a 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[4]/subparagraph[2]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[4]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: an entity that is subject to c... But actually it is: an entity that is subject to c...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: an entity that is subject to /by the Securities and Exchange Commission other than a 
+insertion: 
+deletion: to 
+change: supervision to consolidated				supervision / depository institution to depository				institution 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[4]/subparagraph[2]/continuation-text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]/paragraph[4]/subparagraph[2]/continuation-text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the Corporation shall request ... But actually it is: the				Corporation shall reque...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: Corporation shall request the Commission to provide the information that /is seeking to obtain through examination and may proceed with /only if the requested information is not provided by the /a timely manner 
+insertion: 
+deletion: the that with the 
+change: Corporation to the				Corporation / examination to the				examination / in to Commission				in / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Limitation on control But actually it is: Limitation on				control
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: on control to on				control 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In				general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: general to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Except as provided in paragrap... But actually it is: Except as provided in				parag...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.68
+The Detailes are shown as followings: 
+common words: Except as provided /3 or 4 no industrial bank may be controlled directly /by a commercial firm 
+insertion: 
+deletion: provided directly 
+change: paragraph to in				paragraph / indirectly to or				indirectly / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Commercial firm defined But actually it is: Commercial firm				defined
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: firm defined to firm				defined 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[2]/text[1]/term[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[2]/text[1]/term[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: commercial firm But actually it is: commercial				firm
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: firm to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means any entity at least 15 ... But actually it is:  means any entity at least 15 ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words:  means any entity at least 15 percent of the annual gross /which on a consolidated basis including all affiliates of the entity /from engaging on an ongoing basis in activities that are /in nature or incidental to a financial activity during at least 3 /prior 4 calendar quarters as determined by the Corporation in /regulations which the Corporation shall prescribe 
+insertion: 
+deletion: gross entity are 3 in 
+change: of to revenues				of / derived to were				derived / financial to not				financial / the to of				the / with to accordance				with / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/header[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/header[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: 2003 exclusions But actually it is: 2003				exclusions
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: exclusions to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Grandfathered institutions But actually it is: Grandfathered				institutions
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: institutions to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Paragraph (1) shall not apply ... But actually it is: Paragraph (1)				shall not app...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: 1 shall not apply with respect to any industrial bank 
+insertion: 
+deletion: Paragraph 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: which became an insured deposi... But actually it is: which became an				insured dep...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.64
+The Detailes are shown as followings: 
+common words: which became /depository institution before October 1 2003 or pursuant to /for deposit insurance which was approved by the Corporation 
+insertion: 
+deletion: became to 
+change: insured to an				insured / application to an				application / before such date and to before				such date and 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[1]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[1]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: with respect to which there is... But actually it is: with respect to which there is...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: with respect to which there is no change /directly or indirectly of the bank after September 30 2003 /a registration under this section or an application under section /18c section 3 of the 
+insertion: 
+deletion: change 2003 section 
+change: control to in				control / requires to that				requires / or to 7j				or / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[1]/clause[2]/text[1]/act-name[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[1]/clause[2]/text[1]/act-name[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Bank Holding Company Act of 19... But actually it is: Bank Holding Company				Act of...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: Bank Holding 
+insertion: 
+deletion: 
+change: Company Act of 1956 to Company				Act of 1956 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[1]/clause[2]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[1]/clause[2]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be: , except a direct or indirect ... But actually it is: , except a direct or				indire...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words:  except a direct /change of control in which 
+insertion: 
+deletion: direct 
+change: indirect to or				indirect / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[1]/clause[2]/subclause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[1]/clause[2]/subclause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: immediately prior to such chan... But actually it is: immediately prior to such chan...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: immediately prior to such change in /the ultimate acquiring holding company nor the ultimate /company is a commercial firm 
+insertion: 
+deletion: in ultimate 
+change: neither to control				neither / holding to acquired				holding / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[1]/clause[2]/subclause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[1]/clause[2]/subclause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: immediately after such change ... But actually it is: immediately after such change ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: immediately after such change of /resulting ultimate holding company is not a commercial firm and 
+insertion: 
+deletion: of 
+change: the to control				the / 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[1]/clause[2]/subclause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the resulting ultimate holding... But actually it is: the resulting ultimate holding...
+The Jaccard Index is: 0.65
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: the resulting ultimate holding company /to consolidated supervision by the Office of Thrift Supervision or /company regulated by the Securities and Exchange Commission pursuant 
+insertion: 
+deletion: company or 
+change: subject to is				subject / holding to a				holding / to to to				section				24015c31a7 of title 17 of the Code of Federal Regulations				as in effect on January 29 2007 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[1]/clause[2]/subclause[3]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"section 240.15c3–1(a)(7)"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[1]/clause[2]/subclause[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[1]/clause[2]/subclause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 17 of the Code of Fe... But actually it is: the resulting ultimate holding...
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words:  of title 17 of the Code of Federal /in effect on January 29 2007 
+insertion: resulting ultimate holding company is				subject to consolidated supervision by the Office of Thrift Supervision or a				holding company regulated by the Securities and Exchange Commission pursuant to				section				24015c31a7 
+deletion: Federal 
+change: as to Regulations				as / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Corporate reorganizations perm... But actually it is: Corporate				reorganizations p...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: reorganizations permitted 
+insertion: 
+deletion: Corporate 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The acquisition of direct or i... But actually it is: The				acquisition of direct o...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: acquisition of direct or indirect control of the industrial bank referred to /Aii shall not be treated as a 
+insertion: 
+deletion: The to 
+change: subparagraph to in				subparagraph / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the company acquiring control ... But actually it is: the company				acquiring contr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: company acquiring control is itself directly or indirectly controlled by a company /an affiliate of such bank on the date referred to in such subparagraph /an affiliate at all times after such date and 
+insertion: 
+deletion: the company subparagraph 
+change: was to that				was / remains to and				remains / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[2]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[3]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the transaction through which ... But actually it is: the transaction through which ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: the transaction through which the /control of the industrial bank constituted solely a /of a company that controlled the industrial bank on the /to in such subparagraph 
+insertion: 
+deletion: the a the 
+change: acquired to company				acquired / reorganization to corporate				reorganization / referred to date				referred / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/header[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/header[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: 2007 exclusions But actually it is: 2007				exclusions
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: exclusions to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Grandfathered commercial firms But actually it is: Grandfathered				commercial fi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: commercial firms 
+insertion: 
+deletion: Grandfathered 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Paragraph (1) shall not apply ... But actually it is: Paragraph (1) shall not apply ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: Paragraph 1 shall not apply to any 
+insertion: 
+deletion: 
+change: commercial firm to commercial				firm 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: which became a holding company... But actually it is: which became a holding company...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: which became a holding company of /bank by virtue of acquiring control of an industrial bank on /October 1 2003 and before January 29 2007 
+insertion: 
+deletion: of on 
+change: industrial to an				industrial / after to or				after / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[1]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[1]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: which does not acquire control... But actually it is: which does not acquire control...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: which does not acquire control of any /institution after January 28 2007 
+insertion: 
+deletion: any 
+change: depository to other				depository / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[1]/clause[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[1]/clause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: with respect to which there is... But actually it is: with respect to which there is...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: with respect to which there is no change /directly or indirectly of any depository institution subsidiary /28 2007 that requires a registration under this section or /under section 7j or 18c section 3 of 
+insertion: 
+deletion: change subsidiary or 
+change: control to in				control / January to after				January / application to an				application / the to the				 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[1]/clause[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[1]/clause[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: , or section 10 of the  But actually it is: , or				section 10 of the 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: or section 10 of the 
+insertion: 
+deletion:  
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[1]/clause[3]/text[1]/act-name[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[1]/clause[3]/text[1]/act-name[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: Home Owners’ Loan Act But actually it is: Home Owners’ Loan				Act
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Home Owners’ 
+insertion: 
+deletion: 
+change: Loan Act to Loan				Act 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[1]/clause[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[1]/clause[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: each industrial bank subsidiar... But actually it is: each industrial				bank subsid...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.64
+The Detailes are shown as followings: 
+common words: industrial bank subsidiary of which remains in compliance with the limitations 
+insertion: 
+deletion: each 
+change: contained in subparagraph B to contained				in subparagraph B 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Activity and branching limitat... But actually it is: Activity and				branching limi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: and branching limitations to and				branching limitations 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: An industrial bank subsidiary ... But actually it is: An				industrial bank subsidia...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: industrial bank subsidiary of a commercial firm described in clauses i /iii of subparagraph A is in compliance with the requirements of /for purposes of subparagraph Aiv so long as the 
+insertion: 
+deletion: An i of 
+change: and to ii				and / subparagraph to this				subparagraph / industrial bank to industrial				bank 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: engages only in activities in ... But actually it is: engages only in activities in ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: engages only in activities in which /bank was engaged on January 28 2007 and 
+insertion: 
+deletion: which 
+change: industrial to the				industrial / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[2]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: does not acquire, establish, o... But actually it is: does not acquire, establish, o...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: does not acquire establish or operate /deposit production office loan production office automated /or remote service unit in any State other than the home State of /or any host State in which such bank operated branches on January 
+insertion: 
+deletion: operate automated of 
+change: branch to any				branch / machine to teller				machine / bank to the				bank / 28 2007 to 28				2007 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Corporate reorganizations perm... But actually it is: Corporate				reorganizations p...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: reorganizations permitted 
+insertion: 
+deletion: Corporate 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The acquisition of direct or i... But actually it is: The acquisition of direct or i...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: The acquisition of direct or /of a depository institution subsidiary referred to in /shall not be treated as a 
+insertion: 
+deletion: or in 
+change: control to indirect				control / Aiii to subparagraph				Aiii / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  for purposes of such subparag... But actually it is:  for				purposes of such subpa...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: for purposes of such subparagraph if 
+insertion: 
+deletion:  
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[3]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[3]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the company acquiring control ... But actually it is: the				company acquiring contr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: company acquiring control is itself directly or indirectly controlled by /that was an affiliate of such subsidiary on the date referred to /subparagraph and remains an affiliate at all times after such 
+insertion: 
+deletion: the by to 
+change: company to a				company / such to in				such / date and to date				and 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[3]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]/paragraph[4]/subparagraph[3]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the transaction through which ... But actually it is: the transaction through which ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: the transaction through which the /control of the depository institution constituted solely a /of a company that controlled the depository institution on /referred to in such subparagraph 
+insertion: 
+deletion: the a on 
+change: acquired to company				acquired / reorganization to corporate				reorganization / date to the				date / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Procedures and timing for term... But actually it is: Procedures and				timing for t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: and timing for termination of activities or divestiture 
+insertion: 
+deletion: Procedures 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Transition provision But actually it is: Transition				provision
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: provision to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[1]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[1]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In				general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: general to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any company that fails to comp... But actually it is: Any company that				fails to c...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: Any company /to comply with the provisions of subsection f shall divest /or control of each industrial bank subsidiary of the company /than the end of the 2year period beginning on the first date that /ceased to comply with subsection f 
+insertion: 
+deletion: company divest company that 
+change: fails to that				fails / ownership to its				ownership / later to not				later / company to the				company / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[1]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[1]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Extension of time period But actually it is: Extension of				time period
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of time period to of				time period 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[1]/subparagraph[2]/clause[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[1]/subparagraph[2]/clause[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In				general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: general to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[1]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[1]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Upon application by a holding ... But actually it is: Upon application by a				holdi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Upon application by /company that controls an industrial bank the appropriate /agency of such holding company may extend the 2year /to in subparagraph A with respect to such company for not more /year if in such agency’s judgment such an extension would not /to the public interest 
+insertion: 
+deletion: by appropriate 2year more not 
+change: holding to a				holding / supervisory to Federal				supervisory / referred to period				referred / 1 to than				1 / detrimental to be				detrimental / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[1]/subparagraph[2]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[1]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In making any decision to gran... But actually it is: In making any decision to gran...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: In making any decision to grant /under clause i to a holding company of an industrial bank /Federal supervisory agent of such holding company shall 
+insertion: 
+deletion: grant bank 
+change: extension to an				extension / appropriate to the				appropriate / consider whether to consider				whether 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[1]/subparagraph[2]/clause[2]/subclause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[1]/subparagraph[2]/clause[2]/subclause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the company has made a good fa... But actually it is: the company has				made a good...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: the company /a good faith effort to divest such interests and 
+insertion: 
+deletion: company 
+change: made to has				made / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[1]/subparagraph[2]/clause[2]/subclause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[1]/subparagraph[2]/clause[2]/subclause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: such extension is necessary to... But actually it is: such extension is				necessary...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: such extension /to avert substantial loss to the company 
+insertion: 
+deletion: extension 
+change: necessary to is				necessary / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Conditions before divestiture But actually it is: Conditions				before divestitu...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: before divestiture 
+insertion: 
+deletion: Conditions 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: During the 2-year period refer... But actually it is: During the				2-year period re...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: the 2year period referred to in paragraph 1A with respect to any company /extension of such period the appropriate Federal supervisory agency /any conditions or restrictions on the company or any subsidiary of /other than a bank including restricting or prohibiting /the company or subsidiary and any depository institution subsidiary /company as are appropriate under the circumstances 
+insertion: 
+deletion: During company agency of prohibiting subsidiary 
+change: any to and				any / impose to may				impose / company to the				company / between to transactions				between / the to of				the / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Termination of activities or d... But actually it is: Termination of				activities o...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: of activities or divestiture of nonbank subsidiaries constituting 
+insertion: 
+deletion: Termination 
+change: serious risk to serious				risk 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[3]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[3]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In				general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: general to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[3]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[3]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notwithstanding any other prov... But actually it is: Notwithstanding any				other p...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: any other provision of this section the appropriate Federal supervisory /whenever such agency has reasonable cause to believe that the /a holding company of an industrial bank of any activity or of ownership /of any nonbank subsidiary of such holding company other than a /of a depository institution constitutes a serious risk to /safety soundness or stability of a depository /of the holding company and is inconsistent with sound /or with the purposes of this section at the election of the 
+insertion: 
+deletion: Notwithstanding supervisory the ownership a to depository sound 
+change: may to agency				may / by to continuation				by / control to or				control / subsidiary to nonbank				subsidiary / financial to the				financial / subsidiary to institution				subsidiary / principles to banking				principles / holding company to holding				company 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[3]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[3]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: order such holding company or ... But actually it is: order such holding company or ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: order such holding company or any /subsidiary after due notice and opportunity for hearing and /the views of the appropriate Federal banking agency and /appropriate State bank supervisor to terminate such activities /terminate within 120 days or such longer period as the appropriate /agency may direct in unusual circumstances the ownership /by such holding company or nonbank subsidiary of any such /subsidiary either by sale or by distribution of the shares of /institution subsidiary in accordance with subparagraph B to /of the holding company of the industrial bank or 
+insertion: 
+deletion: any and and activities appropriate ownership such of to 
+change: nonbank to such				nonbank / considering to after				considering / applicable to if				applicable / to to or				to / supervisory to Federal				supervisory / control to or				control / institution to depository				institution / depository to the				depository / shareholders to the				shareholders / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[3]/subparagraph[1]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[3]/subparagraph[1]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: order the holding company of t... But actually it is: order the holding company of t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: order the holding company of the /after due notice and opportunity for hearing and after consultation /appropriate State bank supervisor for the industrial bank to /120 days or such longer period as the appropriate Federal /may direct the ownership or control of any such industrial bank by 
+insertion: 
+deletion: the consultation to Federal 
+change: bank to industrial				bank / the to with				the / within to terminate				within / agency to supervisory				agency / such company to such				company 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[3]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[3]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Pro rata distribution But actually it is: Pro rata				distribution
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: rata distribution to rata				distribution 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[3]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[3]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any distribution to shareholde... But actually it is: Any distribution				to shareho...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: distribution to shareholders referred to in clause i shall be pro rata with respect to /the shareholders of the distributing company and such company shall /any charge to any shareholder in connection with such distribution 
+insertion: 
+deletion: Any to shall 
+change: of to all				of / make to not				make / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Foreign bank ownership But actually it is: Foreign bank				ownership
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: bank ownership to bank				ownership 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[4]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[4]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Industrial banks But actually it is: Industrial				banks
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: banks to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[4]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[4]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: After January 28, 2007, no for... But actually it is: After January 28, 2007,				no ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: After January 28 /foreign bank may acquire directly or indirectly control of an /unless the Board of Governors of the Federal Reserve System has /order or in the case of a foreign bank that is a savings and loan /the Board of Governors of the Federal Reserve System and the /Office of Thrift Supervision have jointly determined by order in /the change in control or acquisition of the industrial bank and /with the Corporation that the foreign bank is subject /supervision or regulation on a consolidated basis by /authorities in the bank’s home country in accordance with /in section 3c3B of the Bank Holding Company Act of 1956 
+insertion: 
+deletion: 28 an has loan the in and subject by with 
+change: no to 2007				no / bank to industrial				bank / by to determined				by / company to holding				company / of to Director				of / with to connection				with / consultation to after				consultation / comprehensive to to				comprehensive / appropriate to the				appropriate / standard to the				standard / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[4]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[4]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Conforming amendment But actually it is: Conforming				amendment
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: amendment to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[4]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[4]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notwithstanding any other prov... But actually it is: Notwithstanding any other prov...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: Notwithstanding any other provision of law after /of enactment of the Industrial Bank Holding Company Act of 2007 /of the Office of Thrift Supervision shall not approve any /a savings association under section 10e2 of the Home Owners’ Loan Act /foreign bank that is subject to the Bank Holding Company Act of 1956 /section 8a of the International Banking Act of 1978 and that is not a /company unless the Director of the Office of Thrift Supervision and /of Governors of the Federal Reserve System have jointly determined /in connection with the acquisition of the savings association that /bank is subject to comprehensive supervision or regulation on /basis by the appropriate authorities in the bank’s home country /with the standard in section 3c3B of the Bank Holding 
+insertion: 
+deletion: after 2007 any Act 1956 a and determined that on country 
+change: date to the				date / Director to the				Director / of to acquisition				of / a to by				a / to to pursuant				to / holding to bank				holding / Board to the				Board / order to by				order / foreign to the				foreign / consolidated to a				consolidated / accordance to in				accordance / Company Act of 1956 to Company				Act of 1956 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Holding company responsibility But actually it is: Holding company				responsibil...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: company responsibility to company				responsibility 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[5]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[5]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Source of strength But actually it is: Source of				strength
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of strength to of				strength 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[5]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[5]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notwithstanding section 45, a ... But actually it is: Notwithstanding section 45, a ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: Notwithstanding section 45 a holding company of 
+insertion: 
+deletion: 
+change: an industrial bank to an				industrial bank 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[5]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[5]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: shall serve as a source of fin... But actually it is: shall serve as a				source of ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.65
+The Detailes are shown as followings: 
+common words: shall serve as /of financial and managerial strength to the subsidiary banks of 
+insertion: 
+deletion: as 
+change: source to a				source / such holding company and to such				holding company and 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[5]/subparagraph[1]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[5]/subparagraph[1]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: shall not conduct the operatio... But actually it is: shall not conduct				the opera...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: shall not /operations of the holding company in an unsafe or unsound manner 
+insertion: 
+deletion: not 
+change: the to conduct				the / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[5]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]/paragraph[5]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The appropriate Federal superv... But actually it is: The				appropriate Federal sup...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: appropriate Federal supervisory agency of the holding company of an /shall implement the requirements under subparagraph A 
+insertion: 
+deletion: The an 
+change: bank to industrial				bank / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[8]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[8]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Administrative provisions But actually it is: Administrative				provisions
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: provisions to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[8]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[8]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Agent for service of process But actually it is: Agent for				service of proces...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: for service of process 
+insertion: 
+deletion: Agent 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[8]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[8]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Corporation may require an... But actually it is: The Corporation may require an...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: The Corporation may require any /holding company or persons connected with such holding company if it /a corporation to execute and file a prescribed form of /of agent for service of process 
+insertion: 
+deletion: any it of 
+change: bank to industrial				bank / not to is				not / appointment to irrevocable				appointment / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[8]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[8]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Release from registration But actually it is: Release from				registration
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: from registration to from				registration 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[8]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[8]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Corporation may at any tim... But actually it is: The Corporation may at any tim...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: The Corporation may at any time upon /own motion or upon application release a registered /holding company from any registration previously made by such company /Corporation determines that such company no longer controls any 
+insertion: 
+deletion: upon registered company 
+change: Corporation’s to the				Corporation’s / bank to industrial				bank / the to if				the / industrial bank to industrial				bank 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[9]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[9]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For purposes of this section, ... But actually it is: For				purposes of this sectio...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: purposes of this section the following definitions shall apply 
+insertion: 
+deletion: For 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[9]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[9]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Appropriate Federal supervisor... But actually it is: Appropriate				Federal supervi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Federal supervisory agency 
+insertion: 
+deletion: Appropriate 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[9]/paragraph[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[9]/paragraph[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: appropriate Federal supervisor... But actually it is: appropriate Federal				supervi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: Federal supervisory agency to Federal				supervisory agency 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[9]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[9]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means, with respect to a comp... But actually it is:  means, with respect to a comp...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words:  means with respect to a company that controls 
+insertion: 
+deletion: 
+change: an industrial bank to an				industrial bank 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[9]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[9]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the Corporation, in the case o... But actually it is: the Corporation, in the case o...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: the Corporation in the case of a /is an industrial bank holding company 
+insertion: 
+deletion: a 
+change: that to company				that / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[9]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[9]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the Board of Governors of the ... But actually it is: the Board of				Governors of t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: the Board /of /the Federal Reserve System in the case of a company that is /holding company or that is subject to the Bank Holding Company Act of /to section 8a of the International Banking Act of 1978 
+insertion: of				Governors 
+deletion: of Governors is of 
+change: bank to a				bank / pursuant to 1956				pursuant / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[9]/paragraph[1]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[9]/paragraph[1]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the Office of Thrift Supervisi... But actually it is: the Office of				Thrift Superv...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: the Office /Supervision in the case of a company that is a savings and loan 
+insertion: 
+deletion: Office 
+change: Thrift to of				Thrift / holding company and to holding				company and 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[9]/paragraph[1]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the Securities and Exchange Co... But actually it is: the Securities and				Exchange...
+The Jaccard Index is: 0.53
+And the Smith Waterman Score is: 0.58
+The Detailes are shown as followings: 
+common words: the Securities /Commission in the case of a company that is regulated by 
+insertion: 
+deletion: Securities 
+change: Exchange to and				Exchange / the Commission pursuant to to the				Commission pursuant to				section				24015c31a7 of title 17 of the Code of Federal Regulations				as in effect on January 29 2007 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[9]/paragraph[1]/subparagraph[4]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"section 240.15c3–1(a)(7)"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[9]/paragraph[1]/subparagraph[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[9]/paragraph[1]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 17 of the Code of Fe... But actually it is: the Securities and				Exchange...
+The Jaccard Index is: 0.43
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words:  of title 17 of the Code of Federal /in effect on January 29 2007 
+insertion: Securities and				Exchange Commission in the case of a company that is regulated by the				Commission pursuant to				section				24015c31a7 
+deletion: Federal 
+change: as to Regulations				as / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[9]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[9]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Rule of construction But actually it is: Rule of				construction
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of construction to of				construction 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[9]/paragraph[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[9]/paragraph[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: appropriate Federal supervisor... But actually it is: appropriate				Federal supervi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Federal supervisory agency 
+insertion: 
+deletion: appropriate 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[9]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[9]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  in paragraph (1), more than 1... But actually it is:  in paragraph (1), more than 1...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words:  in paragraph 1 more than 1 agency may /appropriate Federal supervisory agency with respect to any given 
+insertion: 
+deletion: may 
+change: an to be				an / company that controls an industrial bank to company				that controls an industrial				bank 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 8(b) of the Federal De... But actually it is: Section 8(b) of the			 Federal...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Section 8b of Federal Deposit Insurance Act 
+insertion: 
+deletion: 
+change: the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) is amended by adding at the ... But actually it is: ) is amended by			 adding at t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words:  is amended adding at the end the following new paragraph 
+insertion: 
+deletion: 
+change: by to by			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/quoted-block[1]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/quoted-block[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Industrial bank holding compan... But actually it is: Industrial bank				holding com...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: bank holding companies to bank				holding companies 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/quoted-block[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/quoted-block[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: This subsection and subsection... But actually it is: This				subsection and subsect...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: subsection and subsections c through s and subsection u of this /apply to any industrial bank holding company and to any /than a bank of an industrial bank holding company in the same manner /subsections apply to State nonmember 
+insertion: 
+deletion: This this any manner 
+change: shall to section				shall / other to subsidiary				other / such to as				such / insured banks to insured				banks 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 8(h)(2) of the Federal... But actually it is: Section 8(h)(2) of the Federal...
+The Jaccard Index is: 0.57
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Section 8h2 of the Federal Insurance Act 
+insertion: 
+deletion: 
+change: Deposit to Deposit			 / 12			 USC 1818h2 is amended by striking 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"12 U.S.C. 1818(h)(2)"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) is amended by striking  But actually it is:  and inserting 
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: (2) Any party to But actually it is: (2) Any party aggrieved by an ...
+The Jaccard Index is: 0.15
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be:  and inserting  But actually it is: .
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (2) Any party aggrieved by an ... But actually it is: (2) Any party			 to
+The Jaccard Index is: 0.15
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 8(i) of the Federal De... But actually it is: Section 8(i) of			 the Federal...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Section 8i the Federal Deposit Insurance Act 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) is amended by striking  But actually it is: )			 is amended by striking 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words:  is amended by striking 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[3]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[3]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be:  each place such term appears ... But actually it is:  each place such term appears ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words:  each place such term appears 
+insertion: 
+deletion: 
+change: and inserting to and			 inserting 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Prompt corrective action But actually it is: Prompt			 corrective action
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Prompt corrective action 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 38(f)(2)(H) of the Fed... But actually it is: Section			 38(f)(2)(H) of the ...
+The Jaccard Index is: 0.63
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: Section 38f2H of the Federal Deposit Insurance Act 
+insertion: 
+deletion: 
+change: 12 USC			 1831of2H is amended by 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"12 U.S.C. 1831o(f)(2)(H)"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ) is amended by— But actually it is: Section			 38(f)(2)(H) of the ...
+The Jaccard Index is: 0.16
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/text[1]/quote[1]/header-in-text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/text[1]/quote[1]/header-in-text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: bank holding company But actually it is: bank holding			 company
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: holding company to holding			 company 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/quoted-block[1]/clause[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/quoted-block[1]/clause[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Bank holding company But actually it is: Bank holding				company
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: holding company to holding				company 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/quoted-block[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/quoted-block[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Prohibiting any bank But actually it is: Prohibiting any				bank
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: any bank to any				bank 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/quoted-block[1]/after-quoted-block[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/quoted-block[1]/after-quoted-block[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ; and But actually it is: ;				and
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: and to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by adding at the end the follo... But actually it is: by adding at the			 end the fo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: by adding at end the following new clause 
+insertion: 
+deletion: 
+change: the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[2]/quoted-block[1]/clause[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[2]/quoted-block[1]/clause[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Industrial bank holding compan... But actually it is: Industrial bank				holding com...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: bank holding company to bank				holding company 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[2]/quoted-block[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[2]/quoted-block[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Prohibiting any industrial ban... But actually it is: Prohibiting				any industrial ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: any industrial bank holding company having control of the insured /from making any capital distribution without the prior approval 
+insertion: 
+deletion: Prohibiting insured 
+change: institution to depository				institution / of the Corporation to of				the				Corporation 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Technical and conforming amend... But actually it is: Technical and			 conforming am...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Technical conforming amendments 
+insertion: 
+deletion: 
+change: and to and			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 10(e)(2) of the Federa... But actually it is: Section 10(e)(2)			 of the Fed...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Section of the Federal Deposit Insurance Act 
+insertion: 
+deletion: 
+change: 10e2 to 10e2			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) is amended by inserting  But actually it is: ) is amended by			 inserting 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words:  is amended 
+insertion: 
+deletion: 
+change: by inserting to by			 inserting 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[1]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[1]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: subsection (b)(4) But actually it is: subsection			 (b)(4)
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: subsection b4 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 1101(6) of the Right t... But actually it is: Section 1101(6) of the Right t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Section 11016 of the Right to Privacy Act of 1978 
+insertion: 
+deletion: 
+change: Financial to Financial			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) is amended— But actually it is: ) is			 amended—
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: is amended to is			 amended 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[2]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by inserting after paragraph (... But actually it is: by inserting after			 paragrap...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: by inserting paragraph C the following new paragraph 
+insertion: 
+deletion: 
+change: after to after			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[2]/subparagraph[3]/quoted-block[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[2]/subparagraph[3]/quoted-block[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any industrial bank holding co... But actually it is: any industrial				bank holding...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: industrial bank holding company as defined in section 3w8 of the Federal 
+insertion: 
+deletion: any 
+change: Deposit Insurance Act to Deposit				Insurance				Act 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 115 of the Gramm-Leach... But actually it is: Section 115 of the			 Gramm-Le...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Section 115 of GrammLeachBliley Act 
+insertion: 
+deletion: 
+change: the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) is amended— But actually it is: ) is			 amended—
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: is amended to is			 amended 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[3]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[3]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subsection (a), by striking... But actually it is: in subsection (a),			 by strik...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: in subsection by striking 
+insertion: 
+deletion: 
+change: a to a			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[3]/subparagraph[1]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[3]/subparagraph[1]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be:  and inserting  But actually it is:  and			 inserting 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: and inserting to and			 inserting 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[3]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[3]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subsection (d)— But actually it is: in subsection			 (d)—
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: subsection d to subsection			 d 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[3]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[3]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by redesignating paragraphs (5... But actually it is: by			 redesignating paragraphs...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: by redesignating paragraphs 5 6 and 7 as paragraphs 6 7 and respectively and 
+insertion: 
+deletion: 
+change: 8 to 8			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[3]/subparagraph[2]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[3]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by inserting after paragraph (... But actually it is: by			 inserting after paragrap...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: by inserting after paragraph 4 the following new paragraph 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[3]/subparagraph[2]/clause[2]/quoted-block[1]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[3]/subparagraph[2]/clause[2]/quoted-block[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Industrial bank holding compan... But actually it is: Industrial bank				holding com...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: bank holding company to bank				holding company 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[3]/subparagraph[2]/clause[2]/quoted-block[1]/paragraph[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[3]/subparagraph[2]/clause[2]/quoted-block[1]/paragraph[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: industrial bank holding compan... But actually it is: industrial bank holding				com...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: industrial bank 
+insertion: 
+deletion: 
+change: holding company to holding				company 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[3]/subparagraph[2]/clause[2]/quoted-block[1]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[3]/subparagraph[2]/clause[2]/quoted-block[1]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  has the same meaning as in se... But actually it is:  has the same meaning as in se...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words:  has the same meaning as in section 3w8 of the 
+insertion: 
+deletion: 
+change: Federal Deposit Insurance Act to Federal				Deposit Insurance				Act 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 304(g)(1) of the Home ... But actually it is: Section 304(g)(1) of the Home ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Section 304g1 of the Home Disclosure Act of 1975 
+insertion: 
+deletion: 
+change: Mortgage to Mortgage			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[4]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) is amended by inserting  But actually it is: ) is amended by			 inserting 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words:  is amended 
+insertion: 
+deletion: 
+change: by inserting to by			 inserting 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[4]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[4]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: bank holding company But actually it is: bank			 holding company
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: bank holding company 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Corporation shall prescrib... But actually it is: The Corporation shall prescrib...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: The Corporation shall prescribe regulations as the Corporation determines to be appropriate to carry out amendments made by this Act 
+insertion: 
+deletion: 
+change: such to such			 / the to the			 / 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Passed the House of Representa... But actually it is: Passed the House of			 Represe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Passed the House Representatives May 21 2007 
+insertion: 
+deletion: 
+change: of to of			 / 
+

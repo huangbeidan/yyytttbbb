@@ -1,0 +1,939 @@
+===================================================
+
+total difference is: 85
+comparing document: BILLS-110hr1157rh.xml
+to document: BILLS-110hr1157eh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Reported-in-House But actually it is: Engrossed-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 1157 RH: Breast Cancer ... But actually it is: 110 HR 1157 EH: Breast Cancer ...
+The Jaccard Index is: 0.61
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: 110 HR 1157 Breast Cancer and Environmental 
+insertion: 
+deletion: 
+change: RH to EH / Research Act of 2008 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2008-09-25 But actually it is: 0
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IB But actually it is: I
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/calendar[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: calendar But actually it is: null
+ Deleted paragraph content is: {"Union Calendar No. 574"}
+
+We are at location: bill[1]/form[1]/associated-doc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: associated-doc But actually it is: null
+ Deleted paragraph content is: {"[Report No.
+		  110–889]"}
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF		  REPRESENTAT... But actually it is: IN THE HOUSE OF REPRESENTATIVE...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF		  REPRESENTATIVES to OF REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/action[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+			February 16, 2007
+			Mrs. Lowey (for
+			 herself, Mrs. Myrick, and
+			 Mrs. Capps) introduced the following
+			 bill; which was referred to the
+			 Committee on Energy and
+			 Commerce
+		"}
+
+We are at location: bill[1]/form[1]/action[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+			September 25, 2008
+			Additional sponsors: Mr.
+			 Allen, Mr. Bishop of New
+			 York, Mr. Cleaver,
+			 Mr. Cummings,
+			 Mr. Tom Davis of Virginia,
+			 Mrs. Davis of California,
+			 Mr. Delahunt,
+			 Mr. Emanuel,
+			 Mr. Engel,
+			 Ms. Eshoo,
+			 Mr. Frank of Massachusetts,
+			 Ms. Harman,
+			 Mr. Holden,
+			 Mr. Israel,
+			 Mr. Kennedy,
+			 Mr. Kind, Mr. Kucinich, Mr.
+			 Larson of Connecticut, Mr.
+			 Lynch, Mrs. McCarthy of New
+			 York, Ms. McCollum of
+			 Minnesota, Mr. Meehan,
+			 Mr. Michaud,
+			 Mr. Moran of Virginia,
+			 Mr. Murtha,
+			 Mr. Neal of Massachusetts,
+			 Mr. Oberstar,
+			 Mr. Peterson of Minnesota,
+			 Mr. Platts,
+			 Mr. Ramstad,
+			 Mr. Reyes,
+			 Mr. Ryan of Wisconsin,
+			 Ms. Schakowsky,
+			 Ms. Schwartz,
+			 Mr. Serrano,
+			 Mr. Shays,
+			 Mrs. Tauscher,
+			 Mr. Waxman,
+			 Mr. Weiner,
+			 Mr. Tierney,
+			 Mr. Terry,
+			 Mr. Gene Green of Texas,
+			 Mr. Boucher,
+			 Mr. Gerlach,
+			 Mr. Petri,
+			 Mr. Matheson,
+			 Ms. Bordallo,
+			 Mr. Burton of Indiana,
+			 Mr. Olver,
+			 Mr. Markey,
+			 Mr. Wu, Mr. Fattah, Mr.
+			 Edwards, Mr. McNulty,
+			 Mr. McGovern,
+			 Mr. Grijalva,
+			 Mr. Schiff,
+			 Ms. Solis,
+			 Mr. Renzi,
+			 Mr. Capuano,
+			 Mr. Nadler,
+			 Mr. Smith of New Jersey,
+			 Mrs. Schmidt,
+			 Mr. Kanjorski,
+			 Mr. Latham,
+			 Mr. Rodriguez,
+			 Mr. Tim Murphy of Pennsylvania,
+			 Mr. King of New York,
+			 Mr. Ferguson,
+			 Mrs. Boyda of Kansas,
+			 Ms. Eddie Bernice Johnson of Texas,
+			 Mr. Gonzalez,
+			 Ms. Norton,
+			 Ms. Hooley,
+			 Mr. Hinchey,
+			 Mr. Dent, Mrs. Cubin, Mr.
+			 Braley of Iowa, Mr.
+			 Langevin, Mr. Pastor,
+			 Ms. Berkley,
+			 Mr. Berman,
+			 Mr. McIntyre,
+			 Mr. Doyle,
+			 Ms. DeGette,
+			 Mr. Carney,
+			 Mrs. McMorris Rodgers,
+			 Mr. Marshall,
+			 Mr. Franks of Arizona,
+			 Mr. Reynolds,
+			 Mr. Higgins,
+			 Mr. Udall of Colorado,
+			 Mr. Patrick J. Murphy of Pennsylvania,
+			 Mr. Fossella,
+			 Mr. Brady of Pennsylvania,
+			 Mrs. Gillibrand,
+			 Mr. Nunes,
+			 Mr. English of Pennsylvania,
+			 Mr. Kuhl of New York,
+			 Ms. Linda T. Sánchez of California,
+			 Mr. LoBiondo,
+			 Mr. Ellison,
+			 Mr. Van Hollen,
+			 Mr. McHugh,
+			 Mr. Miller of North Carolina,
+			 Mr. Bishop of Georgia,
+			 Mr. Johnson of Georgia,
+			 Mrs. Maloney of New York,
+			 Mr. Clay, Mr. Kirk, Ms.
+			 Velázquez, Ms.
+			 Ros-Lehtinen, Mr. Holt,
+			 Mr. Sherman,
+			 Ms. Shea-Porter,
+			 Mr. Hastings of Florida,
+			 Mr. Garrett of New Jersey,
+			 Mr. Walz of Minnesota,
+			 Mr. DeFazio,
+			 Mr. Jindal,
+			 Ms. Baldwin,
+			 Mr. Davis of Illinois,
+			 Mr. Filner,
+			 Mr. Thompson of California,
+			 Mr. Rangel,
+			 Ms. Moore of Wisconsin,
+			 Ms. Waters,
+			 Mr. Weller of Illinois,
+			 Mr. Salazar,
+			 Mr. Stark,
+			 Mr. Scott of Georgia,
+			 Mr. Sires,
+			 Mr. Altmire,
+			 Mr. Boswell,
+			 Mr. Ackerman,
+			 Mr. McDermott,
+			 Mr. Farr, Ms. Jackson-Lee of Texas,
+			 Ms. Kaptur,
+			 Mr. LaTourette,
+			 Mr. Scott of Virginia,
+			 Mr. Arcuri,
+			 Mr. Etheridge,
+			 Mr. Payne,
+			 Ms. Loretta Sanchez of California,
+			 Mrs. Napolitano,
+			 Mr. Calvert,
+			 Mr. Chabot,
+			 Mr. Butterfield,
+			 Mr. Towns,
+			 Mr. Price of North Carolina,
+			 Mr. Sensenbrenner,
+			 Mr. Meeks of New York,
+			 Mrs. Blackburn,
+			 Mr. Doggett,
+			 Mr. Moore of Kansas,
+			 Mr. Kagen,
+			 Mr. Wolf, Mr. Lewis of Georgia,
+			 Mr. Porter,
+			 Mr. Young of Alaska,
+			 Mr. Hall of New York,
+			 Mr. Hinojosa,
+			 Mr. Sestak,
+			 Mr. Meek of Florida,
+			 Mr. Crowley,
+			 Mr. Al Green of Texas,
+			 Mr. Carson,
+			 Ms. DeLauro,
+			 Ms. Lee, Mr. Klein of Florida,
+			 Mrs. Biggert,
+			 Mr. Gordon of Tennessee,
+			 Mr. Wexler,
+			 Mr. Andrews,
+			 Mr. Kildee,
+			 Ms. Herseth Sandlin,
+			 Mr. Walsh of New York,
+			 Mr. Visclosky,
+			 Mr. Shuler,
+			 Mr. Alexander,
+			 Mr. Wynn, Mr. Weldon of Florida,
+			 Mr. George Miller of California,
+			 Mr. Boustany,
+			 Ms. Castor,
+			 Ms. Wasserman Schultz,
+			 Ms. Matsui,
+			 Mr. Costa,
+			 Mr. Watt, Mr. Inslee, Mr.
+			 Larsen of Washington, Mr.
+			 McCotter, Mr. Melancon,
+			 Mr. Baker,
+			 Mr. Saxton,
+			 Mr. Baca, Mr. Udall of New Mexico,
+			 Mr. Ruppersberger,
+			 Mr. Blumenauer,
+			 Ms. Sutton,
+			 Mr. Ryan of Ohio,
+			 Mr. Buchanan,
+			 Mr. Carnahan,
+			 Mr. Rothman,
+			 Mr. Loebsack,
+			 Mr. Cuellar,
+			 Ms. Corrine Brown of Florida,
+			 Ms. Roybal-Allard,
+			 Mr. Ellsworth,
+			 Mr. Lipinski,
+			 Mr. Hodes,
+			 Mr. Snyder,
+			 Mrs. Wilson of New Mexico,
+			 Mr. Perlmutter,
+			 Ms. Woolsey,
+			 Mr. Mahoney of Florida,
+			 Mr. Chandler,
+			 Ms. Zoe Lofgren of California,
+			 Mr. Lincoln Diaz-Balart of Florida,
+			 Mr. Welch of Vermont,
+			 Mr. Stupak,
+			 Mr. Mitchell,
+			 Mrs. Jones of Ohio,
+			 Mrs. Jo Ann Davis of Virginia,
+			 Mr. McNerney,
+			 Mr. Upton,
+			 Mr. Honda,
+			 Ms. Watson,
+			 Mr. Space,
+			 Ms. Bean, Mr. Becerra, Mr.
+			 Donnelly, Mr. Jackson of
+			 Illinois, Mr. Lampson,
+			 Mr. Lantos,
+			 Mr. Gutierrez,
+			 Mr. Manzullo,
+			 Mrs. Musgrave,
+			 Mr. Barrow,
+			 Mr. Gilchrest,
+			 Mr. Sarbanes,
+			 Ms. Giffords,
+			 Mr. Jefferson,
+			 Mr. Heller of Nevada,
+			 Ms. Pryce of Ohio,
+			 Mr. Hill, Mr. Courtney, Mr.
+			 Hare, Mr. Ross,
+			 Mr. Castle,
+			 Mr. Pascrell,
+			 Mr. Issa, Mr. Duncan, Ms.
+			 Clarke, Mr. Rush,
+			 Mr. Deal of Georgia,
+			 Mrs. Christensen,
+			 Mr. Costello,
+			 Mr. Boehner,
+			 Mr. Walden of Oregon,
+			 Mrs. Emerson,
+			 Mr. Carson,
+			 Mr. Culberson,
+			 Mr. Roskam,
+			 Mr. Royce,
+			 Mr. Tiberi,
+			 Mr. Cohen,
+			 Mr. Yarmuth,
+			 Mr. Wilson of Ohio,
+			 Ms. Scalise,
+			 Mr. Wittman of Virginia,
+			 Mr. Berry,
+			 Mr. Thompson of Mississippi,
+			 Mr. Graves,
+			 Mr. Turner,
+			 Mr. Hobson,
+			 Mr. Cardoza,
+			 Ms. Hirono,
+			 Mrs. Drake,
+			 Mr. Abercrombie,
+			 Ms. Kilpatrick,
+			 Mr. Boren,
+			 Mr. Dicks, and
+			 Mr. Feeney
+		"}
+
+We are at location: bill[1]/form[1]/action[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+			September 25, 2008
+			Reported with an amendment, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+			For text of introduced bill, see copy of bill as
+			 introduced on February 16, 2007
+		"}
+
+We are at location: bill[1]/form[1]/legis-type[1]/text()[1]   Compared with location: bill[1]/form[1]/legis-type[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A BILL But actually it is: AN ACT
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend the Public Health Ser... But actually it is: To amend the Public Health Ser...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: To amend the Public Health Service Act /authorize the Director of the National Institute of Environmental /Sciences to make grants for the development and operation of research /regarding environmental factors that may be related to the etiology of 
+insertion: 
+deletion: Act Environmental research 
+change:  to to /  to Health /  to centers / breast		  cancer to breast cancer 
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Breast Cancer and Environmenta... But actually it is: Breast Cancer and Environmenta...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Breast Cancer and Research Act of 2008 
+insertion: 
+deletion: 
+change: Environmental			 to Environmental / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Expanding collaborative			 res... But actually it is: Expanding collaborative resear...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: Expanding research on breast cancer and the environment 
+insertion: 
+deletion: 
+change: collaborative			 to collaborative / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In			 general But actually it is: In general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In			 general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subpart 1 of part C			 of titl... But actually it is: Subpart 1 of part C of title I...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: Subpart 1 of part of title IV of the Public Health Service Act 
+insertion: 
+deletion: 
+change: C			 to C / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) is amended			 by adding at t... But actually it is: ) is amended by adding at the ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words:  is by adding at the end the following 
+insertion: 
+deletion: 
+change: amended			 to amended / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Interagency Breast				Cancer a... But actually it is: Interagency Breast Cancer and ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Interagency Breast				Cancer and Environmental Research Coordinating Committee 
+insertion: Breast 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Interagency Breast				Cancer a... But actually it is: Interagency Breast Cancer and ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Interagency Breast				Cancer and Environmental Research Coordinating Committee 
+insertion: Breast 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 6 months after ... But actually it is: Not later than 6 months after ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: Not later than 6 months after the date /enactment of this section the Secretary shall establish a committee to /as the Interagency Breast Cancer and Environmental Research /in this section referred to as the Committee’ 
+insertion: of be Coordinating 
+deletion: 
+change: of				the to the / be				known to known / Coordinating				Committee to Committee / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The				Committee shall— But actually it is: The Committee shall—
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: The				Committee shall 
+insertion: Committee 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: share and coordinate informati... But actually it is: share and coordinate informati...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: share and coordinate information /research activities and make recommendations to the /of Health and other Federal agencies regarding how to /research programs that are related to breast cancer research 
+insertion: on National improve 
+deletion: 
+change: on				existing to existing / National				Institutes to Institutes / improve				existing to existing / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: develop a comprehensive				str... But actually it is: develop a comprehensive strate...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: develop a /and advise the National Institutes of Health and other /in the solicitation of proposals for collaborative /including proposals to evaluate environmental and genomic /may be related to the etiology of breast cancer that would 
+insertion: comprehensive Federal multidisciplinary factors 
+deletion: 
+change: comprehensive				strategy to strategy / Federal				agencies to agencies / multidisciplinary				research to research / factors				that to that / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: result in innovative				approa... But actually it is: result in innovative approache...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: result in /to study emerging scientific opportunities or eliminate /in research to improve the research portfolio 
+insertion: innovative knowledge 
+deletion: 
+change: innovative				approaches to approaches / knowledge				gaps to gaps / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[2]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: outline key research				questi... But actually it is: outline key research questions...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.57
+The Detailes are shown as followings: 
+common words: outline key /methodologies and knowledge gaps 
+insertion: research 
+deletion: 
+change: research				questions to questions / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[2]/clause[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[2]/clause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: expand the number of				resear... But actually it is: expand the number of research ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: expand the number /proposals that involve collaboration between 2 or more /institutes or national centers including proposals for Common /described in section 402b7 to improve the research portfolio and 
+insertion: of national Fund 
+deletion: 
+change: of				research to research / national				research to research / Fund				research to research / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[2]/clause[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[2]/clause[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: expand the number of				collab... But actually it is: expand the number of collabora...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: expand the number /multidisciplinary and multiinstitutional 
+insertion: of 
+deletion: 
+change: of				collaborative to collaborative / research				grants to research grants 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: develop a summary of				advanc... But actually it is: develop a summary of advances ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: develop a summary /in breast cancer research supported or conducted by Federal /to the diagnosis prevention and treatment of cancer and /and disorders and 
+insertion: of agencies other 
+deletion: 
+change: of				advances to advances / agencies				relevant to relevant / other				diseases to diseases / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: not later than 2 years				afte... But actually it is: not later than 2 years after t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: not later than 2 /the date of the establishment of the Committee make recommendations 
+insertion: years 
+deletion: 
+change: years				after to after / to				the Secretary to to the Secretary 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: regarding any appropriate				c... But actually it is: regarding any appropriate chan...
+The Jaccard Index is: 0.97
+And the Smith Waterman Score is: 0.64
+The Detailes are shown as followings: 
+common words: regarding any /to research activities including recommendations to improve /portfolio of the National Institutes of Health to ensure strategic planning is implemented in support of /that impact breast cancer research activities 
+insertion: appropriate the research 
+deletion: 
+change: appropriate				changes to changes / the				research to research / that				scientifically to that / based to scientificallybased / research				priorities to priorities / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to ensure that the				activiti... But actually it is: to ensure that the activities ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: to ensure that /of the National Institutes of Health and other Federal /the Department of Defense are free of unnecessary duplication 
+insertion: the agencies 
+deletion: 
+change: the				activities to activities / agencies				including to including / of				effort to of effort 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: regarding public				participat... But actually it is: regarding public participation...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.64
+The Detailes are shown as followings: 
+common words: regarding public				participation in decisions relating to breast cancer research to increase /of patient advocacy and community organizations representing 
+insertion: public the 
+deletion: 
+change: the				involvement to involvement / a				broad geographical area to a broad geographical area 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: on how best to				disseminate ... But actually it is: on how best to disseminate inf...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: on how best /information on breast cancer research progress and 
+insertion: to 
+deletion: 
+change: to				disseminate to disseminate / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[4]/clause[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: on how to expand partnerships ... But actually it is: on how to expand partnerships ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.65
+The Detailes are shown as followings: 
+common words: on how to expand partnerships /entities including Federal agencies and private entities to 
+insertion: between 
+deletion: 
+change: between				public to public / expand				collaborative crosscutting research to expand collaborative crosscutting research 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Rule of				construction But actually it is: Rule of construction
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of				construction to of construction 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For the purposes				of the Com... But actually it is: For the purposes of the Commit...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: For the /the Committee when focusing on research to evaluate environmental /factors that may be related to the etiology of breast cancer /this section shall be construed to restrict the Secretary from /forms of cancer as appropriate when doing so may advance research /cancer or advance research in other forms of cancer 
+insertion: purposes and nothing including in 
+deletion: 
+change: purposes				of to of / and				genomic to genomic / nothing				in to in / including				other to other / in				breast to breast / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In				general But actually it is: In general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: general 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Committee shall be compose... But actually it is: The Committee shall be compose...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: The Committee shall be composed of the following 
+insertion: 
+deletion: 
+change: voting				members to voting members 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not more than 7 voting				Fede... But actually it is: Not more than 7 voting Federal...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: Not more than 7 /representatives as follows 
+insertion: voting 
+deletion: 
+change: voting				Federal to Federal / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[1]/clause[1]/subclause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[1]/clause[1]/subclause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Director of the				Centers... But actually it is: The Director of the Centers fo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: The Director of /for Disease Control and Prevention 
+insertion: the 
+deletion: 
+change: the				Centers to Centers / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[1]/clause[1]/subclause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[1]/clause[1]/subclause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Director of the National I... But actually it is: The Director of the National I...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: The Director of the National Institutes /and the directors of such national research institutes and /which may include the National Institute of Environmental /as the Secretary determines appropriate 
+insertion: of national Health 
+deletion: 
+change: of				Health to Health / national				centers to centers / Health				Sciences to Sciences / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[1]/clause[1]/subclause[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[1]/clause[1]/subclause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: One representative from				the... But actually it is: One representative from the Na...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: One representative /National Cancer Institute Board of Scientific Advisors appointed by /of the National Cancer Institute 
+insertion: from the 
+deletion: 
+change: from				the to the / the				Director to Director / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[1]/clause[1]/subclause[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[1]/clause[1]/subclause[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The heads of such other				age... But actually it is: The heads of such other agenci...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: The heads of such /of the Department of Health and Human Services as the 
+insertion: other 
+deletion: 
+change: other				agencies to agencies / Secretary				determines appropriate to Secretary determines appropriate 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[1]/clause[1]/subclause[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[1]/clause[1]/subclause[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Representatives of other				Fe... But actually it is: Representatives of other Feder...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.57
+The Detailes are shown as followings: 
+common words: Representatives of /agencies that conduct or support cancer research including 
+insertion: other 
+deletion: 
+change: other				Federal to Federal / the				Department of Defense to the Department of Defense 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[1]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[1]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 12 additional voting				member... But actually it is: 12 additional voting members a...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.57
+The Detailes are shown as followings: 
+common words: 12 additional /appointed under subparagraph B 
+insertion: voting 
+deletion: 
+change: voting				members to members / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Additional				members But actually it is: Additional members
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: members 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Committee shall include ad... But actually it is: The Committee shall include ad...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: The Committee shall include additional voting /by the Secretary as follows 
+insertion: members 
+deletion: 
+change: members				appointed to appointed / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 6 members shall be				appointe... But actually it is: 6 members shall be appointed f...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: 6 members shall /from among scientists physicians and other health 
+insertion: be 
+deletion: 
+change: be				appointed to appointed / professionals				who to professionals who 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[2]/clause[1]/subclause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[2]/clause[1]/subclause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: are not officers or				employe... But actually it is: are not officers or employees ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: are not officers /of the United States 
+insertion: or 
+deletion: 
+change: or				employees to employees / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[2]/clause[1]/subclause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[2]/clause[1]/subclause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: represent multiple				discipli... But actually it is: represent multiple disciplines...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: represent multiple				disciplines including clinical basic and public health sciences 
+insertion: multiple 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[2]/clause[1]/subclause[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[2]/clause[1]/subclause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: represent different				geograp... But actually it is: represent different geographic...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: represent different				geographical regions of the United States 
+insertion: different 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[2]/clause[1]/subclause[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[2]/clause[1]/subclause[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: are from practice				settings,... But actually it is: are from practice settings, ac...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: are from /academia or other research settings and 
+insertion: practice 
+deletion: 
+change: practice				settings to settings / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[2]/clause[1]/subclause[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[2]/clause[1]/subclause[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: are experienced in				scientif... But actually it is: are experienced in scientific ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: are experienced /peer review process 
+insertion: in 
+deletion: 
+change: in				scientific to scientific / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[2]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 6 members shall be appointed f... But actually it is:  6 members shall be appointed ...
+The Jaccard Index is: 0.98
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: 6 members shall be appointed from /the general public who represent individuals with breast cancer 
+insertion: 6 members 
+deletion: 
+change: members				of to of / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Nonvoting				members But actually it is: Nonvoting members
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: members 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Committee shall include su... But actually it is: The Committee shall include su...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: The Committee shall include such nonvoting members as /determines to be appropriate 
+insertion: the 
+deletion: 
+change: the				Secretary to Secretary / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The				voting members of the C... But actually it is: The voting members of the Comm...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: The				voting members of the Committee shall select a chairperson from among /The selection of a chairperson shall be subject to the approval of 
+insertion: voting such 
+deletion: 
+change: such				members to members / the				Director of NIH to the Director of NIH 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The				Committee shall meet at... But actually it is: The Committee shall meet at th...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: The				Committee shall meet at the call of the chairperson of the Committee or /request of the Director of NIH but in no case less often than once 
+insertion: Committee upon 
+deletion: 
+change: upon				the to the / each				year to each year 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary shall review the... But actually it is: The Secretary shall review the...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: The Secretary shall review the necessity /Committee in calendar year 2011 and thereafter at least once every 
+insertion: of 
+deletion: 
+change: of				the to the / 2				years to 2 years 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authorization of			 appropriat... But actually it is: Authorization of appropriation...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of			 appropriations to of appropriations 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For the purpose of carrying ou... But actually it is: For the purpose of carrying ou...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: For the purpose of carrying out activities under title IV of the Public Health Service Act including 417F of such Act as added by subsection a there are authorized to appropriated 40000000 for each of fiscal years 2009 through 2012 authorized to be appropriated under the preceding sentence shall be in to amounts otherwise authorized to be appropriated for such purpose section 402A of the Public Health Service Act 
+insertion: 
+deletion: 
+change: research			 to research / section			 to section / be			 to be / Amounts			 to Amounts / addition			 to addition / under			 to under / 
+
+We are at location: bill[1]/endorsement[1]/action-date[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-date But actually it is: null
+ Deleted paragraph content is: {"September 25, 2008"}
+
+We are at location: bill[1]/endorsement[1]/action-desc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-desc But actually it is: null
+ Deleted paragraph content is: {"Reported with an amendment, committed to the Committee of
+		  the Whole House on the State of the Union, and ordered to be
+		  printed"}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: attestation
+ Inserted paragraph content is: {"
+  
+    Passed the House of Representatives September 25, 2008.
+    Lorraine C. Miller,
+    Clerk.
+  
+"}
+

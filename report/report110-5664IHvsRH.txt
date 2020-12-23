@@ -1,0 +1,131 @@
+===================================================
+
+total difference is: 36
+comparing document: BILLS-110hr5664ih.xml
+to document: BILLS-110hr5664rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: null
+The reason of change is: content change
+The value is expected to be: 110 HR 5664 IH: To amend title... But actually it is: 110 HR 5664 RH: To amend title...
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: 110 HR 5664 To amend title 38 United States Code to 
+insertion: 
+deletion: 
+change: IH to RH / direct the to 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2008-03-31 But actually it is: 2008-05-15
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend title 38, United Stat... But actually it is: To amend title 38, United Stat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: To amend title 38 United States Code /direct /Secretary of Veterans Affairs to update at least once every /years the /and specifications for specially adapted housing furnished 
+insertion: to		 six		 
+deletion: direct the 
+change: to to  /  to the / six to  /  to plans / to veterans by the		  Secretary to to		  veterans by the Secretary 
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 402"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No.
+		  110–641]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			May 15, 2008
+			Additional sponsors: Mr.
+			 Pastor, Mr. Walz of
+			 Minnesota, and Mr.
+			 Buyer
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			May 15, 2008
+			Reported with an amendment, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+		"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: legis-body
+ Inserted paragraph content is: {"
+		1.Requirement for regular
+			 updates to handbook for design furnished to veterans eligible for specially
+			 adapted housing assistance by Secretary of Veterans AffairsSection 2103 of title 38, United States
+			 Code, is amended—
+			(1)by striking The
+			 Secretary and inserting (a) Plans and specifications.—The Secretary;
+			 and
+			(2)by adding at the end the
+			 following new subsection:
+				
+					(b)Handbook for
+				designThe Secretary shall
+				make available to veterans eligible for assistance under this chapter, without
+				cost to the veterans, a handbook containing appropriate designs for specially
+				adapted housing. The Secretary shall update such handbook at least every six
+				years to take into account any new or unique disabilities, including vision
+				impairments, impairments specific to the of upper limbs, and burn injuries.
+					.
+			"}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		May 15, 2008
+		Reported with an amendment, committed to the Committee of
+		  the Whole House on the State of the Union, and ordered to be
+		  printed
+	"}
+

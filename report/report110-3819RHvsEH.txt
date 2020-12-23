@@ -1,0 +1,123 @@
+===================================================
+
+total difference is: 32
+comparing document: BILLS-110hr3819rh.xml
+to document: BILLS-110hr3819eh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Reported-in-House But actually it is: Engrossed-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 3819 RH: Veterans Emerg... But actually it is: 110 HR 3819 EH: Veterans Emerg...
+The Jaccard Index is: 0.87
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: 110 HR 3819 Veterans Emergency Care Fairness Act of 
+insertion: 
+deletion: 
+change: RH to EH / 2007 to 2008 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2008-05-15 But actually it is: 0
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IB But actually it is: I
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/calendar[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: calendar But actually it is: null
+ Deleted paragraph content is: {"Union Calendar No. 399"}
+
+We are at location: bill[1]/form[1]/associated-doc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: associated-doc But actually it is: null
+ Deleted paragraph content is: {"[Report No. 110–638]"}
+
+We are at location: bill[1]/form[1]/action[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {" 
+October 10, 2007 
+Mr. Space introduced the following bill; which was referred to the Committee on Veterans’ Affairs 
+"}
+
+We are at location: bill[1]/form[1]/action[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+May 15, 2008
+Additional sponsors: Mr. Honda, Mr. Altmire, Mr. Miller of Florida, Mr. Ellison, Mr. Rodriguez, Mr. Ryan of Ohio, Mr. Peterson of Minnesota, Mrs. Schmidt, Ms. Sutton, Mr. Carney, Mr. Donnelly, Mr. English of Pennsylvania, Ms. Matsui, Mr. Moran of Kansas, Ms. Jackson-Lee of Texas, Mr. Pearce, Mr. Goode, Mrs. Gillibrand, Mr. Smith of Washington, Mr. Boswell, Mr. Cohen, Mr. Frank of Massachusetts, Mrs. Napolitano, Mr. Gordon of Tennessee, Mr. Filner, Mr. Lipinski, Mr. Braley of Iowa, Ms. Slaughter, Mr. Sestak, Mr. LoBiondo, Mr. Boucher, Mr. Inslee, Mr. Fortenberry, Mr. McIntyre, Ms. Foxx, Mr. Costello, Ms. Shea-Porter, Mr. Mitchell, Mr. DeFazio, Mr. Shimkus, Mr. Ross, Mr. Watt, Mr. Buchanan, Ms. McCollum of Minnesota, Ms. Berkley, Mr. Van Hollen, Ms. Ginny Brown-Waite of Florida, and Mr. Buyer
+"}
+
+We are at location: bill[1]/form[1]/action[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+May 15, 2008
+Committed to the Committee of the Whole House on the State of the Union and ordered to be printed
+"}
+
+We are at location: bill[1]/form[1]/legis-type[1]/text()[1]   Compared with location: bill[1]/form[1]/legis-type[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A BILL But actually it is: AN ACT
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Veterans Emergency Care Fairne... But actually it is: Veterans Emergency Care Fairne...
+The Jaccard Index is: 0.95
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: Veterans Emergency Care Fairness Act of 
+insertion: 
+deletion: 
+change: 2007 to 2008 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/quoted-block[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/quoted-block[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary shall, under suc... But actually it is: The Secretary, under such regu...
+The Jaccard Index is: 0.98
+And the Smith Waterman Score is: 0.96
+The Detailes are shown as followings: 
+common words: The Secretary /under such regulations as the Secretary shall prescribe /reimburse veterans entitled to hospital care or medical services under this chapter for the reasonable value of emergency treatment including travel and incidental expenses under the terms and conditions set forth in section 111 of this title for which such veterans have made payment from sources other than the Department where such emergency treatment was rendered to such veterans in need thereof for any of the following 
+insertion: shall 
+deletion: Secretary 
+change: 
+
+We are at location: bill[1]/endorsement[1]/action-date[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-date But actually it is: null
+ Deleted paragraph content is: {"May 15, 2008"}
+
+We are at location: bill[1]/endorsement[1]/action-desc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-desc But actually it is: null
+ Deleted paragraph content is: {"Committed to the Committee of the Whole House on the State of the Union and ordered to be printed"}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: attestation
+ Inserted paragraph content is: {"
+  
+    Passed the House of Representatives May 21, 2008.
+    Lorraine C. Miller,
+    Clerk.
+  
+"}
+

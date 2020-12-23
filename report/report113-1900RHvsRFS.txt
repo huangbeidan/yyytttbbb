@@ -1,0 +1,91 @@
+===================================================
+
+total difference is: 23
+comparing document: BILLS-113hr1900eh.xml
+to document: BILLS-113hr1900rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 113 HR 1900 EH: Natural Gas Pi... But actually it is: 113 HR 1900 : Natural Gas Pipe...
+The Jaccard Index is: 0.9
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: 113 HR 1900 Natural Gas Pipeline Permitting Reform Act 
+insertion: 
+deletion: 
+change: EH to  / 
+
+We are at location: null   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {}
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IB But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED ST...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED STATES 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+  December 9, 2013
+  Received; read twice and referred to the Committee on Commerce, Science, and Transportation
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[5]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[5]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means a project for the sitin... But actually it is:  means a project for the sitin...
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words:  means a project for the siting construction expansion or operation of a natural gas pipeline with respect to which a prefiling docket number has been assigned by the Commission pursuant to a prefiling process established by the Commission for the purpose of 
+insertion: 
+deletion: 
+change: facilitating the formal application process for obtaining a certificate of public convenience and necessity to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[5]/text[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[5]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"facilitating the formal application process for obtaining a certificate of public convenience and necessity."}
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clerk. But actually it is: Clerk
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/endorsement[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: endorsement But actually it is: null
+ Deleted paragraph content is: {""}
+

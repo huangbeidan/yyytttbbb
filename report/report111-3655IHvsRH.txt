@@ -1,0 +1,788 @@
+===================================================
+
+total difference is: 178
+comparing document: BILLS-111hr3655ih.xml
+to document: BILLS-111hr3655rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/session[1]/text()[1]   Compared with location: bill[1]/form[1]/session[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 1st Session But actually it is: 2d Session
+The Jaccard Index is: 0.55
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 1st Session 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  introduced			 the following b... But actually it is:  introduced the following bill...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words:  the following bill which was referred to 
+insertion: 
+deletion: 
+change: introduced			 to introduced / the			 to the 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Committee on Energy and			 Com... But actually it is: Committee on Energy and Commer...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Committee on Energy 
+insertion: 
+deletion: 
+change: and			 Commerce to and Commerce 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To direct the Federal Trade Co... But actually it is: To direct the Federal Trade Co...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: To direct the Federal Trade Commission to establish /to prohibit unfair or deceptive acts or practices related to the provision 
+insertion: 
+deletion: establish 
+change:  to rules / of		  funeral services to of funeral services 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 401"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 111–672]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+December 7, 2010
+Additional sponsors: Ms. Schakowsky, Mr. Jackson of Illinois, Mr. Peters, Mr. Davis of Illinois, Mr. Cohen, Mr. Grijalva, Ms. Eddie Bernice Johnson of Texas, Mr. Barrow, Mr. Butterfield, Mr. Mollohan, Mr. Quigley, Mr. Wilson of Ohio, Mr. Hare, Mr. Adler of New Jersey, and Mr. Payne
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+December 7, 2010
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed
+Strike out all after the enacting clause and insert the part printed in italic
+For text of introduced bill, see copy of bill as introduced on September 25, 2009
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+
+"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Bereaved Consumer’s Bill of Ri... But actually it is: Bereaved Consumer’s Bill of Ri...
+The Jaccard Index is: 0.91
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: Bereaved Consumer’s Bill of Rights 
+insertion: 
+deletion: 
+change: Act			 of 2009 to Act of 2010 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: there have been shocking consu... But actually it is: there have been shocking consu...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: there have been shocking consumer abuses the funeral industry including scandals at Burr Oak Cemetery in Illinois Menorah Gardens Cemetery in Palm Beach Florida and the Tri Crematory in Noble Georgia 
+insertion: 
+deletion: 
+change: in			 to in / Alsip			 to Alsip / State			 to State / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: funeral			 arrangements are a ... But actually it is: funeral arrangements are a maj...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: funeral			 arrangements are a major expense for most American households 
+insertion: 
+deletion: 
+change: and			 families to and families 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: some consumers			 seek to ease... But actually it is: some consumers seek to ease th...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: some seek to ease the burdens on their families by arranging and paying for funeral and cemetery arrangements 
+insertion: 
+deletion: 
+change: consumers			 to consumers / preneed			 to preneed / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: most funerals are			 planned b... But actually it is: most funerals are planned by g...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: most funerals planned by grieving family members at a time when they are vulnerable and unlikely to focus on cost comparison 
+insertion: 
+deletion: 
+change: are			 to are / especially			 to especially / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the Federal Trade			 Commissio... But actually it is: the Federal Trade Commission’s...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: the Federal Commission’s Funeral Industry Practices Trade Regulation Rule known as Funeral Rule dictates consumer protections in the funeral home but does cover the practices of cemeteries crematoria or sellers of monuments or caskets 
+insertion: 
+deletion: 
+change: Trade			 to Trade / the			 to the / not			 to not / urns			 to urns / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: State laws are			 inconsistent... But actually it is: State laws are inconsistent an...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: State laws inconsistent and frequently too weak to provide adequate consumer creating a need for minimum federal standards in this area 
+insertion: 
+deletion: 
+change: are			 to are / protections			 to protections / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: consumers have the			 right to... But actually it is: consumers have the right to re...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: consumers have right to receive clear and accurate information about all funeral goods services offered for sale 
+insertion: 
+deletion: 
+change: the			 to the / and			 to and / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[8]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[8]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: consumers need			 effective pr... But actually it is: consumers need effective prote...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: consumers effective protection from fraud and abusive practices by all providers funeral goods and services and at all stages of the funeral planning 
+insertion: 
+deletion: 
+change: need			 to need / of			 to of / process			 and to process and 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[9]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[9]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a			 new Federal law that prov... But actually it is: a new Federal law that provide...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: a			 new Federal law that provides adequate protections to grieving families 
+insertion: 
+deletion: 
+change: is			 warranted to is warranted 
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: FTC rulemaking			 relating to ... But actually it is: FTC rulemaking relating to unf...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: FTC relating to unfair or deceptive acts or practices in the provision of goods or services 
+insertion: 
+deletion: 
+change: rulemaking			 to rulemaking / funeral			 to funeral / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In			 General But actually it is: In General
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In			 General 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Federal Trade			 Commissio... But actually it is: The Federal Trade Commission s...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: The Federal Commission shall prescribe rules prohibiting unfair or deceptive acts practices in the provision of funeral goods or services Such rules include the following 
+insertion: 
+deletion: 
+change: Trade			 to Trade / or			 to or / shall			 to shall / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A			 requirement that provider... But actually it is: A requirement that providers o...
+The Jaccard Index is: 0.85
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: A			 requirement that providers of funeral goods or funeral services accurate price information disclosing /the cost to the purchaser for each of specific funeral goods or funeral services provided or offered for sale 
+insertion: clearly and conspicuously 
+deletion: 
+change: furnish			 to furnish / the			 to the / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A			 prohibition on misreprese... But actually it is: A prohibition on misrepresenta...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: A			 prohibition on misrepresentations by such providers misrepresentations of the requirements of Federal State or local law 
+insertion: 
+deletion: 
+change: including			 to including / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A prohibition on conditioning ... But actually it is: A prohibition on conditioning ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: A prohibition on conditioning the of any funeral good or funeral service upon the purchase of any other good or funeral service from that provider except as required by law 
+insertion: 
+deletion: 
+change: provision			 to provision / funeral			 to funeral / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A requirement that contracts f... But actually it is: A requirement that any presale...
+The Jaccard Index is: 0.86
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: A requirement that /contracts for services or funeral goods be written clearly stating the merchandise services that purchasers are buying and their prices 
+insertion: any presale disclosures and 
+deletion: 
+change: funeral			 to funeral / and			 to and / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In the case of contracts for f... But actually it is: In the case of contracts for f...
+The Jaccard Index is: 0.82
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: In the case of contracts for services or funeral goods that are prepaid in whole or in part /regarding any penalties incurred if the decides to cancel or transfer the contract to another provider of services or funeral goods 
+insertion: a requirement for clear and 
+deletion: 
+change: funeral			 to funeral / required			 to conspicuous / disclosures to presale / in to and / the to contractual / contract to disclosure / consumer			 to consumer / funeral			 to funeral / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A			 requirement that contract... But actually it is: A requirement that contracts f...
+The Jaccard Index is: 0.86
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: A			 requirement that contracts for funeral services or funeral goods disclose /fees and costs to be incurred in the future or at the time that the services or funeral goods are provided 
+insertion: clearly and conspicuously 
+deletion: 
+change: all			 to all / funeral			 to funeral / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A requirement that cemeteries ... But actually it is: A requirement that cemeteries ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: A requirement that cemeteries provide consumers in a timely manner all written rules and regulations of cemetery and a clear explanation in writing of the interment inurnment entombment right that has been purchased and any material terms and of that purchase including any repurchase option by the cemetery or rights available to the consumer 
+insertion: 
+deletion: 
+change: to			 to to / the			 to the / or			 to or / conditions			 to conditions / resale			 to resale / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[8]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[8]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: retain all records			 in exist... But actually it is: retain all records in existenc...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: retain all in existence on the date of enactment of this Act including maps or systems indicating the location and date of each interment inurnment 
+insertion: 
+deletion: 
+change: records			 to records / other			 to other / or			 entombment to or entombment 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[8]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[8]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: accurately record			 and retai... But actually it is: accurately record and retain r...
+The Jaccard Index is: 0.88
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: accurately and retain records of all /inurnment or entombment rights sold the effective date of the regulations issued under this subsection in manner and form as the Commission may prescribe in such regulations and 
+insertion: interments inurnments or entombments occurring as well as any 
+deletion: 
+change: record			 to record / interment to internment / after			 to after / such			 to such / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[8]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[8]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: make such records			 available... But actually it is: make such records available to...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: make such available to Federal State and local governments as appropriate 
+insertion: 
+deletion: 
+change: records			 to records / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/text[1]
+The reason of change is: element tag name
+The value is expected to be: paragraph But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(1)}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"In
+			 general"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"The Commission shall prescribe the rules under subsection
+			 (a) within 1 year after the date of enactment of this Act. Such rules, and any
+			 future rules or revision of rules prescribed by the Commission prohibiting
+			 unfair or deceptive acts or practices in the provision of funeral goods or
+			 services, shall be prescribed in accordance with section 553 of title 5, United
+			 States Code."}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(2)Relationship to
+			 Funeral RuleNo rule prescribed pursuant to this Act shall be
+			 less protective of consumers than the Trade Regulation Rule on Funeral Industry
+			 Practices (16 C.F.R. part 453).
+				"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Application of			 Rules to Tax... But actually it is: Application of Rules to Tax Ex...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: Application Rules to Tax Exempt Organizations and States 
+insertion: 
+deletion: 
+change: of			 to of / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notwithstanding the definition... But actually it is: Notwithstanding the definition...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Notwithstanding the definition corporation in section 4 of the Federal Trade Commission Act 15 USC the rules prescribed under subsection a and any future rules or revision rules prescribed by the Commission prohibiting unfair or deceptive acts practices in the provision of funeral goods or funeral services shall apply to cemeteries organized or operated by 
+insertion: 
+deletion: 
+change: of			 to of / 44			 to 44 / of			 to of / or			 to or / also			 to also / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: organizations			 described in ... But actually it is: organizations described in sec...
+The Jaccard Index is: 0.36
+And the Smith Waterman Score is: 0.87
+The Detailes are shown as followings: 
+common words: organizations			 described in section 501c of the Internal Revenue Code of 1986 that exempt from taxation under section 501a of such Code 
+insertion: 
+deletion: 
+change: are			 to are / except for cemeteries organized operated managed and owned by a religious denomination middle judicatory house of worship or similar religious organization and that are not organized operated managed or owned by contract or affiliation with a forprofit provider of funeral goods or services that offers those goods and services for sale to the public and 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: religious organizations (notwi... But actually it is: States or any political subdiv...
+The Jaccard Index is: 0.08
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[3]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (3) But actually it is: (2)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: States or any			 political sub... But actually it is: States or any political subdiv...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: States or political subdivision of a State 
+insertion: 
+deletion: 
+change: any			 to any / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any violation of any rule pres... But actually it is: Any violation of any rule pres...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Any violation of any rule prescribed this section shall be treated as a violation of a regulation prescribed section 18a1B of the Federal Trade Commission Act 15 57aa1B regarding unfair or deceptive acts or practices The Trade Commission shall enforce this Act in the same manner by the same and with the same jurisdiction as though all applicable terms and provisions the Federal Trade Commission Act were incorporated into and made a part of Act Any person who violates the regulations prescribed under this Act shall subject to the penalties and entitled to the privileges and immunities in that Act 
+insertion: 
+deletion: 
+change: under			 to under / under			 to under / USC			 to USC / Federal			 to Federal / means			 to means / of			 to of / this			 to this / be			 to be / provided			 to provided / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Enforcement by			 states But actually it is: Enforcement by states
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: by			 states to by states 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In			 General But actually it is: In General
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In			 General 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Whenever an attorney			 genera... But actually it is: Whenever an attorney general o...
+The Jaccard Index is: 0.87
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: Whenever an general of any State has reason to believe that the interests of the of that State have been or are being threatened or adversely affected any person has engaged or is engaging in an act or practice which violates rule of the Commission issued under section 3 of this Act /the /State as patriae may bring a civil action on behalf of its residents in an district court of the United States to enjoin such violative act or to enforce compliance with such rule of the Commission to obtain restitution or other compensation on behalf of residents of such State or obtain such further and other relief as the court may determine appropriate 
+insertion: or Trade Regulation Rule on Funeral Industry Practices 16 CFR 4531 et seq the 
+deletion: 
+change: attorney			 to attorney / residents			 to residents / because			 to because / any			 to any / parens			 to parens / appropriate			 to appropriate / practice			 to practice / damages			 to damages / to			 to to / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The State shall provide prior ... But actually it is: The State shall provide prior ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: The State shall provide prior notice of any civil action under subsection a or f2 to the Commission provide the Commission with a copy of its complaint except that if it is feasible for the State to provide such prior notice the State shall such notice immediately upon instituting such action Upon receiving a respecting a civil action the Commission shall have the right 
+insertion: 
+deletion: 
+change: written			 to written / and			 to and / not			 to not / provide			 to provide / notice			 to notice / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to intervene in			 such action... But actually it is: to intervene in such action;
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: to intervene such action 
+insertion: 
+deletion: 
+change: in			 to in / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: upon so			 intervening, to be ... But actually it is: upon so intervening, to be hea...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: upon intervening to be heard on all matters arising therein 
+insertion: 
+deletion: 
+change: so			 to so / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to remove the			 action to the... But actually it is: to remove the action to the ap...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: to remove action to the appropriate United States district court and 
+insertion: 
+deletion: 
+change: the			 to the / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to file petitions			 for appea... But actually it is: to file petitions for appeal.
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: to file for appeal 
+insertion: 
+deletion: 
+change: petitions			 to petitions / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For purposes of bringing any c... But actually it is: For purposes of bringing any c...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: For purposes of bringing any civil under subsection a nothing in this Act shall prevent an attorney from exercising the powers conferred on the attorney general by the laws such State to conduct investigations or to administer oaths or affirmations to compel the attendance of witnesses or the production of documentary other evidence 
+insertion: 
+deletion: 
+change: action			 to action / general			 to general / of			 to of / or			 to or / and			 to and / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Actions by			 Commission But actually it is: Actions by Commission
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: by			 Commission to by Commission 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Whenever a civil			 action has... But actually it is: Whenever a civil action has be...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: Whenever a action has been instituted by or on behalf of the Commission for violation any rule prescribed under section 3 of this Act no State may during pendency of such action instituted by or on behalf of the Commission a civil action under subsection a or f2 of this section against defendant named in the complaint in such action for violation of any rule alleged in such complaint 
+insertion: 
+deletion: 
+change: civil			 to civil / of			 to of / the			 to the / institute			 to institute / any			 to any / as			 to as / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Venue; Service			 of Process But actually it is: Venue; Service of Process
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Venue of Process 
+insertion: 
+deletion: 
+change: Service			 to Service / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any civil action			 brought un... But actually it is: Any civil action brought under...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: Any civil brought under subsection a of this section in a district court of the States may be brought in the district in which the defendant is found is inhabitant or transacts business or wherever venue is proper under 1391 of title 28 United States Code Process in such an action may be in any district in which the defendant is an inhabitant or in which defendant may be found 
+insertion: 
+deletion: 
+change: action			 to action / United			 to United / an			 to an / section			 to section / served			 to served / the			 to the / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[6]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Actions by other			 State offi... But actually it is: Actions by other State officia...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Actions by State officials 
+insertion: 
+deletion: 
+change: other			 to other / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[6]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[6]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Nothing			 contained in this s... But actually it is: Nothing contained in this sect...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: Nothing			 contained in this section shall prohibit an authorized State official proceeding in State court on the basis of an alleged violation of any civil criminal statute of such State 
+insertion: 
+deletion: 
+change: from			 to from / or			 to or / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[6]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[6]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: other State			 actions But actually it is: other State actions
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: State			 actions to State actions 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[6]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[6]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In addition to actions brought... But actually it is: In addition to actions brought...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.87
+The Detailes are shown as followings: 
+common words: In addition to actions brought by an attorney general a State under subsection a of this section such an action may be brought officers of such State who are authorized by the State to bring actions in State on behalf of its residents 
+insertion: 
+deletion: 
+change: of			 to of / by			 to by / such			 to such / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effect on other			 law But actually it is: Effect on other law
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Effect on 
+insertion: 
+deletion: 
+change: other			 law to other law 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]
+The reason of change is: element tag name
+The value is expected to be: subsection But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(a)}
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"No
+			 preemption"}
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"Nothing in this
+			 Act or the rules prescribed under this Act shall be construed to preempt any
+			 provision of any law of a State or political subdivision of that State that
+			 provides protections to consumers of funeral services or funeral goods, except
+			 to the extent that the provision of law is inconsistent with any provision of
+			 this Act or a rule prescribed under this Act, and then only to the extent of
+			 the inconsistency."}
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means any organization, assoc... But actually it is:  means any organization, assoc...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words:  means any organization association or other that offers for sale the interment inurnment or entombment of human but does not include any cemetery that 
+insertion: 
+deletion: 
+change: business			 to business / remains			 to remains / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: performs fewer			 than 25 inte... But actually it is: performs fewer than 25 interme...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: performs than 25 interments inurnments and entombments during any calendar 
+insertion: 
+deletion: 
+change: fewer			 to fewer / year			 or to year or 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: sells fewer than			 25 interme... But actually it is: sells fewer than 25 interment,...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: sells fewer 25 interment inurnment or entombment rights during any calendar year 
+insertion: 
+deletion: 
+change: than			 to than / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  are the goods which are sold ... But actually it is:  are the goods which are sold ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.91
+The Detailes are shown as followings: 
+common words:  are the goods which are sold or offered for directly to the public for use in connection with funeral services and 
+insertion: 
+deletion: 
+change: sale			 to sale / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[3]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[3]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any services which			 are sold... But actually it is: any services which are sold or...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.87
+The Detailes are shown as followings: 
+common words: any services are sold or offered for sale to the public in order to 
+insertion: 
+deletion: 
+change: which			 to which / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[3]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[3]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: care			 for and prepare deceas... But actually it is: care for and prepare deceased ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: care			 for and prepare deceased human bodies for burial cremation or other disposition or 
+insertion: 
+deletion: 
+change: final			 to final / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[3]/subparagraph[1]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[3]/subparagraph[1]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: arrange,			 supervise, or cond... But actually it is: arrange, supervise, or conduct...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: arrange			 supervise or conduct the funeral ceremony or the final disposition of human bodies or 
+insertion: 
+deletion: 
+change: deceased			 to deceased / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[3]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[3]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: services provided			 by funera... But actually it is: services provided by funeral d...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: services by funeral directors morticians cemeterians cremationists and retailers caskets urns monuments and markers 
+insertion: 
+deletion: 
+change: provided			 to provided / of			 to of / 
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+December 7, 2010
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+

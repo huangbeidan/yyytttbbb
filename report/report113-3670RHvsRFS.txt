@@ -1,0 +1,158 @@
+===================================================
+
+total difference is: 25
+comparing document: BILLS-113hr3670eh.xml
+to document: BILLS-113hr3670rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 113 HR 3670 EH: Anti-Spoofing ... But actually it is: 113 HR 3670 : Anti-Spoofing Ac...
+The Jaccard Index is: 0.85
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: 113 HR 3670 AntiSpoofing Act of 2014 
+insertion: 
+deletion: 
+change: EH to  / 
+
+We are at location: null   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {}
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IB But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED ST...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED STATES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend the Communications Ac... But actually it is: To amend the Communications Ac...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.92
+The Detailes are shown as followings: 
+common words: To amend the Communications Act of 1934 to expand and clarify the prohibition on provision inaccurate caller identification information and for other purposes 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+  September 10, 2014
+  Received; read twice and referred to the Committee on Commerce, Science, and Transportation
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/quoted-block[1]/subparagraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/quoted-block[1]/subparagraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means a real-time or near rea... But actually it is:  means a real-time or near rea...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words:  means a realtime or near realtime message consisting of text images sounds or information that is transmitted from or received by a device that identified as the transmitting or receiving device by means of a number Such term 
+insertion: 
+deletion: 
+change: other to other			 / is to is			 / telephone to telephone			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/quoted-block[1]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/quoted-block[1]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: includes a short message servi... But actually it is: includes a short message servi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.9
+The Detailes are shown as followings: 
+common words: includes a short message service SMS message an enhanced message service EMS message and multimedia message service MMS message and 
+insertion: 
+deletion: 
+change: a to a			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/quoted-block[1]/subparagraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/quoted-block[1]/subparagraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means a service that permits ... But actually it is:  means a service that permits ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words:  means a service that permits the transmission or receipt of a text message including a provided as part of or in connection with a telecommunications service an IPenabled voice service 
+insertion: 
+deletion: 
+change: service to service			 / or to or			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: means the provision of real-ti... But actually it is: means the provision of real-ti...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: means the provision of realtime voice communications offered to the public or such class of as to be effectively available to the public transmitted using protocol or a successor protocol whether part of a bundle of or separately with interconnection capability such that the service originate traffic to or terminate traffic from the public telephone network or a successor network 
+insertion: 
+deletion: 
+change: users to users			 / Internet to Internet			 / services to services			 / can to can			 / switched to switched			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 6 months after ... But actually it is: Not later than 6 months after ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.9
+The Detailes are shown as followings: 
+common words: Not later than 6 months after the date of enactment of the Truth in Caller ID Act of 2009 
+insertion: 
+deletion: 
+change: the Commission to the			 Commission 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Federal Communications Com... But actually it is: The Federal Communications Com...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: The Federal Communications Commission shall prescribe regulations to implement the amendments by this section not later than 18 months after the date of the of this Act 
+insertion: 
+deletion: 
+change: made to made			 / enactment to enactment			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The amendments made by this se... But actually it is: The amendments made by this se...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: The amendments made by this section shall take effect on the date that is 6 months after the on which the Federal Communications Commission prescribes regulations implement the amendments made by this section 
+insertion: 
+deletion: 
+change: date to date			 / to to to			 / 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clerk. But actually it is: Clerk
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/endorsement[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: endorsement But actually it is: null
+ Deleted paragraph content is: {""}
+

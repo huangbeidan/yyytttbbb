@@ -1,0 +1,351 @@
+===================================================
+
+total difference is: 95
+comparing document: BILLS-113hr1582ih.xml
+to document: BILLS-113hr1582rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 113 HR 1582 IH: Energy Consume... But actually it is: 113 HR 1582 RH: Energy Consume...
+The Jaccard Index is: 0.88
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: 113 HR 1582 Energy Consumers Relief Act of 2013 
+insertion: 
+deletion: 
+change: IH to RH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2013-04-16 But actually it is: 2013-07-22
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To protect consumers by prohib... But actually it is: To protect consumers by prohib...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.49
+The Detailes are shown as followings: 
+common words: To protect consumers by prohibiting /Administrator /the Environmental Protection Agency from promulgating as / /energyrelated rules that are estimated to cost more than 1 /and /cause significant adverse effects to 
+insertion: the		 certain billion		 
+deletion: Administrator as and 
+change: the to  /  to of / certain		 to final		 / billion to  /  to will / the economy to the		  economy 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 118"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No.
+		  113–164]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			July 22, 2013
+			Additional sponsors: Mr.
+			 Whitfield, Mrs. Capito,
+			 Mr. Barr, Mr. Kline, Mr.
+			 McKinley, and Mr.
+			 Harper
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			July 22, 2013
+			Reported with an amendment, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+			For text of introduced bill, see copy of bill as
+			 introduced on April 16, 2013
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Prohibition			 against finaliz... But actually it is: Prohibition against			 finaliz...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Prohibition			 against finalizing certain energyrelated rules that will cause effects to the economy 
+insertion: 
+deletion: 
+change: significant			 to significant / adverse to adverse			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notwithstanding any other prov... But actually it is: Notwithstanding any other prov...
+The Jaccard Index is: 0.91
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: Notwithstanding any other provision of law			 the Administrator of the Environmental Protection Agency may not promulgate as			 final an energyrelated rule that is estimated to cost more than 1 billion if			 the Secretary of Energy determines under section 33 that /rule /significant adverse effects to the economy 
+insertion: will cause			 
+deletion: that with respect 
+change: the			 to the / will be caused to 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Administrator of			 the En... But actually it is: The Administrator of			 the En...
+The Jaccard Index is: 0.72
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: The Administrator of			 the Environmental Protection Agency shall submit to Congress a 
+insertion: 
+deletion: 
+change: report			 containing to report and			 transmit a copy to the Secretary of Energy containing 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: an estimate of the			 total co... But actually it is: an estimate of the total			 co...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: an estimate of costs of the rule including the direct costs and indirect costs of the			 rule 
+insertion: 
+deletion: 
+change: the			 to the / total to total			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: an estimate of the			 increase... But actually it is: an estimate of the total benef...
+The Jaccard Index is: 0.15
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a detailed			 description of t... But actually it is: an estimate of the			 increase...
+The Jaccard Index is: 0.43
+And the Smith Waterman Score is: 0.24
+The Detailes are shown as followings: 
+common words: a detailed			 description of the employment effects including potential /losses and			 shifts in employment that may result from implementation enforcement of 
+insertion: estimate increases in 
+deletion: 
+change: job to gasoline / or to or			 / the			 rule to the rule and 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[6]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(F)a detailed description of
+			 the employment effects, including potential job losses and shifts in
+			 employment, that may result from implementation or enforcement of the
+			 rule.
+				"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Initial			 determination on in... But actually it is: Initial determination			 on in...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Initial			 determination on increases and impacts 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of Energy,			 in... But actually it is: The Secretary of Energy, in co...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: The Secretary of in with the Federal Energy Regulatory Commission and Administrator of Energy Information Administration shall prepare independent analysis determine whether the rule will cause 
+insertion: 
+deletion: 
+change: Energy			 to Energy / consultation to consultation			 / the			 to the / the to the			 / an			 to an / to to to			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any increase in			 energy pric... But actually it is: any increase in energy			 pric...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: any increase prices for consumers including lowincome households small 
+insertion: 
+deletion: 
+change: in			 to in / energy to energy			 / businesses			 and manufacturers to businesses and			 manufacturers 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any impact on fuel			 diversit... But actually it is: any impact on fuel			 diversit...
+The Jaccard Index is: 0.98
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: any impact on fuel			 diversity of the Nation’s electricity generation portfolio or on national			 regional or local electric reliability 
+insertion: 
+deletion: 
+change: or to 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[2]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any other adverse effect on en... But actually it is: any adverse effect on energy s...
+The Jaccard Index is: 0.36
+And the Smith Waterman Score is: 0.38
+The Detailes are shown as followings: 
+common words: other adverse effect on energy supply			 distribution or use 
+insertion: 
+deletion: any 
+change: including a shortfall in supply and increased use of			 foreign supplies to due to the economic or technical infeasibility of			 implementing the rule or 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[2]/subparagraph[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(D)any other adverse effect on energy supply,
+			 distribution, or use (including a shortfall in supply and increased use of
+			 foreign supplies).
+				"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If the Secretary			 of Energy ... But actually it is: If the Secretary of Energy det...
+The Jaccard Index is: 0.88
+And the Smith Waterman Score is: 0.59
+The Detailes are shown as followings: 
+common words: If the of Energy under paragraph 2 that the rule will cause increase impact or described in such paragraph then the Secretary consultation with /the /Secretary Commerce the Secretary of Labor and Administrator of the Small Administration shall 
+insertion: the			 Administrator of Environmental Protection Agency the 
+deletion: 
+change: Secretary			 to Secretary / determines to determines			 / an			 to an / effect to effect			 / in			 to in / of to of			 / the			 to the / Business to Business			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[3]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[3]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: determine whether such increas... But actually it is: determine whether the rule wil...
+The Jaccard Index is: 0.37
+And the Smith Waterman Score is: 0.47
+The Detailes are shown as followings: 
+common words: determine whether /effect will significant adverse effects to the economy taking 
+insertion: 
+deletion: whether such increase 
+change: or			 to the / cause to cause			 / into			 consideration impacts on economic indicators including those related to gross			 domestic product unemployment wages consumer prices and business and			 manufacturing activity and to into consideration 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[3]/subparagraph[1]/clause[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: clause
+ Inserted paragraph content is: {"(i)the costs and benefits of the rule and
+			 limitations in calculating such costs and benefits due to uncertainty,
+			 speculation, or lack of information; and
+					"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[3]/subparagraph[1]/clause[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: clause
+ Inserted paragraph content is: {"(ii)the positive and
+			 negative impacts of the rule on economic indicators, including those related to
+			 gross domestic product, unemployment, wages, consumer prices, and business and
+			 manufacturing activity; and
+					"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[3]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[3]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: publish the			 results of such... But actually it is: publish the results of			 such...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: publish results such determination in the Federal Register 
+insertion: 
+deletion: 
+change: the			 to the / of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/paragraph[1]/text[1]/term[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/paragraph[1]/text[1]/term[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: direct costs But actually it is: direct			 costs
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: direct costs 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/paragraph[1]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[4]/paragraph[1]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be:  have the meanings			 given su... But actually it is:  have the meanings given such ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words:  have the given such in chapter 8 of the Environmental Protection 
+insertion: 
+deletion: 
+change: meanings			 to meanings / terms to terms			 / Agency’s			 to Agency’s 
+
+We are at location: bill[1]/legis-body[1]/section[4]/paragraph[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/paragraph[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Guidelines for Preparing Econo... But actually it is: Guidelines for			 Preparing Ec...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Guidelines Preparing Economic Analyses 
+insertion: 
+deletion: 
+change: for to for			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/paragraph[1]/text[1]/text()[4]   Compared with location: bill[1]/legis-body[1]/section[4]/paragraph[1]/text[1]/text()[4]
+The reason of change is: content change
+The value is expected to be:  dated December 17,			 2010. But actually it is:  dated December 17, 2010.
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words:  dated December 
+insertion: 
+deletion: 
+change: 17			 2010 to 17 2010 
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		July 22, 2013
+		Reported with an amendment, committed to the Committee of
+		  the Whole House on the State of the Union, and ordered to be
+		  printed
+	"}
+

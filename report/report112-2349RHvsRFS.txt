@@ -1,0 +1,1325 @@
+===================================================
+
+total difference is: 168
+comparing document: BILLS-112hr2349eh.xml
+to document: BILLS-112hr2349rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED		 ...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED		  STATES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend title 38, United Stat... But actually it is: To amend title 38, United Stat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: To amend title 38 United States Code /improve the determination of annual income with respect to pensions for /veterans to direct the Secretary of Veterans Affairs to establish a /program to assess the skills of certain employees and managers of the /Benefits Administration and for other purposes 
+insertion: to		 certain		 pilot		 Veterans		 
+deletion: 
+change: to to  / certain to  / pilot to  / Veterans to  / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			October 12, 2011
+			Received; read twice and referred to the
+			 Committee on Veterans`
+			 Affairs
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Veterans’ Benefits Act of 2011 But actually it is: Veterans’ Benefits Act of			 2...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Veterans’ Benefits Act 
+insertion: 
+deletion: 
+change: of 2011 to of			 2011 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Assessment of claims-processin... But actually it is: Assessment of			 claims-proces...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Assessment claimsprocessing skills pilot program 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Pilot program But actually it is: Pilot			 program
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Pilot program 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Commencing not later than 180 ... But actually it is: Commencing not later			 than 1...
+The Jaccard Index is: 0.45
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: Commencing not than 180 days after the date of the enactment of this Act in addition providing employee certification 
+insertion: 
+deletion: 
+change: later to later			 / to to to			 / under section 7732A of title 38 United States Code the Secretary of Veterans Affairs shall carry out a pilot program to assess skills and provide training described under subsection b to under			 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"section
+			 7732A"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 38, United States Code, the Secretary of
+			 Veterans Affairs shall carry out a pilot program to assess skills and provide
+			 training described under subsection (b)."}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Biennial skills assessment and... But actually it is: Biennial skills			 assessment ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Biennial assessment and individualized training 
+insertion: 
+deletion: 
+change: skills to skills			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In			 general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary shall— But actually it is: The Secretary			 shall—
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: Secretary shall to Secretary			 shall 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: biennially assess the skills o... But actually it is: biennially assess the skills o...
+The Jaccard Index is: 0.84
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: biennially assess the skills of employees and managers of the Veterans Benefits Administration who responsible for processing claims for compensation and pension benefits the laws administered by the Secretary including by requiring such and managers to take the examination provided 
+insertion: 
+deletion: 
+change: appropriate to appropriate			 / are to are			 / under to under			 / employees to employees			 / under section 7732Aa1 of title 38 United States Code and to under			 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/subparagraph[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"section
+			 7732A(a)(1)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/subparagraph[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 38, United States Code; and"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: on the basis of the results of... But actually it is: on the basis of			 the results...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: on the basis the results of such assessment and examination and on any relevant office quality review develop and implement an individualized training related to such skills for each such employee and manager 
+insertion: 
+deletion: 
+change: of to of			 / regional to regional			 / plan to plan			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Remediation provided But actually it is: Remediation			 provided
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Remediation provided 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In providing training under pa... But actually it is: In providing			 training under...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: In training under paragraph 1B if any employee or manager receives a than satisfactory result on any portion of an assessment under 1A the Secretary shall provide such employee or manager with of any deficiency in the skills related to such portion of the assessment within a reasonable period following the remediation shall require employee or manager to take the examination again 
+insertion: 
+deletion: 
+change: providing to providing			 / less to less			 / paragraph to paragraph			 / remediation to remediation			 / and to and			 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Personnel actions But actually it is: Personnel			 actions
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Personnel actions 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In accordance with titles 5 an... But actually it is: In accordance with			 titles 5...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: In accordance titles 5 and 38 United States Code the Secretary shall take personnel actions with respect to any employee or manager who after given two opportunities for remediation under subparagraph A does receive a satisfactory result on an assessment under paragraph 1A 
+insertion: 
+deletion: 
+change: with to with			 / appropriate to appropriate			 / being to being			 / not to not			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Locations and duration But actually it is: Locations and			 duration
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: and duration to and			 duration 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary shall carry out ... But actually it is: The Secretary shall			 carry o...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: The Secretary carry out the pilot program under this section at five regional offices of Veterans Benefits Administration during the fouryear period beginning on date of the commencement of the pilot program 
+insertion: 
+deletion: 
+change: shall to shall			 / the to the			 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authorization of appropriation... But actually it is: Authorization of			 appropriat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of appropriations to of			 appropriations 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: There is authorized to be appr... But actually it is: There is authorized to be appr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: There is authorized to be appropriated to out this section a total of 5000000 for fiscal years 2012 
+insertion: 
+deletion: 
+change: carry to carry			 / through 2016 to through			 2016 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than November 1 of e... But actually it is: Not later than November 1 of e...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: Not later than November 1 of each year which the pilot program under this section is carried out the Secretary submit to the Committee on Veterans’ Affairs of the House of and the Committee on Veterans’ Affairs of the Senate a report on assessments and training conducted under this section during the previous Each such report shall include 
+insertion: 
+deletion: 
+change: in to in			 / shall to shall			 / Representatives to Representatives			 / any to any			 / year to year			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a summary of— But actually it is: a			 summary of—
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: a summary of 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the results of the assessments... But actually it is: the results of the			 assessme...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: the results of assessments under subsection b1A 
+insertion: 
+deletion: 
+change: the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: remediation provided under sub... But actually it is: remediation provided under sub...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: remediation provided under b2A and 
+insertion: 
+deletion: 
+change: subsection to subsection			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[1]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[1]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: personnel actions taken under ... But actually it is: personnel actions taken under ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: personnel actions taken under b2B and 
+insertion: 
+deletion: 
+change: subsection to subsection			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any changes made to the traini... But actually it is: any changes made to the traini...
+The Jaccard Index is: 0.77
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: any changes made to the training under subsection b1B based on the results of such assessments remediation and the examinations provided 
+insertion: 
+deletion: 
+change: program to program			 / and to and			 / under section 7732Aa1 of title 38 United States Code to under			 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"section
+			 7732A(a)(1)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/paragraph[2]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 38, United States Code."}
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Exclusion of certain reimburse... But actually it is: Exclusion of			 certain reimbu...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Exclusion certain reimbursements of expenses from determination of annual income respect to pensions for veterans and surviving spouses and children 
+insertion: 
+deletion: 
+change: of to of			 / with to with			 / of veterans to of			 veterans 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In			 general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Paragraph (5) of section 1503(... But actually it is: Paragraph (5) of			 
+The Jaccard Index is: 0.17
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"section
+			 1503(a)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 38, United States Code, is amended to read as
+			 follows:"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: reimbursements of any kind (in... But actually it is: reimbursements of any kind (in...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: reimbursements of any kind /settlement payments for 
+insertion: 
+deletion: kind 
+change: insurance to including				insurance / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: expenses related to the repaym... But actually it is: expenses related to the repaym...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: expenses related to the /or repair of equipment vehicles items money or 
+insertion: 
+deletion: the 
+change: replacement to repayment				replacement / property resulting from to property				resulting from 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[1]/clause[1]/subclause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[1]/clause[1]/subclause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any accident (as defined in re... But actually it is: any accident (as defined in re...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: any accident as defined in /the Secretary shall prescribe but the amount excluded under /shall not exceed the greater of the fair market value or /value of the equipment or vehicle involved at the time 
+insertion: 
+deletion: in under or 
+change: which to regulations				which / subclause to this				subclause / replacement to reasonable				replacement / immediately preceding the accident to immediately				preceding the accident 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[1]/clause[1]/subclause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[1]/clause[1]/subclause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any theft or loss (as defined ... But actually it is: any theft or loss (as defined ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: any theft or loss as defined /which the Secretary shall prescribe but the amount excluded /subclause shall not exceed the greater of the fair market value /replacement value of the item or the amount of the money /tender of the United States or of a foreign country involved at the /preceding the theft or loss or 
+insertion: 
+deletion: defined excluded value money the 
+change: regulations to in				regulations / this to under				this / reasonable to or				reasonable / legal to including				legal / immediately to time				immediately / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[1]/clause[1]/subclause[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[1]/clause[1]/subclause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any casualty loss (as defined ... But actually it is: any casualty loss (as defined ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: any casualty loss as defined /which the Secretary shall prescribe but the amount excluded /subclause shall not exceed the greater of the fair market value /replacement value of the property involved at the time /the casualty loss and 
+insertion: 
+deletion: defined excluded value time 
+change: regulations to in				regulations / this to under				this / reasonable to or				reasonable / preceding to immediately				preceding / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[1]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[1]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: medical expenses resulting fro... But actually it is: medical expenses				resulting ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: expenses resulting from any accident theft loss or casualty loss as defined /which the Secretary shall prescribe but the amount excluded /clause shall not exceed the costs of medical care provided to the /the accident theft loss or casualty loss and 
+insertion: 
+deletion: medical defined excluded the 
+change: regulations to in				regulations / this to under				this / of to victim				of / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: pain and suffering (including ... But actually it is: pain and suffering (including ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: pain and suffering including /payments and general damages awarded by a court related to /theft loss or casualty loss but the amount excluded under /shall not exceed an amount determined by the Secretary on 
+insertion: 
+deletion: including to under 
+change: settlement to insurance				settlement / accident to an				accident / subparagraph to this				subparagraph / a casebycase basis to a				casebycase				basis 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effective date But actually it is: Effective			 date
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Effective date 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The amendment made by subsecti... But actually it is: The amendment made by			 subse...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: The amendment made subsection a shall take effect on the date that is one year after the date the enactment of this Act 
+insertion: 
+deletion: 
+change: by to by			 / of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Extension of authority to obta... But actually it is: Extension of			 authority to o...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.64
+The Detailes are shown as followings: 
+common words: Extension authority to obtain certain information from Department 
+insertion: 
+deletion: 
+change: of to of			 / of Treasury to of			 Treasury 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 5317(g) of title 38, U... But actually it is:  of title 38, United			 States...
+The Jaccard Index is: 0.78
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: 5317g of title 38 States Code is amended by striking 
+insertion: 
+deletion: Section 
+change: United to United			 / 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"Section 5317(g)"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authorization of use of electr... But actually it is: Authorization of			 use of ele...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Authorization use of electronic communication to provide notice to claimants for under laws administered by the Secretary of Veterans Affairs 
+insertion: 
+deletion: 
+change: of to of			 / benefits to benefits			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In			 general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 5103 of title 38, Unit... But actually it is:  of			 title 38, United States...
+The Jaccard Index is: 0.78
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: 5103 of title 38 United States Code is amended 
+insertion: 
+deletion: Section 
+change: 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"Section 5103"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subsection (a)(1)— But actually it is: in subsection			 (a)(1)—
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: subsection a1 to subsection			 a1 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Upon receipt of a complete or ... But actually it is: Upon receipt of a			 complete ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Upon receipt of complete or substantially complete application the 
+insertion: 
+deletion: 
+change: a to a			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/subparagraph[3]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/subparagraph[3]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by the most effective means av... But actually it is: by the most effective means av...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: by the most effective means available including communication or notification in writing 
+insertion: 
+deletion: 
+change: electronic to electronic			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/subparagraph[3]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/subparagraph[3]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: of any information But actually it is: of any			 information
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: any information to any			 information 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subsection (b), by adding a... But actually it is: in subsection (b),			 by addin...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: in subsection by adding at the end the following new paragraphs 
+insertion: 
+deletion: 
+change: b to b			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Nothing in this section shall ... But actually it is: Nothing in this section shall ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: Nothing in this section shall require /to provide notice for a subsequent claim that is filed while /claim is pending if the notice previously provided for such 
+insertion: 
+deletion: require while 
+change: Secretary to the				Secretary / previous to a				previous / pending claim to pending				claim 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: provides sufficient notice of ... But actually it is: provides sufficient notice of ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: provides sufficient notice of /and evidence necessary to substantiate such subsequent 
+insertion: 
+deletion: of 
+change: information to the				information / claim and to claim				and 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: was sent within one year of th... But actually it is: was sent within one year of th...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: was sent within one year of the /which the subsequent claim was filed 
+insertion: 
+deletion: the 
+change: on to date				on / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: This section shall not apply t... But actually it is: This section shall not				appl...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: This section shall /to any claim or issue where the Secretary may award the maximum /accordance with this title based on the evidence of record 
+insertion: 
+deletion: shall maximum 
+change: apply to not				apply / in to benefit				in / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[2]/subparagraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[2]/subparagraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means the highest evaluation ... But actually it is:  means the highest evaluation ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words:  means the highest evaluation assignable /with the evidence of record as long as such evaluation is /such evidence of record at the time the decision 
+insertion: 
+deletion: assignable is 
+change: accordance to in				accordance / by to supported				by / is rendered to is				rendered 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Nothing in the amendments made... But actually it is: Nothing in the amendments made...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: Nothing in the amendments made subsection a shall be construed as eliminating any requirement with to the contents of a notice under section 5103 of such title that are under regulations prescribed pursuant to subsection a2 of such section of the date of the enactment of this Act 
+insertion: 
+deletion: 
+change: by to by			 / respect to respect			 / required to required			 / as to as			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Duty to assist claimants in ob... But actually it is: Duty to assist			 claimants in...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Duty to claimants in obtaining private records 
+insertion: 
+deletion: 
+change: assist to assist			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In			 general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 5103A(b) of title 38, ... But actually it is: 			 of title 38, United States...
+The Jaccard Index is: 0.79
+And the Smith Waterman Score is: 0.92
+The Detailes are shown as followings: 
+common words: 5103Ab of title 38 United States Code is amended to read as follows 
+insertion: 
+deletion: Section 
+change: 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"Section 5103A(b)"}
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/quoted-block[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Assistance in obtaining privat... But actually it is: Assistance in				obtaining pri...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: in obtaining private records 
+insertion: 
+deletion: Assistance 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: As part of the assistance prov... But actually it is: As part of the assistance prov...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: As part of the assistance provided /a the Secretary shall make reasonable efforts to obtain 
+insertion: 
+deletion: provided 
+change: subsection to under				subsection / relevant private records to relevant				private records 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Whenever the Secretary, after ... But actually it is: Whenever the Secretary,				aft...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: Whenever the /making such reasonable efforts is unable to obtain all of the /sought the Secretary shall notify the claimant that the Secretary /to obtain records with respect to the claim Such a 
+insertion: 
+deletion: the the Secretary 
+change: after to Secretary				after / records to relevant				records / unable to is				unable / notification shall to notification				shall 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: identify the records the Secre... But actually it is: identify the records the Secre...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: identify the records the Secretary 
+insertion: 
+deletion: 
+change: is unable to obtain to is				unable to obtain 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: briefly explain the efforts th... But actually it is: briefly explain the efforts th...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: briefly explain the efforts that /made to obtain such records and 
+insertion: 
+deletion: that 
+change: Secretary to the				Secretary / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]/clause[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]/clause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: explain that the Secretary wil... But actually it is: explain that the Secretary wil...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: explain that the Secretary will decide /based on the evidence of record but that this section does not /submission of records at a later date if such submission is 
+insertion: 
+deletion: decide not 
+change: claim to the				claim / the to prohibit				the / otherwise allowed to otherwise				allowed 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary shall make not l... But actually it is: The Secretary shall make not l...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: The Secretary shall make not less than /to a custodian of a private record in order for an effort to /private records to be treated as reasonable under this section /is made evident by the first request that a second request would be /obtaining such records 
+insertion: 
+deletion: than to section be 
+change: requests to two				requests / relevant to obtain				relevant / it to unless				it / in to futile				in / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: This section shall not apply i... But actually it is: This section shall not				appl...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: This section shall /if the evidence of record allows for the Secretary to award the /in accordance with this title based on the evidence of record 
+insertion: 
+deletion: shall the 
+change: apply to not				apply / benefit to maximum				benefit / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For purposes of this paragraph... But actually it is: For purposes of this paragraph...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: For purposes of this paragraph 
+insertion: 
+deletion: 
+change: the term to the				term 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means the highest evaluation ... But actually it is:  means the highest evaluation ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words:  means the highest evaluation assignable /with the evidence of record as long as such evaluation is /such evidence of record at the time the decision is rendered 
+insertion: 
+deletion: assignable is 
+change: accordance to in				accordance / by to supported				by / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Under regulations prescribed b... But actually it is: Under regulations prescribed b...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Under regulations prescribed by /the Secretary 
+insertion: the				Secretary 
+deletion: 
+change: the Secretary to 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: shall encourage claimants to s... But actually it is: shall encourage claimants to s...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: shall encourage claimants to /private medical records of the claimant to the Secretary if /does not burden the claimant and 
+insertion: 
+deletion: to if 
+change: relevant to submit				relevant / submission to such				submission / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in obtaining relevant private ... But actually it is: in				obtaining relevant priva...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: obtaining relevant private records under paragraph 1 may require /to authorize the Secretary to obtain such records if /is required to comply with Federal State or 
+insertion: 
+deletion: in require if 
+change: claimant to the				claimant / authorization to such				authorization / local law to local				law 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Public records But actually it is: Public			 records
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Public records 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 5103A(c) of such title... But actually it is: Section 5103A(c) of			 such ti...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Section 5103Ac such title is amended to read as follows 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/quoted-block[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Obtaining Records for Compensa... But actually it is: Obtaining				Records for Compe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Records for Compensation Claims 
+insertion: 
+deletion: Obtaining 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In the case of a claim for dis... But actually it is: In the case of a claim				for ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: In the case of a /disability compensation the assistance provided by the Secretary /section shall include obtaining the following records if relevant to 
+insertion: 
+deletion: a Secretary 
+change: for to claim				for / this to under				this / the claim to the				claim 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The claimant But actually it is: The claimants service medical ...
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Records of relevant medical tr... But actually it is: Records of relevant medical tr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.68
+The Detailes are shown as followings: 
+common words: Records of relevant medical /examination of the claimant at Department healthcare facilities or at /of the Department if the claimant furnishes information sufficient 
+insertion: 
+deletion: medical at 
+change: or to treatment				or / expense to the				expense / to locate those records to to				locate those records 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any other relevant records hel... But actually it is: Any other relevant records hel...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: Any other relevant records held by /department or agency that the claimant adequately identifies /the Secretary to obtain 
+insertion: 
+deletion: by identifies 
+change: Federal to any				Federal / authorizes to and				authorizes / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Whenever the Secretary attempt... But actually it is: Whenever the Secretary attempt...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: Whenever the Secretary attempts /records from a Federal department or agency under this subsection /to obtain those records shall continue until the records are /it is reasonably certain that such records do not exist or that /to obtain those records would 
+insertion: 
+deletion: attempts subsection are that 
+change: obtain to to				obtain / efforts to the				efforts / unless to obtained				unless / efforts to further				efforts / be futile to be				futile 
+
+We are at location: bill[1]/legis-body[1]/section[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Conditions for treatment of ce... But actually it is: Conditions for			 treatment of...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: Conditions treatment of certain persons as adjudicated mentally incompetent for 
+insertion: 
+deletion: 
+change: for to for			 / certain purposes to certain			 purposes 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In			 general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Chapter 55 of title 38, United... But actually it is:  of title 38,			 United States...
+The Jaccard Index is: 0.89
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: 55 of title United States Code is amended by adding at the end the following 
+insertion: 
+deletion: Chapter 
+change: 38 to 38			 / new section to new			 section 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"Chapter 55"}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Conditions for treatment of ce... But actually it is: Conditions for				treatment of...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: for treatment of certain persons as adjudicated mentally incompetent for 
+insertion: 
+deletion: Conditions 
+change: certain purposes to certain				purposes 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/quoted-block[1]/section[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/quoted-block[1]/section[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In any case arising out of the... But actually it is: In any case arising				out of ...
+The Jaccard Index is: 0.72
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: In any case /of the administration by the Secretary of laws and benefits under /a person who is mentally incapacitated deemed mentally incompetent /an extended loss of consciousness shall not be /as a mental defective under subsection d4 or g4 
+insertion: 
+deletion: case under incompetent be 
+change: out to arising				out / title to this				title / experiencing to or				experiencing / adjudicated to considered				adjudicated / of section 922 of title 18 without the order or finding of a judge magistrate or other judicial authority of competent jurisdiction that such person is a danger to himself or herself or others to of				 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/quoted-block[1]/section[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"section
+				922"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/quoted-block[1]/section[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 18 without the order or finding of a judge,
+				magistrate, or other judicial authority of competent jurisdiction that such
+				person is a danger to himself or herself or
+				others."}
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clerical amendment But actually it is: Clerical			 amendment
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Clerical amendment 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The table of sections at the b... But actually it is: The table of sections at the b...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.92
+The Detailes are shown as followings: 
+common words: The table of sections at the beginning of chapter 55 such title is amended by adding at the end the following new item 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 5511. Conditions for treatment... But actually it is: 5511. Conditions for treatment...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: 5511 Conditions for treatment of /as adjudicated mentally incompetent for 
+insertion: 
+deletion: of 
+change: persons to certain				persons / certain purposes to certain				purposes 
+
+We are at location: bill[1]/legis-body[1]/section[7]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Reinstatement of penalties for... But actually it is: Reinstatement of			 penalties ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Reinstatement penalties for charging veterans unauthorized fees 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In			 general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 5905 of title 38, Unit... But actually it is:  of			 title 38, United States...
+The Jaccard Index is: 0.84
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: 5905 of title 38 United States Code is amended to read as follows 
+insertion: 
+deletion: Section 
+change: 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"Section 5905"}
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Penalty for certain acts But actually it is: Penalty for				certain acts
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: for certain acts to for				certain acts 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/section[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/section[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Except as provided in section ... But actually it is: Except as				provided in 
+The Jaccard Index is: 0.32
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: as provided in section 5904 or 1984 of this title whoever to as				provided in 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/section[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"section
+				5904"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/section[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" or
+				"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/section[1]/text[1]/external-xref[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"1984"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/section[1]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"				of this title, whoever—"}
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/section[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/section[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in connection with a proceedin... But actually it is: in connection with a proceedin...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: in connection with a proceeding before /knowingly solicits contracts for charges or receives any fee /in connection for 
+insertion: 
+deletion: before fee 
+change: Department to the				Department / compensation to or				compensation / 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/section[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/section[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the provision of advice on how... But actually it is: the provision of advice on how...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: the provision of advice on how to file /for benefits under the laws administered by the Secretary or 
+insertion: 
+deletion: file 
+change: claim to a				claim / 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/section[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/section[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the preparation, presentation,... But actually it is: the preparation, presentation,...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: the preparation presentation /of such a claim before the date on which a notice of /filed in a proceeding on the claim 
+insertion: 
+deletion: presentation of 
+change: prosecution to or				prosecution / is to disagreement				is / 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/section[1]/paragraph[1]/continuation-text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/section[1]/paragraph[1]/continuation-text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: or attempts to do so; But actually it is: or				attempts to do so;
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: attempts to do so 
+insertion: 
+deletion: or 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/section[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/section[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: unlawfully withholds from any ... But actually it is: unlawfully withholds from any ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: unlawfully withholds from any claimant /any part of a benefit or claim under the laws administered by /that is allowed and due to the claimant or beneficiary or 
+insertion: 
+deletion: claimant by 
+change: beneficiary to or				beneficiary / Secretary to the				Secretary / attempts to do so to attempts				to do so 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/section[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/section[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: commits an offense punishable ... But actually it is: commits an offense punishable ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.68
+The Detailes are shown as followings: 
+common words: commits an offense punishable by /or aids abets counsels commands or procures the commission of 
+insertion: 
+deletion: by 
+change: chapter to this				chapter / such an act or to such				an act or 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/section[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/section[1]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: causes an act to be done, whic... But actually it is: causes an act to be done, whic...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: causes an act to be done which if /would be punishable by this chapter 
+insertion: 
+deletion: if 
+change: performed to directly				performed / 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/section[1]/continuation-text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: continuation-text But actually it is: null
+ Deleted paragraph content is: {"shall be fined as provided in title 18, or imprisoned for not more than one year, or both."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]/quoted-block-continuation-text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quoted-block-continuation-text
+ Inserted paragraph content is: {"shall be
+				fined as provided in title 18, or imprisoned for not more than one year, or
+				both."}
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effective date But actually it is: Effective			 date
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Effective date 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[7]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The amendment made by subsecti... But actually it is: The amendment made by			 subse...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: The amendment made subsection a shall apply with respect to acts committed after the date of enactment of this Act 
+insertion: 
+deletion: 
+change: by to by			 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Performance awards in the Seni... But actually it is: Performance			 awards in the S...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: Performance awards in the Senior Executive Service 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[8]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For each of fiscal years 2012 ... But actually it is: For each of fiscal years 2012 ...
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: For each of fiscal years 2012 through the Secretary of Veterans Affairs may not pay more than 2000000 performance awards 
+insertion: 
+deletion: 
+change: 2016 to 2016			 / in to in			 / under section 5384 of title 5 United States Code to under			 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[8]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"section
+			 5384"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[8]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 5, United States Code."}
+
+We are at location: bill[1]/legis-body[1]/section[9]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Budgetary effects of this Act But actually it is: Budgetary effects			 of this A...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Budgetary of this Act 
+insertion: 
+deletion: 
+change: effects to effects			 / 
+
+We are at location: bill[1]/legis-body[1]/section[9]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The budgetary effects of this ... But actually it is: The budgetary			 effects of th...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: The effects of this Act for the purpose of complying with the PayAsYouGo Act of 2010 shall be determined by reference to the statement titled 
+insertion: 
+deletion: 
+change: budgetary to budgetary			 / Statutory to Statutory			 / latest to latest			 / 
+
+We are at location: bill[1]/legis-body[1]/section[9]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[9]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  for this Act, submitted for p... But actually it is:  for this			 Act, submitted fo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words:  for Act submitted for printing in the Congressional Record by the Chairman of House Budget Committee provided that such statement has been submitted to the vote on passage 
+insertion: 
+deletion: 
+change: this to this			 / the to the			 / prior to prior			 / 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Passed the House of Representa... But actually it is: Passed the House of			 Represe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Passed the House Representatives October 11 2011 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clerk. But actually it is: Clerk
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/endorsement[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: endorsement But actually it is: null
+ Deleted paragraph content is: {""}
+

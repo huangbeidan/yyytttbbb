@@ -1,0 +1,120 @@
+===================================================
+
+total difference is: 26
+comparing document: BILLS-110hr23eh.xml
+to document: BILLS-110hr23rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: null   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 23 EH: To amend title 3... But actually it is: 110 HR 23 : To amend title 38,...
+The Jaccard Index is: 0.89
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: 110 HR 23 To amend title 38 United States Code to 
+insertion: 
+deletion: 
+change: EH to  / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 0 But actually it is: 2007-09-05
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF		  REPRESENTAT... But actually it is: IN THE SENATE OF THE UNITED		 ...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF		  REPRESENTATIVES to SENATE OF THE UNITED		  STATES 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			September 5, 2007
+			 Received; read twice and referred to the
+			 Committee on Veterans`
+			 Affairs
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subchapter II of  But actually it is: Subchapter II of			 chapter			...
+The Jaccard Index is: 0.15
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"chapter 5"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 38, United			 States... But actually it is: Subchapter II of			 chapter			...
+The Jaccard Index is: 0.82
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words:  of title 38 States Code is amended by adding at end the following new section 
+insertion: II of			 chapter			 5 
+deletion: 
+change: United			 to United / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not			 later than 180 days aft... But actually it is: Not			 later than 180 days aft...
+The Jaccard Index is: 0.64
+And the Smith Waterman Score is: 0.95
+The Detailes are shown as followings: 
+common words: Not			 later than 180 days after the date of the enactment of this Act the Secretary			 shall prescribe the regulations required 
+insertion: 
+deletion: 
+change: under to under			 section			 532f of title 38 United States Code as added by subsection			 a 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"section 532(f)"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 38,			 United States... But actually it is: Not			 later than 180 days aft...
+The Jaccard Index is: 0.35
+And the Smith Waterman Score is: 0.58
+The Detailes are shown as followings: 
+common words:  of title United States Code as added by 
+insertion: later than 180 days after the date of the enactment of this Act the Secretary			 shall prescribe the regulations required under			 section			 532f 
+deletion: 
+change: 38			 to 38 / subsection a to subsection			 a 
+
+We are at location: null   Compared with location: bill[1]/attestation[1]/attestation-group[1]/proxy[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: proxy
+ Inserted paragraph content is: {"Jorge E. Sorensen,"}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]/attestation-group[1]/role[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: role
+ Inserted paragraph content is: {"Deputy Clerk."}
+

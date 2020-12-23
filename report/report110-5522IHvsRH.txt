@@ -1,0 +1,669 @@
+===================================================
+
+total difference is: 168
+comparing document: BILLS-110hr5522ih.xml
+to document: BILLS-110hr5522rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 5522 IH: Combustible Du... But actually it is: 110 HR 5522 RH: Combustible Du...
+The Jaccard Index is: 0.63
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: 110 HR 5522 Combustible Dust Explosion and Fire 
+insertion: 
+deletion: 
+change: IH to RH / Prevention Act of 2008 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2008-03-04 But actually it is: 2008-04-22
+The Jaccard Index is: 0.45
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/sponsor[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/sponsor[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Mr. George Miller of			 Califo... But actually it is: Mr. George Miller of Californi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Mr George Miller 
+insertion: 
+deletion: 
+change: of			 California to of California 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/cosponsor[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/cosponsor[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Mr.			 Barrow But actually it is: Mr. Barrow
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Mr			 Barrow 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Committee on Education and			 ... But actually it is: Committee on Education and Lab...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Committee on Education 
+insertion: 
+deletion: 
+change: and			 Labor to and Labor 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To require the Secretary of La... But actually it is: To require the Secretary of La...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: To require the Secretary of Labor to issue interim /final occupational safety and health standards regarding worker exposure /combustible dust and for other purposes 
+insertion: 
+deletion: interim exposure 
+change:  to and /  to to / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 374"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 110–601]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+April 22, 2008
+Additional sponsors: Ms. Woolsey, Mr. Bishop of New York, Mrs. Davis of California, Mr. Hare, Mr. Hinojosa, Mr. Holt, Mr. Kildee, Mr. Kucinich, Mr. Payne, Ms. Linda T. Sánchez of California, Ms. DeLauro, Mr. Braley of Iowa, Mr. Bishop of Georgia, Mrs. McCarthy of New York, Mr. Sarbanes, Mr. Courtney, Ms. Shea-Porter, Mr. Grijalva, Ms. Eshoo, Mr. Scott of Virginia, Mr. Andrews, Ms. Hirono, Mr. Rothman, Mr. Davis of Illinois, Ms. Clarke, Mr. Yarmuth, Mr. Loebsack, Mr. Tierney, Mr. Wu, Mr. Altmire, and Mr. Sestak
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+April 22, 2008
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed
+Strike out all after the enacting clause and insert the part printed in italic
+For text of introduced bill, see copy of bill as introduced on March 4, 2008
+"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Combustible Dust Explosion and... But actually it is: Combustible Dust Explosion and...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: Combustible Dust Explosion and Prevention Act of 2008 
+insertion: 
+deletion: 
+change: Fire			 to Fire / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: An emergency			 exists concern... But actually it is: An emergency exists concerning...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: An exists concerning worker exposure to combustible dust explosions 
+insertion: 
+deletion: 
+change: emergency			 to emergency / and			 fires to and fires 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: At least 12			 workers were ki... But actually it is: 13 workers were killed and mor...
+The Jaccard Index is: 0.78
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: 12			 workers were killed and more than 60 seriously injured in a combustible dust explosion at Imperial Sugar in /Georgia on 7 2008 
+insertion: Port 
+deletion: At least 
+change: catastrophic			 to catastrophic / Savannah to Wentworth / February			 to February / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Following 3			 catastrophic du... But actually it is: Following 3 catastrophic dust ...
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: Following catastrophic dust explosions that killed 14 workers in 2003 the Safety and Hazard Investigation Board CSB issued a report in November which identified 281 combustible dust incidents between 1980 and 2005 killed 119 workers and injured 718 
+insertion: 
+deletion: 
+change: 3			 to 3 / Chemical			 to Chemical / 2006			 to 2006 / that			 to that / A quarter of the explosions occurred at			 food industry facilities including sugar plants to The CSB concluded that 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/text[1]/quote[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"combustible dust explosions are a serious hazard in American industry"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {.}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The CSB concluded			 that  But actually it is: A quarter of the explosions oc...
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[4]/text[1]/quote[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"combustible dust explosions are a serious hazard in American
+			 industry"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: . But actually it is: A quarter of the explosions oc...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Material Safety			 Data Sheets... But actually it is: Material Safety Data Sheets (M...
+The Jaccard Index is: 0.69
+And the Smith Waterman Score is: 0.53
+The Detailes are shown as followings: 
+common words: Material Data Sheets MSDSs often do not adequately address the hazards of dusts and the /OSHA /addresses dust explosion hazards and fails to ensure that safe work and guidance documents are included in MSDSs 
+insertion: Hazard 
+deletion: the hazard communication standard promulgated by the Occupational			 Safety and Health 
+change: Safety			 to Safety / combustible			 to combustible / 29 to Communication / CFR to Standard / 19101200 to HCS / inadequately			 to inadequately / practices			 to practices / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The CSB			 recommended that OS... But actually it is: The CSB recommended that OSHA ...
+The Jaccard Index is: 0.56
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: The recommended that OSHA issue a standard designed to prevent combustible fires and explosions in general industry based on current National Protection Association /dust explosion standards 
+insertion: NFPA 
+deletion: 
+change: CSB			 to CSB / dust			 to dust / Fire			 to Fire / and also that OSHA revise the			 hazard communication standard to clarify that combustible dusts are covered and			 that Material Safety Data Sheets contain information about the hazards and			 physical properties of combustible dusts to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: OSHA has not			 formally acted... But actually it is: The CSB also recommended that ...
+The Jaccard Index is: 0.12
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[8]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[8]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: OSHA issued a			 grain handlin... But actually it is: OSHA has not initiated rulemak...
+The Jaccard Index is: 0.12
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[9]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[9]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: No OSHA standard			 comprehens... But actually it is: OSHA issued a grain handling f...
+The Jaccard Index is: 0.19
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[10]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[10]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Voluntary National			 Fire Pro... But actually it is: No Occupational Safety and Hea...
+The Jaccard Index is: 0.22
+And the Smith Waterman Score is: 0.06
+The Detailes are shown as followings: 
+common words: reduce the likelihood and 
+insertion: 
+deletion: Voluntary National			 Fire Protection Association standards exist which when implemented			 effectively 
+change: impact of combustible dust			 explosions to Health Administration standard comprehensively addresses combustible dust explosion hazards in general industry 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[11]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (11)
+  Voluntary National Fire Protection Association standards exist which, when implemented, effectively reduce the likelihood and impact of combustible dust explosions.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Issuance of			 standard on com... But actually it is: Issuance of Standard on combus...
+The Jaccard Index is: 0.85
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Issuance standard on combustible dust 
+insertion: 
+deletion: 
+change: of			 to of / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Interim			 standard But actually it is: Interim standard
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Interim			 standard 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Rulemaking But actually it is: Application and rulemaking
+The Jaccard Index is: 0.28
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: and rulemaking 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not			 later than 90 days afte... But actually it is: Notwithstanding any other prov...
+The Jaccard Index is: 0.8
+And the Smith Waterman Score is: 0.55
+The Detailes are shown as followings: 
+common words: Not			 later than 90 days after the date of enactment of this Act the Secretary Labor shall promulgate an interim final standard regulating combustible The interim final standard shall /apply to manufacturing processing conveying repackaging and handling of combustible particulate solids their dusts including /such as /candy /plastics /wood rubber furniture textiles pesticides fibers dyes coal metals such as aluminum chromium iron magnesium zinc fossil fuels /and /but shall not apply to processes already covered by standard on grain facilities 29 CFR 1910272 
+insertion: any other provision of law not at a minimum organic sugar dried sulfur 
+deletion: fuels and any other industry in 
+change: of			 to of / dusts			 to dusts / blending			 to blending / and			 to and / food to dusts / starch to paper / flour to soap / sugar to and / feed			 to blood / pharmaceuticals			 to pharmaceuticals / and			 to and / combustible to others / dust			 to determined / presents to by / a to the / hazard to Secretary / OSHA’s			 to OSHA’s / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The			 interim final standard ... But actually it is: The interim final standard req...
+The Jaccard Index is: 0.27
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: The			 interim final standard required under this subsection shall 
+insertion: 
+deletion: 
+change: provide no less			 protection than the recommendations contained in the National Fire Protection			 Association’s Standard for the Prevention of Fire and Dust Explosions from the			 Manufacturing Processing and Handling of Combustible Particulate Solids2006			 NFPA 654 and Standard for Combustible Metals2006 NFPA 484 and shall			 provide for the following to include the following 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Requirements for			 hazard ass... But actually it is: Requirements for hazard assess...
+The Jaccard Index is: 0.89
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Requirements hazard assessment to identify evaluate and control combustible 
+insertion: 
+deletion: 
+change: for			 to for / dust			 hazards to dust hazards 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Requirements for a			 written ... But actually it is: Requirements for a written pro...
+The Jaccard Index is: 0.44
+And the Smith Waterman Score is: 0.29
+The Detailes are shown as followings: 
+common words: Requirements for written program includes for hazardous dust inspection 
+insertion: 
+deletion: 
+change: a			 to a / which to that / plans to provisions / testing			 housekeeping and control with established frequency and methods to testing hot work ignition control and housekeeping including the frequency and method or methods used to minimize accumulations of combustible dust on ledges floors equipment and other exposed surfaces 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Requirements for			 engineerin... But actually it is: Requirements for engineering, ...
+The Jaccard Index is: 0.87
+And the Smith Waterman Score is: 0.66
+The Detailes are shown as followings: 
+common words: Requirements engineering administrative controls and operating procedures such as means fugitive dust emissions and ignition sources the /use /of /collection systems and filters minimizing horizontal surfaces where dust accumulate and sealing of areas inaccessible to housekeeping 
+insertion: safe and maintenance dust producing and 
+deletion: 
+change: for			 to for / to			 to to / controlling to control / dust			 to dust / can			 to can / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Requirements for			 managing c... But actually it is: Requirements for housekeeping ...
+The Jaccard Index is: 0.11
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/subparagraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/subparagraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Requirements for			 housekeepi... But actually it is: Requirements for employee part...
+The Jaccard Index is: 0.13
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/subparagraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/subparagraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Requirements for			 building d... But actually it is: Requirements to provide writte...
+The Jaccard Index is: 0.1
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/subparagraph[7]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/subparagraph[6]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (G) But actually it is: (F)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/subparagraph[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/subparagraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Requirements for			 explosion ... But actually it is: Requirements to provide writte...
+The Jaccard Index is: 0.15
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/subparagraph[8]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/subparagraph[6]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (H) But actually it is: (F)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/subparagraph[8]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/subparagraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Requirements for			 employee p... But actually it is: Requirements to provide writte...
+The Jaccard Index is: 0.18
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/subparagraph[9]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/subparagraph[6]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (I) But actually it is: (F)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/subparagraph[9]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/subparagraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Requirements to			 provide wri... But actually it is: Requirements to provide writte...
+The Jaccard Index is: 0.45
+And the Smith Waterman Score is: 0.42
+The Detailes are shown as followings: 
+common words: Requirements provide written safety and health information and /training to 
+insertion: annual 
+deletion: 
+change: to			 to to / employees			 including hazard communication information labeling and training to employees including housekeeping procedures hot work procedures preventive maintenance procedures common ignition sources and lockout tagout procedures 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effective date			 of interim s... But actually it is: Procedure
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The interim final standard sha... But actually it is: The requirements in this subse...
+The Jaccard Index is: 0.3
+And the Smith Waterman Score is: 0.27
+The Detailes are shown as followings: 
+common words: legal effect of an			 occupational safety and health standard and shall apply until a final standard			 becomes effective under section of the Occupational Safety and Health Act 
+insertion: 
+deletion: The interim final standard shall take effect			 upon issuance The interim final standard shall have the 
+change: 6 to 6b / 29			 USC 655 to of 1970 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[3]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"29 U.S.C. 655(b)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[3]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") or the procedural requirements of "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[3]/text[1]/external-xref[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"chapter 5"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[3]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 5, United States Code."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (4)
+  Effective date of interim standard
+  The interim final standard shall take effect 30 days after issuance. The interim final standard shall have the legal effect of an occupational safety and health standard, and shall apply until a final standard becomes effective under section 6 of the Occupational Safety and Health Act (29 U.S.C. 655).
+"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Final			 standard But actually it is: Final Standard
+The Jaccard Index is: 0.6
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: standard to Standard 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/text[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(1)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {Rulemaking}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"Not later than 18 months after the date of enactment of this Act, the Secretary of Labor shall, pursuant to section 6 of the Occupational Safety and Health Act (29 U.S.C. 655), promulgate a final standard regulating combustible dust explosions. "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(2)RequirementsThe final standard required under this subsection shall include the following:
+(A)The scope described in subsection (a)(1).
+(B)The worker protection provisions in subsection (a)(2). 
+(C)Requirements for managing change of dust producing materials, technology, equipment, staffing, and procedures.
+(D)Requirements for building design such as explosion venting, ducting, and sprinklers. 
+(E)Requirements for explosion protection, including separation and segregation of the hazard.
+(F)Relevant and appropriate provisions of National Fire Protection Association combustible dust standards, including the Standard for the Prevention of Fire and Dust Explosions from the Manufacturing, Processing, and Handling of Combustible Particulate Solids (NFPA 654), Standard for Combustible Metals (NFPA 484), and Standard for the Prevention of Fires and Dust Explosions in Agricultural and Food Processing Facilities (NFPA 61)."}
+
+We are at location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Revision of the			 hazard comm... But actually it is: Revision of the hazard communi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Revision of hazard communication standard 
+insertion: 
+deletion: 
+change: the			 to the / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Rulemaking But actually it is: Revision required
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The			 hazard communications s... But actually it is: Notwithstanding any other prov...
+The Jaccard Index is: 0.22
+And the Smith Waterman Score is: 0.11
+The Detailes are shown as followings: 
+common words: The			 hazard standard in 
+insertion: any other provision of law not later than 6 months after the date of enactment of this Act the Secretary of Labor shall revise the 
+deletion: 
+change: communications to communication / section 19101200c of chapter 29 Code of			 Federal Regulations shall be revised as follows to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"section 1910.1200"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 29, Code of Federal Regulations, by amending the definition of "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/quote[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"physical hazard"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" in subsection (c) of such section to include "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/quote[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"a combustible dust"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" as an additional example of such a hazard."}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(1)The definition of
+			 physical hazard (29 C.F.R. 1910.1200(c)) shall be revised to
+			 include a combustible dust as an additional example of a
+			 physical hazard.
+				"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(2)The term
+			 combustible dust shall be added to the definitions in such section
+			 and such term shall be defined as a combustible particulate solid or
+			 finely divided metal that presents a fire or deflagration hazard when suspended
+			 in air or some other oxidizing medium over a range of concentrations regardless
+			 of particle size and shape.
+				"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Procedure and			 effective dat... But actually it is: Effect of modifications
+The Jaccard Index is: 0.07
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The			 modifications of the st... But actually it is: The modification under this se...
+The Jaccard Index is: 0.43
+And the Smith Waterman Score is: 0.28
+The Detailes are shown as followings: 
+common words: Act by the Secretary of Labor acting through the Occupational			 Safety and Health Administration without regard to the procedural requirements			 applicable to regulations promulgated under section 6b of the Safety and Health Act of 1970 
+insertion: 
+deletion: The			 modifications of the standard required by subsection a shall be made and			 published in the Federal Register not later than 6 months after the date of			 enactment of this 
+change: Occupational			 to Occupational / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) or the procedural requiremen... But actually it is: ) and shall be enforced in the...
+The Jaccard Index is: 0.08
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/text[1]/external-xref[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/text[1]/external-xref[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: chapter 5 But actually it is: 29 U.S.C. 655(b)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 5, United States Cod... But actually it is: ) and shall be enforced in the...
+The Jaccard Index is: 0.14
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effect of			 modifications But actually it is: Effective date
+The Jaccard Index is: 0.14
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The			 modifications under thi... But actually it is: The modification to the hazard...
+The Jaccard Index is: 0.14
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"29 U.S.C. 655(b)"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ) and shall			 be enforced in ... But actually it is: The modification to the hazard...
+The Jaccard Index is: 0.16
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+April 22, 2008
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+

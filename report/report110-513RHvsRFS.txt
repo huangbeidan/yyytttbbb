@@ -1,0 +1,178 @@
+===================================================
+
+total difference is: 34
+comparing document: BILLS-110hr513eh.xml
+to document: BILLS-110hr513rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 513 EH: National Heroes... But actually it is: 110 HR 513 : National Heroes C...
+The Jaccard Index is: 0.87
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: 110 HR 513 National Heroes Credit Protection 
+insertion: 
+deletion: 
+change: EH to  / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 0 But actually it is: 2007-11-06
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF		  REPRESENTAT... But actually it is: IN THE SENATE OF THE UNITED		 ...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF		  REPRESENTATIVES to SENATE OF THE UNITED		  STATES 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			November 6, 2007
+			Received; read twice and referred to the
+			 Committee on Veterans`
+			 Affairs
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/paragraph[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/paragraph[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  has the meaning given that te... But actually it is:  has the meaning given that te...
+The Jaccard Index is: 0.42
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words:  has the meaning given that term 
+insertion: 
+deletion: 
+change: under				 to under				section				101a13 of title 10 United States Code 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/paragraph[3]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"section 101(a)(13)"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/paragraph[3]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/paragraph[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 10, United States Co... But actually it is:  has the meaning given that te...
+The Jaccard Index is: 0.36
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words:  of title 10 United States Code 
+insertion: has the meaning given that term under				section				101a13 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/paragraph[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/paragraph[4]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  has the				meaning given that... But actually it is:  has the				meaning given that...
+The Jaccard Index is: 0.42
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words:  has the				meaning given that term 
+insertion: 
+deletion: 
+change: under to under				section				101d1 of title 10 United States Code 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/paragraph[4]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"section 101(d)(1)"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/paragraph[4]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/paragraph[4]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 10, United States			... But actually it is:  has the				meaning given that...
+The Jaccard Index is: 0.36
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words:  of title 10 United 
+insertion: has the				meaning given that term under				section				101d1 
+deletion: 
+change: States				Code to States Code 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 108 of such Act ( But actually it is: Section 108 of such Act (50 U....
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Section 108 of such Act 
+insertion: 
+deletion: 
+change: 50 USC App			 518 is amended in the matter preceding paragraph 1 by			 inserting after 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"50 U.S.C. App. 518"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) is			 amended in the matter ... But actually it is:  the following:			 
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: liability of that servicemembe... But actually it is: , or the inclusion of a milita...
+The Jaccard Index is: 0.14
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be:  the following:  But actually it is: .
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: , or the			 inclusion of a mil... But actually it is: liability of that servicemembe...
+The Jaccard Index is: 0.14
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clerk. But actually it is: Clerk
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/endorsement[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: endorsement But actually it is: null
+ Deleted paragraph content is: {"
+	"}
+

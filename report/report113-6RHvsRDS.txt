@@ -1,0 +1,197 @@
+===================================================
+
+total difference is: 28
+comparing document: BILLS-113hr6eh.xml
+to document: BILLS-113hr6rds.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Received-in-Senate
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 113 HR 6 EH: Domestic Prosperi... But actually it is: 113 HR 6 : Domestic Prosperity...
+The Jaccard Index is: 0.89
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: 113 HR 6 Domestic Prosperity and Global Freedom Act 
+insertion: 
+deletion: 
+change: EH to  / 
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: II
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED ST...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED STATES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To provide for expedited appro... But actually it is: To provide for expedited appro...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: To provide for expedited approval of exportation of natural gas to World Trade countries and for other purposes 
+insertion: 
+deletion: 
+change: Organization to Organization			 / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+  June 26, 2014
+  Received
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For proposals that must also o... But actually it is: For proposals that must also o...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: For proposals that must also obtain authorization from the Federal Energy Regulatory Commission the United States Maritime Administration to site construct expand operate LNG export facilities the Department of Energy shall issue final decision on any application for the authorization to export gas under section 3 of the Natural Gas Act 
+insertion: 
+deletion: 
+change: or to or			 / or to or			 / a to a			 / natural to natural			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) not later than 30 days after... But actually it is: ) not later than			 30 days af...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words:  not later 30 days after the later of 
+insertion: 
+deletion: 
+change: than to than			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the conclusion of the review t... But actually it is: the conclusion of the review t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.87
+The Detailes are shown as followings: 
+common words: the conclusion of the review to site construct expand or operate the LNG facilities required the National Environmental Policy Act of 1969 42 US C 4321 et 
+insertion: 
+deletion: 
+change: by to by			 / seq or to seq			 or 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For purposes of subsection (a)... But actually it is: For purposes of subsection (a)...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: For purposes of subsection a review required by the National Environmental Policy Act of shall be considered concluded 
+insertion: 
+deletion: 
+change: 1969 to 1969			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: for a project requiring an Env... But actually it is: for a project requiring an Env...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: for a project requiring an Environmental Impact Statement 30 days after publication of a Environmental Impact Statement 
+insertion: 
+deletion: 
+change: Final to Final			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: for a project for which an Env... But actually it is: for a project for which an Env...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.93
+The Detailes are shown as followings: 
+common words: for a project for which an Environmental Assessment has been prepared 30 days after publication the Department of Energy of a Finding of No Significant Impact and 
+insertion: 
+deletion: 
+change: by to by			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: upon a determination by the le... But actually it is: upon a determination by the le...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: upon a determination by the lead agency that an application is eligible for a categorical pursuant National Environmental Policy Act of 1969 
+insertion: 
+deletion: 
+change: exclusion to exclusion			 / implementing regulations to implementing			 regulations 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The United States Court of App... But actually it is: The United States Court of App...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.9
+The Detailes are shown as followings: 
+common words: The United States Court of Appeals for the circuit in which the export facility will be pursuant to an application described in subsection a shall have and exclusive jurisdiction over any civil action for the review of 
+insertion: 
+deletion: 
+change: located to located			 / original to original			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If the Court in a civil action... But actually it is: If the Court in a civil action...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: If the Court in a civil action described in paragraph 1 finds that the Department of Energy failed to issue a final decision on the application as required subsection a the Court shall order the Department of Energy to such final decision not later than 30 days after the Court’s order 
+insertion: 
+deletion: 
+change: has to has			 / under to under			 / issue to issue			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Court shall set any civil ... But actually it is: The Court shall set any civil ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: The Court shall set any civil action brought under this subsection for expedited consideration shall set the matter on the docket as soon as practical after the date of the initial pleading 
+insertion: 
+deletion: 
+change: and to and			 / filing to filing			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: As a condition for approval of... But actually it is: As a condition for approval of...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: As a condition for approval of any authorization to export LNG the Secretary of Energy require the applicant to publicly disclose the specific destination destinations of any such authorized LNG exports 
+insertion: 
+deletion: 
+change: shall to shall			 / or to or			 / 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clerk. But actually it is: Clerk
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/endorsement[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: endorsement But actually it is: null
+ Deleted paragraph content is: {""}
+

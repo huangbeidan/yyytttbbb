@@ -1,0 +1,479 @@
+===================================================
+
+total difference is: 52
+comparing document: BILLS-109hr4981eh.xml
+to document: BILLS-109hr4981rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 109 HR 4981 EH: Dam Safety Act... But actually it is: 109 HR 4981 : Dam Safety Act o...
+The Jaccard Index is: 0.71
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: 109 HR 4981 Dam Safety Act of 
+insertion: 
+deletion: 
+change: EH to  / 2006 to 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 0 But actually it is: 2006-11-13
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED		 ...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED		  STATES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend the National Dam Safe... But actually it is: To amend the National Dam Safe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: To amend the National Dam Safety 
+insertion: 
+deletion: 
+change: Program Act to Program		  Act 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			September 28, 2006
+			Received
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			November 13, 2006
+			 Read twice and referred to the
+			 Committee on Environment and Public
+			 Works
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Dam Safety Act of 2006 But actually it is: Dam Safety Act of			 2006
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Dam Safety Act 
+insertion: 
+deletion: 
+change: of 2006 to of			 2006 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: National dam inventory But actually it is: National dam			 inventory
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: dam inventory to dam			 inventory 
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 6 of the National Dam ... But actually it is: Section 6 of the			 National D...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: Section 6 of National Dam Safety Program Act 
+insertion: 
+deletion: 
+change: the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) is amended to read as follow... But actually it is: ) is amended to read			 as fol...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words:  is amended to as follows 
+insertion: 
+deletion: 
+change: read to read			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: National dam inventory But actually it is: National dam				inventory
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: dam inventory to dam				inventory 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of the Army, act... But actually it is: The Secretary of the				Army, ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: The Secretary of /acting through the Chief of Engineers shall maintain and /on the inventory of dams in the United States Such inventory /shall include an assessment of each dam based on inspections completed /a Federal agency or a State dam 
+insertion: 
+deletion: of and inventory completed 
+change: Army to the				Army / information to update				information / dams to of				dams / either to by				either / safety agency to safety				agency 
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: National dam safety program But actually it is: National dam			 safety program
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: National safety program 
+insertion: 
+deletion: 
+change: dam to dam			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 8(b)(1) of the Nationa... But actually it is: Section 8(b)(1)			 of the Nati...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: Section of the National Dam Safety Program Act 
+insertion: 
+deletion: 
+change: 8b1 to 8b1			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) is amended by striking  But actually it is: ) is amended by			 striking 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words:  is amended 
+insertion: 
+deletion: 
+change: by striking to by			 striking 
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: performance measures, and targ... But actually it is: performance			 measures, and t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: performance measures and target dates toward effectively administering this Act in 
+insertion: 
+deletion: 
+change: order to to order			 to 
+
+We are at location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authorization of appropriation... But actually it is: Authorization of			 appropriat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of appropriations to of			 appropriations 
+
+We are at location: bill[1]/legis-body[1]/section[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 13 of the National Dam... But actually it is: Section 13 of			 the National ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: Section 13 the National Dam Safety Program Act 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) is amended to read as follow... But actually it is: ) is amended to read			 as fol...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words:  is amended to as follows 
+insertion: 
+deletion: 
+change: read to read			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authorization of appropriation... But actually it is: Authorization of				appropriat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of appropriations to of				appropriations 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: National Dam Safety Program But actually it is: National Dam				Safety Program
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: Dam Safety Program to Dam				Safety Program 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Annual amounts But actually it is: Annual				amounts
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: amounts to 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: There are authorized to be app... But actually it is: There are authorized				to be ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: There are /be appropriated to FEMA to carry out sections 7 8 and 11 in addition /amounts made available for similar purposes included in any other Act /made available under subsections b through e 6500000 for /2007 7100000 for fiscal year 2008 7600000 for fiscal year /for fiscal year 2010 and 9200000 for fiscal year 2011 Such /remain available until expended 
+insertion: 
+deletion: are addition Act for year Such 
+change: to to authorized				to / any to to				any / amounts to and				amounts / year to fiscal				year / 8300000 to 2009				8300000 / shall to sums				shall / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In				general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: general to 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subject to subparagraphs (B) a... But actually it is: Subject to subparagraphs (B) a...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: Subject to subparagraphs B and C for each /amounts made available under this subsection to carry out section 8 /allocated among the States as follows 
+insertion: 
+deletion: each 8 
+change: year to fiscal				year / be to shall				be / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: One-third among States that qu... But actually it is: One-third among				States that...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: among States that qualify for assistance under section 8e 
+insertion: 
+deletion: Onethird 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[1]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[1]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Two-thirds among States that q... But actually it is: Two-thirds among				States tha...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: among States that qualify for assistance under section 8e to each State 
+insertion: 
+deletion: Twothirds 
+change: in proportion to to in				proportion to 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[1]/clause[2]/subclause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[1]/clause[2]/subclause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the number of dams in the Stat... But actually it is: the number of dams				in the S...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: the number of /the State that are listed as Stateregulated dams on the inventory of /under section 6 as compared to 
+insertion: 
+deletion: of of 
+change: in to dams				in / maintained to dams				maintained / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[1]/clause[2]/subclause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[1]/clause[2]/subclause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the number of dams in all Stat... But actually it is: the number of				dams in all S...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: the number /in all States that are listed as Stateregulated dams on the inventory /maintained under section 6 
+insertion: 
+deletion: number inventory 
+change: dams to of				dams / dams to of				dams / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Maximum amount of allocation But actually it is: Maximum amount				of allocatio...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: amount of allocation to amount				of allocation 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The amount of funds allocated ... But actually it is: The amount of funds allocated ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: The amount of funds allocated to a State under /may not exceed 50 percent of the reasonable cost of implementing /dam safety program 
+insertion: 
+deletion: under implementing 
+change: paragraph to this				paragraph / State to the				State / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Director and the Board sha... But actually it is: The				Director and the Board ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.91
+The Detailes are shown as followings: 
+common words: Director and the Board shall determine the amount allocated to States 
+insertion: 
+deletion: The 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: National dam inventory But actually it is: National dam				inventory
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: dam inventory to dam				inventory 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: There is authorized to be appr... But actually it is: There is authorized				to be a...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: There is /be appropriated to carry out section 6 650000 for fiscal year /for fiscal year 2008 750000 for fiscal year 2009 800000 /year 2010 and 850000 for fiscal year 2011 
+insertion: 
+deletion: is year 800000 
+change: to to authorized				to / 700000 to 2007				700000 / fiscal to for				fiscal / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: There is authorized to be appr... But actually it is: There is authorized to be appr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: There is authorized to be appropriated /out section 9 1600000 for fiscal year 2007 1700000 for fiscal /1800000 for fiscal year 2009 1900000 for fiscal year 2010 /for fiscal year 2011 Such sums shall remain available 
+insertion: 
+deletion: appropriated fiscal 2010 
+change: carry to to				carry / 2008 to year				2008 / 2000000 to and				2000000 / until expended to until				expended 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Dam safety training But actually it is: Dam safety				training
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: safety training to safety				training 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: There is authorized to be appr... But actually it is: There is authorized				to be a...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: There is /be appropriated to carry out section 10 550000 for fiscal year /for fiscal year 2008 650000 for fiscal year 2009 700000 /year 2010 and 750000 for fiscal year 2011 
+insertion: 
+deletion: is year 700000 
+change: to to authorized				to / 600000 to 2007				600000 / fiscal to for				fiscal / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: There is authorized to be appr... But actually it is: There is authorized to be appr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: There is authorized to be appropriated /for the employment of such additional staff personnel as are necessary /out sections 8 through 10 700000 for fiscal year 2007 800000 /year 2008 900000 for fiscal year 2009 1000000 for fiscal /and 1100000 for fiscal year 2011 
+insertion: 
+deletion: appropriated necessary 800000 fiscal 
+change: FEMA to to				FEMA / carry to to				carry / fiscal to for				fiscal / 2010 to year				2010 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[6]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Limitation on use of amounts But actually it is: Limitation on				use of amount...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: on use of amounts 
+insertion: 
+deletion: Limitation 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/section[1]/subsection[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Amounts made available under t... But actually it is: Amounts made available under t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: Amounts made available under this Act may not /to construct or repair any Federal or 
+insertion: 
+deletion: not 
+change: used to be				used / nonFederal dam to nonFederal				dam 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Passed the House of Representa... But actually it is: Passed the House of			 Represe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Passed the House Representatives September 27 2006 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/attestor[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestor[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Karen L. Haas But actually it is: Karen L. Haas,
+The Jaccard Index is: 0.92
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Karen L Haas 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/endorsement[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: endorsement But actually it is: null
+ Deleted paragraph content is: {""}
+

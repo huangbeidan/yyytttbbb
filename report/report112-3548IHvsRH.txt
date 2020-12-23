@@ -1,0 +1,294 @@
+===================================================
+
+total difference is: 71
+comparing document: BILLS-112hr3548ih.xml
+to document: BILLS-112hr3548rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/session[1]/text()[1]   Compared with location: bill[1]/form[1]/session[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 1st Session But actually it is: 2d Session
+The Jaccard Index is: 0.55
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 1st Session 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Committee			 on Energy and Com... But actually it is: Committee on Energy and			 Com...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: Committee			 on Energy 
+insertion: 
+deletion: 
+change: and Commerce to and			 Commerce 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To facilitate United States ac... But actually it is: To facilitate United States ac...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.56
+The Detailes are shown as followings: 
+common words: To facilitate United States access to /American /resources and for other purposes 
+insertion: North		 
+deletion: American 
+change: North to  /  to oil / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 515"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 112–703, Part
+		  I]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			December 17, 2012
+			Reported from the
+			 Committee on Energy and
+			 Commerce with an amendment
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			December 17, 2012
+			Additional sponsors: Mrs.
+			 Ellmers, Mr. Guthrie,
+			 Mr. Huizenga of Michigan,
+			 Mr. McKinley,
+			 Mr. Coffman of Colorado,
+			 Mr. Coble,
+			 Mr. Broun of Georgia,
+			 Mr. Flores,
+			 Mr. Lamborn,
+			 Mr. Walden,
+			 Mr. Long, Mr. Lankford, Mr.
+			 DesJarlais, Mr. Hultgren,
+			 Mr. Johnson of Ohio,
+			 Mr. Burton of Indiana,
+			 Mr. Gingrey of Georgia,
+			 Mr. Palazzo,
+			 Mr. McClintock,
+			 Mr. Fincher,
+			 Mr. Cole, Mr. Roskam, Mr. Poe
+			 of Texas, Mr. Canseco,
+			 Mr. Petri,
+			 Mr. Westmoreland,
+			 Mr. King of New York,
+			 Mr. Conaway,
+			 Mr. Chabot,
+			 Mrs. Miller of Michigan,
+			 Mr. Bachus,
+			 Mr. Marchant,
+			 Mr. Wilson of South Carolina,
+			 Mr. Harper,
+			 Mr. Mack, Mr. Cassidy, Mrs.
+			 Bono Mack, Mr. Crenshaw,
+			 Mr. Chaffetz,
+			 Mr. Nunes,
+			 Mr. Simpson,
+			 Mr. Gerlach,
+			 Mr. Sensenbrenner,
+			 Mr. Graves of Missouri,
+			 Mr. Griffin of Arkansas,
+			 Mr. Denham,
+			 Mr. Crawford,
+			 Mr. Austin Scott of Georgia,
+			 Mr. McCaul,
+			 Mr. Lucas,
+			 Mr. Brooks,
+			 Mr. Hurt, Mr. Jordan, Mr.
+			 Rokita, Mr. Mulvaney,
+			 Mr. Gowdy,
+			 Mr. Yoder,
+			 Mr. Hensarling,
+			 Mrs. Capito,
+			 Mr. Royce,
+			 Mr. Stivers, and
+			 Mrs. Bachmann
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			December 17, 2012
+			The Committees on Transportation and Infrastructure and
+			 Natural Resources
+			 discharged; committed to the Committee of the Whole House on the State of the
+			 Union and ordered to be printed
+			For text of introduced bill, see copy of bill as
+			 introduced on December 2, 2011
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: By			 FERC But actually it is: By FERC
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: By			 FERC 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Federal Energy			 Regulato... But actually it is: The Federal Energy Regulatory ...
+The Jaccard Index is: 0.96
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: The Federal Regulatory shall not later than 30 days after receipt of application therefor issue permit /for the construction operation and			 maintenance of the oil pipeline and related facilities described in section			 2b to be implemented in accordance with the terms of the Final Environmental			 Impact Statement described in section 2b The Commission shall not be			 required to prepare a Record of Decision under section 15052 of title 40 of			 the Code of Federal Regulations with respect to issuance of the permit provided			 for in this section 
+insertion: without additional conditions 
+deletion: 
+change: Energy			 to Energy / Commission to Commission			 / an			 to an / a to a			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Issuance in			 absence of FERC... But actually it is: Issuance in absence of			 FERC...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: Issuance absence FERC action 
+insertion: 
+deletion: 
+change: in			 to in / of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If the			 Federal Energy Regul... But actually it is: If the Federal			 Energy Regul...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: If Federal Energy Regulatory Commission has not acted on an application for described in paragraph 1 within 30 days after receiving application permit shall be deemed to have been issued under this Act the of such 30day period 
+insertion: 
+deletion: 
+change: the			 to the / a			 to a / permit to permit			 / such			 to such / the to the			 / upon			 to upon / expiration to expiration			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Federal			 Energy Regulato... But actually it is: Within 30 days			 after the da...
+The Jaccard Index is: 0.95
+And the Smith Waterman Score is: 0.65
+The Detailes are shown as followings: 
+common words: The Federal			 Energy Commission shall enter into a memorandum of with the State Nebraska for an effective and timely review under National Policy Act of 1969 of any modification to the pipeline route Nebraska as proposed by the applicant for the described in a Not later than 30 days after receiving approval such modification from the Governor of Nebraska the Commission consideration of and approve such modification 
+insertion: 30 days			 after the date of enactment of this Act the 
+deletion: 
+change: Regulatory to Regulatory			 / understanding			 to understanding / of to of			 / the			 to the / Environmental to Environmental			 / proposed			 to proposed / in to in			 / permit			 to permit / subsection to subsection			 / of			 to of / proposed to proposed			 / shall			 to shall / complete to complete			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Issuance in			 absence of FERC... But actually it is: Issuance in absence of			 FERC...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: Issuance absence FERC action 
+insertion: 
+deletion: 
+change: in			 to in / of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If the			 Federal Energy Regul... But actually it is: If the Federal			 Energy Regul...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: If Federal Energy Regulatory Commission has not acted on an application approval of modification described in paragraph 2 within 30 days receiving application such modification shall be deemed to have issued under Act upon expiration of the 30day period 
+insertion: 
+deletion: 
+change: the			 to the / for			 to for / a to a			 / after			 to after / such to such			 / been			 to been / this to this			 / 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(4)Construction during
+			 consideration of Nebraska modificationWhile any modification of the proposed
+			 pipeline route in Nebraska is under consideration pursuant to paragraph (2),
+			 the holder of the permit issued under subsection (a) may commence or continue
+			 with construction of any portion of the pipeline and related facilities
+			 described in section 2(b) that is not within the State of Nebraska.
+				"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Except as provided in			 subse... But actually it is: Notwithstanding			 Executive O...
+The Jaccard Index is: 0.38
+And the Smith Waterman Score is: 0.14
+The Detailes are shown as followings: 
+common words: Except as provided in			 subsection b a permit issued under this Act shall be /required /to construct operate and /maintain the pipeline and described in section 2b 
+insertion: Executive Order 13337 3 USC 301 note Executive Order 11423 3 USC 301			 note section 301 of title 3 United States Code and for maintenance 
+deletion: be the sole legal			 
+change: related			 to related / facilities to facilities			 / in the United States to of this Act 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Exceptions But actually it is: Applicability
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		December 17, 2012
+		Reported from the
+		  Committee on Energy and
+		  Commerce with an amendment
+		December 17, 2012
+		The Committees on Transportation and Infrastructure and
+		  Natural Resources
+		  discharged; committed to the Committee of the Whole House on the State of the
+		  Union and ordered to be printed
+	"}
+

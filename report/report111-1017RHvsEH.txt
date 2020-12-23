@@ -1,0 +1,466 @@
+===================================================
+
+total difference is: 116
+comparing document: BILLS-111hr1017rh.xml
+to document: BILLS-111hr1017eh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Reported-in-House But actually it is: Engrossed-in-House
+
+We are at location: bill[1]/form[1]/calendar[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: calendar But actually it is: null
+ Deleted paragraph content is: {"Union Calendar No. 276"}
+
+We are at location: bill[1]/form[1]/associated-doc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: associated-doc But actually it is: null
+ Deleted paragraph content is: {"[Report No.
+		  111–488]"}
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF		  REPRESENTAT... But actually it is: IN THE HOUSE OF REPRESENTATIVE...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF		  REPRESENTATIVES to OF REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/action[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+			February 12, 2009
+			Mr. Filner introduced
+			 the following bill; which was referred to the
+			 Committee on Veterans’
+			 Affairs
+		"}
+
+We are at location: bill[1]/form[1]/action[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+			May 20, 2010
+			Additional sponsors: Mr.
+			 Michaud, Mr. Chandler,
+			 Mr. Gordon of Tennessee,
+			 Mr. Lincoln Diaz-Balart of Florida,
+			 Mr. Walz, Ms. Ros-Lehtinen, Mr. Boswell, Mr.
+			 Loebsack, Mr. Young of
+			 Florida, Mr. Braley of
+			 Iowa, Mr. Moran of Kansas,
+			 Mr. Boucher,
+			 Mr. Doggett,
+			 Ms. Herseth Sandlin,
+			 Mr. Peterson,
+			 Mr. Smith of Washington,
+			 Mr. Courtney,
+			 Ms. Berkley,
+			 Mr. Latham,
+			 Mr. Terry,
+			 Mr. Rooney,
+			 Ms. Titus,
+			 Mr. Heinrich,
+			 Ms. Linda T. Sánchez of California,
+			 Mr. Himes,
+			 Mr. Rodriguez,
+			 Mrs. Halvorson,
+			 Mr. Carnahan,
+			 Mr. Oberstar,
+			 Mr. Israel,
+			 Mr. Hastings of Florida,
+			 Ms. Corrine Brown of Florida,
+			 Mr. Schock,
+			 Mr. Arcuri,
+			 Mr. Kirk, Mr. Tim Murphy of Pennsylvania, and
+			 Mr. Roskam
+		"}
+
+We are at location: bill[1]/form[1]/action[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+			May 20, 2010
+			Reported with an amendment, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+		"}
+
+We are at location: bill[1]/form[1]/action[4]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+			
+		"}
+
+We are at location: bill[1]/form[1]/legis-type[1]/text()[1]   Compared with location: bill[1]/form[1]/legis-type[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A BILL But actually it is: AN ACT
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend the Department of Vet... But actually it is: To amend the Department of Vet...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: To amend the Department of Veterans /Health Care Programs Enhancement Act of 2001 and title 38 United States /to require the provision of chiropractic care and services to veterans at /Department of Veterans Affairs medical centers and to expand access to /care and services 
+insertion: 
+deletion: Veterans States at to 
+change:  to Affairs /  to Code /  to all /  to such / 
+
+We are at location: bill[1]/form[1]/official-title[1]/pagebreak[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: pagebreak But actually it is: null
+ Deleted paragraph content is: {}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Chiropractic Care Available to... But actually it is: Chiropractic Care Available to...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Chiropractic Care Available to Veterans Act 
+insertion: 
+deletion: 
+change: All			 to All / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Program for provision			 of ch... But actually it is: Program for provision of chiro...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Program for of chiropractic care and services to veterans 
+insertion: 
+deletion: 
+change: provision			 to provision / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 204(c) of the Departme... But actually it is: Section 204(c) of the Departme...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: Section 204c of the Department of Affairs Health Care Programs Enhancement Act of 2001 38 USC 1710 note 
+insertion: 
+deletion: 
+change: Veterans			 to Veterans / is			 amended to is amended 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by adding at the			 end the fo... But actually it is: by adding at the end the follo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: by adding at end the following new paragraph 
+insertion: 
+deletion: 
+change: the			 to the / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The program shall				be carrie... But actually it is: The program shall be carried o...
+The Jaccard Index is: 0.92
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: The program /carried out at not fewer than 75 medical centers by not later than /and at all medical centers by not later than December 
+insertion: shall December 
+deletion: 
+change: shall				be to be / December				31 to 31 / 2010 to 2011 / 31				2012 to 31 2013 
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Expanded			 chiropractor servi... But actually it is: Expanded chiropractor services...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Expanded			 chiropractor services available to veterans 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Medical			 services But actually it is: Medical services
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Medical			 services 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Paragraph (6) of section 1701 ... But actually it is: Paragraph (6) of section 1701 ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.91
+The Detailes are shown as followings: 
+common words: Paragraph 6 of section 1701 of title 38 United Code is amended by adding at the end the following new subparagraph 
+insertion: 
+deletion: 
+change: States			 to States / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/subparagraph[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/subparagraph[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (G) But actually it is: (H)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Chiropractic				services. But actually it is: Chiropractic services.
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: services 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Rehabilitative			 services But actually it is: Rehabilitative services
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Rehabilitative			 services 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Preventive			 health services But actually it is: Preventive health services
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Preventive			 health services 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by redesignating			 subparagra... But actually it is: by redesignating subparagraphs...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: by subparagraphs F through K as subparagraphs G through L 
+insertion: 
+deletion: 
+change: redesignating			 to redesignating / respectively			 and to respectively and 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by inserting after			 subparag... But actually it is: by inserting after subparagrap...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: by inserting subparagraph E the following new subparagraph F 
+insertion: 
+deletion: 
+change: after			 to after / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/quoted-block[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/quoted-block[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: periodic and				preventative c... But actually it is: periodic and preventative chir...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: periodic and				preventative chiropractic examinations 
+insertion: and 
+deletion: 
+change: and				services to and services 
+
+We are at location: bill[1]/legis-body[2]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Chiropractic Care Available to... But actually it is: Chiropractic Care Available to...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Chiropractic Care Available to Veterans Act 
+insertion: 
+deletion: 
+change: All			 to All / 
+
+We are at location: bill[1]/legis-body[2]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Program for provision of			 ch... But actually it is: Program for provision of chiro...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Program for provision chiropractic care and services to veterans 
+insertion: 
+deletion: 
+change: of			 to of / 
+
+We are at location: bill[1]/legis-body[2]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 204(c) of the Departme... But actually it is: Section 204(c) of the Departme...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: Section 204c of the Department of Affairs Health Care Programs Enhancement Act of 2001 38 USC 1710 note 
+insertion: 
+deletion: 
+change: Veterans			 to Veterans / is			 amended to is amended 
+
+We are at location: bill[1]/legis-body[2]/section[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by adding at the end the			 fo... But actually it is: by adding at the end the follo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: by adding at the end following new paragraph 
+insertion: 
+deletion: 
+change: the			 to the / 
+
+We are at location: bill[1]/legis-body[2]/section[2]/paragraph[2]/quoted-block[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/quoted-block[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The program shall be				carrie... But actually it is: The program shall be carried o...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: The program shall /out at not fewer than 75 medical centers by not later than December /and at all medical centers by not later than December 
+insertion: be 31 
+deletion: 
+change: be				carried to carried / 31				2011 to 2011 / 31				2013 to 31 2013 
+
+We are at location: bill[1]/legis-body[2]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Expanded chiropractor			 servi... But actually it is: Expanded chiropractor services...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Expanded services available to veterans 
+insertion: 
+deletion: 
+change: chiropractor			 to chiropractor / 
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Medical			 services But actually it is: Medical services
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Medical			 services 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Paragraph (6) of section 1701 ... But actually it is: Paragraph (6) of section 1701 ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.91
+The Detailes are shown as followings: 
+common words: Paragraph 6 of section 1701 of title 38 United Code is amended by adding at the end the following new subparagraph 
+insertion: 
+deletion: 
+change: States			 to States / 
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[1]/quoted-block[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Chiropractic				services. But actually it is: Chiropractic services.
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: services 
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Rehabilitative			 services But actually it is: Rehabilitative services
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Rehabilitative			 services 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Preventive health			 services But actually it is: Preventive health services
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: health			 services to health services 
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by redesignating			 subparagra... But actually it is: by redesignating subparagraphs...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: by subparagraphs F through K as subparagraphs G through L 
+insertion: 
+deletion: 
+change: redesignating			 to redesignating / respectively			 and to respectively and 
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by inserting after			 subparag... But actually it is: by inserting after subparagrap...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: by inserting subparagraph E the following new subparagraph F 
+insertion: 
+deletion: 
+change: after			 to after / 
+
+We are at location: bill[1]/legis-body[2]/section[3]/subsection[3]/paragraph[2]/quoted-block[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]/quoted-block[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: periodic and preventative				c... But actually it is: periodic and preventative chir...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: periodic and 
+insertion: 
+deletion: 
+change: preventative				chiropractic examinations and				services to preventative chiropractic examinations and services 
+
+We are at location: bill[1]/endorsement[1]/action-date[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-date But actually it is: null
+ Deleted paragraph content is: {"May 20, 2010"}
+
+We are at location: bill[1]/endorsement[1]/action-desc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-desc But actually it is: null
+ Deleted paragraph content is: {"Reported with an amendment, committed to the Committee of
+		  the Whole House on the State of the Union, and ordered to be
+		  printed"}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: attestation
+ Inserted paragraph content is: {"
+  
+    Passed the House of Representatives May 24, 2010.
+    Lorraine C. Miller,
+    Clerk.
+  
+"}
+

@@ -1,0 +1,80 @@
+===================================================
+
+total difference is: 19
+comparing document: BILLS-111hr5710eh.xml
+to document: BILLS-111hr5710rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED ST...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED STATES 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+September 24, 2010
+Received; read twice and referred to the  Committee on Health, Education, Labor, and Pensions
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Paragraph (1) of section 2 of ... But actually it is: Paragraph (1) of section 2 of ...
+The Jaccard Index is: 0.66
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Paragraph 1 of section 2 of the National All Schedules Prescription Electronic Reporting Act of 2005 
+insertion: 
+deletion: 
+change: Public Law 10960 is amended to read as follows to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"Public Law 109–60"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended to read as follows:"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 399O of the Public Hea... But actually it is: Section 399O of the Public Hea...
+The Jaccard Index is: 0.61
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Section 399O of the Public Health Service Act 
+insertion: 
+deletion: 
+change: 42 USC 280g3 is amended to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 280g–3"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended—"}
+

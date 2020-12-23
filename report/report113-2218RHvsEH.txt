@@ -1,0 +1,134 @@
+===================================================
+
+total difference is: 40
+comparing document: BILLS-113hr2218rh.xml
+to document: BILLS-113hr2218eh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Reported-in-House But actually it is: Engrossed-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 113 HR 2218 RH: Coal Residuals... But actually it is: 113 HR 2218 EH: Coal Residuals...
+The Jaccard Index is: 0.9
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: 113 HR 2218 Coal Residuals Reuse and Management Act of 2013 
+insertion: 
+deletion: 
+change: RH to EH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {}
+
+We are at location: bill[1]/form[1]/calendar[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: calendar But actually it is: null
+ Deleted paragraph content is: {"Union Calendar No. 107"}
+
+We are at location: bill[1]/form[1]/associated-doc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: associated-doc But actually it is: null
+ Deleted paragraph content is: {"[Report No. 113–148]"}
+
+We are at location: bill[1]/form[1]/action[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {" 
+June 3, 2013 
+Mr. McKinley (for himself, Mr. Peterson, Mr. Whitfield, Mr. Enyart, Mr. Rogers of Kentucky, Mr. Barrow of Georgia, Mr. Rahall, Mr. Kind, Mr. Johnson of Ohio, Mr. Cuellar, Mr. Stutzman, Mr. Walz, Mrs. Capito, Mr. Womack, Mr. Harper, Ms. Jenkins, Mr. Gibbs, Mrs. Blackburn, Mr. Nunnelee, Mr. Gosar, Mr. Barletta, Mr. Matheson, Mr. Stivers, Mr. Long, Mr. Guthrie, Mr. Barr, Mr. Rokita, Mrs. Ellmers, Mr. Young of Indiana, Mr. Bucshon, Mrs. Lummis, Mr. Renacci, Mr. Bishop of Georgia, Mr. Thompson of Mississippi, Mr. Shimkus, and Mr. Kelly of Pennsylvania) introduced the following bill; which was referred to the Committee on Energy and Commerce 
+"}
+
+We are at location: bill[1]/form[1]/action[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+July 10, 2013
+Additional sponsors: Mr. Bilirakis, Mr. Olson, Mr. Salmon, Mr. Ryan of Ohio, Mrs. Walorski, Mr. Rodney Davis of Illinois, Mr. Kinzinger of Illinois, Mr. Ross, Mr. Schock, Mr. Huizenga of Michigan, Mr. Daines, Mr. Murphy of Pennsylvania, Mr. Cramer, Mr. Franks of Arizona, Mr. Visclosky, Mr. Terry, Mr. Kline, Mr. King of New York, and Mr. Cotton
+"}
+
+We are at location: bill[1]/form[1]/action[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+July 10, 2013
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed
+Strike out all after the enacting clause and insert the part printed in italic
+For text of introduced bill, see copy of bill as introduced on June 3, 2013
+"}
+
+We are at location: bill[1]/form[1]/action[4]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+
+"}
+
+We are at location: bill[1]/form[1]/legis-type[1]/text()[1]   Compared with location: bill[1]/form[1]/legis-type[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A BILL But actually it is: AN ACT
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/official-title[1]/pagebreak[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: pagebreak But actually it is: null
+ Deleted paragraph content is: {}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[2]/clause[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[2]/clause[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a certification that the State... But actually it is: a certification that the State...
+The Jaccard Index is: 0.98
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: a certification that the State has in effect at the time of certification statutes or regulations necessary to implement a coal combustion residuals permit program that meets the requirements described in subsection c 
+insertion: 
+deletion: 
+change: and to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[2]/clause[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[2]/clause[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: copies of State statutes and r... But actually it is: copies of State statutes and r...
+The Jaccard Index is: 0.94
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: copies of State statutes and regulations described in clause iv 
+insertion: 
+deletion: 
+change: and 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/subparagraph[2]/clause[6]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: clause
+ Inserted paragraph content is: {"
+  (vi)
+  an emergency action plan for State response to a leak or spill at a structure that receives coal combustion residuals.
+"}
+
+We are at location: bill[1]/endorsement[1]/action-date[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-date But actually it is: null
+ Deleted paragraph content is: {"July 10, 2013"}
+
+We are at location: bill[1]/endorsement[1]/action-desc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-desc But actually it is: null
+ Deleted paragraph content is: {"Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: attestation
+ Inserted paragraph content is: {"
+  
+    Passed the House of Representatives July 25, 2013.
+    Karen L. Haas,
+    Clerk.
+  
+"}
+

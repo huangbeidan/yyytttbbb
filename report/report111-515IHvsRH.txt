@@ -1,0 +1,345 @@
+===================================================
+
+total difference is: 58
+comparing document: BILLS-111hr515ih.xml
+to document: BILLS-111hr515rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/sponsor[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/sponsor[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Mr. Gordon of			 Tennessee But actually it is: Mr. Gordon of Tennessee
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Mr Gordon 
+insertion: 
+deletion: 
+change: of			 Tennessee to of Tennessee 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/cosponsor[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/cosponsor[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Mr.			 Terry But actually it is: Mr. Terry
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Mr			 Terry 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/cosponsor[14]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/cosponsor[14]/text()[1]
+The reason of change is: content change
+The value is expected to be: Mr.			 Carnahan But actually it is: Mr. Carnahan
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Mr			 Carnahan 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/text()[31]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/text()[31]
+The reason of change is: content change
+The value is expected to be: ) introduced the			 following ... But actually it is: ) introduced the following bil...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words:  introduced following bill which was referred to the 
+insertion: 
+deletion: 
+change: the			 to the / 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/text()[32]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/text()[32]
+The reason of change is: content change
+The value is expected to be: , and in			 addition to the Co... But actually it is: , and in addition to the Commi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words:  and addition to the Committee on 
+insertion: 
+deletion: 
+change: in			 to in / 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[2]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: Ways and			 Means But actually it is: Ways and Means
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: and			 Means to and Means 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/text()[33]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/text()[33]
+The reason of change is: content change
+The value is expected to be: , for a period to be subsequen... But actually it is: , for a period to be subsequen...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words:  for a period to be subsequently determined by Speaker in each case for consideration of such provisions as fall within jurisdiction of the committee concerned 
+insertion: 
+deletion: 
+change: the			 to the / the			 to the / 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To prohibit the importation of... But actually it is: To prohibit the importation of...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: To prohibit the importation of certain /radioactive waste into the United States 
+insertion: 
+deletion: certain 
+change:  to lowlevel / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {" Union Calendar No. 200"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 111–348, Part I]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+December 2, 2009
+Additional sponsors: Mr. Miller of North Carolina, Mr. Griffith, Mr. Weiner, Mr. Grijalva, Mr. Gene Green of Texas, Ms. Sutton, Mr. Braley of Iowa, Mr. Berry, Mr. Nadler of New York, Mr. Pallone, Mr. Hastings of Florida, Ms. Bean, Ms. Schakowsky, Mr. Wu, Mr. Kissell, Mr. Mitchell, Ms. DeGette, Mr. Ross, Mr. Murphy of Connecticut, Ms. Slaughter, Ms. Matsui, Mr. Rush, Mr. Holden, Mr. Massa, Mr. Blumenauer, Mr. DeFazio, Mr. Ryan of Ohio, Mr. Gallegly, Mr. Costello, Mr. Sires, Mr. Tonko, Mr. Wilson of Ohio, Ms. Linda T. Sánchez of California, Ms. Eddie Bernice Johnson of Texas, Mr. Rothman of New Jersey, Ms. Baldwin, Mr. Space, Ms. McCollum, Ms. Fudge, Mr. Carney, Mr. Gerlach, Mr. Price of North Carolina, Mr. Baird, Mr. Boozman, Mr. McNerney, Mr. Sarbanes, Mr. Welch, Mr. George Miller of California, Mr. Meek of Florida, and Mrs. Christensen
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {" 
+December 2, 2009 
+Reported from the Committee on Energy and Commerce with an amendment 
+Strike out all after the enacting clause and insert the part printed in italic 
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+December 2, 2009
+ Committee on Ways and Means discharged; committed to the Committee of the Whole House on the State of the Union and ordered to be printed
+"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Radioactive Import Deterrence	... But actually it is: Radioactive Import Deterrence ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Radioactive Import 
+insertion: 
+deletion: 
+change: Deterrence			 Act to Deterrence Act 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Prohibition of			 importation But actually it is: Prohibition of importation
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of			 importation to of importation 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Chapter 8 of the Atomic Energy... But actually it is: Chapter 8 of the Atomic Energy...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: Chapter 8 of the Atomic Energy Act of 42 USC 2111 et seq is amended by adding at the end the following 
+insertion: 
+deletion: 
+change: 1954			 to 1954 / new			 section to new section 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Importation of				low-level ra... But actually it is: Importation of low-level radio...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Importation of				lowlevel radioactive waste 
+insertion: of 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Except as provided in subsecti... But actually it is: Except as provided in subsecti...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Except as provided in subsection b or /Commission shall not issue a license authorizing the importation into 
+insertion: c 
+deletion: 
+change: c				the to the / the				United States of to the United States of 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: low-level				radioactive waste... But actually it is: low-level radioactive waste (a...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: lowlevel				radioactive waste as defined in section 2 of the LowLevel Radioactive /Act 42 USC 2021b or 
+insertion: radioactive Waste 
+deletion: 
+change: Waste				Policy to Policy / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: specific radioactive waste str... But actually it is: specific radioactive waste str...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: specific radioactive waste streams /regulation by the Commission under section 10 of the LowLevel /Policy Act 42 USC 2021j 
+insertion: exempted Radioactive 
+deletion: 
+change: exempted				from to from / Radioactive				Waste to Waste / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subsection a. shall				not app... But actually it is: Subsection a. shall not apply ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: Subsection a 
+insertion: 
+deletion: 
+change: shall				not apply to to shall not apply to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: low-level radioactive waste be... But actually it is: low-level radioactive waste be...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.68
+The Detailes are shown as followings: 
+common words: lowlevel radioactive waste being /a United States Government or military facility which is authorized /the material or 
+insertion: returned to 
+deletion: 
+change: returned				to to to / to				possess to possess / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: low-level radioactive waste re... But actually it is: low-level radioactive waste re...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: lowlevel radioactive waste resulting /use in a foreign country of nuclear material obtained by the foreign /an entity in the United States that is being returned to the United /management and disposal 
+insertion: from user States 
+deletion: 
+change: from				the to the / user				from to from / States				for to for / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The President may				waive the... But actually it is: The President may waive the pr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: The President /the prohibition under this section and authorize the grant of a /to import materials prohibited under subsection a under the rules /Commission only after a finding that such importation would meet /national or international policy goal such as the use of waste /purposes Such a waiver must specify the policy goal to be /it is to be achieved and the amount of material to be imported 
+insertion: may specific of an for achieved 
+deletion: 
+change: may				waive to waive / specific				license to license / of				the to the / an				important to important / for				research to research / achieved				how to how / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A license not				permitted und... But actually it is: A license not permitted under ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: A license /under this section that was issued before the date of enactment /section may continue in effect according to its terms but may not /or amended with respect to the amount of material permitted to 
+insertion: not of be 
+deletion: 
+change: not				permitted to permitted / of				this to this / be				extended to extended / be				imported to be imported 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Table of contents			 amendment But actually it is: Table of contents amendment
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Table of 
+insertion: 
+deletion: 
+change: contents			 amendment to contents amendment 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The table of contents for the ... But actually it is: The table of contents for the ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: The table of contents for the Atomic Energy Act of is amended by inserting at the end of the items relating to chapter 8 following new item 
+insertion: 
+deletion: 
+change: 1954			 to 1954 / the			 to the / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sec. 85. Importation of low-le... But actually it is: Sec. 85. Importation of low-le...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Sec 85 Importation of 
+insertion: 
+deletion: 
+change: lowlevel				radioactive				waste to lowlevel radioactive waste 
+
+We are at location: null   Compared with location: bill[1]/legis-body[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: legis-body
+ Inserted paragraph content is: {" 
+1.Short titleThis Act may be cited as the Radioactive Import Deterrence Act. 
+2.Prohibition of importation 
+(a)AmendmentChapter 19 of the Atomic Energy Act of 1954 (42 U.S.C. 2015 et seq.) is amended by inserting after section 276 the following new section: 
+ 
+277. 
+  Importation of Low-Level radioactive waste 
+a.Except as provided in subsection b. or c., the Commission shall not issue a license authorizing the importation into the United States of— 
+(1)low-level radioactive waste (as defined in section 2 of the Low-Level Radioactive Waste Policy Act (42 U.S.C. 2021b)); or 
+(2)specific radioactive waste streams exempted from regulation by the Commission under section 10 of the Low-Level Radioactive Waste Policy Act (42 U.S.C. 2021j). 
+b.Subsection a. shall not apply to— 
+(1)low-level radioactive waste being returned to a United States Government or military facility which is authorized to possess the material; or 
+(2)low-level radioactive waste resulting from the use in a foreign country of nuclear material obtained by the foreign user from an entity in the United States that is being returned to the United States for management and disposal. 
+c.The President may waive the prohibition under this section and authorize the grant of a specific license to import materials prohibited under subsection a., under the rules of the Commission, only after a finding that such importation would meet an important national or international policy goal, such as the use of waste for research purposes. Such a waiver must specify the policy goal to be achieved, how it is to be achieved, and the amount of material to be imported. 
+d.A license not permitted under this section that was issued before the date of enactment of this section may continue in effect according to its terms, but may not be extended or amended with respect to the amount of material permitted to be imported.. 
+(b)Table of contents amendmentThe table of contents for the Atomic Energy Act of 1954 is amended by inserting after the item relating to section 276 the following new item: 
+ 
+ 
+Sec. 277. Importation of low-level radioactive waste.. 
+"}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {" 
+December 2, 2009 
+Reported from the Committee on Energy and Commerce with an amendment
+December 2, 2009
+ Committee on Ways and Means discharged; committed to the Committee of the Whole House on the State of the Union and ordered to be printed"}
+

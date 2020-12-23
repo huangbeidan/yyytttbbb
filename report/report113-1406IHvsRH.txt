@@ -1,0 +1,738 @@
+===================================================
+
+total difference is: 148
+comparing document: BILLS-113hr1406ih.xml
+to document: BILLS-113hr1406rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 113 HR 1406 IH: Working Famili... But actually it is: 113 HR 1406 RH: Working Famili...
+The Jaccard Index is: 0.89
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: 113 HR 1406 Working Families Flexibility Act of 2013 
+insertion: 
+deletion: 
+change: IH to RH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2013-04-09 But actually it is: 2013-04-30
+The Jaccard Index is: 0.6
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  (for			 herself,  But actually it is:  (for herself, 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: for			 herself to for herself 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/text()[4]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/text()[4]
+The reason of change is: content change
+The value is expected to be: ) introduced the following			 ... But actually it is: ) introduced the following bil...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words:  introduced the bill which was referred to the 
+insertion: 
+deletion: 
+change: following			 to following / 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Committee			 on Education and ... But actually it is: Committee on Education and the...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Committee			 on Education and the Workforce 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend the Fair Labor Standa... But actually it is: To amend the Fair Labor Standa...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: To amend the Fair Labor Standards Act of 1938 to /compensatory time for employees in the private sector 
+insertion: 
+deletion: to 
+change:  to provide / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 30"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 113–49]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+April 30, 2013
+Additional sponsors: Ms. Foxx, Mr. McKeon, Mr. Heck of Nevada, Mr. Walden, Mr. Messer, Mrs. Wagner, Mr. Bonner, Mr. Brooks of Alabama, Mrs. Noem, Mr. Bucshon, Ms. Jenkins, Mr. Campbell, Mr. Roe of Tennessee, Mrs. Brooks of Indiana, Mr. Wilson of South Carolina, Mr. Rogers of Alabama, Mr. Cassidy, Mr. Price of Georgia, Mrs. Ellmers, Mr. Hunter, Mr. Roskam, Mrs. Hartzler, Mr. Lucas, Mr. Gowdy, Mrs. Walorski, Mr. Southerland, Mr. Rohrabacher, Mr. Coble, Mr. Sam Johnson of Texas, Mr. Goodlatte, Mr. Bachus, Mrs. Black, Mr. Thornberry, Mr. Gingrey of Georgia, Mr. Brady of Texas, Mr. Forbes, Mr. McCarthy of California, Mr. Reed, Mr. Nugent, Ms. Herrera Beutler, Mrs. Blackburn, Mr. Calvert, Mr. Camp, Mr. Carter, Mr. Culberson, Ms. Granger, Mr. Burgess, Mr. Kingston, Mr. Cole, Mr. Paulsen, Mr. McHenry, Mr. Rooney, Mr. Jordan, Mr. Terry, Mr. Smith of Texas, Mr. Aderholt, Mr. Issa, Mr. Franks of Arizona, Mr. McClintock, Mr. Marchant, Mr. Kelly of Pennsylvania, Mr. Latta, Mr. Conaway, Mr. Hudson, Mr. Griffin of Arkansas, Mr. Tiberi, Mr. Posey, Mr. Miller of Florida, Mr. Rogers of Kentucky, Mr. Boustany, Mr. Alexander, Mr. Graves of Missouri, Mr. Sessions, Mrs. Lummis, Mrs. Bachmann, Mr. McCaul, Mr. Royce, Mr. Bridenstine, Mr. King of Iowa, Mrs. Miller of Michigan, Mr. Salmon, Mr. Shuster, Mr. Huizenga of Michigan, Mr. DesJarlais, Mr. Upton, Mr. Harper, Mr. Fleischmann, Mr. Weber of Texas, Mr. Mullin, Mr. Rokita, Mr. Cotton, Mr. Duncan of South Carolina, Mr. Gardner, Mr. Tipton, Mr. Yoder, Mr. Austin Scott of Georgia, Mr. Graves of Georgia, Mr. Daines, Mr. Rogers of Michigan, Mr. Chaffetz, Mr. Hensarling, Mr. Farenthold, Mr. Westmoreland, Mr. Stivers, Mr. Woodall, Mr. Ross, Mr. Duffy, Mr. Simpson, Mr. Hurt, Mr. Fincher, Mr. Long, Mr. Flores, Mr. Womack, Mr. Smith of Nebraska, Mr. Lankford, Mr. Guthrie, Mr. Griffith of Virginia, Mr. Nunnelee, Mr. Amodei, Mr. Young of Indiana, Mr. Olson, Mr. Neugebauer, Mr. Hastings of Washington, Mr. Stewart, Mr. Cramer, Mr. Stutzman, Mr. Wittman, Mr. Labrador, Mr. Holding, Mr. Bishop of Utah, Mr. DeSantis, Mr. Ribble, Mr. Johnson of Ohio, Mr. Gibbs, Mr. Bentivolio, Mr. Harris, Mr. Reichert, Mr. Valadao, Mr. Collins of New York, Mr. Coffman, Mr. Thompson of Pennsylvania, Mr. Nunes, Mr. Crawford, Mr. Mulvaney, Mr. Latham, Mr. Meadows, Mr. Garrett, Mr. Buchanan, Mr. Hall, Mr. Sensenbrenner, Mr. Fortenberry, Mr. Scalise, Mr. Pearce, Mr. Gohmert, Mr. Fleming, Mr. Rothfus, Mr. Lamborn, Mr. Webster of Florida, Mr. Ryan of Wisconsin, Mr. Schweikert, Mr. Gosar, Mr. Pompeo, Mr. Stockman, Mr. Collins of Georgia, and Mr. Huelskamp
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {" 
+April 30, 2013 
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed 
+Strike out all after the enacting clause and insert the part printed in italic 
+For text of introduced bill, see copy of bill as introduced on April 9, 2013 
+"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Working Families Flexibility A... But actually it is: Working Families Flexibility A...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Working Families Flexibility Act 
+insertion: 
+deletion: 
+change: of			 2013 to of 2013 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Compensatory			 time But actually it is: Compensatory time
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Compensatory			 time 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 7 of the Fair			 Labor... But actually it is: Section 7 of the Fair Labor St...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Section 7 of the Labor Standards Act of 1938 
+insertion: 
+deletion: 
+change: Fair			 to Fair / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) is amended by adding at the ... But actually it is: ) is amended by adding at the ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words:  is amended by adding at the end 
+insertion: 
+deletion: 
+change: the			 following to the following 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Compensatory				Time Off for P... But actually it is: Compensatory Time Off for Priv...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Compensatory				Time Off for Private Employees 
+insertion: Time 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: General				rule But actually it is: General rule
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: rule 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]
+The reason of change is: element tag name
+The value is expected to be: subparagraph But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(A)}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Compensatory
+				time off"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"An employee may receive, in accordance with this
+				subsection and in lieu of monetary overtime compensation, compensatory time off
+				at a rate not less than one and one-half hours for each hour of employment for
+				which overtime compensation is required by this section."}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(B)DefinitionFor
+				purposes of this subsection, the term employee does not include an
+				employee of a public agency.
+						"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: An				employer may provide com... But actually it is: An employer may provide compen...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: An				employer may provide compensatory time to employees under paragraph 1A /such time is provided in accordance with 
+insertion: employer only 
+deletion: 
+change: only				if to if / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: applicable				provisions of a ... But actually it is: applicable provisions of a col...
+The Jaccard Index is: 0.93
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: applicable				provisions of a collective bargaining agreement between the employer and /organization has been certified or recognized as the /the employees under applicable law or 
+insertion: provisions the representative 
+deletion: 
+change: the				labor to labor / which to that / representative				of to of / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in the case of				employees wh... But actually it is: in the case of employees who a...
+The Jaccard Index is: 0.97
+And the Smith Waterman Score is: 0.68
+The Detailes are shown as followings: 
+common words: in the case /who are not represented by a labor organization has /or recognized as the representative of such employees /law an agreement arrived at between the employer and /the performance of the work and affirmed by a written or /record maintained in accordance with section 11c 
+insertion: of been under employee otherwise 
+deletion: 
+change: of				employees to employees / which to that / been				certified to certified / under				applicable to applicable / employee				before to before / otherwise				verifiable to verifiable / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in				which the employer has o... But actually it is: in which the employer has offe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: in				which the employer has offered and the employee has chosen to /time in lieu of monetary overtime compensation and 
+insertion: which receive 
+deletion: 
+change: receive				compensatory to compensatory / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: entered into				knowingly and ... But actually it is: entered into knowingly and vol...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: entered into				knowingly and voluntarily by such employees and not as a condition 
+insertion: into 
+deletion: 
+change: of				employment to of employment 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/continuation-text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[2]/continuation-text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: No				employee may receive or ... But actually it is: No employee may receive or agr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: No				employee may receive or agree to receive compensatory time off under /unless the employee has worked at least 1000 hours for /employer during a period of continuous employment with the /the 12month period before the date of agreement or receipt of 
+insertion: employee this the employer 
+deletion: 
+change: this				subsection to subsection / the				employee’s to employee’s / employer				in to in / compensatory				time off to compensatory time off 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Hour				limit But actually it is: Hour limit
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: limit 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Maximum				hours But actually it is: Maximum hours
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: hours 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: An employee may accrue not mor... But actually it is: An employee may accrue not mor...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: An employee may accrue not more than 160 hours 
+insertion: 
+deletion: 
+change: of				compensatory time to of compensatory time 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Compensation				date But actually it is: Compensation date
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: date 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than January 31 of e... But actually it is: Not later than January 31 of e...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: Not later than January 31 of each calendar year /employer shall provide monetary compensation for any /time off accrued during the preceding calendar year was /prior to December 31 of the preceding year at the rate prescribed /6 An employer may designate and communicate to the /a 12month period other than the calendar year in which case /shall be provided not later than 31 days after the end of 
+insertion: the unused not by employer’s such 
+deletion: 
+change: the				employee’s to employee’s / unused				compensatory to compensatory / which to that / not				used to used / by				paragraph to paragraph / employer’s				employees to employees / such				compensation to compensation / such				12month period to such 12month period 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Excess of 80				hours But actually it is: Excess of 80 hours
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Excess of 
+insertion: 
+deletion: 
+change: 80				hours to 80 hours 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The employer may provide monet... But actually it is: The employer may provide monet...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: The employer may provide monetary compensation for /unused compensatory time in excess of 80 hours at any time /the employee at least 30 days notice Such compensation shall /at the rate prescribed by paragraph 6 
+insertion: an after be 
+deletion: 
+change: an				employee’s to employee’s / after				giving to giving / be				provided to provided / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Except				where a collective b... But actually it is: Except where a collective barg...
+The Jaccard Index is: 0.94
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: Except				where a collective bargaining agreement provides otherwise an employer /adopted a policy offering compensatory time to employees may /policy upon giving employees 30 days notice 
+insertion: where that discontinue 
+deletion: 
+change: which				has to has / discontinue				such to such / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Written				request But actually it is: Written request
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: request 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: An employee may withdraw an ag... But actually it is: An employee may withdraw an ag...
+The Jaccard Index is: 0.96
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: An employee may withdraw an agreement described /2B at any time An employee may also request in writing /compensation be provided at any time for all compensatory /has not yet been used Within 30 days of receiving the /the employer shall provide the employee the monetary compensation /accordance with paragraph 6 
+insertion: in that time written due 
+deletion: 
+change: in				paragraph to paragraph / that				monetary to monetary / time				accrued to accrued / which to that / written				request to request / due				in to in / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Private employer				actions But actually it is: Private employer actions
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: employer				actions to employer actions 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: An employer which provides com... But actually it is: An employer that provides comp...
+The Jaccard Index is: 0.93
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: An employer provides compensatory time /1 to employees shall not directly or indirectly /or coerce or attempt to intimidate threaten or coerce any /the purpose of 
+insertion: under intimidate employee 
+deletion: 
+change: which to that / under				paragraph to paragraph / intimidate				threaten to threaten / employee				for to for / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: interfering with				such emplo... But actually it is: interfering with such employee...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.68
+The Detailes are shown as followings: 
+common words: interfering with				such employee’s rights under this subsection to request or not /time off in lieu of payment of monetary overtime compensation 
+insertion: with request 
+deletion: 
+change: request				compensatory to compensatory / for				overtime hours or to for overtime hours or 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: requiring any				employee to u... But actually it is: requiring any employee to use ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: requiring any				employee to use such compensatory time 
+insertion: any 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Termination of				employment But actually it is: Termination of employment
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of				employment to of employment 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: An employee who has accrued co... But actually it is: An employee who has accrued co...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: An employee who has accrued compensatory time /to be provided under paragraph 1 shall upon the voluntary /termination of employment be paid for the unused compensatory /accordance with paragraph 6 
+insertion: off or time 
+deletion: 
+change: off				authorized to authorized / or				involuntary to involuntary / time				in to in / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[6]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Rate of				compensation But actually it is: Rate of compensation
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of				compensation to of compensation 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[6]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[6]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: General				rule But actually it is: General rule
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: rule 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[6]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[6]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If compensation is to be paid ... But actually it is: If compensation is to be paid ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: If compensation is to be paid to an employee for /time off such compensation shall be paid at a rate /not less than 
+insertion: accrued of 
+deletion: 
+change: accrued				compensatory to compensatory / of				compensation to compensation / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[6]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[6]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the regular rate				received b... But actually it is: the regular rate received by s...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: the regular /by such employee when the compensatory time was earned or 
+insertion: rate 
+deletion: 
+change: rate				received to received / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[6]/subparagraph[1]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[6]/subparagraph[1]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the final regular				rate rece... But actually it is: the final regular rate receive...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.57
+The Detailes are shown as followings: 
+common words: the final /received by such employee 
+insertion: regular 
+deletion: 
+change: regular				rate to rate / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[6]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[6]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Consideration of				payment But actually it is: Consideration of payment
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of				payment to of payment 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[6]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[6]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any payment owed to an employe... But actually it is: Any payment owed to an employe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: Any payment owed to an employee under this subsection /compensatory time shall be considered unpaid 
+insertion: for 
+deletion: 
+change: for				unused to unused / overtime				compensation to overtime compensation 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[7]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[7]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Use of				time But actually it is: Use of time
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of				time to of time 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[7]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[7]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: who has accrued				compensator... But actually it is: who has accrued compensatory t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: who has /time off authorized to be provided under paragraph 1 and 
+insertion: accrued 
+deletion: 
+change: accrued				compensatory to compensatory / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[7]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[7]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: who has requested				the use o... But actually it is: who has requested the use of s...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: who has /use of such compensatory time 
+insertion: requested 
+deletion: 
+change: requested				the to the / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[7]/continuation-text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[7]/continuation-text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: shall be				permitted by the e... But actually it is: shall be permitted by the empl...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: shall be				permitted by the employee’s employer to use such time within a /after making the request if the use of the compensatory time does /disrupt the operations of the employer 
+insertion: be reasonable not 
+deletion: 
+change: reasonable				period to period / not				unduly to unduly / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[8]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[8]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The				terms  But actually it is: For purposes of this subsectio...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[8]/text[1]/term[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: term But actually it is: null
+ Deleted paragraph content is: {"overtime compensation"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[8]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[8]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  and  But actually it is: For purposes of this subsectio...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[8]/text[1]/term[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: term But actually it is: null
+ Deleted paragraph content is: {"compensatory time"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[8]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[8]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 				shall have the meanings gi... But actually it is: For purposes of this subsectio...
+The Jaccard Index is: 0.13
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[8]/subparagraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (A)
+  the term employee does not include an employee of a public agency; and
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/subsection[1]/paragraph[8]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (B)
+  the terms overtime compensation and compensatory time shall have the meanings given such terms by subsection (o)(7).
+"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 16 of the Fair Labor S... But actually it is: Section 16 of the Fair Labor S...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Section 16 of the Fair Labor Standards of 1938 
+insertion: 
+deletion: 
+change: Act			 to Act / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subsection (b),			 by strik... But actually it is: in subsection (b), by striking...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: in subsection by striking 
+insertion: 
+deletion: 
+change: b			 to b / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: (b) Except as			 provided in s... But actually it is: (b) Except as provided in subs...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: b Except provided in subsection f any employer 
+insertion: 
+deletion: 
+change: as			 to as / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by adding at the			 end the fo... But actually it is: by adding at the end the follo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: by adding at end the following 
+insertion: 
+deletion: 
+change: the			 to the / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[2]/quoted-block[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[2]/quoted-block[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: An employer which				violates ... But actually it is: An employer that violates sect...
+The Jaccard Index is: 0.95
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: An employer /section 7s4 shall be liable to the employee affected in the /the rate of compensation determined in accordance with section /each hour of compensatory time accrued by the employee and in an /amount as liquidated damages reduced by the amount of such rate /for each hour of compensatory time used by 
+insertion: that amount 7s6A additional of 
+deletion: 
+change: which				violates to violates / amount				of to of / 7s6A				for to for / additional				equal to equal / of				compensation to compensation / such				employee to such employee 
+
+We are at location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notice to			 employees But actually it is: Notice to employees
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: to			 employees to to employees 
+
+We are at location: bill[1]/legis-body[1]/section[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 30			 days afte... But actually it is: Not later than 30 days after t...
+The Jaccard Index is: 0.98
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: Not later than days after the date of /enactment of this Act the Secretary of Labor revise the materials the Secretary provides under regulations published 
+insertion: 
+deletion: of 
+change: 30			 to 30 / shall			 to shall / in			 to in 
+
+We are at location: bill[1]/legis-body[1]/section[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 29, Code of Federal ... But actually it is:  of title 29, Code of Federal ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words:  of title 29 Code of Federal Regulations to employers purposes of a notice explaining the Fair Labor Standards Act of 1938 employees so that such notice reflects the amendments made to such Act by 
+insertion: 
+deletion: 
+change: for			 to for / to			 to to / this			 Act to this Act 
+
+We are at location: bill[1]/legis-body[1]/section[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: This Act and the amendments ma... But actually it is: This Act and the amendments ma...
+The Jaccard Index is: 0.98
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: This Act and the amendments made by this shall expire 5 years after the date of /enactment of this Act 
+insertion: 
+deletion: of 
+change: Act			 to Act / 
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {" 
+April 30, 2013 
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+

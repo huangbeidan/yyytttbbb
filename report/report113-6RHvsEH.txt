@@ -1,0 +1,460 @@
+===================================================
+
+total difference is: 165
+comparing document: BILLS-113hr6rh.xml
+to document: BILLS-113hr6eh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Reported-in-House But actually it is: Engrossed-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 113 HR 6 RH: Domestic Prosperi... But actually it is: 113 HR 6 EH: Domestic Prosperi...
+The Jaccard Index is: 0.89
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: 113 HR 6 Domestic Prosperity and Global Freedom Act 
+insertion: 
+deletion: 
+change: RH to EH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {}
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IB But actually it is: I
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/calendar[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: calendar But actually it is: null
+ Deleted paragraph content is: {"Union Calendar No. 353"}
+
+We are at location: bill[1]/form[1]/associated-doc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: associated-doc But actually it is: null
+ Deleted paragraph content is: {"[Report No. 113–477]"}
+
+We are at location: bill[1]/form[1]/action[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {" 
+March 6, 2014 
+Mr. Gardner (for himself, Mr. Ryan of Ohio, Mr. Upton, Mr. Shimkus, Mr. Whitfield, Mr. Barton, Mr. Olson, Mrs. McMorris Rodgers, Mr. Guthrie, Mrs. Ellmers, Mr. Gingrey of Georgia, Mr. Burgess, Mr. Johnson of Ohio, Mr. Lance, Mr. Cassidy, Mr. Scalise, Mr. Latta, Mr. Griffith of Virginia, Mr. Pitts, Mr. Rogers of Michigan, Mr. Hall, Mr. Turner, Mr. Boustany, and Mr. Womack) introduced the following bill; which was referred to the Committee on Energy and Commerce 
+"}
+
+We are at location: bill[1]/form[1]/action[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+June 19, 2014
+Additional sponsors: Mr. Thornberry, Mr. Conaway, Mr. Cramer, Mr. McCaul, Mr. Royce, Mr. Hunter, Mr. Franks of Arizona, Mr. Hensarling, Mr. Farenthold, Mr. Neugebauer, Mrs. Capito, Mr. Coffman, Mr. Dent, Mr. Bridenstine, Mrs. Black, Mr. Costa, Mr. Sessions, Mr. Stivers, Mr. Culberson, Mr. Meadows, Mr. Collins of New York, Mrs. Blackburn, Mr. Weber of Texas, Mr. Terry, Mrs. Brooks of Indiana, Mr. Kelly of Pennsylvania, Mr. Schweikert, Mr. Gosar, Mr. Marchant, Mr. Flores, Mr. Barletta, Mr. Palazzo, Mrs. Lummis, Mr. Thompson of Pennsylvania, Mr. Gene Green of Texas, Mr. Renacci, Mr. Kline, Mr. Hinojosa, and Mr. Lamborn
+"}
+
+We are at location: bill[1]/form[1]/action[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+June 19, 2014
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed
+Strike out all after the enacting clause and insert the part printed in italic
+"}
+
+We are at location: bill[1]/form[1]/action[4]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+
+"}
+
+We are at location: bill[1]/form[1]/legis-type[1]/text()[1]   Compared with location: bill[1]/form[1]/legis-type[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A BILL But actually it is: AN ACT
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/official-title[1]/pagebreak[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: pagebreak But actually it is: null
+ Deleted paragraph content is: {}
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Amendments But actually it is: Action on applications
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: subsection
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(a)}
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/external-xref[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]
+The reason of change is: element tag name
+The value is expected to be: external-xref But actually it is: header
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/external-xref[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 15 U.S.C. 717b(c) But actually it is: Decision deadline
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"For proposals that must also obtain authorization from the Federal Energy Regulatory Commission or the United States Maritime Administration to site, construct, expand, or operate LNG export facilities, the Department of Energy shall issue a final decision on any application for the authorization to export natural gas under section 3 of the Natural Gas Act ("}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"15 U.S.C. 717b"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") not later than 30 days after the later of—"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (1)
+  the conclusion of the review to site, construct, expand, or operate the LNG facilities required by the National Environmental Policy Act of 1969 (42 U.S. C. 4321 et seq.); or
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (2)
+  the date of enactment of this Act.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]
+The reason of change is: element tag name
+The value is expected to be: paragraph But actually it is: subsection
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (1) But actually it is: (b)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by inserting  But actually it is: For purposes of subsection (a)...
+The Jaccard Index is: 0.01
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/quote[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {(1)}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  before  But actually it is: For purposes of subsection (a)...
+The Jaccard Index is: 0.01
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/quote[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"For purposes"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ; But actually it is: For purposes of subsection (a)...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Conclusion of review"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (1)
+  for a project requiring an Environmental Impact Statement, 30 days after publication of a Final Environmental Impact Statement;
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (2)
+  for a project for which an Environmental Assessment has been prepared, 30 days after publication by the Department of Energy of a Finding of No Significant Impact; and
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (3)
+  upon a determination by the lead agency that an application is eligible for a categorical exclusion pursuant National Environmental Policy Act of 1969 implementing regulations.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]
+The reason of change is: element tag name
+The value is expected to be: paragraph But actually it is: subsection
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (2) But actually it is: (c)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/header[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: header
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by striking  But actually it is: Judicial action
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/quote[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"a nation with which there is in effect a free trade agreement requiring national treatment for trade in natural gas"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  and inserting  But actually it is: Judicial action
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/quote[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"a World Trade Organization member nation"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ; and But actually it is: Judicial action
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(1)The United States Court of Appeals for the circuit in which the export facility will be located pursuant to an application described in subsection (a) shall have original and exclusive jurisdiction over any civil action for the review of— 
+(A)an order issued by the Department of Energy with respect to such application; or 
+(B)the Department of Energy’s failure to issue a final decision on such application."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (2)
+  If the Court in a civil action described in paragraph (1) finds that the Department of Energy has failed to issue a final decision on the application as required under subsection (a), the Court shall order the Department of Energy to issue such final decision not later than 30 days after the Court’s order.
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (3)
+  The Court shall set any civil action brought under this subsection for expedited consideration and shall set the matter on the docket as soon as practical after the filing date of the initial pleading.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(3)by adding at the end the following: 
+ 
+(2)For purposes of this subsection, the term World Trade Organization member nation means a country described in section 2(10) of the Uruguay Round Agreements Act (19 U.S.C. 3501(10)).."}
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Pending applications But actually it is: Public disclosure of export de...
+The Jaccard Index is: 0.1
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any application for authorizat... But actually it is: Section 3 of the Natural Gas A...
+The Jaccard Index is: 0.38
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: section 3 of the Natural Gas Act 
+insertion: 
+deletion: Any application for authorization to export natural gas under 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) for which a notice has been ... But actually it is: ) is amended by adding at the ...
+The Jaccard Index is: 0.03
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quoted-block
+ Inserted paragraph content is: {" 
+(g)Public Disclosure of LNG Export DestinationsAs a condition for approval of any authorization to export LNG, the Secretary of Energy shall require the applicant to publicly disclose the specific destination or destinations of any such authorized LNG exports.."}
+
+We are at location: bill[1]/legis-body[2]/section[2]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Department of Energy shall... But actually it is: For proposals that must also o...
+The Jaccard Index is: 0.45
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: The Department of Energy shall issue a /decision on any application for /authorization to export natural gas under section 3 of the Natural Gas Act 
+insertion: proposals that must also obtain authorization from the Federal Energy Regulatory Commission or the United States Maritime Administration to site construct expand or operate LNG export facilities the final the 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[2]/section[2]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) not later than 90 days after... But actually it is: ) not later than 30 days after...
+The Jaccard Index is: 0.83
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words:  not later than days after the later of 
+insertion: 
+deletion: 
+change: 90 to 30 / 
+
+We are at location: bill[1]/legis-body[2]/section[2]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the end of the comment period ... But actually it is: the conclusion of the review t...
+The Jaccard Index is: 0.1
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[2]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Judicial action But actually it is: Conclusion of review
+The Jaccard Index is: 0.03
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The United States Court of App... But actually it is: for a project requiring an Env...
+The Jaccard Index is: 0.1
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[2]/subsection[2]/paragraph[1]/subparagraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (A)
+  an order issued by the Department of Energy with respect to such application; or
+"}
+
+We are at location: bill[1]/legis-body[2]/section[2]/subsection[2]/paragraph[1]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (B)
+  the Department of Energy’s failure to issue a decision on such application.
+"}
+
+We are at location: bill[1]/legis-body[2]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If the Court in a civil action... But actually it is: for a project for which an Env...
+The Jaccard Index is: 0.2
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[2]/section[2]/subsection[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Court shall set any civil ... But actually it is: upon a determination by the le...
+The Jaccard Index is: 0.11
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"For purposes of subsection (a), review required by the National Environmental Policy Act of 1969 shall be considered concluded—"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(c)Judicial action 
+(1)The United States Court of Appeals for the circuit in which the export facility will be located pursuant to an application described in subsection (a) shall have original and exclusive jurisdiction over any civil action for the review of— 
+(A)an order issued by the Department of Energy with respect to such application; or 
+(B)the Department of Energy’s failure to issue a final decision on such application. 
+(2)If the Court in a civil action described in paragraph (1) finds that the Department of Energy has failed to issue a final decision on the application as required under subsection (a), the Court shall order the Department of Energy to issue such final decision not later than 30 days after the Court’s order. 
+(3)The Court shall set any civil action brought under this subsection for expedited consideration and shall set the matter on the docket as soon as practical after the filing date of the initial pleading."}
+
+We are at location: bill[1]/endorsement[1]/action-date[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-date But actually it is: null
+ Deleted paragraph content is: {"June 19, 2014"}
+
+We are at location: bill[1]/endorsement[1]/action-desc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-desc But actually it is: null
+ Deleted paragraph content is: {"Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: attestation
+ Inserted paragraph content is: {"
+  
+    Passed the House of Representatives June 25, 2014.
+    Karen L. Haas,
+    Clerk.
+  
+"}
+

@@ -1,0 +1,261 @@
+===================================================
+
+total difference is: 49
+comparing document: BILLS-110hr6225ih.xml
+to document: BILLS-110hr6225rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 6225 IH: Injunctive Rel... But actually it is: 110 HR 6225 RH: Amend the titl...
+The Jaccard Index is: 0.13
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2008-06-10 But actually it is: 2008-07-28
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Committee on Veterans’			 Affa... But actually it is: Committee on Veterans’ Affairs
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Committee on 
+insertion: 
+deletion: 
+change: Veterans’			 Affairs to Veterans’ Affairs 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend title 38, United Stat... But actually it is: To amend title 38, United Stat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: To amend title 38 United States Code relating /equitable relief with respect to a State or private employer 
+insertion: 
+deletion: relating 
+change:  to to / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 497"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 110–778]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+July 28, 2008
+Additional sponsor: Mr. Buyer
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {" 
+July 28, 2008 
+Reported with amendments, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed 
+Strike out all after the enacting clause and insert the part printed in italic 
+"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Injunctive Relief for Veterans... But actually it is: Injunctive Relief for Veterans...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Injunctive Relief for Veterans Act 
+insertion: 
+deletion: 
+change: of			 2008 to of 2008 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Equity			 powers But actually it is: Equity powers
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Equity			 powers 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 4323(e) of			 title 38... But actually it is:  of title 38, United States Co...
+The Jaccard Index is: 0.78
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: 4323e of			 title 38 United States Code is amended by striking 
+insertion: 
+deletion: Section 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  and			 inserting  But actually it is:  and inserting 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: and			 inserting to and inserting 
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: shall use, in any case in whic... But actually it is: shall use, in any case in whic...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: shall use in any case in which the court determines it 
+insertion: 
+deletion: 
+change: is			 appropriate to is appropriate 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"Section 4323(e)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: legis-body
+ Inserted paragraph content is: {" 
+1.Short title This Act may be cited as the Improving SCRA and USERRA Protections Act of 2008. 
+2.Equity powersSection 4323(e) of title 38, United States Code, is amended by striking may use and inserting shall use, in any case in which the court determines it is appropriate,. 
+3.Relief for students who are members of Armed Forces during period of military service 
+(a)In generalTitle VII of the Servicemembers Civil Relief Act (50 U.S.C. App. 591 et seq.) is amended by adding at the end the following new section: 
+ 
+707.Tuition, reenrollment, and student loan relief for postsecondary students called to military service 
+(a)Tuition and reenrollmentWhenever a servicemember is called, activated, or ordered to military service and withdraws or takes a leave of absence from an institution of higher education in which the servicemember is enrolled, the institution shall— 
+(1)provide a credit or refund to the servicemember the tuition and fees paid by the servicemember (other than from the proceeds of a grant or scholarship) for the portion of the program of education for which the servicemember did not receive academic credit after such withdrawal or leave; and 
+(2)provide the servicemember an opportunity to reenroll with the same educational and academic status in such program of education that the servicemember had when activated for military service. 
+(b)Institution of higher education definedIn this section, the term institution of higher education means a 2-year or 4-year institution of higher education as defined in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002).. 
+(b)Exemption of student debts from creditor protection based on income levelSection 207(c) of such Act (50 U.S.C. App. 527(c)) is amended by adding at the end the following new sentence: This subsection shall not apply with respect to an obligation or liability that is incurred by a servicemember who, at the time the servicemember is called to military service, is a student enrolled within six months of activation at an institution of higher education on a full-time basis, as determined by that institution.. 
+(c)Clerical amendmentThe table of contents in section 1(b) of such Act is amended by adding at the end the following new item: 
+ 
+ 
+Sec. 707. Tuition, reenrollment, and student loan relief for postsecondary students called to military service.. 
+(d)Effective dateThe amendments made by this section shall take effect for periods of military service beginning after the date of the enactment of this section. 
+4.Termination or suspension by servicemembers of certain service contracts entered into before permanent change of station or deployment orders 
+(a)TerminationTitle III of the Servicemembers Civil Relief Act (50 U.S.C. App. 531 et seq.) is amended— 
+(1)by redesignating section 308 as section 309; and 
+(2)by inserting after section 307 the following: 
+ 
+308.Termination or suspension of service contracts 
+(a)Termination or suspension by servicememberA person in military service who is party to or enters into a contract described in subsection (c) may terminate or suspend, at the person’s option, the contract at any time after the date of the person’s military orders, as described in subsection (c). 
+(b)Special rules 
+(1)A suspension under subsection (a) of a contract by a person in military service shall continue for the length of the person’s deployment pursuant to the person’s military orders. 
+(2)A service provider under a contract suspended or terminated under subsection (a) by a person in military service may not impose a suspension fee or early termination fee in connection with the suspension or termination of the contract, other than a nominal fee for the suspension; except that the service provider may impose a reasonable fee for any equipment remaining on the premises of the person in military service during the period of the suspension. The person in military service may defer, without penalty, payment of such a nominal fee or reasonable fee for the length of the person’s deployment pursuant to the person’s military orders. 
+(3)In any case in which the contract being suspended under subsection (a) is for cellular telephone service or telephone exchange service, the person in military service, after the date on which the suspension of the contract ends, may keep, to the extent practicable and in accordance with all applicable laws and regulations, the same telephone number the person had before the person suspended the contract. 
+(c)Covered contractsThis section applies to a contract for cellular telephone service, telephone exchange service, multichannel video programming service, Internet access service, water, electricity, oil, gas, or other utility if the person enters into the contract and thereafter receives military orders— 
+(1)to deploy with a military unit, or as an individual, in support of a contingency operation for a period of not less than 90 days; or 
+(2)for a change of permanent station to a location that does not support the contract. 
+(d)Manner of termination or suspension 
+(1)In generalTermination or suspension of a contract under subsection (a) is made by delivery by the person in military service of written notice of such termination or suspension and a copy of the servicemember’s military orders to the other party to the contract (or to that party’s grantee or agent). 
+(2)Nature of noticeDelivery of notice under paragraph (1) may be accomplished— 
+(A)by hand delivery; 
+(B)by private business carrier; 
+(C)by facsimile; or 
+(D)by placing the written notice and a copy of the servicemember’s military orders in an envelope with sufficient postage and with return receipt requested, and addressed as designated by the party to be notified (or that party’s grantee or agent), and depositing the envelope in the United States mails. 
+(e)Date of contract termination or suspensionTermination or suspension of a service contract under subsection (a) is effective as of the date on which the notice under subsection (d) is delivered. 
+(f)Other obligations and liabilitiesThe service provider under the contract may not impose an early termination or suspension charge, but any tax or any other obligation or liability of the person in military service that, in accordance with the terms of the contract, is due and unpaid or unperformed at the time of termination or suspension of the contract shall be paid or performed by the person in military service. 
+(g)Fees paid in advanceA fee or amount paid in advance for a period after the effective date of the termination of the contract shall be refunded to the person in military service by the other party (or that party’s grantee or agent) within 60 days of the effective date of the termination of the contract. 
+(h)Relief to other partyUpon application by the other party to the contract to a court before the termination date provided in the written notice, relief granted by this section to a person in military service may be modified as justice and equity require. 
+(i)Penalties 
+(1)MisdemeanorWhoever knowingly violates or attempts to violate this section shall be fined not more than $5,000 in the case of an individual or $10,000 in the case of an organization. 
+(2)PreservationThe remedy and rights provided under this section are in addition to and do not preclude any remedy for wrongful conversion otherwise available under law to the person claiming relief under this section, including any award for consequential or punitive damages. 
+(j)Equitable relief 
+(1)In generalIn addition to any other remedy available under law, if a person in military service has reason to believe that another party to a contract has violated or is violating this section, the person in military service may— 
+(A)bring an action to enjoin the violation in any appropriate United States district court or in any other court of competent jurisdiction; or 
+(B)bring an action in any appropriate United States district court or in any other court of competent jurisdiction to recover damages equal to three times the amount for which the other party is liable to the person in military service under this section. 
+(2)Attorney feesIf a person in military service is awarded damages under an action described under paragraph (1), the person shall be awarded, in addition, the costs of the action and reasonable attorney fees, as determined by the court. 
+(k)DefinitionsFor the purposes of this section, the following definitions apply: 
+(1)Multichannel video programming serviceThe term multichannel video programming service means video programming service provided by a multichannel video programming distributor, as such term is defined in section 602(13) of the Communications Act of 1934 (47 U.S.C. 522(13)). 
+(2)Internet access serviceThe term Internet access service has the meaning given that term under section 231(e)(4) of the Communications Act of 1934 (47 U.S.C. 231(e)(4)). 
+(3)Cellular telephone serviceThe term cellular telephone service means commercial mobile service, as that term is defined in section 332(d) of the Communications Act of 1934 (47 U.S.C. 332(d)). 
+(4)Telephone exchange serviceThe term telephone exchange service has the meaning given that term under section 3 of the Communications Act of 1934 (47 U.S.C. 153). . 
+(b)Clerical amendmentThe table of contents in section 1(b) of such Act is amended by striking the item relating to section 308 and inserting the following new items: 
+ 
+ 
+Sec. 308. Termination or suspension of service contracts. 
+Sec. 309. Extension of protections to dependents.. 
+5.Penalties for violation of interest rate limitation under Servicemembers Civil Relief ActSection 207 of the Servicemembers Civil Relief Act (50 U.S.C. App. 527) is amended by adding at the end the following new subsections: 
+ 
+(e)PenaltyWhoever knowingly violates subsection (a) shall be fined not more than $5,000 in the case of an individual or $10,000 in the case of an organization. 
+(f)Rights of servicemembers 
+(1)Equitable relief 
+(A)In generalIn addition to any other remedies as are provided under Federal or State law, if a servicemember has reason to believe that a creditor has violated or is violating this section, the servicemember may— 
+(i)bring an action to enjoin such violation in any appropriate United States district court or in any other court of competent jurisdiction; and 
+(ii)bring an action to recover damages equal to three times the amount of the interest charged in violation of this section (plus interest) for which the creditor is liable to the servicemember under this section as a result of the violation. 
+(B)Determination of number of violationsIn determining the number of violations by a creditor for which a penalty is imposed under subsection (e) or subparagraph (A), the court shall count as a single violation each obligation or liability of a servicemember with respect to which— 
+(i)the servicemember properly provided to the creditor written notice and a copy of the military orders calling the servicemember to military service and any orders further extending military service under subsection (b); and 
+(ii)the creditor failed to treat in accordance with subsection (a).  
+(2)Attorney feesIf a servicemember is awarded damages under an action described under paragraph (1), the servicemember shall be awarded, in addition, the costs of the action and reasonable attorney fees, as determined by the court. 
+(g)Preservation of other remediesThe rights and remedies provided under subsections (e) and (f) are in addition to and do not preclude any other remedy available under law to a person claiming relief under this section, including any award for consequential or punitive damages.. 
+6.Guarantee of residency for spouses of military personnel 
+(a)Guarantee of residencySection 705 of the Servicemembers Civil Relief Act (50 U.S.C. App. 595) is amended— 
+(1)by striking For and inserting (a) For; and 
+(2)by adding at the end the following new subsection: 
+ 
+(b)For the purposes of voting for any Federal office (as defined in section 301 of the Federal Election Campaign Act of 1971 (2 U.S.C. 431)) or a State or local office, a person who is absent from a State because the person is accompanying the person’s spouse who is absent from that same State in compliance with military or naval orders shall not, solely by reason of that absence— 
+(1)be deemed to have lost a residence or domicile in that State, without regard to whether or not the person intends to return to that State; 
+(2)be deemed to have acquired a residence or domicile in any other State; or 
+(3)be deemed to have become a resident in or a resident of any other State.. 
+(b)Clerical amendments 
+(1)The heading for such section is amended to read as follows: 
+ 
+705.Guarantee of residency for military personnel and spouses of military personnel. 
+(2)The item relating to such section in the table of contents in section 1(b) of such Act is amended to read as follows: 
+ 
+ 
+Sec. 705. Guarantee of residency for military personnel and spouses of military personnel.. 
+7.Residence for tax purposesSection 511(a) of the Servicemembers Civil Relief Act (50 U.S.C. App. 571(a)) is amended— 
+(1)by striking A servicemember and inserting the following:
+
+(1)ServicememberA servicemember; and 
+(2)by adding at the end the following: 
+ 
+(2)Spouse of servicememberA spouse of a servicemember shall neither lose nor acquire a residence or domicile for purposes of taxation with respect to the person, personal property, or income of the spouse by reason of being absent or present in any tax jurisdiction of the United States solely to be with the servicemember in compliance with the servicemember’s military orders if the residence or domicile, as the case may be, is the same for the servicemember and the spouse.. 
+"}
+
+We are at location: null   Compared with location: bill[1]/official-title-amendment[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: official-title-amendment
+ Inserted paragraph content is: {"Amend the title so as to read: A bill to amend title 38, United States Code, relating to equitable relief with respect to a State or private employer, and for other purposes.."}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {" 
+July 28, 2008 
+Reported with amendments, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+

@@ -1,0 +1,411 @@
+===================================================
+
+total difference is: 122
+comparing document: BILLS-113hr671ih.xml
+to document: BILLS-113hr671rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 113 HR 671 IH: Ruth Moore Act ... But actually it is: 113 HR 671 RH: Ruth Moore Act ...
+The Jaccard Index is: 0.84
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: 113 HR 671 Ruth Moore Act of 2013 
+insertion: 
+deletion: 
+change: IH to RH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2013-02-13 But actually it is: 2013-05-17
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 38"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 113–63]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+May 17, 2013
+Additional sponsors: Mr. Polis, Mr. Ellison, Mr. Payne, Ms. Titus, Mr. Jones, Mr. Blumenauer, Ms. DelBene, Mr. O`Rourke, Mr. DeFazio, Mrs. Negrete McLeod, Mr. Connolly, Ms. Kuster, Mr. Murphy of Florida, Mr. Bishop of New York, Mr. Kilmer, Ms. Slaughter, Mr. Moran, Mr. Ryan of Ohio, Mr. Sires, Mr. Braley of Iowa, Mr. Huffman, Mr. Matheson, Mr. Lipinski, Ms. Lofgren, Ms. Bonamici, Ms. McCollum, Mr. Latham, and Mr. Takano
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {" 
+May 17, 2013 
+Reported with amendments, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed 
+Strike out all after the enacting clause and insert the part printed in italic 
+For text of introduced bill, see copy of bill as introduced on February 13, 2013 
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {" 
+ 
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Standard of proof for service-... But actually it is: Reports on claims for disabili...
+The Jaccard Index is: 0.22
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: proof for serviceconnection of mental health conditions related to military sexual trauma 
+insertion: 
+deletion: Standard of 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Standard of proof But actually it is: Annual reports
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/external-xref[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/enum[1]
+The reason of change is: element tag name
+The value is expected to be: external-xref But actually it is: enum
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/external-xref[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 1154 But actually it is: (1)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/header[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"In general"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"Subchapter VI of chapter 11 of title 38, United States Code, is amended by adding at the end the following new section:"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/quoted-block[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quoted-block
+ Inserted paragraph content is: {" 
+1164.Reports on claims for disabilities incurred or aggravated by military sexual trauma 
+(a)ReportsNot later than December 1, 2014, and each year thereafter through 2018, the Secretary shall submit to Congress a report on covered claims submitted during the previous fiscal year. 
+(b)ElementsEach report under subsection (a) shall include the following: 
+(1)The number of covered claims submitted to or considered by the Secretary during the fiscal year covered by the report. 
+(2)Of the covered claims listed under paragraph (1), the number and percentage of such claims— 
+(A)submitted by each sex; 
+(B)that were approved, including the number and percentage of such approved claims submitted by each sex; and 
+(C)that were denied, including the number and percentage of such denied claims submitted by each sex. 
+(3)Of the covered claims listed under paragraph (1) that were approved, the number and percentage, listed by each sex, of claims assigned to each rating percentage. 
+(4)Of the covered claims listed under paragraph (1) that were denied— 
+(A)the three most common reasons given by the Secretary under section 5104(b)(1) of this title for such denials; and 
+(B)the number of denials that were based on the failure of a veteran to report for a medical examination. 
+(5)The number of covered claims that, as of the end of the fiscal year covered by the report, are pending and, separately, the number of such claims on appeal. 
+(6)For the fiscal year covered by the report, the average number of days that covered claims take to complete beginning on the date on which the claim is submitted. 
+(7)A description of the training that the Secretary provides to employees of the Veterans Benefits Administration specifically with respect to covered claims, including the frequency, length, and content of such training. 
+(c)DefinitionsIn this section: 
+(1)The term covered claims means claims for disability compensation submitted to the Secretary based on a covered mental health condition alleged to have been incurred or aggravated by military sexual trauma. 
+(2)The term covered mental health condition means post-traumatic stress disorder, anxiety, depression, or other mental health diagnosis described in the current version of the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association that the Secretary determines to be related to military sexual trauma. 
+(3)The term military sexual trauma means, with respect to a veteran, psychological trauma, which in the judgment of a mental health professional, resulted from a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment which occurred during active military, naval, or air service.."}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]
+The reason of change is: element tag name
+The value is expected to be: quoted-block But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/enum[1]
+The reason of change is: element tag name
+The value is expected to be: subsection But actually it is: enum
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(c)}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"
+  (1)
+  In the case of any veteran who claims that a covered mental health condition was incurred in or aggravated by military sexual trauma during active military, naval, or air service, the Secretary shall accept as sufficient proof of service-connection a diagnosis of such mental health condition by a mental health professional together with satisfactory lay or other evidence of such trauma and an opinion by the mental health professional that such covered mental health condition is related to such military sexual trauma, if consistent with the circumstances, conditions, or hardships of such service, notwithstanding the fact that there is no official record of such incurrence or aggravation in such service, and, to that end, shall resolve every reasonable doubt in favor of the veteran. Service-connection of such covered mental health condition may be rebutted by clear and convincing evidence to the contrary. The reasons for granting or denying service-connection in each case shall be recorded in full.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"
+  (2)
+  For purposes of this subsection, in the absence of clear and convincing evidence to the contrary, and provided that the claimed military sexual trauma is consistent with the circumstances, conditions, or hardships of the veteran’s service, the veteran’s lay testimony alone may establish the occurrence of the claimed military sexual trauma.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(3)In this subsection: 
+(A)The term covered mental health condition means post-traumatic stress disorder, anxiety, depression, or other mental health diagnosis described in the current version of the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association that the Secretary determines to be related to military sexual trauma. 
+(B)The term military sexual trauma means, with respect to a veteran, psychological trauma, which in the judgment of a mental health professional, resulted from a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment which occurred during active military, naval, or air service."}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/after-quoted-block[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/header[1]
+The reason of change is: element tag name
+The value is expected to be: after-quoted-block But actually it is: header
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/after-quoted-block[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: . But actually it is: Clerical amendment
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"The table of sections at the beginning of such chapter is amended by adding at the end the following new item:"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quoted-block
+ Inserted paragraph content is: {" 
+ 
+1164. Reports on claims for disabilities incurred or aggravated by military sexual trauma.."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (3)
+  Initial report
+  The Secretary of Veterans Affairs shall submit to Congress an initial report described in section 1164 of title 38, United States Code, as added by paragraph (1), by not later than 90 days after the date of the enactment of this Act. Such initial report shall be in addition to the annual reports required under such section beginning in December 2014.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Annual reports But actually it is: Sense of Congress
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"In general"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subchapter VI of  But actually it is: ensuring that military sexual ...
+The Jaccard Index is: 0.03
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/external-xref[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/external-xref[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: chapter 11 But actually it is: section 3.304(f)(3)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 38, United States Co... But actually it is:  of title 38, Code of Federal ...
+The Jaccard Index is: 0.16
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/quoted-block[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quoted-block But actually it is: null
+ Deleted paragraph content is: {" 
+1164.Reports on claims for disabilities incurred or aggravated by military sexual trauma 
+(a)ReportsNot later than December 1, 2014, and each year thereafter through 2018, the Secretary shall submit to Congress a report on covered claims submitted during the previous fiscal year. 
+(b)ElementsEach report under subsection (a) shall include the following: 
+(1)The number of covered claims submitted to or considered by the Secretary during the fiscal year covered by the report. 
+(2)Of the covered claims listed under paragraph (1), the number and percentage of such claims— 
+(A)submitted by each sex; 
+(B)that were approved, including the number and percentage of such approved claims submitted by each sex; and 
+(C)that were denied, including the number and percentage of such denied claims submitted by each sex. 
+(3)Of the covered claims listed under paragraph (1) that were approved, the number and percentage, listed by each sex, of claims assigned to each rating percentage. 
+(4)Of the covered claims listed under paragraph (1) that were denied— 
+(A)the three most common reasons given by the Secretary under section 5104(b)(1) of this title for such denials; and 
+(B)the number of denials that were based on the failure of a veteran to report for a medical examination. 
+(5)The number of covered claims that, as of the end of the fiscal year covered by the report, are pending and, separately, the number of such claims on appeal. 
+(6)For the fiscal year covered by the report, the average number of days that covered claims take to complete beginning on the date on which the claim is submitted. 
+(7)A description of the training that the Secretary provides to employees of the Veterans Benefits Administration specifically with respect to covered claims, including the frequency, length, and content of such training. 
+(c)DefinitionsIn this section: 
+(1)The term covered claims means claims for disability compensation submitted to the Secretary based on a covered mental health condition alleged to have been incurred or aggravated by military sexual trauma. 
+(2)The term covered mental health condition has the meaning given that term in subparagraph (A) of section 1154(c)(3) of this title. 
+(3)The term military sexual trauma has the meaning given that term in subparagraph (B) of such section.."}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Clerical amendment"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The table of sections at the b... But actually it is: recognizing the full range of ...
+The Jaccard Index is: 0.08
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/quoted-block[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quoted-block But actually it is: null
+ Deleted paragraph content is: {" 
+ 
+1164. Annual reports on claims for disabilities incurred or aggravated by military sexual trauma.."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"It is the sense of Congress that the Secretary of Veterans Affairs should update and improve the regulations of the Department of Veterans Affairs with respect to military sexual trauma by—"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effective date But actually it is: Provision of information
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subsection (c) of  But actually it is: During the period beginning on...
+The Jaccard Index is: 0.07
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"section 1154"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 38, United States Co... But actually it is: During the period beginning on...
+The Jaccard Index is: 0.24
+And the Smith Waterman Score is: 0.2
+The Detailes are shown as followings: 
+common words: of Veterans Affairs for which no final decision has been made before the date of the enactment of this Act 
+insertion: 
+deletion:  of title 38 United States Code as added by subsection a shall apply with respect to any claim for disability compensation under laws administered by the Secretary 
+change: and ending on the date on which the Secretary updates and improves regulations as described in subsection b the Secretary shall 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (1)
+  provide to each veteran who has submitted a covered claim or been treated for military sexual trauma at a medical facility of the Department with a copy of the report under subsection (a)(3) or section 1164 of title 38, United States Code, as added by subsection (a)(1), that has most recently been submitted to Congress;
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(2)provide on a monthly basis to each veteran who has submitted any claim for disability compensation or been treated at a medical facility of the Department information that includes— 
+(A)the date that the Secretary plans to complete such updates and improvements to such regulations; 
+(B)the number of covered claims that have been granted or denied during the month covered by such information; 
+(C)a comparison to such rate of grants and denials with the rate for other claims regarding post-traumatic stress disorder; 
+(D)the three most common reasons for such denials; 
+(E)the average time for completion of covered claims; 
+(F)the average time for processing covered claims at each regional office; and 
+(G)any information the Secretary determines relevant with respect to submitting a covered claim;"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (3)
+  in addition to providing to veterans the information described in paragraph (2), the Secretary shall make available on a monthly basis such information on a conspicuous location of the Internet website of the Department; and
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(4)submit to Congress on a monthly basis a report that includes— 
+(A)a list of all adjudicated covered claims, including ancillary claims, during the month covered by the report; 
+(B)the outcome with respect to each medical condition included in the claim; and 
+(C)the reason given for any denial of such a claim."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(d)Military sexual trauma definedIn this section: 
+(1)The term covered claim has the meaning given that term in section 1164(c)(1) of title 38, United States Code, as added by subsection (a)(1).  
+(2)The term military sexual trauma has the meaning given that term in section 1164(c)(3) of title 38, United States Code, as added by subsection (a)(1)."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"3.Extension of rounding down of percentage increases of rates of certain educational assistance 
+(a)Montgomery GI BillSection 3015(h)(2) of title 38, United States Code, is amended— 
+(1)by striking fiscal year 2014 and inserting fiscal year 2019; and 
+(2)by striking fiscal year 2013 and inserting fiscal year 2018. 
+(b)Survivors’ and dependents’ educational assistanceSection 3564(b) of such title is amended— 
+(1)by striking fiscal year 2014 and inserting fiscal year 2019; and 
+(2)by striking fiscal year 2013 and inserting fiscal year 2018."}
+
+We are at location: null   Compared with location: bill[1]/official-title-amendment[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: official-title-amendment
+ Inserted paragraph content is: {"Amend the title so as to read: A bill to amend title 38, United States Code, to direct the Secretary of Veterans Affairs to submit to Congress an annual report on claims for disabilities incurred or aggravated by military sexual trauma, and for other purposes.."}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {" 
+May 17, 2013 
+Reported with amendments, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+

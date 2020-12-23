@@ -1,0 +1,568 @@
+===================================================
+
+total difference is: 66
+comparing document: BILLS-113hr1582eh.xml
+to document: BILLS-113hr1582rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 113 HR 1582 EH: Energy Consume... But actually it is: 113 HR 1582 : Energy Consumers...
+The Jaccard Index is: 0.88
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: 113 HR 1582 Energy Consumers Relief Act of 2013 
+insertion: 
+deletion: 
+change: EH to  / 
+
+We are at location: null   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {}
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IB But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED		 ...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED		  STATES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To protect consumers by prohib... But actually it is: To protect consumers by prohib...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: To protect consumers by prohibiting /Administrator of the Environmental Protection Agency from promulgating as /certain energyrelated rules that are estimated to cost more than 1 /and will cause significant adverse effects to the economy 
+insertion: the		 final		 billion		 
+deletion: 
+change: the to  / final to  / billion to  / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			September 9, 2013
+			Received; read twice and referred to the
+			 Committee on Environment and Public
+			 Works
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Energy Consumers Relief Act of... But actually it is: Energy Consumers Relief Act of...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Energy Consumers Relief Act 
+insertion: 
+deletion: 
+change: of 2013 to of			 2013 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Prohibition against finalizing... But actually it is: Prohibition			 against finaliz...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Prohibition against finalizing certain energyrelated rules that will cause adverse effects to the economy 
+insertion: 
+deletion: 
+change: significant to significant			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notwithstanding any other prov... But actually it is: Notwithstanding any other prov...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: Notwithstanding any other provision of the Administrator of the Environmental Protection Agency may not promulgate final an energyrelated rule that is estimated to cost more than 1 billion the Secretary of Energy determines under section 33 that the rule will significant adverse effects to the economy 
+insertion: 
+deletion: 
+change: law to law			 / as to as			 / if to if			 / cause to cause			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Reports and determinations pri... But actually it is: Reports and			 determinations ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.64
+The Detailes are shown as followings: 
+common words: Reports determinations prior to promulgating as final certain 
+insertion: 
+deletion: 
+change: and to and			 / energyrelated rules to energyrelated			 rules 
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Before promulgating as final a... But actually it is: Before promulgating as			 fina...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Before promulgating final any energyrelated rule that is estimated to cost more than 
+insertion: 
+deletion: 
+change: as to as			 / 1 billion to 1			 billion 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Report to Congress But actually it is: Report to			 Congress
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: to Congress to to			 Congress 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Administrator of the Envir... But actually it is: The Administrator of			 the En...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: The Administrator the Environmental Protection Agency shall submit to Congress a report transmit a copy to the Secretary of Energy containing 
+insertion: 
+deletion: 
+change: of to of			 / and to and			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a copy of the rule; But actually it is: a copy of the			 rule;
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: a copy of 
+insertion: 
+deletion: 
+change: the rule to the			 rule 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a concise general statement re... But actually it is: a concise general			 statement...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: a concise statement relating to the rule 
+insertion: 
+deletion: 
+change: general to general			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: an estimate of the total costs... But actually it is: an estimate of the			 total co...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: an estimate of total costs of the rule including the direct costs and indirect costs of 
+insertion: 
+deletion: 
+change: the to the			 / the rule to the			 rule 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[4]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[4]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: an estimate of the total benef... But actually it is: an estimate of the total			 be...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: an estimate of the benefits of the rule and when such benefits are expected to be realized 
+insertion: 
+deletion: 
+change: total to total			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[4]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[4]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a description of the modeling,... But actually it is: a description of the modeling,...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: a description of the modeling calculations the assumptions and the limitations due to speculation or lack of information associated with the estimates under subparagraph and 
+insertion: 
+deletion: 
+change: the to the			 / uncertainty to uncertainty			 / this to this			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[4]/clause[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[4]/clause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a certification that all data ... But actually it is: a certification that all data ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: a certification that all data and relied upon by the Agency in developing such estimates 
+insertion: 
+deletion: 
+change: documents to documents			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[4]/clause[3]/subclause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[4]/clause[3]/subclause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: are available for review by th... But actually it is: are available for review by th...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: are available for review by the on the Agency’s Web site except to the extent to which publication of data and documents would constitute disclosure of confidential information violation of applicable Federal law 
+insertion: 
+deletion: 
+change: public to public			 / such to such			 / in to in			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: an estimate of the increases i... But actually it is: an estimate of the			 increase...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: an estimate of increases in energy prices including potential increases in gasoline electricity prices for consumers that may result from implementation enforcement of the rule and 
+insertion: 
+deletion: 
+change: the to the			 / or to or			 / or to or			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[1]/subparagraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a detailed description of the ... But actually it is: a detailed			 description of t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: a description of the employment effects including potential job losses shifts in employment that may result from implementation or enforcement of 
+insertion: 
+deletion: 
+change: detailed to detailed			 / and to and			 / the rule to the			 rule 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Initial determination on incre... But actually it is: Initial			 determination on in...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Initial determination on increases and impacts 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of Energy, in co... But actually it is: The Secretary of Energy,			 in...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: The Secretary of in consultation with the Federal Energy Regulatory Commission and Administrator of the Energy Information Administration shall prepare independent analysis to determine whether the rule will cause 
+insertion: 
+deletion: 
+change: Energy to Energy			 / the to the			 / an to an			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any increase in energy prices ... But actually it is: any increase in			 energy pric...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: any increase energy prices for consumers including lowincome households small and manufacturers 
+insertion: 
+deletion: 
+change: in to in			 / businesses to businesses			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any impact on fuel diversity o... But actually it is: any impact on fuel			 diversit...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: any impact on diversity of the Nation’s electricity generation portfolio or on regional or local electric reliability 
+insertion: 
+deletion: 
+change: fuel to fuel			 / national to national			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[2]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any adverse effect on energy s... But actually it is: any adverse effect on energy s...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: any adverse effect on energy distribution or use due to the economic or technical infeasibility implementing the rule or 
+insertion: 
+deletion: 
+change: supply to supply			 / of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[2]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[2]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any other adverse effect on en... But actually it is: any other adverse effect on en...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: any other adverse effect on energy distribution or use including a shortfall in supply and increased use foreign supplies 
+insertion: 
+deletion: 
+change: supply to supply			 / of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subsequent determination on ad... But actually it is: Subsequent			 determination on...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: Subsequent determination on adverse effects to the economy 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If the Secretary of Energy det... But actually it is: If the Secretary of Energy det...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: If the Secretary of Energy under paragraph 2 that the rule will cause an increase impact or described in such paragraph then the Secretary in consultation with Administrator of the Environmental Protection Agency the Secretary Commerce the Secretary of Labor and the Administrator of the Small Administration shall 
+insertion: 
+deletion: 
+change: determines to determines			 / effect to effect			 / the to the			 / of to of			 / Business to Business			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[3]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[3]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: determine whether the rule wil... But actually it is: determine whether the rule wil...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.87
+The Detailes are shown as followings: 
+common words: determine whether the rule will significant adverse effects to the economy taking into consideration 
+insertion: 
+deletion: 
+change: cause to cause			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[3]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[3]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the costs and benefits of the ... But actually it is: the costs and benefits of the ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: the costs and benefits of the rule limitations in calculating such costs and benefits due to speculation or lack of information and 
+insertion: 
+deletion: 
+change: and to and			 / uncertainty to uncertainty			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[3]/subparagraph[1]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[3]/subparagraph[1]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the positive and negative impa... But actually it is: the			 positive and negative i...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: the positive and negative impacts of the rule on economic indicators those related to gross domestic product unemployment wages consumer and business and manufacturing activity and 
+insertion: 
+deletion: 
+change: including to including			 / prices to prices			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/paragraph[3]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/paragraph[3]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: publish the results of such de... But actually it is: publish the			 results of such...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: publish results of such determination in the Federal Register 
+insertion: 
+deletion: 
+change: the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/paragraph[1]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[4]/paragraph[1]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be:  have the meanings given such ... But actually it is:  have the meanings			 given su...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words:  have the given such terms in chapter 8 of the Environmental Protection 
+insertion: 
+deletion: 
+change: meanings to meanings			 / Agency’s to Agency’s			 
+
+We are at location: bill[1]/legis-body[1]/section[4]/paragraph[1]/text[1]/text()[4]   Compared with location: bill[1]/legis-body[1]/section[4]/paragraph[1]/text[1]/text()[4]
+The reason of change is: content change
+The value is expected to be:  dated December 17, 2010. But actually it is:  dated December 17,			 2010.
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words:  dated December 
+insertion: 
+deletion: 
+change: 17 2010 to 17			 2010 
+
+We are at location: bill[1]/legis-body[1]/section[4]/paragraph[2]/text[1]/term[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/paragraph[2]/text[1]/term[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: energy-related rule that is es... But actually it is: energy-related rule that is			...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: energyrelated rule that estimated to cost more than 1 billion 
+insertion: 
+deletion: 
+change: is to is			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means a rule of the Environme... But actually it is:  means a rule of the Environme...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words:  means a rule of the Protection Agency that 
+insertion: 
+deletion: 
+change: Environmental to Environmental			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: regulates any aspect of the pr... But actually it is: regulates any aspect of the pr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: regulates any aspect of the supply distribution or use of energy or provides for such regulation States or other governmental entities and 
+insertion: 
+deletion: 
+change: production to production			 / by to by			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: is estimated by the Administra... But actually it is: is estimated by the Administra...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: is estimated by the Administrator of Environmental Protection Agency or the Director of the Office of Management Budget to impose direct costs and indirect costs in the aggregate of than 1000000000 
+insertion: 
+deletion: 
+change: the to the			 / and to and			 / more to more			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/paragraph[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/paragraph[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  has the meaning given to such... But actually it is:  has the meaning			 given to s...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words:  has the given to such term in 
+insertion: 
+deletion: 
+change: meaning to meaning			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Prohibition on use of social c... But actually it is: Prohibition on			 use of socia...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Prohibition use of social cost of carbon in analysis 
+insertion: 
+deletion: 
+change: on to on			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In			 general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notwithstanding any other prov... But actually it is: Notwithstanding any			 other p...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Notwithstanding other provision of law or any executive order the Administrator of Environmental Protection Agency may not use the social cost of carbon in to incorporate social benefits of reducing carbon dioxide emissions or for other reason in any costbenefit analysis relating to an energyrelated that is estimated to cost more than 1 billion unless and until a Federal is enacted authorizing such use 
+insertion: 
+deletion: 
+change: any to any			 / the to the			 / order to order			 / any to any			 / rule to rule			 / law to law			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In this section, the term  But actually it is: In			 this section, the term 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: In this section the term 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means the social cost of carb... But actually it is:  means the social			 cost of c...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words:  means the cost of carbon as described in the technical support document 
+insertion: 
+deletion: 
+change: social to social			 / entitled to entitled			 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: Technical Support Document: Te... But actually it is: Technical Support Document: Te...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: Technical Support Document Technical Update of the Social Cost Carbon for Regulatory Impact Analysis Under Executive Order 12866 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be: , published by the Interagency... But actually it is: ,			 published by the Interage...
+The Jaccard Index is: 0.68
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words:  published by the Interagency Working Group on Social Cost of Carbon States Government in May 2013 or any successor or substantially document or any other estimate of the 
+insertion: 
+deletion: 
+change: United to United			 / related to related			 / monetized damages associated with an incremental increase in carbon dioxide emissions in a given year to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/text[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/text[1]/text()[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" monetized damages associated
+			 with an incremental increase in carbon dioxide emissions in a given
+			 year."}
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Passed the House of Representa... But actually it is: Passed the House of			 Represe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Passed the House Representatives August 1 2013 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clerk. But actually it is: Clerk
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/endorsement[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: endorsement But actually it is: null
+ Deleted paragraph content is: {""}
+

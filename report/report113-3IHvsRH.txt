@@ -1,0 +1,210 @@
+===================================================
+
+total difference is: 39
+comparing document: BILLS-113hr3ih.xml
+to document: BILLS-113hr3rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 113 HR 3 IH: Northern Route Ap... But actually it is: 113 HR 3 RH: Northern Route Ap...
+The Jaccard Index is: 0.85
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: 113 HR 3 Northern Route Approval Act 
+insertion: 
+deletion: 
+change: IH to RH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2013-03-15 But actually it is: 2013-05-17
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To approve the construction, o... But actually it is: To approve the construction, o...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.59
+The Detailes are shown as followings: 
+common words: To approve the construction operation / /of the Keystone XL pipeline and for 
+insertion: maintenance 
+deletion: operation 
+change: maintenance		 to and		 / other purposes to other		  purposes 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {" Union Calendar No. 40"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 113–61, Parts I,
+		  II, and III]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			May 17, 2013
+			Additional sponsors: Mr.
+			 Hurt, Mr. Jones,
+			 Mr. Salmon,
+			 Mr. Rokita,
+			 Mr. Neugebauer,
+			 Mr. Pompeo,
+			 Mrs. Roby,
+			 Mr. Stewart,
+			 Mr. McClintock,
+			 Mrs. Hartzler,
+			 Mrs. Wagner,
+			 Mrs. Bachmann,
+			 Mr. Nunnelee,
+			 Mr. Hall, Mr. Miller of Florida,
+			 Mr. Gosar,
+			 Mr. Rohrabacher,
+			 Mr. Pittenger,
+			 Mr. Schock,
+			 Mr. Roe of Tennessee,
+			 Mrs. Miller of Michigan,
+			 Mr. Wilson of South Carolina,
+			 Mr. Latham,
+			 Mr. Graves of Georgia,
+			 Mr. Thornberry,
+			 Mrs. Brooks of Indiana,
+			 Mr. Tipton,
+			 Mr. Walberg,
+			 Mr. Kline,
+			 Mr. Forbes,
+			 Mr. Sessions,
+			 Mr. DeSantis,
+			 Mr. Lamborn,
+			 Mr. Fleischmann,
+			 Mr. Radel,
+			 Mr. Meadows,
+			 Ms. Jenkins,
+			 Mr. Barletta,
+			 Mr. Wenstrup,
+			 Mr. Joyce,
+			 Mr. Woodall,
+			 Mrs. Black,
+			 Mr. Royce,
+			 Mr. Webster of Florida,
+			 Mr. Williams,
+			 Mr. Farenthold,
+			 Mr. Rothfus,
+			 Mr. Denham,
+			 Mr. Kingston,
+			 Mr. Smith of Texas, and
+			 Mr. Lankford
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			May 17, 2013
+			Reported from the Committee on Energy and
+			 Commerce
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			May 17, 2013
+			Reported from the Committee on Natural
+			 Resources
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			May 17, 2013
+			Reported from the Committee on Transportation and
+			 Infrastructure; committed to the Committee of the Whole House
+			 on the State of the Union and ordered to be printed
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  note), section 301 of			 titl... But actually it is:  note), section 301 of			 titl...
+The Jaccard Index is: 0.98
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words:  note section 301 of			 title 3 United States Code and any other Executive order or provision of law			 no Presidential permit shall be required for the pipeline described in the			 application filed on May 4 2012 by TransCanada Keystone Pipeline LP to the			 Department of State for the Keystone XL pipeline as supplemented to include			 the Nebraska reroute evaluated in the Final Evaluation Report issued by the			 Nebraska Department of Environmental Quality in January 2013 and approved by			 the Nebraska governor The final environmental impact statement issued by the			 Secretary of State on August 26 2011 coupled with the Final Evaluation Report			 described in the previous sentence shall be considered to satisfy all			 requirements of the National Environmental Policy Act of 1969 42 USC 4321			 et seq and of the National Historic Preservation Act 
+insertion: 
+deletion: 
+change: 16 USC 470 et			 seq 
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/external-xref[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/external-xref[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 16 U.S.C. 470 et seq. But actually it is: 3 U.S.C. 301
+The Jaccard Index is: 0.26
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 16 USC 
+insertion: 
+deletion: 
+change: 470 et seq to 301 
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ). But actually it is:  note), section 301 of			 titl...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		May 17, 2013
+		Reported from the Committee on Energy and
+		  Commerce
+		May 17, 2013
+		Reported from the Committee on Natural
+		  Resources
+		May 17, 2013
+		Reported from the Committee on Transportation and
+		  Infrastructure; committed to the Committee of the Whole House
+		  on the State of the Union and ordered to be printed
+	"}
+

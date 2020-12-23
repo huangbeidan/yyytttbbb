@@ -1,0 +1,1375 @@
+===================================================
+
+total difference is: 250
+comparing document: BILLS-111hr2994ih.xml
+to document: BILLS-111hr2994rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To reauthorize the Satellite H... But actually it is: To reauthorize the Satellite H...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.49
+The Detailes are shown as followings: 
+common words: To reauthorize the Satellite Home /Extension /Reauthorization Act of 2004 and for 
+insertion: Viewer		 
+deletion: Extension 
+change: Viewer to  /  to and / other purposes to other		  purposes 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 201"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No.
+		  111–349]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			December 2, 2009
+			Reported with an amendment, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+			For text of introduced bill, see copy of bill as
+			 introduced on June 23, 2009
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Satellite Home Viewer Reauthor... But actually it is: Satellite Home Viewer Reauthor...
+The Jaccard Index is: 0.83
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Satellite Home Viewer Reauthorization			 Act 
+insertion: 
+deletion: 
+change: of 2009 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in paragraph			 (2)(C), by str... But actually it is: in paragraph (2)(C), by			 str...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.2
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: paragraph			 2C by striking to paragraph 2C by			 striking 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: , and inserting			  But actually it is:  and inserting 
+The Jaccard Index is: 0.93
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words:  and 
+insertion: 
+deletion: 
+change: inserting			 to inserting 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: December 31, 2014 But actually it is: December 31,			 2014
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 31 2014 to 31			 2014 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in paragraph			 (3)(C), by str... But actually it is: in paragraph (3)(C), by			 str...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.2
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: paragraph			 3C by striking to paragraph 3C by			 striking 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: , each place it appears in			 ... But actually it is:  each place it appears in clau...
+The Jaccard Index is: 0.98
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words:  each place it appears clauses and iii and inserting 
+insertion: 
+deletion: 
+change: in			 to in / ii to ii			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Significantly			 viewed statio... But actually it is: Significantly viewed			 statio...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: Significantly			 viewed stations 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Service limited				to subscrib... But actually it is: Service limited to				subscrib...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Service subscribers taking localintolocal service 
+insertion: 
+deletion: 
+change: limited				to to limited / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Within 180 days			 after the d... But actually it is: Within 180 days			 after the d...
+The Jaccard Index is: 0.89
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: Within 180 days			 after the date of the enactment of this Act the /Commission shall take actions necessary to promulgate a rule to the amendments made subsection a 
+insertion: Federal Communications			 
+deletion: 
+change: all			 to all / implement to implement			 / by			 to by / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subsection (a),			 by strik... But actually it is: in subsection (a), by			 strik...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: in subsection 
+insertion: 
+deletion: 
+change: a			 by striking to a by			 striking 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/text[1]/quote[1]/header-in-text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/text[1]/quote[1]/header-in-text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (3) Effective			 Date But actually it is: (3) Effective			 date
+The Jaccard Index is: 0.68
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: 3 Effective			 
+insertion: 
+deletion: 
+change: Date to date 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by amending			 subsection (g) ... But actually it is: by amending subsection			 (g) ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: by subsection g to read as follows 
+insertion: 
+deletion: 
+change: amending			 to amending / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/quoted-block[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Carriage of				Local Stations ... But actually it is: Carriage of Local				Stations ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: Carriage Stations on a Single Reception Antenna 
+insertion: 
+deletion: 
+change: of				Local to of / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Additional				reception antenn... But actually it is: Additional reception				antenn...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: antenna to reception				antenna 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If the				carrier retransmits ... But actually it is: If the carrier				retransmits ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.57
+The Detailes are shown as followings: 
+common words: If retransmits the signals of local television broadcast stations in in high definition format the carrier shall retransmit /such /market so that a subscriber may receive such signals by /a /antenna and associated equipment but such antenna may be separate from the single reception antenna used to comply with paragraph				1 
+insertion: signals in				such means 
+deletion: retransmit such				signals a 
+change: the				carrier to the / a				local to a / market to local				market / means				of to of / reception to single				reception / and				associated to and / equipment to associated				equipment / and				associated to and / equipment to associated				equipment / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subsection			 (a)— But actually it is: in subsection (a)—
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: subsection			 a to subsection a 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in paragraph			 (1)(B), by str... But actually it is: in paragraph (1)(B), by			 str...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.2
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: paragraph			 1B by striking to paragraph 1B by			 striking 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  and all that			 follows throu... But actually it is:  and all that follows through	...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words:  and all 
+insertion: 
+deletion: 
+change: that			 follows through to that follows through			 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in paragraph			 (2)— But actually it is: in paragraph (2)—
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: paragraph			 2 to paragraph 2 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in			 the heading for subparag... But actually it is: in the heading for			 subparag...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: in			 the heading subparagraph A by striking 
+insertion: 
+deletion: 
+change: for to for			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in			 subparagraph (A)— But actually it is: in subparagraph			 (A)—
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: in			 subparagraph A 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[2]/subclause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[2]/subclause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in the heading for			 clause (... But actually it is: in the heading for clause			 (...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: in the heading i by striking 
+insertion: 
+deletion: 
+change: for			 to for / clause to clause			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[2]/subclause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[2]/subclause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in clause			 (i)— But actually it is: in clause (i)—
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: clause			 i to clause i 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[2]/subclause[2]/item[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[2]/subclause[2]/item[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by			 striking  But actually it is: by striking			 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: striking to striking			 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[2]/subclause[2]/item[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[2]/subclause[2]/item[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by			 striking  But actually it is: by striking 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: by			 striking 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[2]/subclause[2]/item[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[2]/subclause[2]/item[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2004 But actually it is: October 1, 2004
+The Jaccard Index is: 0.15
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[2]/subclause[2]/item[2]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[2]/subclause[2]/item[2]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2009 But actually it is: October 1, 2009
+The Jaccard Index is: 0.15
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[2]/subclause[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[2]/subclause[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in clause			 (ii)— But actually it is: in clause (ii)—
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: clause			 ii to clause ii 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[2]/subclause[4]/item[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[2]/subclause[4]/item[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by			 striking  But actually it is: by striking			 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: striking to striking			 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in the heading			 for subparag... But actually it is: by amending			 subparagraph (B...
+The Jaccard Index is: 0.3
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: heading			 for subparagraph B 
+insertion: 
+deletion: in the 
+change: by striking to to read as follows 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[3]/text[1]/quote[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"
+  to analog signals
+"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ; But actually it is: by amending			 subparagraph (B...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[3]/quoted-block[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quoted-block
+ Inserted paragraph content is: {"
+								(B)Rules for other
+				subscribers
+									(i)In
+				generalIn the case of a
+				subscriber of a satellite carrier who is eligible to receive the signal of a
+				network station under this section (in this clause referred to as a
+				distant signal), other than subscribers to whom subparagraph (A)
+				applies, the following shall apply:
+										(I)In a case in which the satellite carrier
+				makes available to that subscriber, on January 1, 2005, the signal of a local
+				network station affiliated with the same television network pursuant to section
+				338, the carrier may only provide the secondary transmissions of the distant
+				signal of a station affiliated with the same network to that subscriber if the
+				subscriber’s satellite carrier, not later than March 1, 2005, submits to that
+				television network the list and statement required by subparagraph
+				(F)(i).
+										(II)In a case in which the satellite carrier
+				does not make available to that subscriber, on January 1, 2005, the signal of a
+				local network station pursuant to section 338, the carrier may only provide the
+				secondary transmissions of the distant signal of a station affiliated with the
+				same network to that subscriber if—
+											(aa)that subscriber seeks to
+				subscribe to such distant signal before the date on which such carrier
+				commences to carry pursuant to section 338 the signals of stations from the
+				local market of such local network station; and
+											(bb)the satellite carrier,
+				within 60 days after such date, submits to each television network the list and
+				statement required by subparagraph (F)(ii).
+											(ii)Special
+				circumstancesA subscriber of
+				a satellite carrier who was lawfully receiving the distant signal of a network
+				station on the day before the date of enactment of the
+				Satellite Home Viewer Reauthorization Act of
+				2009 may receive both such distant signal and the local signal of
+				a network station affiliated with the same network until such subscriber
+				chooses to no longer receive such distant signal from such
+				carrier.
+									;"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subparagraph (B), by striki... But actually it is: in subparagraph			 (C)—
+The Jaccard Index is: 0.44
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: subparagraph B by striking			 to subparagraph			 C 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[4]/text[1]/quote[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {analog}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  each place it appears; But actually it is: in subparagraph			 (C)—
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[4]/subclause[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subclause
+ Inserted paragraph content is: {"(I)by striking analog;
+							"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[4]/subclause[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subclause
+ Inserted paragraph content is: {"(II)in clause (i), by
+			 striking the Satellite Home Viewer Extension and Reauthorization Act of
+			 2004 and inserting the Satellite Home Viewer Reauthorization Act of
+			 2009; and
+							"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[4]/subclause[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subclause
+ Inserted paragraph content is: {"(III)by amending clause (ii)
+			 to read as follows:
+								
+									(ii)either—
+										(I)at the time such person
+				seeks to subscribe to receive such secondary transmission, resides in a local
+				market where the satellite carrier makes available to that person the signal of
+				a local network station affiliated with the same television network pursuant to
+				section 338, and the retransmission of such signal by such carrier can reach
+				such subscriber; or
+										(II)receives from the satellite carrier the
+				signal of a network station affiliated with the same network that is broadcast
+				by a local station in the market where the subscriber resides, but is not the
+				local station’s primary video.
+										;
+							"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in			 subparagraph (C)— But actually it is: in subparagraph			 (D)—
+The Jaccard Index is: 0.71
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: subparagraph C to subparagraph			 D 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[5]/subclause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[5]/subclause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by striking  But actually it is: by striking clauses (i),			 (i...
+The Jaccard Index is: 0.19
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[5]/subclause[1]/text[1]/quote[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {analog}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[5]/subclause[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[5]/subclause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  each			 place it appears; and But actually it is: by striking clauses (i),			 (i...
+The Jaccard Index is: 0.03
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[5]/subclause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[5]/subclause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in clause (i), by			 striking  But actually it is: by redesignating clause			 (vi...
+The Jaccard Index is: 0.14
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[5]/subclause[2]/text[1]/quote[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"the Satellite Home Viewer Extension and Reauthorization Act of
+			 2004"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[5]/subclause[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[5]/subclause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  and inserting  But actually it is: by redesignating clause			 (vi...
+The Jaccard Index is: 0.08
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[5]/subclause[2]/text[1]/quote[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"the Satellite Home Viewer Reauthorization
+			 Act"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[5]/subclause[2]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[5]/subclause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ; But actually it is: by redesignating clause			 (vi...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[5]/subclause[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subclause
+ Inserted paragraph content is: {"(III)by amending such clause
+			 (i) (as so redesignated) to read as follows:
+								
+									(i)Signal
+				TestingA subscriber shall be
+				eligible to receive a distant signal of a distant network station affiliated
+				with the same network under this section if such subscriber is determined,
+				based on a test conducted in accordance with section 73.686(d) of title 47,
+				Code of Federal Regulations, or any successor regulation, not to be able to
+				receive a signal that exceeds the signal intensity standard in section
+				73.622(e)(1) of title 47, Code of Federal
+				Regulations.
+									;
+							"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[5]/subclause[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subclause
+ Inserted paragraph content is: {"(IV)in clause (ii)—
+								(aa)by striking
+			 digital in the heading;
+								(bb)by striking
+			 digital the first two places such term appears;
+								(cc)by striking
+			 Satellite Home Viewer Extension and Reauthorization Act of 2004
+			 and inserting Satellite Home Viewer
+			 Reauthorization Act of 2009; and
+								(dd)by striking ,
+			 whether or not such subscriber elects to subscribe to local digital
+			 signals;
+								"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[5]/subclause[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subclause
+ Inserted paragraph content is: {"(V)by inserting after clause
+			 (ii) the following new clause:
+								
+									(iii)Time-shifting
+				prohibitedIn a case in which
+				the satellite carrier makes available to an eligible subscriber under this
+				subparagraph the signal of a local network station pursuant to section 338, the
+				carrier may only provide the distant signal of a station affiliated with the
+				same network to that subscriber if, in the case of any local market in the 48
+				contiguous States of the United States, the distant signal is the secondary
+				transmission of a station whose prime time network programming is generally
+				broadcast simultaneously with, or later than, the prime time network
+				programming of the affiliate of the same network in the local
+				market.
+									;
+				and
+							"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[5]/subclause[6]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subclause
+ Inserted paragraph content is: {"(VI)by redesignating clause
+			 (x) as clause (iv); and
+							"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in			 subparagraph (D)— But actually it is: in subparagraph (E), by			 str...
+The Jaccard Index is: 0.44
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: in			 subparagraph 
+insertion: 
+deletion: 
+change: D to E by			 striking 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[6]/text[1]/quote[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"distant analog signal or"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[6]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" and all that follows through
+			 "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[6]/text[1]/quote[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"(B), or (D))"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[6]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" and inserting "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[6]/text[1]/quote[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"distant signal"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[6]/text[1]/text()[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {;}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[6]/subclause[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subclause But actually it is: null
+ Deleted paragraph content is: {"(I)by striking
+			 clauses (i), (iii) through (v), (vii) through (ix), and (xi);
+							"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[6]/subclause[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subclause But actually it is: null
+ Deleted paragraph content is: {"(II)by redesignating
+			 clause (vi) as clause (i);
+							"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[6]/subclause[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subclause But actually it is: null
+ Deleted paragraph content is: {"(III)by amending such
+			 clause (i) (as so redesignated) to read as follows:
+								
+									(i)Signal
+				TestingA subscriber shall be
+				eligible to receive a distant signal of a distant network station affiliated
+				with the same network under this section if such subscriber is determined,
+				based on a test conducted in accordance with section 73.686(d) of title 47,
+				Code of Federal Regulations, or any successor regulation, not to be able to
+				receive a signal that exceeds the signal intensity standard in section
+				73.622(e)(1) of title 47, Code of Federal
+				Regulations.
+									;
+							"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[6]/subclause[4]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subclause But actually it is: null
+ Deleted paragraph content is: {"(IV)in clause
+			 (ii)—
+								(aa)by
+			 striking digital in the heading;
+								(bb)by
+			 striking digital each place it appears;
+								(cc)by
+			 striking Satellite Home Viewer Extension and Reauthorization Act of
+			 2004 and inserting Satellite
+			 Home Viewer Reauthorization Act; and
+								(dd)by
+			 striking , whether or not such subscriber elects to subscribe to local
+			 digital signals; and
+								"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[6]/subclause[5]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subclause But actually it is: null
+ Deleted paragraph content is: {"(V)by redesignating
+			 clause (x) as clause (iii); and
+							"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[7]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[6]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (vii) But actually it is: (vi)
+The Jaccard Index is: 0.25
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in			 subparagraph (E), by str... But actually it is: in subparagraph (E), by			 str...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: in			 subparagraph E 
+insertion: 
+deletion: 
+change: by striking to by			 striking 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[7]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[6]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  and all			 that follows throu... But actually it is:  and all that follows through	...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words:  and that follows 
+insertion: 
+deletion: 
+change: all			 to all / through to through			 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[7]/text[1]/quote[3]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[6]/text[1]/quote[3]/text()[1]
+The reason of change is: content change
+The value is expected to be: distant			 signal But actually it is: distant signal
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: distant			 signal 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[7]/text[1]/text()[4]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/subparagraph[2]/clause[6]/text[1]/text()[4]
+The reason of change is: content change
+The value is expected to be: ; and But actually it is: ;
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subsection			 (c)— But actually it is: in subsection (c)—
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: subsection			 c to subsection c 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by amending			 paragraph (3) t... But actually it is: by amending paragraph (3)			 t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: by paragraph to read as follows 
+insertion: 
+deletion: 
+change: amending			 to amending / 3 to 3			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[1]/quoted-block[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[1]/quoted-block[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Within 180 days after the date... But actually it is: Within 180 days after				the d...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Within 180 days /date of the enactment of 
+insertion: 
+deletion: days 
+change: the to after				the / the				 to the 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[1]/quoted-block[1]/paragraph[1]/subparagraph[1]/text[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[1]/quoted-block[1]/paragraph[1]/subparagraph[1]/text[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Satellite Home Viewer Reauthor... But actually it is: Satellite				Home Viewer Reaut...
+The Jaccard Index is: 0.83
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: Home Viewer 
+insertion: 
+deletion: Satellite 
+change: Reauthorization				Act to Reauthorization Act of 2009 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[1]/quoted-block[1]/paragraph[1]/subparagraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[1]/quoted-block[1]/paragraph[1]/subparagraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: , the Commission shall take al... But actually it is: , the Commission shall				take...
+The Jaccard Index is: 0.67
+And the Smith Waterman Score is: 0.29
+The Detailes are shown as followings: 
+common words:  the Commission shall take all actions necessary to develop				and prescribe by rule a pointtopoint predictive model /for reliably and				presumptively determining the ability of individual locations to receive				signals in accordance with the signal intensity standard in section				73622e1 of title 47 Code of Federal Regulations including to for				the continuing operation of translator stations and low power television				stations The Commission shall establish procedures for the continued				refinement in the application of the model by the use of additional data as it				becomes available 
+insertion: the Commission shall				take all actions necessary to develop and prescribe by rule a pointtopoint				predictive model for reliably and presumptively determining the ability of				individual locations through the use of a conventional stationary outdoor				rooftop receiving antenna to receive signals in accordance with the signal				intensity standard in section 73622e1 of title 47 Code of Federal				Regulations including to account for the continuing operation of translator				stations and low set 
+deletion: 
+change: account to Congress / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Commission shall				issue ... But actually it is: The Commission shall				issue ...
+The Jaccard Index is: 0.95
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: The Commission shall				issue an order completing its rulemaking proceeding in ET Docket No 0694				within 180 days after the date of enactment of the				 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/text[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/text[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Satellite Home Viewer Reauthor... But actually it is: Satellite Home Viewer Reauthor...
+The Jaccard Index is: 0.83
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Satellite Home Viewer 
+insertion: 
+deletion: 
+change: Reauthorization				Act to Reauthorization Act of				2009 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: . As part of such rulemaking p... But actually it is: .
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: clause But actually it is: null
+ Deleted paragraph content is: {"(i)the effects of the
+				transition to digital television broadcasting; and
+									"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: clause But actually it is: null
+ Deleted paragraph content is: {"(ii)the continuing operation of translator
+				stations and low power television
+				stations.
+									"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[1]/quoted-block[1]/paragraph[1]/subparagraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(C)Study of types of
+				antennas available to receive digital signals
+									(i)Study
+				requiredNot later than 1 year after the date of enactment of the
+				Satellite Home Viewer Reauthorization Act of
+				2009, the Commission shall complete a study regarding whether,
+				for purposes of identifying if a household is unserved by an adequate digital
+				signal under section 119(d)(10) of title 17, United States Code, the digital
+				signal strength standard in section 73.622(e)(1) of title 47, Code of Federal
+				Regulations, or the testing procedures in section 73.686 of title 47, Code of
+				Federal Regulations, such statutes or regulations should be revised to take
+				into account the types of antennas that are available to and used by
+				consumers.
+									(ii)Study
+				considerationIn conducting the study under clause (i), the
+				Commission shall consider whether to account for the fact that an antenna can
+				be mounted on a roof or placed in a home and can be fixed or capable of
+				rotating.
+									(iii)ReportNot
+				later than 1 year after the date of enactment of the
+				Satellite Home Viewer Reauthorization Act of
+				2009, the Commission shall submit to the Committee on Energy and
+				Commerce of the House of Representatives and the Committee on Commerce,
+				Science, and Transportation of the Senate a report containing—
+										(I)the results of the study
+				conducted under clause (i); and
+										(II)recommendations, if any,
+				regarding changes to be made to Federal statutes or
+				regulations.
+										"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by amending			 paragraph (4)(A... But actually it is: by amending paragraph			 (4)(A...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: by paragraph 4A to read as follows 
+insertion: 
+deletion: 
+change: amending			 to amending / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in paragraph			 (4)(B), by str... But actually it is: in paragraph (4)(B), by			 str...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.2
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: paragraph			 4B by striking to paragraph 4B by			 striking 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  and all that follows			 throu... But actually it is:  and all that follows through	...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words:  and all that 
+insertion: 
+deletion: 
+change: follows			 through to follows through			 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[3]/text[1]/quote[3]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[3]/text[1]/quote[3]/text()[1]
+The reason of change is: content change
+The value is expected to be: such requisite			 signal inten... But actually it is: such requisite signal			 inten...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: such signal intensity standard 
+insertion: 
+deletion: 
+change: requisite			 to requisite / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in paragraph			 (4)(E), by str... But actually it is: in paragraph (4)(E), by			 str...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.2
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: paragraph			 4E by striking to paragraph 4E by			 striking 
+
+We are at location: bill[1]/legis-body[1]/section[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Application			 pending complet... But actually it is: Application pending			 complet...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Application			 pending completion of rulemakings 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Between the date of			 enactme... But actually it is: Between the date of			 enactme...
+The Jaccard Index is: 0.95
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: Between the date of			 enactment of this Act and the adoption of rules by the /Commission pursuant the amendments to the Communications Act of 1934 made sections 3 and 4 this Act the /Commission follow its rules and regulations pursuant to sections 338 339 340 of the Communications Act of 1934 as effect on the day before the of enactment of this Act 
+insertion: Federal Communications			 Federal Communications 
+deletion: 
+change: to			 to to / by to by			 / of			 to of / shall to shall			 / promulgated			 to promulgated / and to and			 / in			 to in / date to date			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Translator			 stations and low... But actually it is: Translator stations and			 low...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.57
+The Detailes are shown as followings: 
+common words: Translator			 stations low power television stations 
+insertion: 
+deletion: 
+change: and to and			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notwithstanding			 subsection ... But actually it is: Notwithstanding subsection (a)...
+The Jaccard Index is: 0.96
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Notwithstanding			 subsection a purposes of determining whether a subscriber within local market served a translator station or a low power television affiliated with television network is eligible to receive distant under section 339 such Act the /Commission shall follow its rules and			 regulations for determining such subscriber’s eligibility as in effect on the			 day before the date of enactment of this Act until the date on which the			 translator station or low power television station is licensed to broadcast a			 digital signal 
+insertion: Federal Communications 
+deletion: 
+change: for to for			 / the			 to the / by to by			 / station			 to station / a to a			 / signals			 to signals / of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: As			 used in this section: But actually it is: As			 used in this Act:
+The Jaccard Index is: 0.54
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: As			 used in this 
+insertion: 
+deletion: 
+change: section to Act 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Local market;			 low power tel... But actually it is: Local market; low power			 tel...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.42
+The Detailes are shown as followings: 
+common words: Local low television station satellite carrier subscriber 
+insertion: 
+deletion: 
+change: market			 to market / power to power			 / television			 broadcast station to television broadcast			 station 
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[1]/text[1]/term[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[1]/text[1]/term[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: low			 power television statio... But actually it is: local market
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[1]/text[1]/term[3]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[1]/text[1]/term[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: satellite carrier But actually it is: local market
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[1]/text[1]/term[4]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[1]/text[1]/term[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: subscriber But actually it is: local market
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[1]/text[1]/term[5]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[1]/text[1]/term[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: television broadcast station But actually it is: local market
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[1]/text[1]/text()[6]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[1]/text[1]/text()[6]
+The reason of change is: content change
+The value is expected to be:  have the			 meanings given su... But actually it is:  have			 the meanings given su...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words:  the			 meanings given such terms in section 338k of the Communications Act of			 1934 
+insertion: 
+deletion: 
+change: have to have			 / 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[1]/text[1]/quote[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"low power
+			 television station"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[1]/text[1]/quote[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"satellite carrier"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[1]/text[1]/quote[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {subscriber}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[1]/text[1]/quote[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"television broadcast station"}
+
+We are at location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[2]/text[1]/term[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[2]/text[1]/term[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: television network But actually it is: network station
+The Jaccard Index is: 0.26
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: television 
+change: station 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]/subsection[3]/paragraph[2]/text[1]/quote[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"television network"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"6.Process for issuing
+			 qualified carrier certificationPart I of title III of the Communications
+			 Act of 1934 is amended by adding at the end the following new section:
+			
+				342.Process for issuing
+				qualified carrier certification
+					(a)CertificationThe Commission shall issue a certification
+				for the purposes of section 119(g)(3)(A)(iii) of title 17, United States Code,
+				if the Commission determines that—
+						(1)a satellite carrier is
+				providing local service pursuant to the statutory license under section 122 of
+				such title in each designated market area; and
+						(2)with respect to each
+				designated market area in which such satellite carrier was not providing such
+				local service as of the date of enactment of the
+				Satellite Home Viewer Reauthorization Act of
+				2009—
+							(A)the satellite carrier’s
+				satellite beams are designed, and predicted by the satellite manufacturer’s
+				pre-launch test data, to provide a good quality satellite signal to 90 percent
+				of the households in each such designated market area based on the most recent
+				census data released by the United States Census Bureau; and
+							(B)there is no material
+				evidence that there has been a satellite or sub-system failure subsequent to
+				the satellite’s launch that precludes the ability of the satellite carrier to
+				satisfy the requirements of subparagraph (A).
+							(b)Information
+				requiredAny entity seeking
+				the certification provided for in subsection (a) shall submit to the Commission
+				the following information:
+						(1)An affidavit stating that, to the best of
+				the affiant’s knowledge, the satellite carrier provides local service in all
+				designated market areas pursuant to the statutory license provided for in
+				section 122 of title 17, United States Code, and listing those designated
+				market areas in which local service was provided as of the date of enactment of
+				the Satellite Home Viewer Reauthorization Act
+				of 2009.
+						(2)For each designated market area not listed
+				in paragraph (1):
+							(A)Identification of each such designated
+				market area and the location of its local receive facility.
+							(B)Data showing the number of households, and
+				maps showing the geographic distribution thereof, in each such designated
+				market area based on the most recent census data released by the United States
+				Census Bureau.
+							(C)Maps, with superimposed effective
+				isotropically radiated power predictions obtained in the satellite
+				manufacturer’s pre-launch tests, showing that the contours of the carrier’s
+				satellite beams as designed and the geographic area that the carrier’s
+				satellite beams are designed to cover are predicted to provide a good quality
+				satellite signal to 90 percent of the households in such designated market area
+				based on the most recent census data released by the United States Census
+				Bureau.
+							(D)For any satellite relied upon for
+				certification under this section, an affidavit stating that, to the best of the
+				affiant’s knowledge, there have been no satellite or sub-system failures
+				subsequent to the satellite’s launch that would degrade the design performance
+				to such a degree that a satellite transponder used to provide local service to
+				any such designated market area is precluded from delivering a good quality
+				satellite signal to 90 percent of the households in such designated market area
+				based on the most recent census data released by the United States Census
+				Bureau.
+							(E)Any additional engineering, designated
+				market area, or other information the Commission considers necessary to
+				determine whether the Commission shall grant a certification under this
+				section.
+							(c)Certification
+				Issuance
+						(1)Public
+				commentThe Commission shall provide 30 days for public comment
+				on a request for certification under this section.
+						(2)Deadline for
+				decisionThe Commission shall grant or deny a request for
+				certification within 90 days after the date on which such request is
+				filed.
+						(d)Subsequent
+				affirmationAn entity granted
+				qualified carrier status pursuant to section 119(g) of title 17, United States
+				Code, shall file an affidavit with the Commission 30 months after such status
+				was granted stating that, to the best of the affiant’s knowledge, it is in
+				compliance with the requirements for a qualified carrier.
+					(e)DefinitionsFor the purposes of this section:
+						(1)Designated Market
+				AreaThe term
+				designated market area has the meaning given such term in
+				section 122(j)(2)(C) of title 17, United States Code.
+						(2)Good quality satellite
+				signal
+							(A)In
+				generalThe term “good quality satellite signal” means—
+								(i)a satellite signal whose
+				power level as designed shall achieve reception and demodulation of the signal
+				at an availability level of at least 99.7 percent using models of satellite
+				antennas normally used by the satellite carrier’s subscribers and the same
+				calculation methodology used by the satellite carrier to determine predicted
+				signal availability in the top 100 designated market areas; and
+								(ii)a video signal
+				transmitted by satellite carrier such that, taking into account whether a
+				signal is in standard definition format or high definition format, compression
+				methodology, modulation, error correction, power level, and utilization of
+				advances in technology that does not circumvent the intent of this section to
+				provide for non-discriminatory treatment with respect to any comparable
+				television broadcast station signal—
+									(I)the satellite carrier
+				treats all television broadcast station’s signals the same with respect to
+				statistical multiplexer prioritization; and
+									(II)the number of video
+				signals in the relevant satellite transponder is not more than the then current
+				greatest number of video signals carried on any equivalent transponder serving
+				the top 100 designated market areas.
+									(B)DeterminationFor
+				the purposes of subparagraph (A), the top 100 designated market areas shall be
+				as determined by Nielsen Media Research and published in the Nielsen Station
+				Index Directory and Nielsen Station Index United States Television Household
+				Estimates or any successor publication as of the date of a satellite carrier’s
+				application for certification under this
+				section.
+							.
+		"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[7]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"7.Savings clause regarding
+			 definitionsNothing in this
+			 Act or the amendments made by this Act shall be construed to affect the
+			 definitions of program related and primary video
+			 in the Communications Act of 1934 or in any regulations promulgated pursuant to
+			 such Act by the Federal Communications Commission.
+		"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[8]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"8.Savings clause regarding
+			 use of non-compulsory licenses; Report
+			(a)In
+			 generalNothing in this Act,
+			 the Communications Act of 1934, or regulations promulgated by the Federal
+			 Communications Commission under this Act or the Communications Act of 1934
+			 shall limit the ability of a satellite carrier to retransmit a performance or
+			 display of a work pursuant to an authorization granted by the copyright owner
+			 or, if within the scope of its authorization, its licensee.
+			(b)ReportNot
+			 later than 1 year after the date of enactment of this Act, the Federal
+			 Communications Commission shall submit to the Committee on Energy and Commerce
+			 of the House of Representatives and the Committee on Commerce, Science, and
+			 Transportation of the Senate a report containing an analysis of—
+				(1)the number of households
+			 in a State that receive local broadcast stations from a station of license that
+			 is located in a different State;
+				(2)the extent to which
+			 consumers have access to in-state broadcast programming; and
+				(3)whether there are
+			 alternatives to the use of designated market areas, as defined in section 122
+			 of title 17, United States Code, to define local markets that would provide
+			 more consumers with in-state broadcast programming.
+				"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[9]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"9.Nondiscrimination in
+			 Carriage of High Definition Digital Signals of Noncommercial Educational
+			 Television Stations
+			(a)In
+			 generalSection 338(a) of the
+			 Communications Act of 1934 (47 U.S.C. 338(a)) is amended by adding at the end
+			 the following new paragraph:
+				
+					(5)Nondiscrimination in
+				Carriage of High Definition Signals of Noncommercial Educational Television
+				Stations
+						(A)Existing carriage of
+				high definition signalsEach eligible satellite carrier
+				providing, under section 122 of title 17, United States Code, any secondary
+				transmissions in high definition to subscribers located within the local market
+				of a television broadcast station of a primary transmission made by that
+				station prior to the date of enactment of this paragraph shall carry the
+				high-definition signals of qualified noncommercial educational television
+				stations located within that local market in accordance with the following
+				schedule:
+							(i)By December 31, 2010, in
+				at least 50 percent of the markets in which such satellite carrier provides
+				such secondary transmissions in high definition.
+							(ii)By December 31, 2011, in
+				every market in which such satellite carrier provides such secondary
+				transmissions in high definition.
+							(B)New Initiation of
+				ServiceEach eligible
+				satellite carrier that initiates the provision, under section 122 of title 17,
+				United States Code, of any secondary transmissions in high definition to
+				subscribers located within the local market of a television broadcast station
+				of a primary transmission made by that station after the date of enactment of
+				this paragraph shall carry the high-definition signals of all qualified
+				noncommercial educational television stations located within that local market.
+						.
+			(b)DefinitionsSection 338(k) of such Act (47 U.S.C.
+			 338(k)) is amended—
+				(1)by redesignating
+			 paragraphs (2) through (8) as paragraphs (3) through (9), respectively;
+				(2)by inserting after
+			 paragraph (1) the following new paragraph:
+					
+						(2)Eligible Satellite
+				CarrierThe term
+				eligible satellite carrier means any satellite carrier that is
+				not a party to a carriage contract with a  qualified noncommercial educational
+				television station, or its representative, that is in force and effect as of
+				the date of enactment of this
+				paragraph.
+						;
+				(3)by redesignating
+			 paragraphs (6) through (9) (as previously redesignated) as paragraphs (7)
+			 through (10), respectively; and
+				(4)by inserting after paragraph (5) (as so
+			 redesignated) the following new paragraph:
+					
+						(6)Qualified Noncommercial
+				Educational Television StationThe term ‘qualified noncommercial
+				educational television station’ has the meaning given such term in section
+				615(l)(1) of this
+				Act.
+						.
+				"}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		December 2, 2009
+		Reported with an amendment, committed to the Committee of
+		  the Whole House on the State of the Union, and ordered to be
+		  printed
+	"}
+

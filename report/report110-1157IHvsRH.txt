@@ -1,0 +1,763 @@
+===================================================
+
+total difference is: 98
+comparing document: BILLS-110hr1157ih.xml
+to document: BILLS-110hr1157rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 1157 IH: Breast Cancer ... But actually it is: 110 HR 1157 RH: Breast Cancer ...
+The Jaccard Index is: 0.88
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: 110 HR 1157 Breast Cancer and Environmental 
+insertion: 
+deletion: 
+change: IH to RH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2007-02-16 But actually it is: 2008-09-25
+The Jaccard Index is: 0.07
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/session[1]/text()[1]   Compared with location: bill[1]/form[1]/session[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 1st Session But actually it is: 2d Session
+The Jaccard Index is: 0.55
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 1st Session 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Committee			 on Energy and Com... But actually it is: Committee on Energy and			 Com...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: Committee			 on Energy 
+insertion: 
+deletion: 
+change: and Commerce to and			 Commerce 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend the Public Health Ser... But actually it is: To amend the Public Health Ser...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: To amend the Public Health Service Act /authorize /Director of the National Institute of Environmental /Sciences to /grants for the development and operation of research / /environmental factors that may be related to the etiology of breast		  cancer 
+insertion: to		 Health		 regarding 
+deletion: authorize to research 
+change: to to  /  to the / Health to  /  to make / regarding		 to centers		 / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 574"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No.
+		  110–889]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			September 25, 2008
+			Additional sponsors: Mr.
+			 Allen, Mr. Bishop of New
+			 York, Mr. Cleaver,
+			 Mr. Cummings,
+			 Mr. Tom Davis of Virginia,
+			 Mrs. Davis of California,
+			 Mr. Delahunt,
+			 Mr. Emanuel,
+			 Mr. Engel,
+			 Ms. Eshoo,
+			 Mr. Frank of Massachusetts,
+			 Ms. Harman,
+			 Mr. Holden,
+			 Mr. Israel,
+			 Mr. Kennedy,
+			 Mr. Kind, Mr. Kucinich, Mr.
+			 Larson of Connecticut, Mr.
+			 Lynch, Mrs. McCarthy of New
+			 York, Ms. McCollum of
+			 Minnesota, Mr. Meehan,
+			 Mr. Michaud,
+			 Mr. Moran of Virginia,
+			 Mr. Murtha,
+			 Mr. Neal of Massachusetts,
+			 Mr. Oberstar,
+			 Mr. Peterson of Minnesota,
+			 Mr. Platts,
+			 Mr. Ramstad,
+			 Mr. Reyes,
+			 Mr. Ryan of Wisconsin,
+			 Ms. Schakowsky,
+			 Ms. Schwartz,
+			 Mr. Serrano,
+			 Mr. Shays,
+			 Mrs. Tauscher,
+			 Mr. Waxman,
+			 Mr. Weiner,
+			 Mr. Tierney,
+			 Mr. Terry,
+			 Mr. Gene Green of Texas,
+			 Mr. Boucher,
+			 Mr. Gerlach,
+			 Mr. Petri,
+			 Mr. Matheson,
+			 Ms. Bordallo,
+			 Mr. Burton of Indiana,
+			 Mr. Olver,
+			 Mr. Markey,
+			 Mr. Wu, Mr. Fattah, Mr.
+			 Edwards, Mr. McNulty,
+			 Mr. McGovern,
+			 Mr. Grijalva,
+			 Mr. Schiff,
+			 Ms. Solis,
+			 Mr. Renzi,
+			 Mr. Capuano,
+			 Mr. Nadler,
+			 Mr. Smith of New Jersey,
+			 Mrs. Schmidt,
+			 Mr. Kanjorski,
+			 Mr. Latham,
+			 Mr. Rodriguez,
+			 Mr. Tim Murphy of Pennsylvania,
+			 Mr. King of New York,
+			 Mr. Ferguson,
+			 Mrs. Boyda of Kansas,
+			 Ms. Eddie Bernice Johnson of Texas,
+			 Mr. Gonzalez,
+			 Ms. Norton,
+			 Ms. Hooley,
+			 Mr. Hinchey,
+			 Mr. Dent, Mrs. Cubin, Mr.
+			 Braley of Iowa, Mr.
+			 Langevin, Mr. Pastor,
+			 Ms. Berkley,
+			 Mr. Berman,
+			 Mr. McIntyre,
+			 Mr. Doyle,
+			 Ms. DeGette,
+			 Mr. Carney,
+			 Mrs. McMorris Rodgers,
+			 Mr. Marshall,
+			 Mr. Franks of Arizona,
+			 Mr. Reynolds,
+			 Mr. Higgins,
+			 Mr. Udall of Colorado,
+			 Mr. Patrick J. Murphy of Pennsylvania,
+			 Mr. Fossella,
+			 Mr. Brady of Pennsylvania,
+			 Mrs. Gillibrand,
+			 Mr. Nunes,
+			 Mr. English of Pennsylvania,
+			 Mr. Kuhl of New York,
+			 Ms. Linda T. Sánchez of California,
+			 Mr. LoBiondo,
+			 Mr. Ellison,
+			 Mr. Van Hollen,
+			 Mr. McHugh,
+			 Mr. Miller of North Carolina,
+			 Mr. Bishop of Georgia,
+			 Mr. Johnson of Georgia,
+			 Mrs. Maloney of New York,
+			 Mr. Clay, Mr. Kirk, Ms.
+			 Velázquez, Ms.
+			 Ros-Lehtinen, Mr. Holt,
+			 Mr. Sherman,
+			 Ms. Shea-Porter,
+			 Mr. Hastings of Florida,
+			 Mr. Garrett of New Jersey,
+			 Mr. Walz of Minnesota,
+			 Mr. DeFazio,
+			 Mr. Jindal,
+			 Ms. Baldwin,
+			 Mr. Davis of Illinois,
+			 Mr. Filner,
+			 Mr. Thompson of California,
+			 Mr. Rangel,
+			 Ms. Moore of Wisconsin,
+			 Ms. Waters,
+			 Mr. Weller of Illinois,
+			 Mr. Salazar,
+			 Mr. Stark,
+			 Mr. Scott of Georgia,
+			 Mr. Sires,
+			 Mr. Altmire,
+			 Mr. Boswell,
+			 Mr. Ackerman,
+			 Mr. McDermott,
+			 Mr. Farr, Ms. Jackson-Lee of Texas,
+			 Ms. Kaptur,
+			 Mr. LaTourette,
+			 Mr. Scott of Virginia,
+			 Mr. Arcuri,
+			 Mr. Etheridge,
+			 Mr. Payne,
+			 Ms. Loretta Sanchez of California,
+			 Mrs. Napolitano,
+			 Mr. Calvert,
+			 Mr. Chabot,
+			 Mr. Butterfield,
+			 Mr. Towns,
+			 Mr. Price of North Carolina,
+			 Mr. Sensenbrenner,
+			 Mr. Meeks of New York,
+			 Mrs. Blackburn,
+			 Mr. Doggett,
+			 Mr. Moore of Kansas,
+			 Mr. Kagen,
+			 Mr. Wolf, Mr. Lewis of Georgia,
+			 Mr. Porter,
+			 Mr. Young of Alaska,
+			 Mr. Hall of New York,
+			 Mr. Hinojosa,
+			 Mr. Sestak,
+			 Mr. Meek of Florida,
+			 Mr. Crowley,
+			 Mr. Al Green of Texas,
+			 Mr. Carson,
+			 Ms. DeLauro,
+			 Ms. Lee, Mr. Klein of Florida,
+			 Mrs. Biggert,
+			 Mr. Gordon of Tennessee,
+			 Mr. Wexler,
+			 Mr. Andrews,
+			 Mr. Kildee,
+			 Ms. Herseth Sandlin,
+			 Mr. Walsh of New York,
+			 Mr. Visclosky,
+			 Mr. Shuler,
+			 Mr. Alexander,
+			 Mr. Wynn, Mr. Weldon of Florida,
+			 Mr. George Miller of California,
+			 Mr. Boustany,
+			 Ms. Castor,
+			 Ms. Wasserman Schultz,
+			 Ms. Matsui,
+			 Mr. Costa,
+			 Mr. Watt, Mr. Inslee, Mr.
+			 Larsen of Washington, Mr.
+			 McCotter, Mr. Melancon,
+			 Mr. Baker,
+			 Mr. Saxton,
+			 Mr. Baca, Mr. Udall of New Mexico,
+			 Mr. Ruppersberger,
+			 Mr. Blumenauer,
+			 Ms. Sutton,
+			 Mr. Ryan of Ohio,
+			 Mr. Buchanan,
+			 Mr. Carnahan,
+			 Mr. Rothman,
+			 Mr. Loebsack,
+			 Mr. Cuellar,
+			 Ms. Corrine Brown of Florida,
+			 Ms. Roybal-Allard,
+			 Mr. Ellsworth,
+			 Mr. Lipinski,
+			 Mr. Hodes,
+			 Mr. Snyder,
+			 Mrs. Wilson of New Mexico,
+			 Mr. Perlmutter,
+			 Ms. Woolsey,
+			 Mr. Mahoney of Florida,
+			 Mr. Chandler,
+			 Ms. Zoe Lofgren of California,
+			 Mr. Lincoln Diaz-Balart of Florida,
+			 Mr. Welch of Vermont,
+			 Mr. Stupak,
+			 Mr. Mitchell,
+			 Mrs. Jones of Ohio,
+			 Mrs. Jo Ann Davis of Virginia,
+			 Mr. McNerney,
+			 Mr. Upton,
+			 Mr. Honda,
+			 Ms. Watson,
+			 Mr. Space,
+			 Ms. Bean, Mr. Becerra, Mr.
+			 Donnelly, Mr. Jackson of
+			 Illinois, Mr. Lampson,
+			 Mr. Lantos,
+			 Mr. Gutierrez,
+			 Mr. Manzullo,
+			 Mrs. Musgrave,
+			 Mr. Barrow,
+			 Mr. Gilchrest,
+			 Mr. Sarbanes,
+			 Ms. Giffords,
+			 Mr. Jefferson,
+			 Mr. Heller of Nevada,
+			 Ms. Pryce of Ohio,
+			 Mr. Hill, Mr. Courtney, Mr.
+			 Hare, Mr. Ross,
+			 Mr. Castle,
+			 Mr. Pascrell,
+			 Mr. Issa, Mr. Duncan, Ms.
+			 Clarke, Mr. Rush,
+			 Mr. Deal of Georgia,
+			 Mrs. Christensen,
+			 Mr. Costello,
+			 Mr. Boehner,
+			 Mr. Walden of Oregon,
+			 Mrs. Emerson,
+			 Mr. Carson,
+			 Mr. Culberson,
+			 Mr. Roskam,
+			 Mr. Royce,
+			 Mr. Tiberi,
+			 Mr. Cohen,
+			 Mr. Yarmuth,
+			 Mr. Wilson of Ohio,
+			 Ms. Scalise,
+			 Mr. Wittman of Virginia,
+			 Mr. Berry,
+			 Mr. Thompson of Mississippi,
+			 Mr. Graves,
+			 Mr. Turner,
+			 Mr. Hobson,
+			 Mr. Cardoza,
+			 Ms. Hirono,
+			 Mrs. Drake,
+			 Mr. Abercrombie,
+			 Ms. Kilpatrick,
+			 Mr. Boren,
+			 Mr. Dicks, and
+			 Mr. Feeney
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			September 25, 2008
+			Reported with an amendment, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+			For text of introduced bill, see copy of bill as
+			 introduced on February 16, 2007
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Breast Cancer and Environmenta... But actually it is: Breast Cancer and Environmenta...
+The Jaccard Index is: 0.96
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: Breast Cancer and Environmental			 Research Act of 
+insertion: 
+deletion: 
+change: 2007 to 2008 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: National Institutes of			 Heal... But actually it is: Expanding collaborative			 res...
+The Jaccard Index is: 0.26
+And the Smith Waterman Score is: 0.22
+The Detailes are shown as followings: 
+common words: environmental factors related to breast cancer 
+insertion: 
+deletion: National Institutes of			 Health awards for development and operation of research centers regarding			 
+change: and the environment 
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: subsection
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(a)}
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/act-name[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]
+The reason of change is: element tag name
+The value is expected to be: act-name But actually it is: header
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/act-name[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Public Health Service Act But actually it is: In			 general
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"Subpart 1 of part C
+			 of title IV of the Public Health Service Act ("}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"42 U.S.C. 285 et seq."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended
+			 by adding at the end the following:"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quoted-block
+ Inserted paragraph content is: {"
+					417F.Interagency Breast
+				Cancer and Environmental Research Coordinating Committee
+						(a)Interagency Breast
+				Cancer and Environmental Research Coordinating Committee
+							(1)EstablishmentNot later than 6 months after the date of
+				the enactment of this section, the Secretary shall establish a committee, to be
+				known as the Interagency Breast Cancer and Environmental Research Coordinating
+				Committee (in this section referred to as the ‘Committee’).
+							(2)DutiesThe
+				Committee shall—
+								(A)share and coordinate information on
+				existing research activities, and make recommendations to the National
+				Institutes of Health and other Federal agencies regarding how to improve
+				existing research programs, that are related to breast cancer research;
+								(B)develop a comprehensive
+				strategy and advise the National Institutes of Health and other Federal
+				agencies in the solicitation of proposals for collaborative, multidisciplinary
+				research, including proposals to evaluate environmental and genomic factors
+				that may be related to the etiology of breast cancer that would—
+									(i)result in innovative
+				approaches to study emerging scientific opportunities or eliminate knowledge
+				gaps in research to improve the research portfolio;
+									(ii)outline key research
+				questions, methodologies, and knowledge gaps;
+									(iii)expand the number of
+				research proposals that involve collaboration between 2 or more national
+				research institutes or national centers, including proposals for Common Fund
+				research described in section 402(b)(7) to improve the research portfolio; and
+									(iv)expand the number of
+				collaborative, multidisciplinary, and multi-institutional research
+				grants;
+									(C)develop a summary of
+				advances in breast cancer research supported or conducted by Federal agencies
+				relevant to the diagnosis, prevention, and treatment of cancer and other
+				diseases and disorders; and
+								(D)not later than 2 years
+				after the date of the establishment of the Committee, make recommendations to
+				the Secretary—
+									(i)regarding any appropriate
+				changes to research activities, including recommendations to improve the
+				research portfolio of the National Institutes of Health to ensure that
+				scientifically based strategic planning is implemented in support of research
+				priorities that impact breast cancer research activities;
+									(ii)to ensure that the
+				activities of the National Institutes of Health and other Federal agencies,
+				including the Department of Defense, are free of unnecessary duplication of
+				effort;
+									(iii)regarding public
+				participation in decisions relating to breast cancer research to increase the
+				involvement of patient advocacy and community organizations representing a
+				broad geographical area;
+									(iv)on how best to
+				disseminate information on breast cancer research progress; and
+									(v)on how to expand partnerships between
+				public entities, including Federal agencies, and private entities to expand
+				collaborative, cross-cutting research.
+									(3)Rule of
+				constructionFor the purposes
+				of the Committee, when focusing on research to evaluate environmental and
+				genomic factors that may be related to the etiology of breast cancer, nothing
+				in this section shall be construed to restrict the Secretary from including
+				other forms of cancer, as appropriate, when doing so may advance research in
+				breast cancer or advance research in other forms of cancer.
+							(4)Membership
+								(A)In
+				generalThe Committee shall be composed of the following voting
+				members:
+									(i)Not more than 7 voting
+				Federal representatives as follows:
+										(I)The Director of the
+				Centers for Disease Control and Prevention.
+										(II)The Director of the National Institutes of
+				Health and the directors of such national research institutes and national
+				centers (which may include the National Institute of Environmental Health
+				Sciences) as the Secretary determines appropriate.
+										(III)One representative from
+				the National Cancer Institute Board of Scientific Advisors, appointed by the
+				Director of the National Cancer Institute.
+										(IV)The heads of such other
+				agencies of the Department of Health and Human Services as the Secretary
+				determines appropriate.
+										(V)Representatives of other
+				Federal agencies that conduct or support cancer research, including the
+				Department of Defense.
+										(ii)12 additional voting
+				members appointed under subparagraph (B).
+									(B)Additional
+				membersThe Committee shall include additional voting members
+				appointed by the Secretary as follows:
+									(i)6 members shall be
+				appointed from among scientists, physicians, and other health professionals,
+				who—
+										(I)are not officers or
+				employees of the United States;
+										(II)represent multiple
+				disciplines, including clinical, basic, and public health sciences;
+										(III)represent different
+				geographical regions of the United States;
+										(IV)are from practice
+				settings, academia, or other research settings; and
+										(V)are experienced in
+				scientific peer review process.
+										(ii)6 members shall be appointed from members
+				of the general public, who represent individuals with breast cancer.
+									(C)Nonvoting
+				membersThe Committee shall include such nonvoting members as the
+				Secretary determines to be appropriate.
+								(5)ChairpersonThe
+				voting members of the Committee shall select a chairperson from among such
+				members. The selection of a chairperson shall be subject to the approval of the
+				Director of NIH.
+							(6)MeetingsThe
+				Committee shall meet at the call of the chairperson of the Committee or upon
+				the request of the Director of NIH, but in no case less often than once each
+				year.
+							(b)ReviewThe Secretary shall review the necessity of
+				the Committee in calendar year 2011 and, thereafter, at least once every 2
+				years.
+						."}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]
+The reason of change is: element tag name
+The value is expected to be: quoted-block But actually it is: subsection
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/enum[1]
+The reason of change is: element tag name
+The value is expected to be: section But actually it is: enum
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/enum[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {404H.}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Research centers
+				regarding environmental factors related to breast cancer"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subsection But actually it is: null
+ Deleted paragraph content is: {"(a)In
+				generalThe Secretary, acting
+				through the Director of NIH, based on recommendations from the Breast Cancer
+				and Environmental Research Panel established under subsection (b) (referred to
+				in this section as the Panel), shall make grants to public or
+				nonprofit private entities for the development and operation of collaborative,
+				multi-institutional centers for the purpose of conducting multidisciplinary and
+				multi-institutional research on environmental factors that may be related to
+				the etiology of breast cancer. Each such center shall be known as a Breast
+				Cancer and Environmental Research Center of Excellence.
+					"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subsection But actually it is: null
+ Deleted paragraph content is: {"(b)Breast Cancer
+				and Environmental Research Panel
+						(1)EstablishmentThe Secretary shall establish within the
+				National Institutes of Health a Breast Cancer and Environmental Research
+				Panel.
+						(2)CompositionThe Panel shall be composed of—
+							(A)9 members to be appointed by the Secretary,
+				of which—
+								(i)six members shall be appointed from among
+				physicians and other health professionals, who—
+									(I)are not officers or employees of the United
+				States;
+									(II)represent multiple disciplines, including
+				clinical, basic, and public health sciences;
+									(III)represent different geographical regions of
+				the United States;
+									(IV)are from practice settings, academia, or
+				other research settings; and
+									(V)are experienced in peer review; and
+									(ii)three members shall be appointed from the
+				general public who are representatives of individuals who have had breast
+				cancer and who represent a constituency; and
+								(B)such nonvoting, ex officio members as the
+				Secretary determines to be appropriate.
+							(3)ChairpersonThe members of the Panel appointed under
+				paragraph (2)(A) shall select a chairperson from among such members.
+						(4)MeetingsThe Panel shall meet at the call of the
+				chairperson or upon the request of the Director of NIH, but in no case less
+				often than once each year.
+						(5)DutiesThe Panel shall—
+							(A)develop a comprehensive strategy concerning
+				collaborative centers that would—
+								(i)result in innovative approaches to study
+				unexplored or underexplored areas of the environment and breast cancer;
+								(ii)outline key
+				research questions, methodologies, and knowledge gaps concerning environmental
+				factors that may be related to the etiology of breast cancer;
+								(iii)outline key
+				issues concerning environmental factors that may be related to the etiology of
+				breast cancer; and
+								(iv)result in an
+				overall strategy to address environmental factors related to breast
+				cancer;
+								(B)make
+				recommendations to the Secretary with respect to the mechanisms, peer review
+				criteria, and allocations under this section;
+							(C)assist in the
+				overall program evaluation; and
+							(D)make
+				recommendations for the dissemination of information on program process.
+							"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subsection But actually it is: null
+ Deleted paragraph content is: {"(c)Collaboration
+				with communityEach center
+				under subsection (a) shall include community organizations in the geographic
+				area served by the center, including those that represent women with breast
+				cancer, as integral collaborators involved at all levels of the decision-making
+				and research in such center.
+					"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[4]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subsection But actually it is: null
+ Deleted paragraph content is: {"(d)Coordination of
+				centers; reportsThe Director
+				of NIH shall, as appropriate, provide for the coordination of information among
+				centers under subsection (a) and ensure regular communication between such
+				centers, and may require the periodic preparation of reports on the activities
+				of the centers and the submission of the reports to the Director.
+					"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[5]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subsection But actually it is: null
+ Deleted paragraph content is: {"(e)Required
+				consortiumEach center under
+				subsection (a) shall be formed from a consortium of cooperating institutions
+				and community groups, meeting such requirements as may be prescribed by the
+				Director of NIH. Each center shall require collaboration among highly
+				accomplished scientists, other health professionals and advocates of diverse
+				backgrounds from various areas of expertise.
+					"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[6]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subsection But actually it is: null
+ Deleted paragraph content is: {"(f)Duration of
+				supportSupport of a center
+				under subsection (a) may be for a period not exceeding 5 years. Such period may
+				be extended for one or more additional periods not exceeding 5 years if the
+				operations of such center have been reviewed by an appropriate technical and
+				scientific peer review group established by the Director of NIH and if such
+				group has recommended to the Director that such period be extended.
+					"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[7]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subsection But actually it is: null
+ Deleted paragraph content is: {"(g)Geographic
+				distribution of centersThe
+				Director of NIH shall, to the extent practicable, provide for an equitable
+				geographical distribution of centers under this section.
+					"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/section[1]/subsection[8]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subsection But actually it is: null
+ Deleted paragraph content is: {"(h)Authorization of
+				appropriationsFor the
+				purpose of carrying out this section, there is authorized to be appropriated
+				$40,000,000 for each of the fiscal years 2008 through 2012. Such authorization
+				is in addition to any other authorization of appropriations that is available
+				for such
+				purpose.
+					"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/after-quoted-block[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]
+The reason of change is: element tag name
+The value is expected to be: after-quoted-block But actually it is: header
+
+We are at location: bill[1]/legis-body[1]/section[2]/quoted-block[1]/after-quoted-block[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: . But actually it is: Authorization of			 appropriat...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"For the purpose of carrying out research
+			 activities under title IV of the Public Health Service Act, including section
+			 417F of such Act as added by subsection (a), there are authorized to be
+			 appropriated $40,000,000 for each of fiscal years 2009 through 2012. Amounts
+			 authorized to be appropriated under the preceding sentence shall be in addition
+			 to amounts otherwise authorized to be appropriated for such purpose under
+			 section 402A of the Public Health Service Act (42 U.S.C. 282a)."}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		September 25, 2008
+		Reported with an amendment, committed to the Committee of
+		  the Whole House on the State of the Union, and ordered to be
+		  printed
+	"}
+

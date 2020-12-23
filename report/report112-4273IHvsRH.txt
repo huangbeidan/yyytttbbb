@@ -1,0 +1,190 @@
+===================================================
+
+total difference is: 47
+comparing document: BILLS-112hr4273ih.xml
+to document: BILLS-112hr4273rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Committee			 on Energy and Com... But actually it is: Committee on Energy and			 Com...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: Committee			 on Energy 
+insertion: 
+deletion: 
+change: and Commerce to and			 Commerce 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To clarify that compliance wit... But actually it is: To clarify that compliance wit...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.49
+The Detailes are shown as followings: 
+common words: To clarify that compliance with /emergency order /section 202c of the Federal Power Act may not /considered a violation /any Federal State or local environmental law /regulation and for 
+insertion: an		 be		 or		 
+deletion: order violation 
+change: an to  /  to under / be to  /  to of / or to  / other		  purposes to other purposes 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 425"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No.
+		  112–586]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			July 9, 2012
+			Additional sponsors: Mr.
+			 Barton of Texas, Mr.
+			 Costello, Mr. Owens,
+			 Mr. Latta,
+			 Mr. Long, Mr. Sullivan, Mr.
+			 Canseco, Mr. Lankford,
+			 Mr. Barrow,
+			 Mr. Whitfield,
+			 Mr. Pompeo,
+			 Mr. Gingrey of Georgia, and
+			 Mr. Murphy of
+			 Pennsylvania
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			July 9, 2012
+			Reported with an amendment, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Resolving Environmental and Gr... But actually it is: Resolving Environmental and Gr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.56
+The Detailes are shown as followings: 
+common words: Resolving Environmental and Reliability Conflicts of 2012 
+insertion: 
+deletion: 
+change: Grid to Grid			 / Act			 to Act / 
+
+We are at location: null   Compared with location: bill[1]/legis-body[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: legis-body
+ Inserted paragraph content is: {"
+		1.Short titleThis Act may be cited as the
+			 Resolving Environmental and Grid Reliability Conflicts Act of
+			 2012.
+		2.Amendments to the
+			 Federal Power Act
+			(a)Compliance with or
+			 violation of environmental laws while under emergency
+			 orderSection 202(c) of the Federal Power Act (16 U.S.C. 824a(c))
+			 is amended—
+				(1)by inserting
+			 (1) after (c); and
+				(2)by adding at the end the
+			 following:
+					
+						(2)With respect to an order
+				issued under this subsection that may result in a conflict with a requirement
+				of any Federal, State, or local environmental law or regulation, the Commission
+				shall ensure that such order requires generation, delivery, interchange, or
+				transmission of electric energy only during hours necessary to meet the
+				emergency and serve the public interest, and, to the maximum extent
+				practicable, is consistent with any applicable Federal, State, or local
+				environmental law or regulation and minimizes any adverse environmental
+				impacts.
+						(3)To the extent any
+				omission or action taken by a party, that is necessary to comply with an order
+				issued under this subsection, including any omission or action taken to
+				voluntarily comply with such order, results in noncompliance with, or causes
+				such party to not comply with, any Federal, State, or local environmental law
+				or regulation, such omission or action shall not be considered a violation of
+				such environmental law or regulation, or subject such party to any requirement,
+				civil or criminal liability, or a citizen suit under such environmental law or
+				regulation.
+						(4)(A)An order issued under
+				this subsection that may result in a conflict with a requirement of any
+				Federal, State, or local environmental law or regulation shall expire not later
+				than 90 days after it is issued. The Commission may renew or reissue such order
+				pursuant to paragraphs (1) and (2) for subsequent periods, not to exceed 90
+				days for each period, as the Commission determines necessary to meet the
+				emergency and serve the public interest.
+							(B)In renewing or reissuing an order under
+				subparagraph (A), the Commission shall consult with the primary Federal agency
+				with expertise in the environmental interest protected by such law or
+				regulation, and shall include in any such renewed or reissued order such
+				conditions as such Federal agency determines necessary to minimize any adverse
+				environmental impacts to the maximum extent practicable. The conditions, if
+				any, submitted by such Federal agency shall be made available to the public.
+				The Commission may exclude such a condition from the renewed or reissued order
+				if it determines that such condition would prevent the order from adequately
+				addressing the emergency necessitating such order and provides in the order, or
+				otherwise makes publicly available, an explanation of such
+				determination.
+							.
+				(b)Temporary connection or
+			 construction by municipalitiesSection 202(d) of the Federal
+			 Power Act (16 U.S.C. 824a(d)) is amended by inserting or
+			 municipality before engaged in the transmission or sale of
+			 electric energy.
+			"}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		July 9, 2012
+		Reported with an amendment, committed to the Committee of
+		  the Whole House on the State of the Union, and ordered to be
+		  printed
+	"}
+

@@ -1,0 +1,1146 @@
+===================================================
+
+total difference is: 333
+comparing document: BILLS-110hr698ih.xml
+to document: BILLS-110hr698rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 698 IH: Industrial Bank... But actually it is: 110 HR 698 RH: Industrial Bank...
+The Jaccard Index is: 0.9
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: 110 HR 698 Industrial Bank Holding Company Act of 2007 
+insertion: 
+deletion: 
+change: IH to RH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2007-01-29 But actually it is: 2007-05-16
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 92"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 110–155]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+May 16, 2007
+Additional sponsors: Mr. Lincoln Davis of Tennessee, Mr. Ellison, Mr. Capuano, Mr. Welch of Vermont, Mr. Boren, Ms. Loretta Sanchez of California, Mr. Boswell, Mr. Bishop of Georgia, Mr. Deal of Georgia, Mr. Jordan, Ms. DeGette, Mr. Wilson of Ohio, Mr. Etheridge, Mr. Oberstar, Mr. Patrick Murphy of Pennsylvania, Ms. McCollum of Minnesota, Mr. Rehberg, Mr. Gilchrest, Mr. Wolf, Mr. Whitfield, Mr. Ryan of Ohio, Mr. Coble, Ms. Baldwin, Ms. Foxx, Mr. Tierney, Mr. Wicker, Mr. Yarmuth, Mr. Carnahan, Ms. Sutton, Mr. Doggett, Mr. Gohmert, Mr. Rogers of Alabama, Mr. Perlmutter, Mr. Sestak, Ms. Berkley, Ms. Herseth Sandlin, Mr. Lucas, Mr. Braley of Iowa, Mr. Space, Mr. Gordon, Ms. Eddie Bernice Johnson of Texas, Mr. Holt, Mr. Wexler, Mr. Carney, Mr. Pascrell, Mr. Cardoza, Mr. Michaud, Mr. Boucher, Ms. Matsui, Mr. Rothman, Mr. Smith of Nebraska, Mr. Miller of North Carolina, Mr. Neal of Massachusetts, Mr. Terry, Mr. Lynch, Mr. Sherman, Mr. Delahunt, Mr. Murtha, Ms. Wasserman Schultz, Mr. Pomeroy, Mrs. Boyda of Kansas, Mrs. Myrick, Mr. Barrett of South Carolina, Ms. Woolsey, Mr. Turner, Mr. Marshall, Ms. Moore of Wisconsin, Mr. Johnson of Illinois, Mr. DeFazio, Mr. Walz of Minnesota, Mr. Loebsack, Mr. Miller of Florida, Mr. Kagen, Ms. Hooley, Mr. Ross, Mr. Jindal, Ms. Norton, Mr. Thornberry, Mrs. McCarthy of New York, Mr. Lewis of Georgia, Ms. Harman, Mr. Rahall, Mr. McNerney, Mr. Filner, Mr. Pearce, Mr. Abercrombie, Mr. Aderholt, Mr. Blumenauer, Mr. Moran of Kansas, Mr. Bartlett of Maryland, Mr. Hayes, Mr. Gerlach, Ms. Giffords, Mr. Edwards, Ms. Schwartz, Mr. Manzullo, Mr. Burgess, Mr. Latham, Mrs. Wilson of New Mexico, Mr. Baird, Mr. LaTourette, Mr. Platts, Mr. Renzi, Mr. Hare, Mr. Barrow, Mr. Blunt, Mr. Sires, Mrs. Capps, Mr. Altmire, Mr. Moran of Virginia, Ms. Velázquez, Mr. Hoekstra, Mr. Wamp, Ms. Eshoo, and Mr. Wynn 
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {" 
+May 16, 2007 
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed 
+Strike out all after the enacting clause and insert the part printed in italic 
+For text of introduced bill, see copy of bill as introduced on January 29, 2007 
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/quoted-block[1]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/quoted-block[1]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means any insured State bank ... But actually it is:  means any insured State bank ...
+The Jaccard Index is: 0.57
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words:  means any insured State bank that is an industrial bank industrial loan company or other institution /section 2c2H of the 
+insertion: that is excluded 
+deletion: 
+change: described to pursuant / in to to / Bank Holding Company Act of 1956 from the definition of the term 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/quoted-block[1]/paragraph[1]/text[1]/act-name[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/quoted-block[1]/paragraph[1]/text[1]/term[2]
+The reason of change is: element tag name
+The value is expected to be: act-name But actually it is: term
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/quoted-block[1]/paragraph[1]/text[1]/act-name[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/quoted-block[1]/paragraph[1]/text[1]/term[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: Bank Holding Company Act of 19... But actually it is: bank
+The Jaccard Index is: 0.03
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/quoted-block[1]/paragraph[1]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" for purposes of such Act."}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) is amended by adding at the ... But actually it is: ) is amended by adding at the ...
+The Jaccard Index is: 0.95
+And the Smith Waterman Score is: 0.92
+The Detailes are shown as followings: 
+common words:  is amended by adding at the end the following new 
+insertion: 
+deletion: 
+change: paragraph to paragraphs 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: controls (as determined by the... But actually it is: controls (as determined by the...
+The Jaccard Index is: 0.59
+And the Smith Waterman Score is: 0.64
+The Detailes are shown as followings: 
+common words: controls as determined by the Corporation /directly or indirectly any industrial bank and 
+insertion: pursuant to section 2a of the Bank Holding Company Act of 1956 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: is not a bank holding company,... But actually it is: is not—
+The Jaccard Index is: 0.03
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: clause
+ Inserted paragraph content is: {"
+  (i)
+  1 or more of the following: a bank holding company, a savings and loan holding company, a company that is subject to the Bank Holding Company Act of 1956 pursuant to section 8(a) of the International Banking Act of 1978, or a holding company regulated by the Securities and Exchange Commission pursuant to section 240.15c3–1(a)(7) of title 17 of the Code of Federal Regulations (as in effect on January 29, 2007); or
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[2]/clause[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: clause
+ Inserted paragraph content is: {"
+  (ii)
+  controlled by a company described in clause (i).
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/quoted-block[1]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(9)Capital terms relating to industrial bank holding companies 
+(A)Adequately capitalizedWith respect to an industrial bank holding company, the term adequately capitalized means a level of capitalization which meets or exceeds all applicable Federal regulatory capital standards. 
+(B)Well capitalizedWith respect to an industrial bank holding company, the term well capitalized means a level of capitalization which meets or exceeds the required capital levels for well capitalized industrial bank holding companies established by the Corporation."}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[1]/clause[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[3]/subparagraph[1]/clause[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: , and any industrial bank hold... But actually it is: , and any industrial bank hold...
+The Jaccard Index is: 0.53
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words:  and any industrial bank holding company 
+insertion: 
+deletion: 
+change: and any subsidiary of an industrial bank holding company other than a bank 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Registration But actually it is: Acquisition of industrial bank...
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"In general"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Within 90 days after becoming ... But actually it is: any reference to a 
+The Jaccard Index is: 0.02
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/text[1]/term[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: term
+ Inserted paragraph content is: {"bank holding company"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" in such section 3 shall be deemed to be a reference to an "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/text[1]/term[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: term
+ Inserted paragraph content is: {"industrial bank holding company"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {;}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Information to be included"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Each registration submitted un... But actually it is: any reference to a 
+The Jaccard Index is: 0.02
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/term[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: term
+ Inserted paragraph content is: {bank}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" in such section shall be deemed to be a reference to an "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/term[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: term
+ Inserted paragraph content is: {"industrial bank"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {;}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[3]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Extension of time for submitting complete information"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Upon application by an industr... But actually it is: any reference to the 
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[3]/text[1]/term[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: term
+ Inserted paragraph content is: {Board}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[3]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" in such section shall be deemed to be a reference to the Corporation;"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Application to prior holding companies"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In the case of any company tha... But actually it is: any reference to the 
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/text[1]/term[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: term
+ Inserted paragraph content is: {"Bank Holding Company Act Amendments of 1970"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" in such section shall be deemed to be a reference to the "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/text[1]/quote[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"
+  Industrial Bank Holding Company Act of 2007
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {;}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"Section 3 of the Bank Holding Company Act of 1956 (other than section 3(c)(3)(B) of that Act) shall apply to any company that is or would become an industrial bank holding company in the same manner as such section applies to a company that is or would become a bank holding company, except that for purposes of applying this subsection—"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(5)any reference to a home State in such section 3 shall be deemed to be a reference to— 
+(A)with respect to an industrial bank holding company, the State in which the total deposits of all banking subsidiaries of such company were the largest on the later of— 
+(i)January 28, 2007; or 
+(ii)the date on which the company becomes an industrial bank holding company under this section; and  
+(B)with respect to an industrial bank, the home State of the bank as determined under section 44(g); "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[6]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(6)any reference to a host State in such section 3 shall be deemed to be a reference to— 
+(A)with respect to an industrial bank holding company, a State, other than the home State of the company, in which the company controls, or seeks to control, an industrial bank subsidiary; and  
+(B)with respect to an industrial bank, the host State of the bank as determined under section 44(g);"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[7]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (7)
+  any reference to an out-of-State bank holding company in such section 3 shall be deemed to be a reference to, with respect to any State, an industrial bank holding company whose home State is another State; and
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[1]/paragraph[8]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (8)
+  any reference to an out-of-State bank in such section 3 shall be deemed to be a reference to, with respect to any State, an industrial bank whose home State is another State.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Reports and examinations But actually it is: Application process
+The Jaccard Index is: 0.08
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[2]/text[1]
+The reason of change is: element tag name
+The value is expected to be: paragraph But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[2]/text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(1)}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {Reports}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[1]/subparagraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (A)
+  Reports required
+  Each industrial bank holding company and each subsidiary of an industrial bank holding company, other than an industrial bank, shall file with the Corporation such reports as may be required by the Corporation.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[1]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (B)
+  Form and manner
+  Reports filed under subparagraph (A) shall be made under oath and shall be in such form and for such periods, as the Corporation may prescribe.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[1]/subparagraph[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(C)InformationEach report filed under subparagraph (A) shall contain such information as the Corporation may require concerning— 
+(i)the operations of the industrial bank holding company and its subsidiaries; 
+(ii)the financial condition of the industrial bank holding company and such subsidiaries, together with information on systems maintained within the holding company for monitoring and controlling financial and operating risks, and transactions with industrial bank subsidiaries of the holding company; 
+(iii)compliance by the industrial bank holding company and its subsidiaries with all applicable Federal and State law; and 
+(iv)such other information as the Corporation may require."}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[1]/subparagraph[4]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (D)
+  Acceptance of existing reports
+  For purposes of this paragraph, the Corporation may accept reports that an industrial bank holding company or any subsidiary of such company has provided or has been required to provide to any other Federal or State supervisor or to any appropriate self-regulatory organization.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[2]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(2)Examinations 
+(A)In generalEach industrial bank holding company and each subsidiary of each such holding company (other than an industrial bank) shall be subject to such examinations by the Corporation as the Corporation may prescribe for purposes of this section. 
+(B)Furnishing reports to other agenciesExamination and other reports made or received under this section may be furnished by the Corporation to any other Federal agency or any appropriate State bank supervisor. 
+(C)Use of reports from other agenciesThe Corporation may use, for the purposes of this subsection, reports of examination made by any other Federal agency or any appropriate State bank supervisor with respect to any industrial bank holding company or subsidiary of any such holding company, to the extent the Corporation may determine such use to be feasible for such purposes."}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Limitation on control But actually it is: Registration
+The Jaccard Index is: 0.12
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Except as provided in paragrap... But actually it is: Each industrial bank holding c...
+The Jaccard Index is: 0.11
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/subparagraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (A)
+  the date the company becomes an industrial bank holding company; or
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (B)
+  the date of the enactment of the Industrial Bank Holding Company Act of 2007.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Commercial firm defined But actually it is: Information to be included
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For purposes of this section, ... But actually it is: Each registration submitted un...
+The Jaccard Index is: 0.1
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/text[1]/term[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: term But actually it is: null
+ Deleted paragraph content is: {"commercial firm"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  means any entity at least 15 ... But actually it is: Each registration submitted un...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.03
+The Detailes are shown as followings: 
+common words:  means any entity at least 15 percent of the 
+insertion: registration submitted under paragraph 1 shall include such information under oath with respect to the financial 
+deletion: 
+change: annual gross revenues of which on a consolidated basis including all affiliates of the entity were derived from engaging on an ongoing basis in activities that are not financial in nature or incidental to a financial activity during at least 3 of the prior 4 calendar quarters as determined by the Corporation in accordance with regulations which the Corporation shall prescribe to industrial bank holding company and subsidiaries of such holding company and other factors including information described in subsection d1C as the Corporation may determine to be appropriate to carry out the purposes of this section 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Pre But actually it is: Extension of time for submitti...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/header[1]/enum-in-header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: enum-in-header But actually it is: null
+ Deleted paragraph content is: {-}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/header[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2003 exclusions But actually it is: Extension of time for submitti...
+The Jaccard Index is: 0.03
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/subparagraph[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/text[1]
+The reason of change is: element tag name
+The value is expected to be: subparagraph But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/subparagraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/subparagraph[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(A)}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/subparagraph[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Grandfathered institutions"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/subparagraph[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"Paragraph (1) shall not apply with respect to any industrial bank—"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/subparagraph[1]/clause[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: clause But actually it is: null
+ Deleted paragraph content is: {"
+  (i)
+  which became an insured depository institution before October 1, 2003, or pursuant to an application for deposit insurance which was approved by the Corporation before such date; and
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/subparagraph[1]/clause[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: clause But actually it is: null
+ Deleted paragraph content is: {"
+  (ii)
+  with respect to which there is no change in control, directly or indirectly, of the bank after September 30, 2003, that requires a registration under this section or an application under section 7(j) or 18(c), section 3 of the Bank Holding Company Act of 1956, or section 10 of the Home Owners’ Loan Act.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (B)
+  Corporate reorganizations permitted
+  The acquisition of direct or indirect control of the industrial bank referred to in subparagraph (A)(ii) shall not be treated as a change in control for purposes of such subparagraph if the company acquiring control is itself directly or indirectly controlled by a company that was an affiliate of such bank on the date referred to in such paragraph, and remains an affiliate at all times after such date.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[4]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (4) But actually it is: (3)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Pre But actually it is: Extension of time for submitti...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[4]/header[1]/enum-in-header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: enum-in-header But actually it is: null
+ Deleted paragraph content is: {-}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[4]/header[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2007 exclusions But actually it is: Extension of time for submitti...
+The Jaccard Index is: 0.03
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[4]/subparagraph[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/text[1]
+The reason of change is: element tag name
+The value is expected to be: subparagraph But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[4]/subparagraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[4]/subparagraph[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(A)}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[4]/subparagraph[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Grandfathered commercial firms"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[4]/subparagraph[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"Paragraph (1) shall not apply to any commercial firm—"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[4]/subparagraph[1]/clause[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: clause But actually it is: null
+ Deleted paragraph content is: {"
+  (i)
+  which became an industrial bank holding company by virtue of acquiring control of an industrial bank on or after October 1, 2003, and before January 29, 2007;
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[4]/subparagraph[1]/clause[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: clause But actually it is: null
+ Deleted paragraph content is: {"
+  (ii)
+  which does not acquire control of any other depository institution after January 28, 2007;
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[4]/subparagraph[1]/clause[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: clause But actually it is: null
+ Deleted paragraph content is: {"
+  (iii)
+  with respect to which there is no change in control, directly or indirectly, of any depository institution subsidiary after January 28, 2007, that requires a registration under this section or an application under section 7(j) or 18(c), section 3 of the Bank Holding Company Act of 1956, or section 10 of the Home Owners’ Loan Act; and
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[4]/subparagraph[1]/clause[4]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: clause But actually it is: null
+ Deleted paragraph content is: {"
+  (iv)
+  each industrial bank subsidiary of which remains in compliance with the limitations contained in subparagraph (B).
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[4]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(B)Activity and branching limitationsAn industrial bank subsidiary of a commercial firm described in clauses (i), (ii) and (iii) of subparagraph (A) is in compliance with the requirements of this subparagraph for purposes of subparagraph (A)(iv) so long as the industrial bank— 
+(i)engages only in activities in which the industrial bank was engaged on January 28, 2007; and 
+(ii)does not acquire, establish, or operate any branch, deposit production office, loan production office, automated teller machine, or remote service unit in any State other than the home State of the bank or any host State in which such bank operated branches on January 28, 2007."}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[4]/subparagraph[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (C)
+  Corporate reorganizations permitted
+  The acquisition of direct or indirect control of a depository institution subsidiary referred to in subparagraph (A)(iii) shall not be treated as a change in control for purposes of such subparagraph if the company acquiring control is itself directly or indirectly controlled by a company that was an affiliate of such subsidiary on the date referred to in such paragraph, and remains an affiliate at all times after such date.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[5]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (5) But actually it is: (3)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Transition provision But actually it is: Extension of time for submitti...
+The Jaccard Index is: 0.08
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any divestiture of any industr... But actually it is: Upon application by an industr...
+The Jaccard Index is: 0.23
+And the Smith Waterman Score is: 0.14
+The Detailes are shown as followings: 
+common words: industrial bank by an industrial bank holding company 
+insertion: 
+deletion: Any divestiture of any 
+change: that is required by operation of this section shall be completed as quickly as is reasonably possible and not later than the end of the 2year period beginning on the earliest of as appropriate to and subject to such requirements factors and evidence as the Corporation may require the Corporation may extend the period described in paragraph 1 within which such company shall register and file the requisite information 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[5]/subparagraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (A)
+  the date on which control of the industrial bank is acquired by a commercial firm;
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[5]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (B)
+  the date on which the industrial bank holding company that controls such bank becomes a commercial firm; or
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[3]/paragraph[5]/subparagraph[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"
+  (C)
+  the date on which an industrial bank subsidiary of the industrial bank holding company ceases to comply with any limitation applicable to such bank under paragraph (4)(B).
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Administrative provisions But actually it is: Reports and examinations
+The Jaccard Index is: 0.1
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Agent for service of process But actually it is: Reports
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/text[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: subparagraph
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(A)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Reports required"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"Each industrial bank holding company and each subsidiary of an industrial bank holding company, other than an industrial bank, shall file with the Corporation such reports as may be required by the Corporation."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (B)
+  Form and manner
+  Reports filed under subparagraph (A) shall be made under oath and shall be in such form and for such periods, as the Corporation may prescribe.
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(C)InformationEach report filed under subparagraph (A) shall contain such information as the Corporation may require concerning— 
+(i)the operations of the industrial bank holding company and the holding company’s subsidiaries; 
+(ii)the financial condition of the industrial bank holding company and such subsidiaries, together with information on systems maintained within the holding company or within any such subsidiary for monitoring and controlling financial and operating risks, and transactions with insured depository institution subsidiaries of the holding company; 
+(iii)compliance by the industrial bank holding company and the holding company’s subsidiaries with all applicable Federal and State law; and 
+(iv)such other information as the Corporation may require."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/subparagraph[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (D)
+  Acceptance of existing reports
+  For purposes of this paragraph, the Corporation may accept reports that an industrial bank holding company or any subsidiary of such company has provided or has been required to provide to any other Federal or State supervisor or to any appropriate self-regulatory organization.
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Release from registration But actually it is: Examinations
+The Jaccard Index is: 0.1
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[2]/text[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: subparagraph
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(A)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"In general"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"Each industrial bank holding company and each subsidiary of each such holding company (other than an industrial bank) shall be subject to such examinations by the Corporation as the Corporation may prescribe for purposes of this section."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (B)
+  Furnishing reports to other agencies
+  Examination and other reports made or received under this section may be furnished by the Corporation to any other appropriate Federal agency or any appropriate State bank supervisor or other State financial supervisory agency.
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[2]/subparagraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (C)
+  Use of reports from other agencies
+  The Corporation may use, for the purposes of this subsection, reports of examination made by any other appropriate Federal agency, any appropriate State bank supervisor, or any other State financial supervisory authority with respect to any industrial bank holding company or subsidiary of any such holding company, to the extent the Corporation may determine such use to be feasible for such purposes.
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[4]/paragraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(3)Capital 
+(A)In general The Corporation may not, by regulation, guideline, order, or otherwise, prescribe or impose any capital or capital adequacy rules, guidelines, standards, or requirements on any functionally regulated affiliate (as defined in section 45) of any depository institution that is controlled by an industrial bank holding company that— 
+(i)is not a depository institution; and  
+(ii)is— 
+(I)in compliance with the applicable capital requirements of the appropriate Federal supervisory agency of the affiliate (including the Securities and Exchange Commission or State insurance authority);  
+(II)properly registered as an investment adviser under the Investment Advisers Act of 1940, or with any State; or  
+(III)is licensed as an insurance agent with the appropriate State insurance authority.  
+(B)Rule of constructionSubparagraph (A) shall not be construed as preventing the Corporation from imposing capital or capital adequacy rules, guidelines, standards, or requirements with respect to— 
+(i)activities of a registered investment adviser other than with respect to investment advisory activities or activities incidental to investment advisory activities; or  
+(ii)activities of a licensed insurance agent other than insurance agency activities or activities incidental to insurance agency activities."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(e)Access to information 
+(1)Information provided by corporationAny confidential supervisory information, including examination or other reports, pertaining to an industrial bank furnished by the Corporation to any other Federal agency or any appropriate State supervisory agency shall remain confidential unless the Corporation, in writing, otherwise consents.  
+(2)Deference to depository institution examinationsAny appropriate Federal supervisory agency of a holding company of an industrial bank shall, to the fullest extent possible, forego any examination of any depository institution subsidiary of the holding company and use the reports of examinations of the institution made by the appropriate Federal banking agency and the appropriate State bank supervisor in lieu of a direct examination.  
+(3)Information to be provided to corporation 
+(A)Request to agencyUpon request by the Corporation, an appropriate Federal supervisory agency may provide to the Corporation information regarding the condition of an industrial bank, any holding company that controls such industrial bank, or any other affiliate of any such holding company that is necessary to assess risk to the industrial bank.  
+(B)Availability from holding company directlyNotwithstanding section 45, section 115 of the Gramm-Leach-Bliley Act, or any other provision of law (including any regulation), if the information requested under subparagraph (A) is not provided to the Corporation, and the information is necessary to assess risk to the industrial bank, the Corporation may require the holding company or affiliate referred to in such subparagraph with respect to such bank to provide such information to the Corporation. 
+(4)Examinations by corporation 
+(A)in generalSubject to subparagraph (B) and notwithstanding section 45, section 115 of the Gramm-Leach-Bliley Act, or any other provision of law (including any regulation), no law shall be construed as preventing the Corporation from examining an affiliate of an industrial bank pursuant to paragraph (2), (3), or (4) of section 10(b), as may be necessary to disclose fully the relationship between the industrial bank and the affiliate, and the effect of such relationship on the industrial bank, if the Corporation finds such examination necessary to determine the condition of an industrial bank. 
+(B)Functionally regulated affiliates Before the Corporation may examine any affiliate of an industrial bank that is— 
+(i)a broker, a dealer, an investment company, or an investment advisor, or 
+(ii)an entity that is subject to consolidated supervision by the Securities and Exchange Commission, other than a depository institution, the Corporation shall request the Commission to provide the information that the Corporation is seeking to obtain through examination and may proceed with the examination only if the requested information is not provided by the Commission in a timely manner. "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[6]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(f)Limitation on control 
+(1)In generalExcept as provided in paragraph (3) or (4), no industrial bank may be controlled, directly or indirectly, by a commercial firm. 
+(2)Commercial firm definedFor purposes of this section, the term commercial firm means any entity at least 15 percent of the annual gross revenues of which on a consolidated basis, including all affiliates of the entity, were derived from engaging, on an on-going basis, in activities that are not financial in nature or incidental to a financial activity during at least 3 of the prior 4 calendar quarters, as determined by the Corporation in accordance with regulations which the Corporation shall prescribe. 
+(3)Pre-2003 exclusions 
+(A)Grandfathered institutionsParagraph (1) shall not apply with respect to any industrial bank— 
+(i)which became an insured depository institution before October 1, 2003, or pursuant to an application for deposit insurance which was approved by the Corporation before such date; and 
+(ii)with respect to which there is no change in control, directly or indirectly, of the bank after September 30, 2003, that requires a registration under this section or an application under section 7(j) or 18(c), section 3 of the Bank Holding Company Act of 1956, or section 10 of the Home Owners’ Loan Act, except a direct or indirect change of control in which— 
+(I)immediately prior to such change in control neither the ultimate acquiring holding company nor the ultimate acquired holding company is a commercial firm; 
+(II)immediately after such change of control the resulting ultimate holding company is not a commercial firm; and 
+(III)the resulting ultimate holding company is subject to consolidated supervision by the Office of Thrift Supervision or a holding company regulated by the Securities and Exchange Commission pursuant to section 240.15c3–1(a)(7) of title 17 of the Code of Federal Regulations (as in effect on January 29, 2007). 
+(B)Corporate reorganizations permittedThe acquisition of direct or indirect control of the industrial bank referred to in subparagraph (A)(ii) shall not be treated as a change in control for purposes of such subparagraph if— 
+(i)the company acquiring control is itself directly or indirectly controlled by a company that was an affiliate of such bank on the date referred to in such subparagraph, and remains an affiliate at all times after such date; and 
+(ii)the transaction through which the company acquired control of the industrial bank constituted solely a corporate reorganization of a company that controlled the industrial bank on the date referred to in such subparagraph. 
+(4)Pre-2007 exclusions 
+(A)Grandfathered commercial firmsParagraph (1) shall not apply to any commercial firm— 
+(i)which became a holding company of an industrial bank by virtue of acquiring control of an industrial bank on or after October 1, 2003, and before January 29, 2007; 
+(ii)which does not acquire control of any other depository institution after January 28, 2007; 
+(iii)with respect to which there is no change in control, directly or indirectly, of any depository institution subsidiary after January 28, 2007, that requires a registration under this section or an application under section 7(j) or 18(c), section 3 of the Bank Holding Company Act of 1956, or section 10 of the Home Owners’ Loan Act; and 
+(iv)each industrial bank subsidiary of which remains in compliance with the limitations contained in subparagraph (B). 
+(B)Activity and branching limitationsAn industrial bank subsidiary of a commercial firm described in clauses (i), (ii) and (iii) of subparagraph (A) is in compliance with the requirements of this subparagraph for purposes of subparagraph (A)(iv) so long as the industrial bank— 
+(i)engages only in activities in which the industrial bank was engaged on January 28, 2007; and 
+(ii)does not acquire, establish, or operate any branch, deposit production office, loan production office, automated teller machine, or remote service unit in any State other than the home State of the bank or any host State in which such bank operated branches on January 28, 2007. 
+(C)Corporate reorganizations permittedThe acquisition of direct or indirect control of a depository institution subsidiary referred to in subparagraph (A)(iii) shall not be treated as a change in control for purposes of such subparagraph if— 
+(i)the company acquiring control is itself directly or indirectly controlled by a company that was an affiliate of such subsidiary on the date referred to in such subparagraph, and remains an affiliate at all times after such date; and 
+(ii)the transaction through which the company acquired control of the depository institution constituted solely a corporate reorganization of a company that controlled the depository institution on the date referred to in such subparagraph."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[7]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(g)Procedures and timing for termination of activities or divestiture 
+(1)Transition provision 
+(A)In generalAny company that fails to comply with the provisions of subsection (f) shall divest its ownership or control of each industrial bank subsidiary of the company not later than the end of the 2-year period beginning on the first date that the company ceased to comply with subsection (f). 
+(B)Extension of time period 
+(i)In generalUpon application by a holding company that controls an industrial bank, the appropriate Federal supervisory agency of such holding company may extend the 2-year period referred to in subparagraph (A) with respect to such company for not more than 1 year if, in such agency’s judgment, such an extension would not be detrimental to the public interest. 
+(ii)FactorsIn making any decision to grant an extension under clause (i) to a holding company of an industrial bank, the appropriate Federal supervisory agent of such holding company shall consider whether— 
+(I)the company has made a good faith effort to divest such interests; and 
+(II)such extension is necessary to avert substantial loss to the company. 
+(2)Conditions before divestitureDuring the 2-year period referred to in paragraph (1)(A) with respect to any company and any extension of such period, the appropriate Federal supervisory agency may impose any conditions or restrictions on the company or any subsidiary of the company (other than a bank), including restricting or prohibiting transactions between the company or subsidiary and any depository institution subsidiary of the company, as are appropriate under the circumstances. 
+(3)Termination of activities or divestiture of nonbank subsidiaries constituting serious risk 
+(A)In generalNotwithstanding any other provision of this section, the appropriate Federal supervisory agency may, whenever such agency has reasonable cause to believe that the continuation by a holding company of an industrial bank of any activity or of ownership or control of any nonbank subsidiary of such holding company, other than a nonbank subsidiary of a depository institution, constitutes a serious risk to the financial safety, soundness, or stability of a depository institution subsidiary of the holding company and is inconsistent with sound banking principles or with the purposes of this section, at the election of the holding company— 
+(i)order such holding company or any such nonbank subsidiary, after due notice and opportunity for hearing, and after considering the views of the appropriate Federal banking agency and, if applicable, appropriate State bank supervisor, to terminate such activities or to terminate (within 120 days or such longer period as the appropriate Federal supervisory agency may direct in unusual circumstances) the ownership or control by such holding company or nonbank subsidiary of any such depository institution subsidiary either by sale or by distribution of the shares of the depository institution subsidiary, in accordance with subparagraph (B), to the shareholders of the holding company of the industrial bank; or 
+(ii)order the holding company of the industrial bank, after due notice and opportunity for hearing, and after consultation with the appropriate State bank supervisor for the industrial bank, to terminate (within 120 days or such longer period as the appropriate Federal supervisory agency may direct) the ownership or control of any such industrial bank by such company. 
+(B)Pro rata distributionAny distribution to shareholders referred to in clause (i) shall be pro rata with respect to all of the shareholders of the distributing company, and such company shall not make any charge to any shareholder in connection with such distribution. 
+(4)Foreign bank ownershipAfter January 28, 2007, no foreign bank may acquire, directly or indirectly, control of an industrial bank unless the Board of Governors of the Federal Reserve System has determined, by order, in connection with the change in control or acquisition of the industrial bank and after consultation with the Corporation, that the foreign bank is subject to comprehensive supervision or regulation on a consolidated basis by the appropriate authorities in the bank’s home country in accordance with the standard in section 3(c)(3)(B) of the Bank Holding Company Act of 1956. 
+(5)Holding company responsibility 
+(A)Source of strengthNotwithstanding section 45, a holding company of an industrial bank— 
+(i)shall serve as a source of financial and managerial strength to the subsidiary banks of such holding company; and 
+(ii)shall not conduct the operations of the holding company in an unsafe or unsound manner. 
+(B)ImplementationThe appropriate Federal supervisory agency of the holding company of an industrial bank shall implement the requirements under subparagraph (A)."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[8]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(h)Administrative provisions 
+(1)Agent for service of processThe Corporation may require any industrial bank holding company, or persons connected with such holding company if it is not a corporation, to execute and file a prescribed form of irrevocable appointment of agent for service of process. 
+(2)Release from registrationThe Corporation may at any time, upon the Corporation’s own motion or upon application, release a registered industrial bank holding company from any registration previously made by such company, if the Corporation determines that such company no longer controls any industrial bank."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/section[1]/subsection[9]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(i)DefinitionsFor purposes of this section, the following definitions shall apply: 
+(1)Appropriate Federal supervisory agencyThe term appropriate Federal supervisory agency means, with respect to a company that controls an industrial bank— 
+(A)the Corporation, in the case of a company that is an industrial bank holding company; 
+(B)the Board of Governors of the Federal Reserve System, in the case of a company that is a bank holding company or that is subject to the Bank Holding Company Act of 1956 pursuant to section 8(a) of the International Banking Act of 1978; 
+(C)the Office of Thrift Supervision, in the case of a company that is a savings and loan holding company; and 
+(D)the Securities and Exchange Commission, in the case of a company that is regulated by the Commission pursuant to section 240.15c3–1(a)(7) of title 17 of the Code of Federal Regulations (as in effect on January 29, 2007). 
+(2)Rule of constructionUnder the definition of the term appropriate Federal supervisory agency in paragraph (1), more than 1 agency may be an appropriate Federal supervisory agency with respect to any given company that controls an industrial bank."}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(1)}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/external-xref[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/text[1]
+The reason of change is: element tag name
+The value is expected to be: external-xref But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/external-xref[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 12 U.S.C. 1818(b) But actually it is: Section 8(b) of the Federal De...
+The Jaccard Index is: 0.03
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"12 U.S.C. 1818(b)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended by adding at the end the following new paragraph:"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/quoted-block[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/quoted-block[1]/paragraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (11)
+  Industrial bank holding companies
+  This subsection and subsections (c) through (s) and subsection (u) of this section shall apply to any industrial bank holding company, and to any subsidiary (other than a bank) of an industrial bank holding company in the same manner as such subsections apply to State nonmember insured banks.
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[1]/quoted-block[1]/after-quoted-block[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: after-quoted-block
+ Inserted paragraph content is: {.}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/quoted-block[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]
+The reason of change is: element tag name
+The value is expected to be: quoted-block But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/quoted-block[1]/paragraph[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/enum[1]
+The reason of change is: element tag name
+The value is expected to be: paragraph But actually it is: enum
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/quoted-block[1]/paragraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/quoted-block[1]/paragraph[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(11)}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/quoted-block[1]/paragraph[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Industrial bank holding companies"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/quoted-block[1]/paragraph[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"This subsection and subsections (c) through (s) and subsection (u) of this section shall apply to any industrial bank holding company, and to any subsidiary (other than an industrial bank) of an industrial bank holding company in the same manner as such subsections apply to State nonmember banks."}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/quoted-block[1]/after-quoted-block[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]
+The reason of change is: element tag name
+The value is expected to be: after-quoted-block But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/quoted-block[1]/after-quoted-block[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: .  But actually it is: Section 8(h)(2) of the Federal...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"12 U.S.C. 1818(h)(2)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {") is amended by striking "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/quote[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"(2) Any party to"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" and inserting "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/quote[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"(2) Any party aggrieved by an order of any appropriate Federal supervisory agency under section 51 or any party to"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/text()[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {.}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (3)
+  Section 8(i) of the Federal Deposit Insurance Act (12 U.S.C. 1818(i)) is amended by striking or 39 each place such term appears and inserting , 39, or 51. 
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Technical and conforming amend... But actually it is: Prompt corrective action
+The Jaccard Index is: 0.02
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 10(e)(2) of the Federa... But actually it is: Section 38(f)(2)(H) of the Fed...
+The Jaccard Index is: 0.73
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Section of the Federal Deposit Insurance Act 
+insertion: 
+deletion: 
+change: 10e2 to 38f2H / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/external-xref[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/external-xref[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 12 U.S.C. 1820(e)(2) But actually it is: 12 U.S.C. 1831o(f)(2)(H)
+The Jaccard Index is: 0.43
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: 12 USC 
+insertion: 
+deletion: 
+change: 1820e2 to 1831of2H 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) is amended by inserting  But actually it is: ) is amended by—
+The Jaccard Index is: 0.52
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words:  is amended by 
+insertion: 
+deletion: 
+change: inserting to 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/quote[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"or section 50(b)(2)"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  after  But actually it is: ) is amended by—
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/quote[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"subsection (b)(4)"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/text()[4]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: . But actually it is: ) is amended by—
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(1)by striking bank holding company.—Prohibiting any bank and inserting  
+holding company.— 
+(i)Bank holding companyProhibiting any bank; and"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(2)by adding at the end the following new clause: 
+ 
+(ii)Industrial bank holding companyProhibiting any industrial bank holding company having control of the insured depository institution from making any capital distribution without the prior approval of the Corporation.."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(e)Technical and conforming amendments 
+(1)Section 10(e)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1820(e)(2)) is amended by inserting or section 51 after subsection (b)(4). 
+(2)Section 1101(6) of the Right to Financial Privacy Act of 1978 (12 U.S.C. 3401(6)) is amended— 
+(A)in subparagraph (B), by striking and after the semicolon; 
+(B)in subparagraph (C), by inserting and after the semicolon; and 
+(C)by inserting after paragraph (C) the following new paragraph: 
+ 
+(D)any industrial bank holding company (as defined in section 3(w)(8) of the Federal Deposit Insurance Act);. 
+(3)Section 115 of the Gramm-Leach-Bliley Act (12 U.S.C. 1820a) is amended— 
+(A)in subsection (a), by striking or after bank holding company and inserting , industrial bank holding company, or; 
+(B)in subsection (d)— 
+(i)by redesignating paragraphs (5), (6), and (7) as paragraphs (6), (7), and (8), respectively; and 
+(ii)by inserting after paragraph (4) the following new paragraph: 
+ 
+(5)Industrial bank holding companyThe term industrial bank holding company has the same meaning as in section 3(w)(8) of the Federal Deposit Insurance Act.. 
+(4)Section 304(g)(1) of the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2803(g)(1)) is amended by inserting , industrial bank holding company, after bank holding company. "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"
+  3.
+  Regulations
+  The Corporation shall prescribe such regulations as the Corporation determines to be appropriate to carry out the amendments made by this Act.
+"}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {" 
+May 16, 2007 
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+

@@ -1,0 +1,1023 @@
+===================================================
+
+total difference is: 234
+comparing document: BILLS-112hr3606ih.xml
+to document: BILLS-112hr3606rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/session[1]/text()[1]   Compared with location: bill[1]/form[1]/session[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 1st Session But actually it is: 2d Session
+The Jaccard Index is: 0.55
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 1st Session 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Committee			 on Financial Serv... But actually it is: Committee on Financial			 Serv...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: Committee			 on 
+insertion: 
+deletion: 
+change: Financial Services to Financial			 Services 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To increase American job creat... But actually it is: To increase American job creat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: To increase American job creation /economic growth /improving access to the public capital markets for 
+insertion: and		 
+deletion: growth 
+change: and to  /  to by / emerging growth		  companies to emerging		  growth companies 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 281"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No.
+		  112–406]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			March 1, 2012
+			Additional sponsors: Mr.
+			 Dold, Ms. Hayworth,
+			 Mr. Royce,
+			 Ms. Moore,
+			 Mr. Neugebauer,
+			 Mr. Owens,
+			 Mr. Meehan,
+			 Mr. Sam Johnson of Texas,
+			 Mr. Sessions,
+			 Mr. King of New York,
+			 Mr. Welch,
+			 Mr. Smith of Washington,
+			 Ms. Sewell,
+			 Mr. Hurt, Mr. Womack, Mr. Ross
+			 of Arkansas, Mr. Scott of South
+			 Carolina, Mr. Schock,
+			 Mr. Carnahan,
+			 Mr. Luetkemeyer,
+			 Mr. Rush, Mr. Gary G. Miller of California,
+			 Mr. Canseco,
+			 Mr. Larsen of Washington,
+			 Mr. Schilling, and
+			 Mr. Manzullo
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			March 1, 2012
+			Reported with an amendment, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+			For text of introduced bill, see copy of bill as
+			 introduced on December 8, 2011
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Reopening American Capital Mar... But actually it is: Reopening American Capital Mar...
+The Jaccard Index is: 0.97
+And the Smith Waterman Score is: 0.91
+The Detailes are shown as followings: 
+common words: Reopening American Capital Markets to			 Emerging Growth Companies Act of 
+insertion: 
+deletion: 
+change: 2011 to 2012 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Securities Act			 of 1933 But actually it is: Securities Act of			 1933
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: Act			 of 1933 to Act of			 1933 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/paragraph[1]/text[1]/term[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/paragraph[1]/text[1]/term[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: emerging growth company But actually it is: emerging				growth company
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: growth company 
+insertion: 
+deletion: emerging 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means an issuer that had tota... But actually it is:  means an issuer that had tota...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.47
+The Detailes are shown as followings: 
+common words:  means an issuer that had total /revenues /than 1000000000 during its most recently /year /that is an emerging growth company as of the first /that /shall continue to be deemed an emerging growth 
+insertion: annual completed day 
+deletion: revenues year that 
+change: annual				gross to gross / less to of				less / completed				fiscal to fiscal / issuer to An				issuer / day				of to of / year to fiscal				year / company				until the earliest of to company until the earliest				of 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the last day of				the fiscal ... But actually it is: the last day of the				fiscal ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: the last day year of the issuer during which it had total annual gross 
+insertion: 
+deletion: 
+change: of				the to of / fiscal to the				fiscal / revenues				of 1000000000 or more to revenues of				1000000000 or more 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the last day of				the fiscal ... But actually it is: the last day of the				fiscal ...
+The Jaccard Index is: 0.98
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: the last day year of the issuer following the fifth anniversary of the date sale of common equity securities of the issuer pursuant to statement under this title 
+insertion: 
+deletion: 
+change: of				the to of / fiscal to the				fiscal / of				the to of / first to the				first / an				effective to an / registration to effective				registration / and to or 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the date on which				such issu... But actually it is: the date on which such				issu...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: the date on is deemed to be a 
+insertion: 
+deletion: 
+change: which				such to which / issuer to such				issuer / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/paragraph[1]/subparagraph[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: , as				defined in section 240... But actually it is: , as defined in				section 240...
+The Jaccard Index is: 0.93
+And the Smith Waterman Score is: 0.44
+The Detailes are shown as followings: 
+common words:  in section 24012b2 of title 17 /Code of Federal Regulations 
+insertion: 
+deletion: 17 of 
+change: as				defined to as / or				any successor				thereto to or any successor				thereto 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Securities			 Exchange Act of ... But actually it is: Securities Exchange Act			 of ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: Securities			 Exchange of 1934 
+insertion: 
+deletion: 
+change: Act to Act			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 3(a) of the Securities... But actually it is: Section 3(a) of the Securities...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Section 3a of the Securities Exchange of 1934 USC 78ca is amended 
+insertion: 
+deletion: 
+change: Act			 to Act / 15 to 15			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by adding at the			 end the fo... But actually it is: by adding at the end the			 fo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.43
+The Detailes are shown as followings: 
+common words: by adding at 
+insertion: 
+deletion: 
+change: the			 end the following to the end the			 following 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/quoted-block[1]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/quoted-block[1]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means an issuer that had tota... But actually it is:  means an				issuer that had t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words:  means /that had total /revenues of less than 1000000000 /most recently /year An issuer that is an emerging /as of the first /that fiscal year shall continue to be deemed 
+insertion: annual completed day 
+deletion: means 1000000000 emerging 
+change: issuer to an				issuer / annual				gross to gross / its to during				its / completed				fiscal to fiscal / company to growth				company / day				of to of / an emerging growth company				until the earliest of to an				emerging growth company until the earliest of 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the last day of				the fiscal ... But actually it is: the last day of the				fiscal ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: the last day year of the issuer during which it had total annual gross 
+insertion: 
+deletion: 
+change: of				the to of / fiscal to the				fiscal / revenues				of 1000000000 or more to revenues of				1000000000 or more 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the last day of				the fiscal ... But actually it is: the last day of the				fiscal ...
+The Jaccard Index is: 0.98
+And the Smith Waterman Score is: 0.66
+The Detailes are shown as followings: 
+common words: the last day year of the issuer following the fifth anniversary of the date sale of common equity securities of the issuer pursuant to statement under the Securities Act of 1933 
+insertion: 
+deletion: 
+change: of				the to of / fiscal to the				fiscal / of				the to of / first to the				first / an				effective to an / registration to effective				registration / and to or 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the date on which				such issu... But actually it is: the date on which such				issu...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: the date on is deemed to be a 
+insertion: 
+deletion: 
+change: which				such to which / issuer to such				issuer / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: , as				defined in section 240... But actually it is: , as defined in				section 240...
+The Jaccard Index is: 0.93
+And the Smith Waterman Score is: 0.44
+The Detailes are shown as followings: 
+common words:  in section 24012b2 of title 17 /Code of Federal Regulations 
+insertion: 
+deletion: 17 of 
+change: as				defined to as / or				any successor				thereto to or any successor				thereto 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/quoted-block[1]/paragraph[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Emerging growth
+				company"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: As used in this title, the fol... But actually it is: As used in this Act, the follo...
+The Jaccard Index is: 0.81
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: As used in this the following 
+insertion: 
+deletion: 
+change: title to Act / definitions			 shall apply to definitions shall			 apply 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Initial public			 offering dat... But actually it is: Initial public offering			 dat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: public			 offering date to public offering			 date 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: 			 means the date of the firs... But actually it is:  means the			 date of the firs...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: 			 means date of the first sale of common equity securities of an pursuant to effective registration statement under the Securities Act 
+insertion: 
+deletion: 
+change: the to the			 / issuer			 to issuer / an to an			 / of			 1933 to of 1933 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(d)Effective
+			 dateNotwithstanding section
+			 2(a)(19) of the Securities Act of 1933 and section 3(a)(80) of the Securities
+			 Exchange Act of 1934, an issuer shall not be an emerging growth company for
+			 purposes of such Acts if the first sale of common equity securities of such
+			 issuer pursuant to an effective registration statement under the Securities Act
+			 of 1933 occurred on or before December 8, 2011.
+			"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by inserting			  But actually it is: by striking 
+The Jaccard Index is: 0.17
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: An emerging growth company sha... But actually it is: The Commission			 may
+The Jaccard Index is: 0.02
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  before  But actually it is:  and inserting the following:
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Commission may But actually it is: The Commission			 may
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: Commission may to Commission			 may 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/subparagraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ;			 and But actually it is:  and inserting the following:
+The Jaccard Index is: 0.07
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/subparagraph[1]/quoted-block[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quoted-block
+ Inserted paragraph content is: {"
+							(1)In
+				generalThe Commission
+				may
+							;"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/subparagraph[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/subparagraph[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: an issuer But actually it is: an			 issuer
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: an issuer 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/subparagraph[2]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/subparagraph[2]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be: . But actually it is: ; and
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/subparagraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(C)by adding at the end the following:
+						
+							(2)Treatment of emerging
+				growth companies
+								(A)In
+				generalAn emerging growth
+				company shall be exempt from the requirements of subsections (a) and
+				(b).
+								(B)Compliance after
+				termination of emerging growth company treatmentAn issuer that
+				was an emerging growth company but is no longer an emerging growth company
+				shall include the first separate resolution described under subsection (a)(1)
+				not later than the end of—
+									(i)in the case of an issuer that was an
+				emerging growth company for less than 2 years after the date of first sale of
+				common equity securities of the issuer pursuant to an effective registration
+				statement under the Securities Act of 1933, the 3-year period beginning on such
+				date; and
+									(ii)in the case of any other
+				issuer, the 1-year period beginning on the date the issuer is no longer an
+				emerging growth
+				company.
+									.
+					"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 953(b)(1) of the Dodd-... But actually it is: Section 953(b)(1)			 of the In...
+The Jaccard Index is: 0.66
+And the Smith Waterman Score is: 0.41
+The Detailes are shown as followings: 
+common words: Section of the /Reform and Protection Act of 2010 Public 111203 124 Stat is amended by inserting 
+insertion: 
+deletion: the DoddFrank 
+change: 953b1 to 953b1			 / Street			 to Investor / Consumer to Securities / Law to Law			 / 1904			 to 1904 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[3]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[3]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: , other than an emerging growt... But actually it is: , other than an			 emerging gr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words:  other than emerging growth company as term is defined in section 3a of Securities Exchange Act of 1934 
+insertion: 
+deletion: 
+change: an to an			 / that			 to that / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[3]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[3]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: require each issuer But actually it is: require each			 issuer
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: each issuer to each			 issuer 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Financial			 disclosures But actually it is: Financial disclosures			 and a...
+The Jaccard Index is: 0.4
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: disclosures to disclosures			 and accounting pronouncements 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Securities Act			 of 1933 But actually it is: Securities Act of			 1933
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: Act			 of 1933 to Act of			 1933 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 7(a) of the Securities... But actually it is: Section 7(a) of the Securities...
+The Jaccard Index is: 0.69
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Section 7a of the Securities Act of 1933 15 USC			 77ga is amended 
+insertion: 
+deletion: 
+change: by adding at the end the following to 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/text[1]/quote[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"An emerging
+			 growth company need not present more than 2 years of audited financial
+			 statements in order for the registration statement of such emerging growth
+			 company with respect to an initial public offering of its common equity
+			 securities to be effective, and in any other registration statement to be filed
+			 with the Commission, an emerging growth company need not present financial data
+			 for any period prior to the earliest audited period presented in connection
+			 with its initial public offering."}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: . But actually it is: Section 7(a) of the Securities...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/subparagraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(A)by striking (a)
+			 The registration and inserting the following:
+						
+							(a)Information required in
+				registration statement
+								(1)In
+				generalThe
+				registration
+								;
+				and
+					"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[1]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(B)by adding at the end the
+			 following:
+						
+							(2)Treatment of emerging
+				growth companiesAn emerging
+				growth company—
+								(A)need not present more
+				than 2 years of audited financial statements in order for the registration
+				statement of such emerging growth company with respect to an initial public
+				offering of its common equity securities to be effective, and in any other
+				registration statement to be filed with the Commission, an emerging growth
+				company need not present selected financial data in accordance with section
+				229.301 of title 17, Code of Federal Regulations, for any period prior to the
+				earliest audited period presented in connection with its initial public
+				offering; and
+								(B)may not be required to comply with any new
+				or revised financial accounting standard until such date that a company that is
+				not an issuer (as defined under section 2(a) of the Sarbanes-Oxley Act of 2002
+				(15 U.S.C. 7201(a)) is required to comply with such new or revised accounting
+				standard, if such standard applies to companies that are not
+				issuers.
+								.
+					"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Securities			 Exchange Act of ... But actually it is: Securities Exchange Act			 of ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: Securities			 Exchange of 1934 
+insertion: 
+deletion: 
+change: Act to Act			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 13(a) of the Securitie... But actually it is: Section 13(a) of the Securitie...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: Section 13a of the Securities Exchange of 1934 USC 78ma is amended by adding at the end the 
+insertion: 
+deletion: 
+change: Act			 to Act / 15 to 15			 / following			 to following 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In any registration statement,... But actually it is: In any			 registration stateme...
+The Jaccard Index is: 0.4
+And the Smith Waterman Score is: 0.45
+The Detailes are shown as followings: 
+common words: In registration statement periodic report or other reports to filed with Commission an emerging growth company need not /financial /for any period prior to the earliest audited period presented 
+insertion: present data			 in accordance with section 229301 of title 17 Code of Federal 
+deletion: 
+change: any to any			 / be			 to be / the to the			 / present			 to selected / data to Regulations			 / in			 connection with its initial public offering to in connection			 with its first registration statement that became effective under this Act or			 the Securities Act of 1933 and with respect to any such statement or reports			 an emerging growth company may not be required to comply with any new or			 revised financial accounting standard until such date that a company that is			 not an issuer as defined under section 2a of the SarbanesOxley Act of 2002			 15 USC 7201a is required to comply with such new or revised accounting			 standard if such standard applies to companies that are not			 issuers 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: New accounting			 pronouncemen... But actually it is: Other			 disclosures
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 19(b)(1)(A) of the Sec... But actually it is: An emerging growth company may...
+The Jaccard Index is: 0.13
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(1)in clause (iv), by
+			 striking and at the end; and
+				"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(2)by adding at the
+			 end the following:
+					
+						(vi)has not
+				established any accounting principles that would require an emerging growth
+				company to comply with any new or revised financial accounting standard as of
+				an effective date that is earlier than the effective date that applies to a
+				company that is not an issuer, as defined in section 2(a)(7) of the
+				Sarbanes-Oxley Act of 2002 (15 U.S.C. 7201(a)(7));
+				and
+						.
+				"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (d) But actually it is: (c)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: An emerging growth company may... But actually it is: An emerging growth company may...
+The Jaccard Index is: 0.86
+And the Smith Waterman Score is: 0.56
+The Detailes are shown as followings: 
+common words: An emerging growth company may comply with section			 229303a of title 17 /Code of Federal Regulations or any by providing information required by such section with respect to statements of the emerging growth company for each period pursuant /An growth company may comply with 229402 of title 17 /Code of Regulations or any thereto by disclosing the same information any issuer with a market of outstanding voting and nonvoting equity held by nonaffiliates less than 75000000 
+insertion: to			 section 7a of the Securities Act of 1933 
+deletion: 17 of 17 of 
+change: successor			 to successor / thereto to thereto			 / the			 to the / financial to financial			 / presented			 to presented / to to 15 / subsection to USC / b to 77ga / emerging to emerging			 / section			 to section / Federal to Federal			 / successor			 to successor / as to as			 / value			 to value / common to common			 / of			 to of / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/quoted-block[1]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/quoted-block[1]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Transition				period for emerg... But actually it is: Transition period for				emerg...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: Transition				period for emerging growth companies 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[5]/quoted-block[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/quoted-block[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any rules of the Board				requ... But actually it is: Any				rules of the Board requ...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 0.31
+The Detailes are shown as followings: 
+common words: rules of the /mandatory audit firm rotation or a supplement /auditor’s /which the auditor would be required to /information /audit and the financial statements of /auditor discussion /shall not apply to an /growth company as defined in /of the Securities Exchange /1934 Any additional rules adopted by /after the date of /this subparagraph shall not apply to /unless the Commission determines that the requirements /is necessary /in the public /considering the protection /and whether the action 
+insertion: Board report about and audit of section the an audit of or of 
+deletion: Any supplement to of Exchange of requirements to emerging growth public 
+change: Board				requiring to requiring / the to to				the / report				in to in / additional to provide				additional / about				the to the / issuer to the				issuer / and				analysis to analysis / emerging to an				emerging / section				3 to 3 / of to Act				of / the				Board to Board / of to enactment				of / any				emerging to any / growth to emerging / company to growth				company / application				of to application / such to of / additional to such				additional / or				appropriate to appropriate / after to interest				after / of				investors to investors / will promote efficiency competition and				capital				formation to will				promote efficiency competition and capital				formation 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Securities			 analyst communic... But actually it is: Securities analyst			 communic...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: Securities			 analyst communications 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 15D of the Securities ... But actually it is: Section 15D of the Securities ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Section 15D of the Securities Exchange of 15 USC 78o6 is amended 
+insertion: 
+deletion: 
+change: Act			 to Act / 1934 to 1934			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: restricting, based				on funct... But actually it is: restricting, based on				funct...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: restricting functional role which associated persons of a broker dealer or member securities association may arrange for communications between a				securities analyst and a potential investor or 
+insertion: 
+deletion: 
+change: based				on to based / of				a to of / national to a				national / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[2]/paragraph[2]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: restricting a				securities an... But actually it is: restricting a securities				an...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.55
+The Detailes are shown as followings: 
+common words: restricting analyst from participating in any communications with the growth company that is also attended by any other broker dealer or member of a national securities role is other than as a securities				analyst 
+insertion: 
+deletion: 
+change: a				securities to a / management				of to management / an to of / emerging to an				emerging / associated				person to associated / of to person / a to of				a / association				whose to association / functional to whose				functional / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Expanding			 permissible commu... But actually it is: Expanding permissible			 commu...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: Expanding			 permissible communications 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 5 of the Securities Ex... But actually it is: Section 5 of the Securities Ac...
+The Jaccard Index is: 0.85
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: Section 5 of the Securities /Act of 1933 15 77e is amended 
+insertion: 
+deletion: Securities 
+change: USC to USC			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[2]/quoted-block[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[3]/paragraph[2]/quoted-block[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notwithstanding				any other p... But actually it is: Notwithstanding				any other p...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Notwithstanding				any other provision of this section an emerging growth company or any person				authorized to act on behalf of an emerging growth company may engage in oral or				written communications with potential investors that are qualified				institutional buyers or institutions that are accredited investors as such				terms are respectively defined in section 230144A and section 230501a of				title 17 /Code of Federal Regulations or any successor thereto such investors might have an interest in a either prior to or following the date of filing of with respect to such securities with the 
+insertion: 
+deletion: 17 of 
+change: to				determine to to / whether to determine				whether / contemplated				securities to contemplated / offering to securities				offering / a				registration to a / statement to registration				statement / Commission				subject to the requirement of subsection				b2 to Commission subject to the				requirement of subsection				b2 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[4]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[4]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: within any			 prescribed perio... But actually it is: within any prescribed			 perio...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.61
+The Detailes are shown as followings: 
+common words: within prescribed period of time following the initial public offering date of growth company or 
+insertion: 
+deletion: 
+change: any			 to any / the			 to the / emerging to emerging			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[4]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[4]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: within any			 prescribed perio... But actually it is: within any prescribed			 perio...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.66
+The Detailes are shown as followings: 
+common words: within prescribed period of time prior to the expiration date of any agreement broker dealer or member of a national securities association and growth company or its shareholders that restricts or prohibits sale securities held by the emerging growth company or its after initial public offering date 
+insertion: 
+deletion: 
+change: any			 to any / between			 to between / the to the			 / the			 to the / emerging to emerging			 / the			 to the / of to of			 / shareholders			 to shareholders / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[7]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Other			 matters But actually it is: Other matters
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Other			 matters 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[7]/text[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: subsection
+
+We are at location: bill[1]/legis-body[1]/section[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(a)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"Draft registration
+			 statements"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"Section 6 of the
+			 Securities Act of 1933 (15 U.S.C. 77f) is amended by adding at the end the
+			 following:"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[1]/quoted-block[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quoted-block
+ Inserted paragraph content is: {"
+					(e)Emerging growth
+				companies
+						(1)In
+				generalAny emerging growth company, prior to its initial public
+				offering date, may confidentially submit to the Commission a draft registration
+				statement, for confidential nonpublic review by the staff of the Commission
+				prior to public filing, provided that the initial confidential submission and
+				all amendments thereto shall be publicly filed with the Commission not later
+				than 21 days before the date on which the issuer conducts a road show, as such
+				term is defined in section 230.433(h)(4) of title 17, Code of Federal
+				Regulations, or any successor thereto.
+						(2)ConfidentialityNotwithstanding
+				any other provision of this title, the Commission shall not be compelled to
+				disclose any information provided to or obtained by the Commission pursuant to
+				this subsection. For purposes of section 552 of title 5, United States Code,
+				this subsection shall be considered a statute described in subsection (b)(3)(B)
+				of such section 552. Information described in or obtained pursuant to this
+				subsection shall be deemed to constitute confidential information for purposes
+				of section 24(b)(2) of the Securities Exchange Act of
+				1934.
+						."}
+
+We are at location: bill[1]/legis-body[1]/section[7]/quoted-block[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[2]
+The reason of change is: element tag name
+The value is expected to be: quoted-block But actually it is: subsection
+
+We are at location: bill[1]/legis-body[1]/section[7]/quoted-block[1]/subsection[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[2]/enum[1]
+The reason of change is: element tag name
+The value is expected to be: subsection But actually it is: enum
+
+We are at location: bill[1]/legis-body[1]/section[7]/quoted-block[1]/subsection[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[2]/enum[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[7]/quoted-block[1]/subsection[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(e)}
+
+We are at location: bill[1]/legis-body[1]/section[7]/quoted-block[1]/subsection[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"Emerging growth
+				companies"}
+
+We are at location: bill[1]/legis-body[1]/section[7]/quoted-block[1]/subsection[1]/paragraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(1)In
+				generalAny emerging growth company, prior to its initial public
+				offering date, may confidentially submit to the Commission a draft registration
+				statement, for confidential nonpublic review by the staff of the Commission
+				prior to public filing, provided that the initial confidential submission and
+				all amendments thereto shall be publicly filed with the Commission not later
+				than 21 days before the date on which the issuer conducts a road show, as such
+				term is defined in section 230.433(h)(4) of title 17 of the Code of Federal
+				Regulations, or any successor thereto.
+					"}
+
+We are at location: bill[1]/legis-body[1]/section[7]/quoted-block[1]/subsection[1]/paragraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: paragraph But actually it is: null
+ Deleted paragraph content is: {"(2)ConfidentialityNotwithstanding
+				any other provision of this title, the Commission shall not be compelled to
+				disclose any information provided to or obtained by the Commission pursuant to
+				this subsection. For purposes of section 552 of title 5, United States Code,
+				this subsection shall be considered a statute described in subsection (b)(3)(B)
+				of such section 552. Information described in or obtained pursuant to this
+				subsection shall be deemed to constitute confidential information for purposes
+				of section 24(b)(2) of the Securities Exchange Act of
+				1934.
+					"}
+
+We are at location: bill[1]/legis-body[1]/section[7]/quoted-block[1]/after-quoted-block[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[2]/header[1]
+The reason of change is: element tag name
+The value is expected to be: after-quoted-block But actually it is: header
+
+We are at location: bill[1]/legis-body[1]/section[7]/quoted-block[1]/after-quoted-block[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: . But actually it is: Tick size
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[2]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"Section 11A(c) of the Securities Exchange
+			 Act of 1934 (15 U.S.C. 78k-1(c)) is amended by adding at the end the following
+			 new paragraph:"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[7]/subsection[2]/quoted-block[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quoted-block
+ Inserted paragraph content is: {"
+					(6)Tick size
+						(A)Study and
+				reportThe Commission shall conduct a study examining the
+				transition to trading and quoting securities in one penny increments, also
+				known as decimalization. The study shall examine the impact that decimalization
+				has had on the number of initial public offerings since its implementation
+				relative to the period before its implementation. The study shall also examine
+				the impact that this change has had on liquidity for small and middle
+				capitalization company securities and whether there is sufficient economic
+				incentive to support trading operations in these securities in penny
+				increments. Not later than 90 days after the date of enactment of this
+				paragraph, the Commission shall submit to Congress a report on the findings of
+				the study.
+						(B)DesignationIf the Commission determines that the
+				securities of emerging growth companies should be quoted and traded using a
+				minimum increment of greater than $0.01, the Commission may, by rule not later
+				than 180 days after the date of enactment of this paragraph, designate a
+				minimum increment for the securities of emerging growth companies that is
+				greater than $0.01 but less than $0.10 for use in all quoting and trading of
+				securities in any exchange or other execution
+				venue.
+						."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[8]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"8.Opt-in right for
+			 emerging growth companies
+			(a)In
+			 generalWith respect to an
+			 exemption provided to emerging growth companies under this Act, or an amendment
+			 made by this Act, an emerging growth company may choose to forgo such exemption
+			 and instead comply with the requirements that apply to an issuer that is not an
+			 emerging growth company.
+			(b)Special
+			 ruleNotwithstanding subsection (a), with respect to the
+			 extension of time to comply with new or revised financial accounting standards
+			 provided under section 7(a)(2)(B) of the Securities Act of 1933 and section
+			 13(a) of the Securities Exchange Act of 1934, as added by section 3(b), if an
+			 emerging growth company chooses to comply with such standards to the same
+			 extent that a non-emerging growth company is required to comply with such
+			 standards, the emerging growth company—
+				(1)must make such choice at
+			 the time the company is first required to file a registration statement,
+			 periodic report, or other report with the Commission under section 13 of the
+			 Securities Exchange Act of 1934 and notify the Securities and Exchange
+			 Commission of such choice;
+				(2)may not select some standards to comply
+			 with in such manner and not others, but must comply with all such standards to
+			 the same extent that a non-emerging growth company is required to comply with
+			 such standards; and
+				(3)must continue to comply with such standards
+			 to the same extent that a non-emerging growth company is required to comply
+			 with such standards for as long as the company remains an emerging growth
+			 company.
+				"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[9]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"9.Review of Regulation
+			 S-K
+			(a)ReviewThe
+			 Securities and Exchange Commission shall conduct a review of its Regulation S-K
+			 (17 C.F.R. 229.10 et seq.) to—
+				(1)comprehensively analyze the current
+			 registration requirements of such regulation; and
+				(2)determine how such
+			 requirements can be updated to modernize and simplify the registration process
+			 and reduce the costs and other burdens associated with these requirements for
+			 issuers who are emerging growth companies.
+				(b)ReportNot later the 180 days after the date of
+			 enactment of this Act, the Commission shall transmit to Congress a report of
+			 the review conducted under subsection (a). The report shall include the
+			 specific recommendations of the Commission on how to streamline the
+			 registration process in order to make it more efficient and less burdensome for
+			 the Commission and for prospective issuers who are emerging growth
+			 companies.
+			"}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		March 1, 2012
+		Reported with an amendment, committed to the Committee of
+		  the Whole House on the State of the Union, and ordered to be
+		  printed
+	"}
+

@@ -1,0 +1,156 @@
+===================================================
+
+total difference is: 42
+comparing document: BILLS-111hr1879ih.xml
+to document: BILLS-111hr1879rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/session[1]/text()[1]   Compared with location: bill[1]/form[1]/session[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 1st Session But actually it is: 2d Session
+The Jaccard Index is: 0.55
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 1st Session 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend title 38, United Stat... But actually it is: To amend title 38, United Stat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.47
+The Detailes are shown as followings: 
+common words: To amend title 38 United States Code /provide /employment and reemployment rights for certain individuals /to /National Guard duty 
+insertion: to		 ordered		 
+deletion: provide to 
+change: to to  /  to for / ordered to  /  to fulltime / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 259"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No.
+		  111–450]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			March 22, 2010
+			Additional sponsors: Mr.
+			 Filner, Mr. LoBiondo,
+			 Mr. Boozman,
+			 Mr. Welch,
+			 Ms. Fallin,
+			 Mr. Baird,
+			 Mr. Luetkemeyer,
+			 Mr. Courtney,
+			 Mr. Miller of Florida,
+			 Mr. Lamborn,
+			 Mr. Kline of Minnesota,
+			 Mr. Kissell,
+			 Mr. Harper,
+			 Mr. Buyer,
+			 Mr. Sullivan,
+			 Mr. Roe of Tennessee,
+			 Mr. Tim Murphy of Pennsylvania, and
+			 Ms. Granger
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			March 22, 2010
+			Reported with an amendment, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			
+		"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: legis-body
+ Inserted paragraph content is: {"
+		1.Short titleThis Act may be cited as the
+			 National Guard Employment Protection
+			 Act of 2010.
+		2.Reemployment rights
+			 following certain National Guard duty
+			(a)Reemployment
+			 rightsSection 4312(c)(4) of
+			 title 38, United States Code, is amended—
+				(1)by striking
+			 or at the end of subparagraph (D);
+				(2)by striking the period at
+			 the end of subparagraph (E) and inserting ; or; and
+				(3)by adding at the end the
+			 following new subparagraph:
+					
+						(F)ordered to full-time
+				National Guard duty under the provisions of section 502(f) of title 32 when the
+				period of duty is expressly designated in writing by the Secretary of Defense
+				as covered by this
+				subparagraph.
+						.
+				(b)Effective
+			 dateSubparagraph (F) of section 4312(c)(4) of title 38, United
+			 States Code, as added by subsection (a), shall apply with respect to an
+			 individual ordered to full-time National Guard duty under section 502(f) of
+			 title 32, United States Code, on or after September 11, 2001, and shall entitle
+			 such individual to rights and benefits under chapter 43 of title 38 of such
+			 Code on or after that date.
+			"}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		March 22, 2010
+		Reported with an amendment, committed to the Committee of
+		  the Whole House on the State of the Union, and ordered to be
+		  printed
+	"}
+

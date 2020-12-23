@@ -1,0 +1,71 @@
+===================================================
+
+total difference is: 23
+comparing document: BILLS-110hr964eh.xml
+to document: BILLS-110hr964rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 964 EH: Securely Protec... But actually it is: 110 HR 964 : Securely Protect ...
+The Jaccard Index is: 0.77
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: 110 HR 964 Securely Protect Yourself Against Cyber Trespass Act 
+insertion: 
+deletion: 
+change: EH to  / or the Spy Act to 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 0 But actually it is: 2007-06-07
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED ST...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED STATES 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {" 
+June 7, 2007 
+ Received; read twice and referred to the Committee on Commerce, Science, and Transportation 
+"}
+
+We are at location: bill[1]/legis-body[1]/section[10]/paragraph[14]/text[1]/quote[1]   Compared with location: bill[1]/legis-body[1]/section[10]/paragraph[14]/text[1]/term[1]
+The reason of change is: element tag name
+The value is expected to be: quote But actually it is: term
+
+We are at location: null   Compared with location: bill[1]/attestation[1]/attestation-group[1]/proxy[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: proxy
+ Inserted paragraph content is: {"Deborah M. Spriggs,"}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]/attestation-group[1]/role[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: role
+ Inserted paragraph content is: {"Deputy Clerk."}
+

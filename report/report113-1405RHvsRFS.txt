@@ -1,0 +1,169 @@
+===================================================
+
+total difference is: 37
+comparing document: BILLS-113hr1405eh.xml
+to document: BILLS-113hr1405rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 113 HR 1405 EH: To amend title... But actually it is: 113 HR 1405 : To amend title 3...
+The Jaccard Index is: 0.98
+And the Smith Waterman Score is: 0.97
+The Detailes are shown as followings: 
+common words: 113 HR 1405 To amend title 38 United States Code to require the Secretary of Veterans Affairs to include a notice of disagreement form in any notice of decision issued for the denial of a benefit sought to improve the supervision of fiduciaries of veterans under the laws administered by the Secretary of Veterans Affairs and for other purposes 
+insertion: 
+deletion: 
+change: EH to  / 
+
+We are at location: null   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {}
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IB But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED ST...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED STATES 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+  October 29, 2013
+  Received; read twice and referred to the Committee on Veterans` Affairs
+"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: When in the opinion of the Sec... But actually it is: When in the opinion of the Sec...
+The Jaccard Index is: 0.94
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: When in the opinion of the Secretary a temporary fiduciary is needed in order to protect the benefits provided to the beneficiary under any law administered by the Secretary while a determination of incompetency is being made or appealed or a fiduciary is appealing a determination of misuse the Secretary may appoint one or more temporary fiduciaries for a period not to exceed 120 days If a final decision has not been made within 120 days the Secretary may not continue the appointment of the fiduciary without obtaining a court order for appointment of a guardian conservator or other fiduciary under the authority provided in 
+insertion: 
+deletion: 
+change: section 5502b of this title 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"section 5502(b)"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of this title. But actually it is: When in the opinion of the Sec...
+The Jaccard Index is: 0.04
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[4]/quoted-block[1]/section[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[4]/quoted-block[1]/section[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any certification of a person ... But actually it is: Any certification of a person ...
+The Jaccard Index is: 0.56
+And the Smith Waterman Score is: 0.94
+The Detailes are shown as followings: 
+common words: Any certification of a person for payment of benefits of a beneficiary to that person as such 
+insertion: 
+deletion: 
+change: beneficiary to beneficiarys fiduciary under section 5502 of this title shall be made on the basis of 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[4]/quoted-block[1]/section[1]/subsection[1]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"section 5502"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[4]/quoted-block[1]/section[1]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[4]/quoted-block[1]/section[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of this title shall be made o... But actually it is: Any certification of a person ...
+The Jaccard Index is: 0.3
+And the Smith Waterman Score is: 0.91
+The Detailes are shown as followings: 
+common words:  of this title shall be made on the basis of 
+insertion: certification of a person for payment of benefits of a beneficiary to that person as such beneficiarys fiduciary under section 5502 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[4]/quoted-block[1]/section[1]/subsection[2]/paragraph[6]/subparagraph[2]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[4]/quoted-block[1]/section[1]/subsection[2]/paragraph[6]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: that is not included in a repo... But actually it is: that is not included in a repo...
+The Jaccard Index is: 0.66
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: that is not included in a report submitted by the fiduciary under 
+insertion: 
+deletion: 
+change: section 5509a of this title and 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[4]/quoted-block[1]/section[1]/subsection[2]/paragraph[6]/subparagraph[2]/clause[2]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"section 5509(a)"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[4]/quoted-block[1]/section[1]/subsection[2]/paragraph[6]/subparagraph[2]/clause[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[4]/quoted-block[1]/section[1]/subsection[2]/paragraph[6]/subparagraph[2]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of this title; and But actually it is: that is not included in a repo...
+The Jaccard Index is: 0.18
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[4]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: being appointed to manage an e... But actually it is: being appointed to manage an e...
+The Jaccard Index is: 0.85
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: being appointed to manage an estate where the annual amount of veterans benefits to be managed by the proposed fiduciary does not exceed 3600 as adjusted pursuant to 
+insertion: 
+deletion: 
+change: section 5312 of this title or 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[4]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/subparagraph[4]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"section 5312"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[4]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/subparagraph[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[4]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of this title; or But actually it is: being appointed to manage an e...
+The Jaccard Index is: 0.09
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clerk. But actually it is: Clerk
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/endorsement[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: endorsement But actually it is: null
+ Deleted paragraph content is: {""}
+

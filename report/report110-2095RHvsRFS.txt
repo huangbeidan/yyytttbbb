@@ -1,0 +1,653 @@
+===================================================
+
+total difference is: 97
+comparing document: BILLS-110hr2095eh.xml
+to document: BILLS-110hr2095rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 2095 EH: Rail Passenger... But actually it is: 110 HR 2095 : Rail Passenger D...
+The Jaccard Index is: 0.87
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: 110 HR 2095 Rail Passenger Disaster Family 
+insertion: 
+deletion: 
+change: EH to  / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 0 But actually it is: 2007-10-18
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IB But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF		  REPRESENTAT... But actually it is: IN THE SENATE OF THE UNITED		 ...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF		  REPRESENTATIVES to SENATE OF THE UNITED		  STATES 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			October 18, 2007
+			Received; read twice and referred to the
+			 Committee on Commerce, Science, and
+			 Transportation
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be:  have the meaning			 given tho... But actually it is:  have the meaning			 given tho...
+The Jaccard Index is: 0.43
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words:  have the meaning			 given those terms 
+insertion: 
+deletion: 
+change: in to in			 section			 20102 of title 49 United States Code 
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"section 20102"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[4]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is:  have the meaning			 given tho...
+The Jaccard Index is: 0.38
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words:  of title 49 United States Code 
+insertion: have the meaning			 given those terms in			 section			 20102 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States			... But actually it is:  of title 49, United			 States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words:  of title 49 Code is amended to read as follows 
+insertion: 
+deletion: 
+change: United to United			 / States			 to States / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[8]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[8]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subject				to the provisions o... But actually it is: Subject				to the provisions o...
+The Jaccard Index is: 0.22
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Subject				to the provisions of subtitle I of title 40 and title III of the Federal				Property and Administrative Services Act of 1949 
+insertion: 
+deletion: 
+change: 41 USC 251 et				seq the Secretary of Transportation may make enter into				and perform such contracts grants leases cooperative agreements and other				similar transactions with Federal or other public agencies including State and				local governments and private organizations and persons and make such				payments by way of advance or reimbursement as the Secretary may determine to				be necessary or appropriate to carry out functions at the Administration The				authority of the Secretary granted by this subsection shall be carried out by				the Administrator Notwithstanding any other provision of this chapter no				authority to enter into contracts or to make payments under this subsection				shall be effective except as provided for in appropriations				Acts 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[8]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"41 U.S.C. 251 et seq."}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[8]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[8]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ), the				Secretary of Transpo... But actually it is: Subject				to the provisions o...
+The Jaccard Index is: 0.86
+And the Smith Waterman Score is: 0.36
+The Detailes are shown as followings: 
+common words:  the				Secretary of Transportation may make enter /perform such /leases cooperative agreements and /transactions /or other public agencies including State /governments /organizations and persons and make /by way of advance /as the Secretary may determine /necessary or appropriate /out functions at the Administration /of the /by this subsection shall be carried out any other provision of this chapter /to enter /or to make payments under this /be effective /provided for in appropriations				Acts 
+insertion: the provisions of subtitle I of title 40 and title III of the Federal				Property and Administrative Services Act of 1949 41 USC 251 et				seq the contracts with and or to Secretary into except 
+deletion: enter and State make determine Administration chapter this 
+change: and to into				and / contracts				grants to grants / similar to other				similar / with				Federal to Federal / local to and				local / and				private to private / payments to such				payments / or				reimbursement to reimbursement / be to to				be / to				carry to carry / authority to The				authority / Secretary				granted to granted / by to by				the / the to Administrator / Administrator				Notwithstanding to Notwithstanding / authority to no				authority / into				contracts to contracts / shall to subsection				shall / except				as to as / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The item relating to section 1... But actually it is: The item relating to section 1...
+The Jaccard Index is: 0.43
+And the Smith Waterman Score is: 0.92
+The Detailes are shown as followings: 
+common words: The item relating to section 103 in			 the table of sections 
+insertion: 
+deletion: 
+change: of to of			 chapter			 1 of title 49 United States Code is amended to read as			 follows 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/paragraph[2]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"chapter 1"}
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is: The item relating to section 1...
+The Jaccard Index is: 0.53
+And the Smith Waterman Score is: 0.62
+The Detailes are shown as followings: 
+common words:  of title 49 United States Code is to read 
+insertion: item relating to section 103 in			 the table of sections of			 chapter			 1 
+deletion: 
+change: amended			 to amended / as follows to as			 follows 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words:  of title United States Code is amended by inserting section 20115 the new section 
+insertion: 
+deletion: 
+change: 49 to 49			 / after			 to after / following to following			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words:  of title United States Code is amended by adding after item relating to 20115 the following new item 
+insertion: 
+deletion: 
+change: 49 to 49			 / the			 to the / section to section			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States			... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words:  of title United Code is amended by adding at the end the following 
+insertion: 
+deletion: 
+change: 49 to 49			 / States			 to States / new section to new			 section 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[4]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States			... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words:  of title United Code as amended by this Act is further amended by adding at end following new section 
+insertion: 
+deletion: 
+change: 49 to 49			 / States			 to States / the to the			 / the			 to the / 
+
+We are at location: bill[1]/legis-body[1]/title[4]/section[1]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"Section 20152"}
+
+We are at location: bill[1]/legis-body[1]/title[4]/section[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[4]/section[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States			... But actually it is: Section 20152 of			 title 49, ...
+The Jaccard Index is: 0.82
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words:  of title 49 United Code is amended to read as follows 
+insertion: 20152 
+deletion: 
+change: States			 to States / 
+
+We are at location: bill[1]/legis-body[1]/title[4]/section[2]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[4]/section[2]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words:  of title United States Code is amended by adding at the the following 
+insertion: 
+deletion: 
+change: 49 to 49			 / end			 to end / new section to new			 section 
+
+We are at location: bill[1]/legis-body[1]/title[4]/section[3]/subsection[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[4]/section[3]/subsection[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words:  of title United States Code amended to read as follows 
+insertion: 
+deletion: 
+change: 49 to 49			 / is			 to is / 
+
+We are at location: bill[1]/legis-body[1]/title[4]/section[4]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[4]/section[4]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words:  of title United States Code as amended by this Act is amended by adding at end the following new section 
+insertion: 
+deletion: 
+change: 49 to 49			 / further			 to further / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/title[4]/section[4]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[4]/section[4]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 23, United States Co... But actually it is:  of title 23, United			 States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words:  of title 23 States Code is by adding at the end the following 
+insertion: 
+deletion: 
+change: United to United			 / amended			 to amended / 
+
+We are at location: bill[1]/legis-body[1]/title[4]/section[4]/subsection[4]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[4]/section[4]/subsection[4]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 49, United			 States... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.56
+The Detailes are shown as followings: 
+common words:  of title States Code is amended 
+insertion: 
+deletion: 
+change: 49 to 49			 / United			 to United / 
+
+We are at location: bill[1]/legis-body[1]/title[4]/section[4]/subsection[4]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[4]/section[4]/subsection[4]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 49, United			 States... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.64
+The Detailes are shown as followings: 
+common words:  of title States Code is amended by inserting 
+insertion: 
+deletion: 
+change: 49 to 49			 / United			 to United / 
+
+We are at location: bill[1]/legis-body[1]/title[4]/section[4]/subsection[4]/paragraph[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[4]/section[4]/subsection[4]/paragraph[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary shall impose a c... But actually it is: The Secretary shall impose a		...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: The Secretary shall impose penalty for a violation of section 20157 of this title 
+insertion: 
+deletion: 
+change: a to a			 / civil			 to civil / 
+
+We are at location: bill[1]/legis-body[1]/title[4]/section[4]/subsection[4]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[4]/section[4]/subsection[4]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  after the first			 sentence. But actually it is:  after the			 first sentence.
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words:  after 
+insertion: 
+deletion: 
+change: the first			 sentence to the			 first sentence 
+
+We are at location: bill[1]/legis-body[1]/title[4]/section[9]/subsection[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[4]/section[9]/subsection[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words:  of title United States Code as amended by Act is further amended by adding at end the following new item 
+insertion: 
+deletion: 
+change: 49 to 49			 / this			 to this / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/title[5]/section[1]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"Section 20112(a)"}
+
+We are at location: bill[1]/legis-body[1]/title[5]/section[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[5]/section[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States			... But actually it is: Section 20112(a)			 of title 4...
+The Jaccard Index is: 0.73
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words:  of title 49 United Code is amended 
+insertion: 20112a			 
+deletion: 
+change: States			 to States / 
+
+We are at location: bill[1]/legis-body[1]/title[5]/section[2]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[5]/section[2]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 49, United			 States... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.56
+The Detailes are shown as followings: 
+common words:  of title States Code is amended 
+insertion: 
+deletion: 
+change: 49 to 49			 / United			 to United / 
+
+We are at location: bill[1]/legis-body[1]/title[5]/section[4]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"Section 20104(a)(1)"}
+
+We are at location: bill[1]/legis-body[1]/title[5]/section[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[5]/section[4]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 49, United			 States... But actually it is:  and inserting 
+The Jaccard Index is: 0.03
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[5]/section[4]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[5]/section[4]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: death or personal injury But actually it is: death,			 personal injury, or ...
+The Jaccard Index is: 0.3
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: or personal injury 
+insertion: 
+deletion: death 
+change: or significant harm to the environment 
+
+We are at location: bill[1]/legis-body[1]/title[5]/section[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[5]/section[4]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be:  and			 inserting  But actually it is: .
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[5]/section[4]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[5]/section[4]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: death, personal injury, or sig... But actually it is: death or personal injury
+The Jaccard Index is: 0.3
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: death personal injury 
+insertion: or 
+deletion: 
+change: or significant harm to the			 environment to 
+
+We are at location: bill[1]/legis-body[1]/title[5]/section[4]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/title[5]/section[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: . But actually it is: Section			 20104(a)(1) of titl...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[5]/section[5]/subsection[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[5]/section[5]/subsection[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words:  of title United States Code is amended by adding at the the following 
+insertion: 
+deletion: 
+change: 49 to 49			 / end			 to end / new item to new			 item 
+
+We are at location: bill[1]/legis-body[1]/title[5]/section[6]/subsection[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[5]/section[6]/subsection[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words:  of title United States Code is amended by adding at the the following 
+insertion: 
+deletion: 
+change: 49 to 49			 / end			 to end / new item to new			 item 
+
+We are at location: bill[1]/legis-body[1]/title[5]/section[7]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[5]/section[7]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Information obtained through		... But actually it is: Information obtained through		...
+The Jaccard Index is: 0.91
+And the Smith Waterman Score is: 0.96
+The Detailes are shown as followings: 
+common words: Information obtained through				activities set forth in paragraphs 1 and 2 shall not be subject to				publication or disclosure or search or review in connection therewith 
+insertion: 
+deletion: 
+change: under				 to under				section				552 of title 5 
+
+We are at location: bill[1]/legis-body[1]/title[5]/section[7]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[4]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"section 552"}
+
+We are at location: bill[1]/legis-body[1]/title[5]/section[7]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[5]/section[7]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 5. But actually it is: Information obtained through		...
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/title[5]/section[7]/quoted-block[1]/subsection[1]/paragraph[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[5]/section[7]/quoted-block[1]/subsection[1]/paragraph[4]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 18 shall not apply t... But actually it is:  of title 18				shall not appl...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words:  of title /not apply to conduct /and pursuant to this				subsection 
+insertion: authorized 
+deletion: title 
+change: shall to 18				shall / authorized				by to by / 
+
+We are at location: bill[1]/legis-body[1]/title[6]/section[2]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[6]/section[2]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words:  of title United States Code as amended by this Act further amended by adding at end the following new section 
+insertion: 
+deletion: 
+change: 49 to 49			 / is			 to is / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/title[6]/section[2]/subsection[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[6]/section[2]/subsection[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words:  of title United States Code is amended by adding at the the following 
+insertion: 
+deletion: 
+change: 49 to 49			 / end			 to end / new item to new			 item 
+
+We are at location: bill[1]/legis-body[1]/title[6]/section[3]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[6]/section[3]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words:  of title United States Code as amended by this Act further amended by adding at end the following new section 
+insertion: 
+deletion: 
+change: 49 to 49			 / is			 to is / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/title[6]/section[3]/subsection[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[6]/section[3]/subsection[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words:  of title United States Code is amended by adding at the the following 
+insertion: 
+deletion: 
+change: 49 to 49			 / end			 to end / new item to new			 item 
+
+We are at location: bill[1]/legis-body[1]/title[6]/section[4]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[6]/section[4]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words:  of title United States Code as amended by this Act further amended by adding at end the following new section 
+insertion: 
+deletion: 
+change: 49 to 49			 / is			 to is / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/title[6]/section[4]/subsection[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[6]/section[4]/subsection[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words:  of title United States Code is amended by adding at the the following 
+insertion: 
+deletion: 
+change: 49 to 49			 / end			 to end / new item to new			 item 
+
+We are at location: bill[1]/legis-body[1]/title[6]/section[5]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[6]/section[5]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words:  of title United States Code as amended by this Act further amended by adding at end the following new section 
+insertion: 
+deletion: 
+change: 49 to 49			 / is			 to is / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/title[6]/section[5]/subsection[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[6]/section[5]/subsection[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words:  of title United States Code is amended by adding at the the following 
+insertion: 
+deletion: 
+change: 49 to 49			 / end			 to end / new item to new			 item 
+
+We are at location: bill[1]/legis-body[1]/title[6]/section[6]/subsection[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[6]/section[6]/subsection[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words:  of title United States Code is amended by adding at the the following 
+insertion: 
+deletion: 
+change: 49 to 49			 / end			 to end / new item to new			 item 
+
+We are at location: bill[1]/legis-body[1]/title[6]/section[7]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[6]/section[7]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words:  of title United States Code as amended by this Act further amended by adding at end the following new section 
+insertion: 
+deletion: 
+change: 49 to 49			 / is			 to is / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/title[6]/section[7]/subsection[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[6]/section[7]/subsection[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words:  of title United States Code is amended by adding at the the following 
+insertion: 
+deletion: 
+change: 49 to 49			 / end			 to end / new item to new			 item 
+
+We are at location: bill[1]/legis-body[1]/title[6]/section[9]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[6]/section[9]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 120			 days aft... But actually it is: Not later than 120			 days aft...
+The Jaccard Index is: 0.52
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Not later than 120			 days after the date of enactment of this Act each railroad carrier as defined			 in 
+insertion: 
+deletion: 
+change: section			 20102 of title 49 United States Code shall with respect to			 each of its tunnels which 
+
+We are at location: bill[1]/legis-body[1]/title[6]/section[9]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"section 20102"}
+
+We are at location: bill[1]/legis-body[1]/title[6]/section[9]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[6]/section[9]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is: Not later than 120			 days aft...
+The Jaccard Index is: 0.46
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words:  of title 49 United States Code shall with respect of its tunnels which 
+insertion: later than 120			 days after the date of enactment of this Act each railroad carrier as defined			 in section			 20102 
+deletion: 
+change: to to to			 / each			 to each / 
+
+We are at location: bill[1]/legis-body[1]/title[6]/section[11]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[6]/section[11]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words:  of title United States Code as amended by this Act further amended by adding at end the following new section 
+insertion: 
+deletion: 
+change: 49 to 49			 / is			 to is / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/title[6]/section[11]/subsection[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[6]/section[11]/subsection[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States Co... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words:  of title United States Code is amended by adding at the the following 
+insertion: 
+deletion: 
+change: 49 to 49			 / end			 to end / new item to new			 item 
+
+We are at location: bill[1]/legis-body[1]/title[6]/section[17]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"Section 10501"}
+
+We are at location: bill[1]/legis-body[1]/title[6]/section[17]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[6]/section[17]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States			... But actually it is: Section 10501 of			 title 49, ...
+The Jaccard Index is: 0.77
+And the Smith Waterman Score is: 0.56
+The Detailes are shown as followings: 
+common words:  of title 49 United Code is amended 
+insertion: 10501 
+deletion: 
+change: States			 to States / 
+
+We are at location: bill[1]/legis-body[1]/title[7]/section[2]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[7]/section[2]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 49, United States			... But actually it is:  of title 49,			 United States...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words:  of title United Code is amended by adding at the end the following 
+insertion: 
+deletion: 
+change: 49 to 49			 / States			 to States / 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clerk. But actually it is: Clerk
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+

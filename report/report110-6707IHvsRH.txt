@@ -1,0 +1,194 @@
+===================================================
+
+total difference is: 75
+comparing document: BILLS-110hr6707ih.xml
+to document: BILLS-110hr6707rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 6707 IH: Taking Respons... But actually it is: 110 HR 6707 RH: Taking Respons...
+The Jaccard Index is: 0.91
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: 110 HR 6707 Taking Responsible Action for Community Safety Act 
+insertion: 
+deletion: 
+change: IH to RH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2008-07-31 But actually it is: 2008-09-26
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 576"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 110–893]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+September 26, 2008
+Additional sponsors: Mr. Holden, and Ms. Norton
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+September 26, 2008
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed
+Strike out all after the enacting clause and insert the part printed in italic
+For text of introduced bill, see copy of bill as introduced on July 31, 2008
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by striking  But actually it is: by inserting 
+The Jaccard Index is: 0.17
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: and But actually it is: the effect on the public inter...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  at the end of paragraph (4); But actually it is:  after 
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[2]/text[1]/quote[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"the Board shall consider"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[2]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {;}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by striking the period at the ... But actually it is: in paragraph (2), by striking 
+The Jaccard Index is: 0.25
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: by striking 
+insertion: paragraph 2 by 
+deletion: 
+change: the period at the end of paragraph 5 and inserting a semicolon and to 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[3]/text[1]/quote[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"on the public interest"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[3]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"; "}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by adding at the end the follo... But actually it is: by striking 
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[4]/text[1]/quote[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {and}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[4]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" at the end of paragraph (4);"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[4]/quoted-block[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quoted-block But actually it is: null
+ Deleted paragraph content is: {" 
+(6)the safety and environmental effects of the proposed transaction, including the effects on local communities, such as public safety, grade crossing safety, hazardous materials transportation safety, emergency response time, noise, and socioeconomic impacts; and 
+(7)the effect of the proposed transaction on intercity rail passenger transportation and commuter rail passenger transportation, as defined by section 24102 of this title.;"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"
+  (E)
+  by striking the period at the end of paragraph (5) and inserting a semicolon; and
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[6]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(F)by adding at the end the following new paragraphs:
+
+(6)the safety and environmental effects of the proposed transaction, including the effects on local communities, such as public safety, grade crossing safety, hazardous materials transportation safety, emergency response time, noise, and socioeconomic impacts; and
+(7)the effect of the proposed transaction on intercity rail passenger transportation and commuter rail passenger transportation, as defined by section 24102 of this title.;"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/quoted-block[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Board shall approve and au... But actually it is: The Board shall approve and au...
+The Jaccard Index is: 0.96
+And the Smith Waterman Score is: 0.96
+The Detailes are shown as followings: 
+common words: The Board shall approve and authorize a transaction under this section when it finds the transaction is consistent with the public interest The Board shall not approve a transaction described in subsection b if it finds that the transaction’s /impacts on safety and on affected communities as defined under subsection b outweigh the transportation benefits of the transaction The Board may impose conditions governing a transaction under this section including conditions to mitigate the effects of the transaction on local communities 
+insertion: 
+deletion: transaction’s 
+change: the to all / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[4]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[4]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be:  and insert  But actually it is:  and inserting 
+The Jaccard Index is: 0.64
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words:  and 
+insertion: 
+deletion: 
+change: insert to inserting 
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+September 26, 2008
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+

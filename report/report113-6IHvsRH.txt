@@ -1,0 +1,107 @@
+===================================================
+
+total difference is: 37
+comparing document: BILLS-113hr6ih.xml
+to document: BILLS-113hr6rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 113 HR 6 IH: Domestic Prosperi... But actually it is: 113 HR 6 RH: Domestic Prosperi...
+The Jaccard Index is: 0.89
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: 113 HR 6 Domestic Prosperity and Global Freedom Act 
+insertion: 
+deletion: 
+change: IH to RH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2014-03-06 But actually it is: 2014-06-19
+The Jaccard Index is: 0.45
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 353"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 113–477]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+June 19, 2014
+Additional sponsors: Mr. Thornberry, Mr. Conaway, Mr. Cramer, Mr. McCaul, Mr. Royce, Mr. Hunter, Mr. Franks of Arizona, Mr. Hensarling, Mr. Farenthold, Mr. Neugebauer, Mrs. Capito, Mr. Coffman, Mr. Dent, Mr. Bridenstine, Mrs. Black, Mr. Costa, Mr. Sessions, Mr. Stivers, Mr. Culberson, Mr. Meadows, Mr. Collins of New York, Mrs. Blackburn, Mr. Weber of Texas, Mr. Terry, Mrs. Brooks of Indiana, Mr. Kelly of Pennsylvania, Mr. Schweikert, Mr. Gosar, Mr. Marchant, Mr. Flores, Mr. Barletta, Mr. Palazzo, Mrs. Lummis, Mr. Thompson of Pennsylvania, Mr. Gene Green of Texas, Mr. Renacci, Mr. Kline, Mr. Hinojosa, and Mr. Lamborn
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+June 19, 2014
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed
+Strike out all after the enacting clause and insert the part printed in italic
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: legis-body
+ Inserted paragraph content is: {"
+1.Short titleThis Act may be cited as the Domestic Prosperity and Global Freedom Act.
+2.Action on applications
+(a)Decision deadlineThe Department of Energy shall issue a decision on any application for authorization to export natural gas under section 3 of the Natural Gas Act (15 U.S.C. 717b) not later than 90 days after the later of—
+(1)the end of the comment period for such decision as set forth in the applicable notice published in the Federal Register; or
+(2)the date of enactment of this Act.
+(b)Judicial action
+(1)The United States Court of Appeals for the circuit in which the export facility will be located pursuant to an application described in subsection (a) shall have original and exclusive jurisdiction over any civil action for the review of —
+(A)an order issued by the Department of Energy with respect to such application; or
+(B)the Department of Energy’s failure to issue a decision on such application.
+(2)If the Court in a civil action described in paragraph (1) finds that the Department of Energy has failed to issue a decision on the application as required under subsection (a), the Court shall order the Department of Energy to issue such decision not later than 30 days after the Court’s order.
+(3)The Court shall set any civil action brought under this subsection for expedited consideration and shall set the matter on the docket as soon as practical after the filing date of the initial pleading.
+3.Public disclosure of export destinationsSection 3 of the Natural Gas Act (15 U.S.C. 717b) is amended by adding at the end the following:
+
+(g)Public Disclosure of LNG Export DestinationsAs a condition for approval of any authorization to export LNG, the Secretary of Energy shall require the applicant to publicly disclose the specific destination or destinations of any such authorized LNG exports..
+"}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+June 19, 2014
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+

@@ -1,0 +1,419 @@
+===================================================
+
+total difference is: 93
+comparing document: BILLS-110hr5579ih.xml
+to document: BILLS-110hr5579rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 5579 IH: Emergency Mort... But actually it is: 110 HR 5579 RH: Emergency Mort...
+The Jaccard Index is: 0.72
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: 110 HR 5579 Emergency Mortgage Loan Modification 
+insertion: 
+deletion: 
+change: IH to RH / Act of 2008 
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  (for			 himself and  But actually it is:  (for himself and 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words:  himself and 
+insertion: 
+deletion: 
+change: for			 to for / 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/text()[2]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) introduced			 the following ... But actually it is: ) introduced the following bil...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words:  the following bill which was referred to 
+insertion: 
+deletion: 
+change: introduced			 to introduced / the			 to the 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Committee on Financial			 Serv... But actually it is: Committee on Financial Service...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Committee on 
+insertion: 
+deletion: 
+change: Financial			 Services to Financial Services 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To remove an impediment to tro... But actually it is: To remove an impediment to tro...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: To remove an impediment to troubled debt restructuring /the part of holders of residential mortgage loans and for 
+insertion: 
+deletion: restructuring 
+change:  to on / other		  purposes to other purposes 
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 382"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 110–615]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {" 
+May 1, 2008 
+Additional sponsor: Mr. Sherman 
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {" 
+May 1, 2008 
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed 
+Strike out all after the enacting clause and insert the part printed in italic 
+For text of introduced bill, see copy of bill as introduced on March 11, 2008 
+"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Emergency Mortgage Loan Modifi... But actually it is: Emergency Mortgage Loan Modifi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Emergency Mortgage Loan Act of 2008 
+insertion: 
+deletion: 
+change: Modification			 to Modification / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Safe harbor for			 qualified l... But actually it is: Safe harbor for qualified loan...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Safe harbor qualified loan modifications or workout plans for certain residential 
+insertion: 
+deletion: 
+change: for			 to for / mortgage			 loans to mortgage loans 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Standard for loan			 modificat... But actually it is: Standard for loan modification...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Standard for modifications or workout plans 
+insertion: 
+deletion: 
+change: loan			 to loan / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Absent specific contractual			... But actually it is: Absent contractual provisions ...
+The Jaccard Index is: 0.78
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: specific contractual			 provisions to the contrary 
+insertion: 
+deletion: Absent 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the duty to			 maximize, or to... But actually it is: the duty to maximize, or to no...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: the duty maximize or to not adversely affect the recovery of total proceeds pooled residential mortgage loans is owed by a servicer of such pooled loans the securitization vehicle for the benefit of all investors and holders beneficial interests in the pooled loans in the aggregate and not to individual party or group of parties and 
+insertion: 
+deletion: 
+change: to			 to to / from			 to from / to			 to to / of			 to of / any			 to any / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a			 servicer of pooled reside... But actually it is: a servicer of pooled residenti...
+The Jaccard Index is: 0.98
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: a			 servicer of pooled residential mortgage loans shall be deemed to be acting behalf of the securitization vehicle in the best interest of all investors holders of beneficial interests in the pooled loans in the aggregate if for loan that is in payment default under the loan agreement or for which default is imminent or reasonably foreseeable the loan servicer reasonable and documented efforts to implement a modification or workout or if such efforts are unsuccessful or such plan would be infeasible in other loss mitigation including accepting a short payment or discharge of principal or agreeing to a short sale of the property to extent that the servicer reasonably believes the /modification or workout or other mitigation actions will maximize the net present value to be on the loan /over that which would be realized through foreclosure 
+insertion: particular including 
+deletion: 
+change: on			 to on / and			 to and / a			 to a / payment			 to payment / makes			 to makes / plan			 to plan / engages			 to engages / partial			 to partial / the			 to the / plan			 to plan / realized			 to realized / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Safe			 harbor But actually it is: Safe harbor
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Safe			 harbor 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Absent specific contractual pr... But actually it is: Absent contractual provisions ...
+The Jaccard Index is: 0.96
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: specific contractual provisions to the contrary servicer of a residential mortgage loan that acts in a manner consistent the duty set forth in subsection a shall not be liable for entering into qualified loan modification or workout plan to 
+insertion: 
+deletion: Absent 
+change: a			 to a / with			 to with / a			 to a / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any person, based			 on that p... But actually it is: any person, based on that pers...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: any person on that person’s ownership of a residential mortgage loan or any interest in pool of residential mortgage loans or in securities that distribute out of the principal interest and other payments in loans on the pool 
+insertion: 
+deletion: 
+change: based			 to based / a			 to a / payments			 to payments / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any person who is			 obligated... But actually it is: any person who is obligated pu...
+The Jaccard Index is: 0.78
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: any person who obligated /to /make payments determined in reference to any loan or any referred to in paragraph 1 or 
+insertion: pursuant a derivatives instrument to 
+deletion: 
+change: is			 to is / interest			 to interest / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any person that insures any lo... But actually it is: any person that insures any lo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: any person that insures any loan or interest referred to in paragraph 1 under any law or regulation of the States or any law or regulation of any State or political subdivision of 
+insertion: 
+deletion: 
+change: any			 to any / United			 to United / any			 State to any State 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Rule of			 construction But actually it is: Rule of construction
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of			 construction to of construction 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: No provision of this section s... But actually it is: No provision of this section s...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.87
+The Detailes are shown as followings: 
+common words: No provision of this section shall be construed limiting the ability of a servicer to enter into loan modifications or plans other than qualified loan modification or workout plans 
+insertion: 
+deletion: 
+change: as			 to as / workout			 to workout / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For			 purposes of this sectio... But actually it is: For purposes of this section, ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.9
+The Detailes are shown as followings: 
+common words: For			 purposes of this section the following definitions shall apply 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Qualified loan			 modification... But actually it is: Qualified loan modification or...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Qualified modification or workout plan 
+insertion: 
+deletion: 
+change: loan			 to loan / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: qualified loan			 modification... But actually it is: qualified loan modification or...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: qualified modification or workout plan 
+insertion: 
+deletion: 
+change: loan			 to loan / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: is scheduled to			 remain in p... But actually it is: is scheduled to remain in plac...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: is scheduled remain in place until the borrower sells or refinances the property or for least 5 years from the date of adoption of the plan whichever 
+insertion: 
+deletion: 
+change: to			 to to / at			 to at / is			 sooner to is sooner 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: does not provide for			 a repa... But actually it is: does not provide for a repayme...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: does not provide a repayment schedule that results in negative amortization at any 
+insertion: 
+deletion: 
+change: for			 to for / time			 and to time and 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: does not require			 the borrow... But actually it is: does not require the borrower ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: does not the borrower to pay additional points and fees 
+insertion: 
+deletion: 
+change: require			 to require / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Residential			 mortgage loan d... But actually it is: Negative amortization
+The Jaccard Index is: 0.04
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The term  But actually it is: For purposes of paragraph (1),...
+The Jaccard Index is: 0.15
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: residential mortgage			 loan But actually it is: negative amortization
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means a loan that is secured ... But actually it is:  does not include the capitali...
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Securitization			 vehicle But actually it is: Residential mortgage loan defi...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[3]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[3]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: securitization vehicle But actually it is: residential mortgage loan
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[3]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[3]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means a			 trust, corporation... But actually it is:  means a loan that is secured ...
+The Jaccard Index is: 0.11
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[3]/subparagraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(A)is the issuer, or
+			 is created by the issuer, of mortgage pass-through certificates, participation
+			 certificates, mortgage-backed securities, or other similar securities backed by
+			 a pool of assets that includes residential mortgage loans; and
+					"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[3]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(B)holds such
+			 loans.
+					"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(4)Securitization vehicleThe term securitization vehicle means a trust, corporation, partnership, limited liability entity, special purpose entity, or other structure that— 
+(A)is the issuer, or is created by the issuer, of mortgage pass-through certificates, participation certificates, mortgage-backed securities, or other similar securities backed by a pool of assets that includes residential mortgage loans; and 
+(B)holds such loans. "}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effective			 period But actually it is: Effective period
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Effective			 period 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: This section shall apply only ... But actually it is: This section shall apply only ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.9
+The Detailes are shown as followings: 
+common words: This section shall apply only with respect to loan modification or workout plans initiated prior to January 1 2011 
+insertion: 
+deletion: 
+change: qualified			 to qualified / 
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {" 
+May 1, 2008 
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed "}
+

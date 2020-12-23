@@ -1,0 +1,521 @@
+===================================================
+
+total difference is: 58
+comparing document: BILLS-113hr4810eh.xml
+to document: BILLS-113hr4810rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 113 HR 4810 EH: Veteran Access... But actually it is: 113 HR 4810 : Veteran Access t...
+The Jaccard Index is: 0.88
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: 113 HR 4810 Veteran Access to Care Act of 2014 
+insertion: 
+deletion: 
+change: EH to  / 
+
+We are at location: null   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {}
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED ST...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED STATES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To direct the Secretary of Vet... But actually it is: To direct the Secretary of Vet...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.87
+The Detailes are shown as followings: 
+common words: To direct the Secretary of Veterans Affairs to enter into contracts for the provision of care and medical services at nonDepartment of Veterans Affairs for Department of Veterans Affairs patients with extended waiting for appointments at Department facilities and for other purposes 
+insertion: 
+deletion: 
+change: hospital to hospital			 / facilities to facilities			 / times to times			 / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+  June 11, 2014
+  Received; read twice and referred to the Committee on Veterans` Affairs
+"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Provision of hospital care and... But actually it is: Provision of hospital care and...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: Provision of hospital care and medical services at nonDepartment of Veterans Affairs for Department of Veterans Affairs patients with extended waiting for appointments at Department facilities 
+insertion: 
+deletion: 
+change: facilities to facilities			 / times to times			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be: ) shall enter into contracts w... But actually it is: ) shall enter into contracts w...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words:  shall enter into contracts with such nonDepartment facilities as may be necessary in order furnish hospital care and medical services to covered veterans who eligible for such care and services under 
+insertion: 
+deletion: 
+change: to to to			 / are to are			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[4]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[4]
+The reason of change is: content change
+The value is expected to be:  of title 38, United States Co... But actually it is:  of title 38, United States Co...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words:  of title 38 United States Code To the greatest extent possible the Secretary shall carry this section using contracts entered into before the date of the of this Act 
+insertion: 
+deletion: 
+change: out to out			 / enactment to enactment			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: has waited longer than the wai... But actually it is: has waited longer than the wai...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: has waited longer than the waittime goals of the Veterans Health Administration as of June 2014 for an appointment for hospital care or medical services in facility of the Department 
+insertion: 
+deletion: 
+change: 1 to 1			 / a to a			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: has been notified by a facilit... But actually it is: has been notified by a facilit...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.92
+The Detailes are shown as followings: 
+common words: has been notified by a facility of the Department that an appointment for hospital care or services is not available within such waittime goals or 
+insertion: 
+deletion: 
+change: medical to medical			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: resides more than 40 miles fro... But actually it is: resides more than 40 miles fro...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.87
+The Detailes are shown as followings: 
+common words: resides more than 40 miles from the medical facility of the Department of Veterans including a communitybased outpatient clinic that is closest to residence of the veteran and 
+insertion: 
+deletion: 
+change: Affairs to Affairs			 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In carrying out this section, ... But actually it is: In carrying out this section, ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: In carrying out this section the Secretary shall ensure that at the election of a covered who receives hospital care or medical services at a facility in an episode of care under this section the veteran such hospital care and medical services at such nonDepartment through the completion of the episode of care but for a period exceeding 60 days including all specialty and ancillary services necessary as part of the treatment recommended in the course of hospital care or medical services 
+insertion: 
+deletion: 
+change: veteran to veteran			 / nonDepartment to nonDepartment			 / receives to receives			 / facility to facility			 / not to not			 / deemed to deemed			 / such to such			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary shall submit to ... But actually it is: The Secretary shall submit to ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: The Secretary shall submit to Congress a quarterly report on hospital care and medical furnished pursuant to this section Such report shall include for the quarter covered by the report regarding 
+insertion: 
+deletion: 
+change: services to services			 / information to information			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the number of veterans who rec... But actually it is: the number of veterans who rec...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: the number of veterans who received care or services at nonDepartment facilities pursuant to 
+insertion: 
+deletion: 
+change: this section to this			 section 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the number of veterans who wer... But actually it is: the number of veterans who wer...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: the number of veterans who were eligible to receive care or services pursuant to this section who elected to continue waiting for an appointment at a 
+insertion: 
+deletion: 
+change: but to but			 / Department facility to Department			 facility 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the purchase methods used to p... But actually it is: the purchase methods used to p...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: the purchase methods used to provide the care and services at nonDepartment facilities the rate of payment for individual authorizations for such care services and 
+insertion: 
+deletion: 
+change: including to including			 / and to and			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Nothing in this section shall ... But actually it is: Nothing in this section shall ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: Nothing in this section shall be construed to authorize payment for care or services not covered under 
+insertion: 
+deletion: 
+change: otherwise to otherwise			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[8]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[8]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The authority of the Secretary... But actually it is: The authority of the Secretary...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: The authority of the Secretary under this section shall terminate with respect to any hospital or medical services furnished after the end of the 2year period on the date of the enactment of this Act except that in the case of episode of care for which hospital care or medical services is in a nonDepartment facility pursuant to this section before the end such period such termination shall not apply to such care and furnished during the remainder of such episode of care but not to exceed period of 60 days 
+insertion: 
+deletion: 
+change: care to care			 / beginning to beginning			 / an to an			 / furnished to furnished			 / of to of			 / services to services			 / a to a			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To the extent that appropriati... But actually it is: To the extent that appropriati...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: To the extent that appropriations are available for the Veterans Health Administration of Department of Veterans Affairs for medical services to the extent the Secretary of Veterans Affairs is unable to provide access within waittime goals of the Veterans Health Administration as of June 2014 to hospital care or medical services to a covered veteran who eligible for such care or services under 
+insertion: 
+deletion: 
+change: the to the			 / that to that			 / the to the			 / 1 to 1			 / is to is			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 38, United States Co... But actually it is:  of title 38, United States Co...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words:  of title 38 United States Code under contracts described in section 2 the Secretary reimburse any nonDepartment facility with which the Secretary has entered into a contract to furnish hospital care or medical services furnishing such hospital care or medical services to such veteran if veteran elects to receive such care or services from the facility The Secretary shall reimburse the facility for the care services furnished to the veteran at the greatest of the following rates 
+insertion: 
+deletion: 
+change: shall to shall			 / not to not			 / for to for			 / the to the			 / nonDepartment to nonDepartment			 / or to or			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The rate of reimbursement for ... But actually it is: The rate of reimbursement for ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: The rate of reimbursement for such care or services established by the Secretary of 
+insertion: 
+deletion: 
+change: Veterans Affairs to Veterans			 Affairs 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The payment rate for such care... But actually it is: The payment rate for such care...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.92
+The Detailes are shown as followings: 
+common words: The payment rate for such care or services or comparable care or services under the program under title XVIII of the Social Security Act 
+insertion: 
+deletion: 
+change: Medicare to Medicare			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: has waited longer than the wai... But actually it is: has waited longer than the wai...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: has waited longer than the waittime goals of the Veterans Health Administration as of June 2014 for an appointment for hospital care or medical services in facility of the Department 
+insertion: 
+deletion: 
+change: 1 to 1			 / a to a			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: has been notified by a facilit... But actually it is: has been notified by a facilit...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: has been notified by a facility of the Department that an appointment for hospital care or services is not available within such waittime goals after the date which the veteran requests the appointment or 
+insertion: 
+deletion: 
+change: medical to medical			 / for to for			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: who resides more than 40 miles... But actually it is: who resides more than 40 miles...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.87
+The Detailes are shown as followings: 
+common words: who resides more than 40 miles from the medical facility of the Department of Veterans including a communitybased outpatient clinic that is closest to residence of the veteran 
+insertion: 
+deletion: 
+change: Affairs to Affairs			 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Nothing in this section shall ... But actually it is: Nothing in this section shall ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: Nothing in this section shall be construed to authorize payment for care or services not covered under 
+insertion: 
+deletion: 
+change: otherwise to otherwise			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The authority of the Secretary... But actually it is: The authority of the Secretary...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: The authority of the Secretary under this section shall terminate with respect to care or furnished after the date that is 2 years after the date of the of this Act 
+insertion: 
+deletion: 
+change: services to services			 / enactment to enactment			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 120 days after ... But actually it is: Not later than 120 days after ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: Not later than 120 days after the date of the enactment of this Act the Secretary of Affairs shall enter into a contract or contracts with a private entity or entities with experience in the delivery systems of the Health Administration and the private sector and in health care to conduct an independent assessment of hospital care and medical furnished in medical facilities of the Department of Veterans Such assessment shall address each of the following 
+insertion: 
+deletion: 
+change: Veterans to Veterans			 / sector to sector			 / Veterans to Veterans			 / management to management			 / services to services			 / Affairs to Affairs			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The current and projected demo... But actually it is: The current and projected demo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.9
+The Detailes are shown as followings: 
+common words: The current and projected demographics and unique care needs of the patient population served the Department of Veterans Affairs 
+insertion: 
+deletion: 
+change: by to by			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The current and projected heal... But actually it is: The current and projected heal...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: The current and projected health care capabilities and resources of the Department hospital care and medical services furnished by nonDepartment under contract with the Department to provide timely and accessible to eligible veterans 
+insertion: 
+deletion: 
+change: including to including			 / facilities to facilities			 / care to care			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The authorities and mechanisms... But actually it is: The authorities and mechanisms...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.87
+The Detailes are shown as followings: 
+common words: The authorities and mechanisms under which the Secretary may furnish hospital care and services at nonDepartment facilities including an assessment of the Secretary should have the authority to furnish such care and at such facilities through the completion of episodes of care 
+insertion: 
+deletion: 
+change: medical to medical			 / whether to whether			 / services to services			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The appropriate system-wide ac... But actually it is: The appropriate system-wide ac...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: The appropriate systemwide access standard applicable to hospital care and medical furnished by and through the Department of Veterans Affairs recommendations relating to access standards specific to specialties and standards for postcare rehabilitation 
+insertion: 
+deletion: 
+change: services to services			 / and to and			 / individual to individual			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The staffing levels and produc... But actually it is: The staffing levels and produc...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: The staffing levels and productivity standards including a comparison with industry 
+insertion: 
+deletion: 
+change: performance percentiles to performance			 percentiles 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Information technology strateg... But actually it is: Information technology strateg...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Information technology strategies of the Veterans Health Administration including identification of technology weaknesses and opportunities especially they apply to clinical documentation of hospital care and medical provided in nonDepartment facilities 
+insertion: 
+deletion: 
+change: an to an			 / as to as			 / services to services			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[8]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[1]/paragraph[8]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Business processes of the Vete... But actually it is: Business processes of the Vete...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: Business processes of the Veterans Health Administration including nonDepartment care identification thirdparty revenue collection and vendor reimbursement 
+insertion: 
+deletion: 
+change: insurance to insurance			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: An identification of improveme... But actually it is: An identification of improveme...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: An identification of improvement areas outlined both qualitatively and quantitatively taking consideration Department of Veterans Affairs directives and benchmarks from outside the Federal Government 
+insertion: 
+deletion: 
+change: into to into			 / industry to industry			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Recommendations for how to add... But actually it is: Recommendations for how to add...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: Recommendations for how to address the improvement areas identified under paragraph 1 relating structure accountability process changes technology and other drivers of performance 
+insertion: 
+deletion: 
+change: to to to			 / relevant to relevant			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The business case associated w... But actually it is: The business case associated w...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: The business case associated with making the improvements and recommendations identified paragraphs 1 and 2 
+insertion: 
+deletion: 
+change: in to in			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If the Secretary enters into c... But actually it is: If the Secretary enters into c...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: If the Secretary enters into contracts with more than one private sector entity under a the Secretary shall designate one such entity as the integrator The program integrator shall be responsible for the outcomes of the assessments conducted by the private entities to such contracts 
+insertion: 
+deletion: 
+change: subsection to subsection			 / program to program			 / coordinating to coordinating			 / pursuant to pursuant			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[4]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[4]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 10 months after... But actually it is: Not later than 10 months after...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: Not later than 10 months after entering into the contract under subsection a the Secretary submit to the Committees on Veterans’ Affairs of the Senate and House Representatives the findings and recommendations of the assessment required by such subsection 
+insertion: 
+deletion: 
+change: shall to shall			 / of to of			 / independent to independent			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/subsection[4]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/subsection[4]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 120 days after ... But actually it is: Not later than 120 days after ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: Not later than 120 days after the date of submission of the report under paragraph 1 Secretary shall submit to such Committees on the Secretary’s response the findings of the assessment and shall include an action plan a timeline for fully implementing the recommendations of the assessment 
+insertion: 
+deletion: 
+change: the to the			 / to to to			 / including to including			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For each of fiscal years 2014 ... But actually it is: For each of fiscal years 2014 ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.9
+The Detailes are shown as followings: 
+common words: For each of fiscal years 2014 through 2016 the Secretary of Veterans Affairs may not pay awards bonuses under chapter 45 or 53 of title 5 United States Code or other awards or bonuses authorized under such title 
+insertion: 
+deletion: 
+change: or to or			 / any to any			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 30 days after t... But actually it is: Not later than 30 days after t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: Not later than 30 days after the date of the enactment of this Act the Director of the Office Management and Budget shall transmit to the Committees on the Budget and Veterans’ Affairs of the House of Representatives and the Senate 
+insertion: 
+deletion: 
+change: of to of			 / Appropriations to Appropriations			 / of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any transfer authority needed ... But actually it is: any transfer authority needed ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: any transfer authority needed to utilize the savings from section 5 to satisfy such effects and 
+insertion: 
+deletion: 
+change: budgetary to budgetary			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: if necessary, a request for an... But actually it is: if necessary, a request for an...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: if necessary a request for any additional budgetary resources or transfers or reprogramming existing budgetary resources necessary to provide funding for sections and 3 
+insertion: 
+deletion: 
+change: of to of			 / 2 to 2			 / 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clerk. But actually it is: Clerk
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/endorsement[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: endorsement But actually it is: null
+ Deleted paragraph content is: {""}
+

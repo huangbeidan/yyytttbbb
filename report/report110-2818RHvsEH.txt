@@ -1,0 +1,567 @@
+===================================================
+
+total difference is: 77
+comparing document: BILLS-110hr2818rh.xml
+to document: BILLS-110hr2818eh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Reported-in-House But actually it is: Engrossed-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 2818 RH: Amend the titl... But actually it is: 110 HR 2818 EH: Veterans’ Epil...
+The Jaccard Index is: 0.15
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2008-06-19 But actually it is: 0
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/calendar[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: calendar But actually it is: null
+ Deleted paragraph content is: {"Union Calendar No. 457"}
+
+We are at location: bill[1]/form[1]/associated-doc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: associated-doc But actually it is: null
+ Deleted paragraph content is: {"[Report No.
+		  110–722]"}
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF		  REPRESENTAT... But actually it is: IN THE HOUSE OF REPRESENTATIVE...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF		  REPRESENTATIVES to OF REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/action[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+			June 21, 2007
+			Mr. Perlmutter (for
+			 himself, Mr. Filner,
+			 Mr. Michaud,
+			 Mr. Kennedy,
+			 Mr. Salazar,
+			 Mr. Wexler, and
+			 Mr. Lamborn) introduced the following
+			 bill; which was referred to the
+			 Committee on Veterans’
+			 Affairs
+		"}
+
+We are at location: bill[1]/form[1]/action[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+			June 19, 2008
+			Additional sponsors: Mrs.
+			 Christensen, Ms. Corrine Brown of
+			 Florida, Ms. Carson,
+			 Mr. Gonzalez,
+			 Mr. Brady of Pennsylvania,
+			 Mr. English of Pennsylvania,
+			 Ms. Jackson-Lee of Texas,
+			 Mr. Hinchey,
+			 Mr. Abercrombie,
+			 Mr. Ruppersberger,
+			 Mr. Davis of Illinois,
+			 Ms. Eddie Bernice Johnson of Texas,
+			 Mr. Ramstad,
+			 Mr. Wynn, Mr. David Davis of Tennessee,
+			 Mr. Bishop of Georgia,
+			 Ms. Woolsey,
+			 Mr. Sarbanes,
+			 Ms. Zoe Lofgren of California,
+			 Mr. Hare, Ms. DeGette, Mr.
+			 Cohen, Mr. Arcuri,
+			 Mr. Murphy of Connecticut,
+			 Mr. Cuellar,
+			 Mr. Braley of Iowa,
+			 Mr. Farr, Mr. Hodes, Mr.
+			 Stupak, Mr. Baca,
+			 Mr. Crowley,
+			 Mr. Al Green of Texas,
+			 Mr. McDermott,
+			 Mr. Loebsack,
+			 Ms. Shea-Porter,
+			 Mr. Sires,
+			 Ms. Sutton,
+			 Mr. Donnelly,
+			 Mr. Boucher,
+			 Mr. Bishop of New York,
+			 Mr. Courtney,
+			 Mr. Garrett of New Jersey,
+			 Mr. Kagen,
+			 Mr. Mahoney of Florida,
+			 Mrs. McCarthy of New York,
+			 Ms. Solis,
+			 Mr. Wilson of Ohio,
+			 Mr. Yarmuth,
+			 Mr. Hall of Texas,
+			 Ms. Ginny Brown-Waite of Florida,
+			 Ms. Baldwin,
+			 Mr. LoBiondo,
+			 Mrs. Boyda of Kansas,
+			 Ms. DeLauro,
+			 Mr. Emanuel,
+			 Mr. Johnson of Georgia,
+			 Mr. Watt, Mr. Chandler, Mr.
+			 Pomeroy, Mr. Ackerman,
+			 Mr. Boswell,
+			 Mr. Lincoln Davis of Tennessee,
+			 Mr. Marchant,
+			 Mr. Walz of Minnesota,
+			 Mr. Sestak,
+			 Mr. Moore of Kansas,
+			 Mr. Cummings,
+			 Mr. Pastor,
+			 Mr. Udall of Colorado,
+			 Ms. Hirono,
+			 Ms. Berkley,
+			 Mr. Clyburn,
+			 Mr. Kingston,
+			 Mr. Marshall,
+			 Mr. Spratt,
+			 Mr. Wamp, Mr. Langevin, Mr.
+			 Ellison, Mr. Allen,
+			 Mr. Altmire,
+			 Mr. Jindal,
+			 Mr. Carney,
+			 Ms. Clarke,
+			 Mr. Hoyer,
+			 Mr. Baird,
+			 Mr. Moran of Kansas,
+			 Ms. McCollum of Minnesota,
+			 Mrs. Wilson of New Mexico,
+			 Mr. Brady of Texas,
+			 Mr. Rothman,
+			 Mr. Platts,
+			 Mr. Smith of Washington,
+			 Mr. Rodriguez,
+			 Ms. Castor,
+			 Mr. Hall of New York,
+			 Mr. McNerney,
+			 Mr. Bilirakis,
+			 Mr. Boren,
+			 Mr. Hastings of Florida,
+			 Mr. Lampson,
+			 Mrs. Tauscher,
+			 Mr. Welch of Vermont,
+			 Mr. Roskam,
+			 Ms. Giffords,
+			 Mr. Grijalva,
+			 Mr. Mitchell,
+			 Mr. Tierney,
+			 Mr. Patrick J. Murphy of Pennsylvania,
+			 Mrs. Gillibrand,
+			 Mr. Rush, Mr. Space, Mr.
+			 Porter, Mr. Hinojosa,
+			 Mr. Markey,
+			 Mr. Larson of Connecticut,
+			 Mr. Shays,
+			 Mr. McCotter,
+			 Mr. Souder,
+			 Mr. Lewis of Georgia,
+			 Mr. Burgess,
+			 Mr. Ross, Mrs. Maloney of New York,
+			 Mr. Young of Alaska,
+			 Ms. Schakowsky,
+			 Mr. Carson,
+			 Mr. Nadler,
+			 Mrs. Blackburn, and
+			 Mr. Tim Murphy of
+			 Pennsylvania
+		"}
+
+We are at location: bill[1]/form[1]/action[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+			June 19, 2008
+			Reported with amendments, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+			For text of introduced bill, see copy of bill as
+			 introduced on June 21, 2007
+		"}
+
+We are at location: bill[1]/form[1]/legis-type[1]/text()[1]   Compared with location: bill[1]/form[1]/legis-type[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A BILL But actually it is: AN ACT
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend title 38, United Stat... But actually it is: To amend title 38, United Stat...
+The Jaccard Index is: 0.9
+And the Smith Waterman Score is: 0.57
+The Detailes are shown as followings: 
+common words: To amend title 38 United States Code /provide for the establishment of of in the /Health Administration of the Department of Veterans Affairs 
+insertion: 
+deletion: Code the 
+change:  to to / Epilepsy to epilepsy / Centers to centers / Excellence to excellence /  to Veterans / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Veterans’ Epilepsy Treatment A... But actually it is: Veterans’ Epilepsy Treatment A...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Veterans’ Epilepsy Treatment Act 
+insertion: 
+deletion: 
+change: of			 2008 to of 2008 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Epilepsy centers of			 excelle... But actually it is: Epilepsy centers of excellence
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Epilepsy centers 
+insertion: 
+deletion: 
+change: of			 excellence to of excellence 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Requirement for			 establishme... But actually it is: Requirement for establishment ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Requirement establishment of epilepsy centers of excellence 
+insertion: 
+deletion: 
+change: for			 to for / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  of title 38,			 United States... But actually it is:  of title 38, United States Co...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words:  of title United States Code is amended by adding at the end the following 
+insertion: 
+deletion: 
+change: 38			 to 38 / new			 section to new section 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Epilepsy centers of				excelle... But actually it is: Epilepsy centers of excellence
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Epilepsy centers 
+insertion: 
+deletion: 
+change: of				excellence to of excellence 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Designation of				centers But actually it is: Designation of centers
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of				centers to of centers 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 120				days aft... But actually it is: Not later than 120 days after ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: Not later than /after the date of enactment of this section the Secretary shall /epilepsy center of excellence at each of the 5 centers designated 
+insertion: 120 designate 
+deletion: 
+change: 120				days to days / designate				an to an / under				section 7327 to under section 7327 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Expert clinical and				researc... But actually it is: Expert clinical and research s...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Expert clinical 
+insertion: 
+deletion: 
+change: and				research staff to and research staff 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Each center				designated unde... But actually it is: Each center designated under s...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: Each center				designated under subsection a shall employ such expert clinical and /including board certified neurologists and neurosurgeons as may /to ensure that such center is capable of serving as a center /in research education and clinical care activities in /and treatment of epilepsy including posttraumatic epilepsy 
+insertion: center research be of the 
+deletion: 
+change: research				staff to staff / be				necessary to necessary / of				excellence to excellence / the				diagnosis to diagnosis / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Requirements and				operation ... But actually it is: Requirements and operation of ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Requirements and				operation of centers 
+insertion: and 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Each				center designated unde... But actually it is: Each center designated under s...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.91
+The Detailes are shown as followings: 
+common words: Each				center designated under subsection a shall function as a center for 
+insertion: center 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: research on the				diagnosis, ... But actually it is: research on the diagnosis, tre...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: research on /treatment and longterm effects of epilepsy including /as a result of combat in order to support the provision of /such diagnosis and treatment in accordance with the most 
+insertion: the epilepsy services 
+deletion: 
+change: the				diagnosis to diagnosis / epilepsy				developed to developed / services				for to for / current				information on epilepsy to current information on epilepsy 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the development of				evidence... But actually it is: the development of evidence-ba...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: the development /methodologies for treating individuals with epilepsy 
+insertion: of 
+deletion: 
+change: of				evidencebased to evidencebased / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the continuous and				consiste... But actually it is: the continuous and consistent ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: the continuous /coordination of care from the point of referral throughout /and treatment process and ongoing followup after return to home 
+insertion: and the 
+deletion: 
+change: and				consistent to consistent / the				diagnostic to diagnostic / and				community to and community 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the development of a				nation... But actually it is: the development of a national ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: the development of /system of coordinated care for veterans with epilepsy including /and maintenance of a national network of Department health /with an interest and expertise in the care and treatment of /the establishment of a referral system and procedure within each 
+insertion: a the care epilepsy 
+deletion: 
+change: a				national to national / the				development to development / care				personnel to personnel / epilepsy				and to and / Veterans				Integrated Service Network to Veterans Integrated Service Network 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: assist in the expansion,				wh... But actually it is: assist in the expansion, where...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.68
+The Detailes are shown as followings: 
+common words: assist in the /appropriate of the utilization of telehealth technology /the use of such technology to develop transmit monitor and /diagnostic tests and other applicable uses of /for the diagnosis care and treatment of veterans with 
+insertion: expansion including review telehealth 
+deletion: 
+change: expansion				where to where / including				exploring to exploring / review				neurological to neurological / telehealth				technology to technology / epilepsy				and to epilepsy and 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the dissemination of				educat... But actually it is: the dissemination of education...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: the dissemination /materials and research regarding diagnosis care and treatment /throughout the Department 
+insertion: of of 
+deletion: 
+change: of				educational to educational / of				epilepsy to epilepsy / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In				order to assist the Secr... But actually it is: In order to assist the Secreta...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: In				order to assist the Secretary in carrying out this section the Secretary /a national coordinator for epilepsy programs who shall report to /responsible for neurology at the Veterans Health Administration 
+insertion: order shall the 
+deletion: 
+change: shall				designate to designate / the				official to official / and				shall to and shall 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: supervise the operation				of ... But actually it is: supervise the operation of the...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: supervise the /the centers designated under this section 
+insertion: operation 
+deletion: 
+change: operation				of to of / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: coordinate and support				the ... But actually it is: coordinate and support the nat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: coordinate and /national network of Department health care professionals with an /expertise in the care and treatment of epilepsy 
+insertion: support interest 
+deletion: 
+change: support				the to the / interest				and to and / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ensure that the education				a... But actually it is: ensure that the education and ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: ensure that the /research mission of such centers is being accomplished and 
+insertion: education 
+deletion: 
+change: education				and to and / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: conduct regular				evaluations... But actually it is: conduct regular evaluations of...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: conduct regular				evaluations of such centers to ensure compliance with the requirements of 
+insertion: regular 
+deletion: 
+change: this				section to this section 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authorization of				appropriat... But actually it is: Authorization of appropriation...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of				appropriations to of appropriations 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: There is authorized to be appr... But actually it is: There is authorized to be appr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: There is authorized to be appropriated to /this section 5000000 for each of fiscal years 2009 
+insertion: carry 
+deletion: 
+change: carry				out to out / through				2013 to through 2013 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clerical			 amendment But actually it is: Clerical amendment
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Clerical			 amendment 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The table of sections at the b... But actually it is: The table of sections at the b...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: The table of sections at the beginning of such is amended by inserting after the item relating to section 7330 the new item 
+insertion: 
+deletion: 
+change: chapter			 to chapter / following			 to following / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 7330A. Epilepsy centers of				... But actually it is: 7330A. Epilepsy centers of exc...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: 7330A Epilepsy centers 
+insertion: 
+deletion: 
+change: of				excellence to of excellence 
+
+We are at location: bill[1]/official-title-amendment[1]   Compared with location: bill[1]/attestation[1]
+The reason of change is: element tag name
+The value is expected to be: official-title-amendment But actually it is: attestation
+
+We are at location: bill[1]/official-title-amendment[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: attestation-date
+ Inserted paragraph content is: {"Passed the House of Representatives June 24, 2008."}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestor[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: attestor
+ Inserted paragraph content is: {"Lorraine C. Miller,"}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]/attestation-group[1]/role[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: role
+ Inserted paragraph content is: {Clerk.}
+
+We are at location: bill[1]/official-title-amendment[1]/quote[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"A bill to amend title 38, United States Code, to provide for the
+	 establishment of epilepsy centers of excellence in the Veterans Health
+	 Administration of the Department of Veterans
+	 Affairs."}
+
+We are at location: bill[1]/official-title-amendment[1]/text()[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {.}
+
+We are at location: bill[1]/endorsement[1]/action-date[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-date But actually it is: null
+ Deleted paragraph content is: {"June 19, 2008"}
+
+We are at location: bill[1]/endorsement[1]/action-desc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-desc But actually it is: null
+ Deleted paragraph content is: {"Reported with amendments, committed to the Committee of the
+		  Whole House on the State of the Union, and ordered to be printed"}
+

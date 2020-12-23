@@ -1,0 +1,312 @@
+===================================================
+
+total difference is: 56
+comparing document: BILLS-112hr3094ih.xml
+to document: BILLS-112hr3094rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  (for			 himself,  But actually it is:  (for himself, 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: for			 himself to for himself 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/cosponsor[5]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/cosponsor[5]/text()[1]
+The reason of change is: content change
+The value is expected to be: Mr. Roe			 of Tennessee But actually it is: Mr. Roe of Tennessee
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Mr of Tennessee 
+insertion: 
+deletion: 
+change: Roe			 to Roe / 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/cosponsor[6]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/cosponsor[6]/text()[1]
+The reason of change is: content change
+The value is expected to be: Mr. Thompson of			 Pennsylvani... But actually it is: Mr. Thompson of Pennsylvania
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Mr Thompson 
+insertion: 
+deletion: 
+change: of			 Pennsylvania to of Pennsylvania 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/text()[15]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/text()[15]
+The reason of change is: content change
+The value is expected to be: ) introduced the following			 ... But actually it is: ) introduced the following bil...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words:  introduced the bill which was referred to the 
+insertion: 
+deletion: 
+change: following			 to following / 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Committee			 on Education and ... But actually it is: Committee on Education and the...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Committee			 on Education and the Workforce 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend the National Labor Re... But actually it is: To amend the National Labor Re...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: To amend the National Labor Relations Act with respect /representation hearings and the timing of elections of labor /under that Act 
+insertion: 
+deletion: respect labor 
+change:  to to /  to organizations / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 186"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No. 112–276]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {" 
+November 10, 2011 
+Additional sponsors: Mr. Platts, Mrs. Biggert, Mrs. Noem, Mr. Petri, Mr. Stivers, Mr. Nunnelee, Mr. Schock, Mr. Heck, Mr. Austria, Mr. Palazzo, Mr. Gingrey of Georgia, Mr. Schweikert, Mr. Canseco, Mr. Ribble, Mr. Walsh of Illinois, Mrs. Myrick, Mrs. Schmidt, Mr. Duncan of South Carolina, Mr. Harris, Mr. Pearce, Mr. Bartlett, Mr. Calvert, and Mr. Bachus  
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {" 
+November 10, 2011 
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed 
+Strike out all after the enacting clause and insert the part printed in italic 
+"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {" 
+ 
+"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Workforce Democracy and Fairne... But actually it is: Workforce Democracy and Fairne...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Workforce Democracy and 
+insertion: 
+deletion: 
+change: Fairness			 Act to Fairness Act 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Timing of			 elections But actually it is: Timing of elections
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of			 elections to of elections 
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 9 of the			 National L... But actually it is: Section 9 of the National Labo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: Section 9 of National Labor Relations Act 29 USC 159 is amended 
+insertion: 
+deletion: 
+change: the			 to the / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subsection (b)			 by striki... But actually it is: in subsection (b) by striking ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: in subsection by striking the first sentence and inserting the following 
+insertion: 
+deletion: 
+change: b			 to b / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In each			 case, prior to an e... But actually it is: In each case, prior to an elec...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: In case prior to an election the Board shall determine in order to assure employees the fullest freedom in exercising the rights guaranteed by this the unit appropriate for the purposes of collective bargaining otherwise stated in this Act the unit appropriate for purposes of bargaining shall consist of employees that share a sufficient community interest In determining whether employees share a sufficient community interest the Board shall consider 1 similarity of wages benefits working conditions 2 similarity of skills and training 3 centrality management and common supervision 4 extent of interchange and frequency contact between employees 5 integration of the work flow interrelationship of the production process 6 the consistency of the with the employer’s organizational structure 7 similarity of job and work and 8 the bargaining history in the particular unit and industry To avoid the proliferation or fragmentation of bargaining employees shall not be excluded from the unit unless the interests of the sought are sufficiently distinct from those of other employees to warrant establishment of a separate unit Whether additional employees should included in a proposed unit shall be based on whether such additional and proposed unit members share a sufficient community of interest with sole exception of proposed accretions to an existing unit in which inclusion of additional employees shall be based on whether such employees and existing unit members share an overwhelming community of and the additional employees have little or no separate identity 
+insertion: 
+deletion: 
+change: each			 to each / to			 to to / Act			 to Act / Unless			 to Unless / collective			 to collective / of			 to of / of			 to of / and			 to and / of			 to of / of			 to of / and			 to and / unit			 to unit / functions			 to functions / the			 to the / units			 to units / group			 to group / the			 to the / be			 to be / employees			 to employees / the			 to the / the			 to the / additional			 to additional / interest			 to interest / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subsection			 (c)(1) in the... But actually it is: in subsection (c)(1) in the ma...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: in c1 in the matter following subparagraph B 
+insertion: 
+deletion: 
+change: subsection			 to subsection / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: , but in no circumstances less... But actually it is: , but in no circumstances less...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words:  but in no circumstances less than 14 calendar days after the filing the petition 
+insertion: 
+deletion: 
+change: of			 to of / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by inserting			 before the las... But actually it is: by inserting before the last s...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: by before the last sentence the following 
+insertion: 
+deletion: 
+change: inserting			 to inserting / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: An appropriate hearing shall b... But actually it is: An appropriate hearing shall b...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: An appropriate hearing shall one that is nonadversarial with the hearing officer charged in with the parties with the responsibility of identifying any issues and thereafter making a full record thereon Preelection issues include in addition to unit appropriateness the Board’s jurisdiction and other issue the resolution of which may make an election unnecessary or may reasonably be expected to impact the election’s outcome Parties may independently any issue or assert any position at any time prior to the of the hearing 
+insertion: 
+deletion: 
+change: be			 to be / collaboration			 to collaboration / preelection			 to preelection / shall			 to shall / any			 to any / which			 to which / raise			 to raise / close			 to close / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in the last			 sentence— But actually it is: in the last sentence—
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: in the 
+insertion: 
+deletion: 
+change: last			 sentence to last sentence 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[3]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[3]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by			 inserting  But actually it is: by inserting 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: by			 inserting 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[3]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[3]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by			 inserting  But actually it is: by inserting 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: by			 inserting 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[3]/clause[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[3]/clause[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to be conducted as soon as pra... But actually it is: to be conducted as soon as pra...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.9
+The Detailes are shown as followings: 
+common words: to be conducted as soon as practicable but not less than calendar days following the filing of an election petition 
+insertion: 
+deletion: 
+change: 35			 to 35 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by adding at the			 end the fo... But actually it is: by adding at the end the follo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: by adding at end the following 
+insertion: 
+deletion: 
+change: the			 to the / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[4]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/subparagraph[4]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not earlier than 7 days after ... But actually it is: Not earlier than 7 days after ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: Not earlier than 7 days after final determination the Board of the appropriate bargaining unit the Board shall acquire from employer a list of all eligible voters to be made available to all which shall include the employee names and one additional form of employee contact information such as telephone number email address mailing address chosen by the employee in writing 
+insertion: 
+deletion: 
+change: by			 to by / the			 to the / parties			 to parties / personal			 to personal / or			 to or / 
+
+We are at location: null   Compared with location: bill[1]/legis-body[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: legis-body
+ Inserted paragraph content is: {" 
+1.Short titleThis Act may be cited as the Workforce Democracy and Fairness Act. 
+2.Timing of electionsSection 9 of the National Labor Relations Act (29 U.S.C. 159) is amended— 
+(1)in subsection (b), by striking The Board shall decide and all that follows through Provided, That the and inserting: In each case, prior to an election, the Board shall determine, in order to assure to employees the fullest freedom in exercising the rights guaranteed by this Act, the unit appropriate for the purposes of collective bargaining. Unless otherwise stated in this Act, and excluding bargaining unit determinations promulgated through rulemaking effective before August 26, 2011, the unit appropriate for purposes of collective bargaining shall consist of employees that share a sufficient community of interest. In determining whether employees share a sufficient community of interest, the Board shall consider (1) similarity of wages, benefits, and working conditions; (2) similarity of skills and training; (3) centrality of management and common supervision; (4) extent of interchange and frequency of contact between employees; (5) integration of the work flow and interrelationship of the production process; (6) the consistency of the unit with the employer’s organizational structure; (7) similarity of job functions and work; and (8) the bargaining history in the particular unit and the industry. To avoid the proliferation or fragmentation of bargaining units, employees shall not be excluded from the unit unless the interests of the group sought are sufficiently distinct from those of other employees to warrant the establishment of a separate unit. Whether additional employees should be included in a proposed unit shall be based on whether such additional employees and proposed unit members share a sufficient community of interest, with the sole exception of proposed accretions to an existing unit, in which the inclusion of additional employees shall be based on whether such additional employees and existing unit members share an overwhelming community of interest and the additional employees have little or no separate identity. The; and 
+(2)in subsection (c)(1), in the matter following subparagraph (B)— 
+(A)by inserting , but in no circumstances less than 14 calendar days after the filing of the petition after hearing upon due notice; 
+(B)by inserting before the last sentence the following: An appropriate hearing shall be one that is non-adversarial with the hearing officer charged, in collaboration with the parties, with the responsibility of identifying any relevant and material pre-election issues and thereafter making a full record thereon. Relevant and material pre-election issues shall include, in addition to unit appropriateness, the Board’s jurisdiction and any other issue the resolution of which may make an election unnecessary or which may reasonably be expected to impact the election’s outcome. Parties may raise independently any relevant and material pre-election issue or assert any relevant and material position at any time prior to the close of the hearing.; 
+(C)in the last sentence— 
+(i)by inserting or consideration of a request for review of a regional director’s decision and direction of election, after record of such hearing; and 
+(ii)by inserting to be conducted as soon as practicable but not less than 35 calendar days following the filing of an election petition after election by secret ballot; and 
+(D)by adding at the end the following: Not earlier than 7 days after final determination by the Board of the appropriate bargaining unit, the Board shall acquire from the employer a list of all eligible voters to be made available to all parties, which shall include the employee names, and one additional form of personal employee contact information (such as telephone number, email address or mailing address) chosen by the employee in writing.. 
+"}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {" 
+November 10, 2011 
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed "}
+

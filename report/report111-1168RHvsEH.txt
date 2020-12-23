@@ -1,0 +1,222 @@
+===================================================
+
+total difference is: 102
+comparing document: BILLS-111hr1168rh.xml
+to document: BILLS-111hr1168eh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Reported-in-House But actually it is: Engrossed-in-House
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IB But actually it is: I
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/calendar[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: calendar But actually it is: null
+ Deleted paragraph content is: {"Union Calendar No. 185"}
+
+We are at location: bill[1]/form[1]/associated-doc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: associated-doc But actually it is: null
+ Deleted paragraph content is: {"[Report No. 111–323]"}
+
+We are at location: bill[1]/form[1]/action[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {" 
+February 25, 2009 
+Mr. Boozman introduced the following bill; which was referred to the Committee on Veterans’ Affairs 
+"}
+
+We are at location: bill[1]/form[1]/action[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+November 2, 2009
+Additional sponsors: Mrs. Blackburn, Mr. Buchanan, Mr. Buyer, Ms. Corrine Brown of Florida, and Mr. Minnick
+"}
+
+We are at location: bill[1]/form[1]/action[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {" 
+November 2, 2009 
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed 
+Strike out all after the enacting clause and insert the part printed in italic 
+"}
+
+We are at location: bill[1]/form[1]/action[4]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {" 
+ 
+"}
+
+We are at location: bill[1]/form[1]/legis-type[1]/text()[1]   Compared with location: bill[1]/form[1]/legis-type[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A BILL But actually it is: AN ACT
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/official-title[1]/pagebreak[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: pagebreak But actually it is: null
+ Deleted paragraph content is: {}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In General But actually it is: Monthly training assistance al...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of Labor shall p... But actually it is: Subject to the availability of...
+The Jaccard Index is: 0.78
+And the Smith Waterman Score is: 0.93
+The Detailes are shown as followings: 
+common words: The Secretary of Labor pay to each covered veteran a monthly training assistance allowance under this section for each month that a covered veteran is enrolled in an employment and training program that teaches a skill in demand as determined by the Secretary 
+insertion: to the availability of appropriations for such purpose the 
+deletion: 
+change: shall to may / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A covered veteran is entitled ... But actually it is: A covered veteran may receive ...
+The Jaccard Index is: 0.89
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: A covered veteran /training assistance under this section for not more than six months during each 10year period beginning on the date in which the covered veteran first receives training allowance under this section 
+insertion: 
+deletion: veteran 
+change: entitled to may / to to receive / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In addition to the training as... But actually it is: Subject to the availability of...
+The Jaccard Index is: 0.65
+And the Smith Waterman Score is: 0.53
+The Detailes are shown as followings: 
+common words: In addition to the training assistance allowance payable under subsection the Secretary /an amount /not /to /for moving expenses related to the veteran’s receipt of training for which an allowance is paid under this section 
+insertion: to the availability of appropriations for such purpose in may reimburse each covered 
+deletion: amount not more than to 
+change: b to a / shall to veteran / pay to in / covered to exceed / veteran to 5000 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Covered Veteran defined But actually it is: Covered veteran defined
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: Veteran defined to veteran defined 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In this section,  But actually it is: In this section, the term 
+The Jaccard Index is: 0.65
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: In this section 
+insertion: 
+deletion: 
+change: the term 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: There are authorized to be app... But actually it is: There is authorized to be appr...
+The Jaccard Index is: 0.94
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: There authorized to be appropriated to carry out this section 100000000 for each fiscal year 
+insertion: 
+deletion: 
+change: are to is / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The table of sections at the b... But actually it is: The table of sections at the b...
+The Jaccard Index is: 0.92
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: The table of sections at the beginning of chapter 42 of title 38 United States Code is amended by adding at the end the following 
+insertion: 
+deletion: 
+change: new item 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"
+  (c)
+  Effective date
+  Section 4216 of title 38, United States Code, as added by subsection (a), shall apply with respect to months beginning on or after the first day of fiscal year 2011.
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"
+  1.
+  Short title
+  This Act may be cited as the Veterans Retraining Act of 2009.
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"2.Employment training assistance
+(a)In GeneralChapter 42 of title 38, United States Code, is amended by adding at the end the following new section:
+
+4216.Employment Training Assistance for Unemployed Veterans.
+(a)Monthly training assistance allowanceSubject to the availability of appropriations for such purpose, the Secretary of Labor may pay to each covered veteran a monthly training assistance allowance under this section for each month that a covered veteran is enrolled in an employment and training program that teaches a skill in demand, as determined by the Secretary.
+(b)AmountThe amount of the training assistance allowance under this section is the amount equal to the monthly amount of the basic allowance for housing payable under section 403 of title 37 for a member of the Armed Forces with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which the veteran resides.
+(c)DurationA covered veteran may receive training assistance under this section for not more than six months during each 10-year period beginning on the date in which the covered veteran first receives training allowance under this section.
+(d)Moving stipendSubject to the availability of appropriations for such purpose, in addition to the training assistance allowance payable under subsection (a), the Secretary may reimburse each covered veteran, in an amount not to exceed $5,000, for moving expenses related to the veteran’s receipt of training for which an allowance is paid under this section.
+(e)Covered veteran definedIn this section, the term covered veteran means a veteran who is—
+(1)unemployed for a period of not less than four consecutive months at the time of applying for training assistance under this section;
+(2)able to successfully complete the employment and training program described in subsection (a), as determined by the Secretary; and
+(3)except as provided under this section, ineligible for education or training assistance under this title.
+(f)Authorization of AppropriationsThere is authorized to be appropriated to carry out this section $100,000,000 for each fiscal year.
+.
+(b)Clerical AmendmentThe table of sections at the beginning of chapter 42 of title 38, United States Code, is amended by adding at the end the following new item:
+
+
+4216. Employment training assistance for unemployed veterans.
+.
+(c)Effective dateSection 4216 of title 38, United States Code, as added by subsection (a), shall apply with respect to months beginning on or after the first day of fiscal year 2011."}
+
+We are at location: bill[1]/endorsement[1]/action-date[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-date But actually it is: null
+ Deleted paragraph content is: {"November 2, 2009"}
+
+We are at location: bill[1]/endorsement[1]/action-desc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-desc But actually it is: null
+ Deleted paragraph content is: {"Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: attestation
+ Inserted paragraph content is: {"
+  
+    Passed the House of Representatives November 2, 2009.
+    Lorraine C. Miller,
+    Clerk.
+  
+"}
+

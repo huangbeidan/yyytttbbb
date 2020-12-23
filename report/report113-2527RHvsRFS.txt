@@ -1,0 +1,97 @@
+===================================================
+
+total difference is: 21
+comparing document: BILLS-113hr2527eh.xml
+to document: BILLS-113hr2527rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 113 HR 2527 EH: To amend title... But actually it is: 113 HR 2527 : To amend title 3...
+The Jaccard Index is: 0.96
+And the Smith Waterman Score is: 0.93
+The Detailes are shown as followings: 
+common words: 113 HR 2527 To amend title 38 United States Code to provide veterans with counseling and treatment for sexual trauma that occurred during inactive duty training 
+insertion: 
+deletion: 
+change: EH to  / 
+
+We are at location: null   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {}
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED ST...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED STATES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend title 38, United Stat... But actually it is: To amend title 38, United Stat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.91
+The Detailes are shown as followings: 
+common words: To amend title 38 United States Code to provide veterans with counseling and treatment for trauma that occurred during inactive duty training 
+insertion: 
+deletion: 
+change: sexual to sexual			 / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+  June 2, 2014
+  Received; read twice and referred to the Committee on Veterans` Affairs
+"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/paragraph[2]/subparagraph[2]/quoted-block[1]/paragraph[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[1]/paragraph[2]/subparagraph[2]/quoted-block[1]/paragraph[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: , with respect to inactive dut... But actually it is: , with respect to inactive dut...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words:  with respect to inactive duty training described in subsection a1 also includes individual who 
+insertion: 
+deletion: 
+change: an to an			 / 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/paragraph[2]/subparagraph[2]/quoted-block[1]/paragraph[1]/subparagraph[1]/text[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: bill[1]/legis-body[1]/section[1]/paragraph[2]/subparagraph[2]/quoted-block[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/paragraph[2]/subparagraph[2]/quoted-block[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: while serving in the reserve c... But actually it is: while serving in the reserve c...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.91
+The Detailes are shown as followings: 
+common words: while serving in the reserve components of the Armed Forces performed such inactive duty but did not serve on active duty 
+insertion: 
+deletion: 
+change: training to training			 / 
+
+We are at location: bill[1]/endorsement[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: endorsement But actually it is: null
+ Deleted paragraph content is: {""}
+

@@ -1,0 +1,201 @@
+===================================================
+
+total difference is: 28
+comparing document: BILLS-111hr3685eh.xml
+to document: BILLS-111hr3685rfs.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Engrossed-in-House But actually it is: Referred-in-Senate
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IIB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE SENATE OF THE UNITED		 ...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: IN THE 
+insertion: 
+deletion: 
+change: HOUSE OF REPRESENTATIVES to SENATE OF THE UNITED		  STATES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To require the Secretary of Ve... But actually it is: To require the Secretary of Ve...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: To require the Secretary of /Affairs to include on the main page of the Internet website of the /of Veterans Affairs a hyperlink to the VetSuccess Internet website and /publicize such Internet website 
+insertion: Veterans		 Department		 to		 
+deletion: 
+change: Veterans to  / Department to  / to to  / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			September 29, 2010
+			Received; read twice and referred to the
+			 Committee on Veterans`
+			 Affairs
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Promotion of the VetSuccess In... But actually it is: Promotion of the VetSuccess			...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Promotion of the Internet website 
+insertion: 
+deletion: 
+change: VetSuccess to VetSuccess			 / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Inclusion of hyperlink But actually it is: Inclusion of			 hyperlink
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of hyperlink to of			 hyperlink 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not later than 60 days after t... But actually it is: Not later than 60			 days afte...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: Not later than days after the date of the enactment of this Act the Secretary of Affairs shall include on the main page of the Internet website of Department of Veterans Affairs a new hyperlink with a dropdown menu 
+insertion: 
+deletion: 
+change: 60 to 60			 / Veterans to Veterans			 / the to the			 / entitled to entitled			 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: . The drop-down menu shall inc... But actually it is: . The drop-down menu shall inc...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words:  The dropdown menu shall include a hyperlink to the VetSuccess Internet website the USA Jobs Internet the Job Central website and any other appropriate employment websites as determined by the Secretary especially such websites that on jobs for veterans 
+insertion: 
+deletion: 
+change: direct to direct			 / website to website			 / Internet to Internet			 / focus to focus			 / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Advertisement of Internet webs... But actually it is: Advertisement of			 Internet w...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Advertisement Internet website 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subject to the availability of... But actually it is: Subject to			 the availability...
+The Jaccard Index is: 0.48
+And the Smith Waterman Score is: 0.72
+The Detailes are shown as followings: 
+common words: Subject the availability of appropriations for such purpose the Secretary of Affairs shall in accordance 
+insertion: 
+deletion: 
+change: to to to			 / Veterans to Veterans			 / with section 532 of title 38 United States Code purchase advertising in national media outlets for the purpose of promoting awareness of the VetSuccess Internet website to veterans to with			 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/text[1]/external-xref[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: external-xref
+ Inserted paragraph content is: {"section
+			 532"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" of title 38, United States Code, purchase advertising in
+			 national media outlets for the purpose of promoting awareness of the VetSuccess
+			 Internet website to veterans."}
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Outreach to veterans of Operat... But actually it is: Outreach to			 veterans of Ope...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.64
+The Detailes are shown as followings: 
+common words: Outreach veterans of Operation Iraqi Freedom and Operation 
+insertion: 
+deletion: 
+change: to to to			 / Enduring Freedom to Enduring			 Freedom 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of Veterans Affa... But actually it is: The Secretary of Veterans Affa...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: The Secretary of Veterans Affairs shall conduct to veterans of Operation Iraqi Freedom and Operation Enduring Freedom to such veterans of the VetSuccess Internet website 
+insertion: 
+deletion: 
+change: outreach to outreach			 / inform to inform			 / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: VetSuccess Internet website de... But actually it is: VetSuccess			 Internet website...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: VetSuccess Internet website defined 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[4]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[4]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means www.vetsuccess.gov or a... But actually it is:  means www.vetsuccess.gov or a...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words:  means wwwvetsuccessgov or successor Internet website maintained by the Department of 
+insertion: 
+deletion: 
+change: any to any			 / Veterans Affairs to Veterans			 Affairs 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Passed the House of Representa... But actually it is: Passed the House of			 Represe...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Passed the House Representatives September 29 2010 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]/role[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clerk. But actually it is: Clerk
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/endorsement[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: endorsement But actually it is: null
+ Deleted paragraph content is: {""}
+

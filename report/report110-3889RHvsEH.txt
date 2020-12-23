@@ -1,0 +1,298 @@
+===================================================
+
+total difference is: 88
+comparing document: BILLS-110hr3889rh.xml
+to document: BILLS-110hr3889eh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Reported-in-House But actually it is: Engrossed-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 3889 RH: To amend title... But actually it is: 110 HR 3889 EH: To amend title...
+The Jaccard Index is: 0.97
+And the Smith Waterman Score is: 0.94
+The Detailes are shown as followings: 
+common words: 110 HR 3889 To amend title 38 United States Code to require the Secretary of Veterans Affairs to conduct a longitudinal study of the vocational rehabilitation programs administered by the Secretary 
+insertion: 
+deletion: 
+change: RH to EH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2008-05-15 But actually it is: 0
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/calendar[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: calendar But actually it is: null
+ Deleted paragraph content is: {"Union Calendar No. 401"}
+
+We are at location: bill[1]/form[1]/associated-doc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: associated-doc But actually it is: null
+ Deleted paragraph content is: {"[Report No. 110–640]"}
+
+We are at location: bill[1]/form[1]/action[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {" 
+October 18, 2007 
+Mr. Boozman introduced the following bill; which was referred to the Committee on Veterans’ Affairs 
+"}
+
+We are at location: bill[1]/form[1]/action[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+May 15, 2008
+Additional sponsor: Mr. Buyer
+"}
+
+We are at location: bill[1]/form[1]/action[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+May 15, 2008
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed
+Strike out all after the enacting clause and insert the part printed in italic
+"}
+
+We are at location: bill[1]/form[1]/legis-type[1]/text()[1]   Compared with location: bill[1]/form[1]/legis-type[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A BILL But actually it is: AN ACT
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/text[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(1)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"Subject to the availabilty of appropriated funds, the Secretary shall conduct a longitudinal study of a statistically valid sample of each of the groups of individuals described in paragraph (2). The Secretary shall study each such group over a period of at least 20 years."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(2)The groups of individuals described in this paragraph are the following: 
+(A)Individuals who begin participating in a vocational rehabilitation program under this chapter during fiscal year 2009. 
+(B)Individuals who begin participating in such a program during fiscal year 2011. 
+(C)Individuals who begin participating in such a program during fiscal year 2014."}
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary shall include in... But actually it is: The Secretary shall include in...
+The Jaccard Index is: 0.89
+And the Smith Waterman Score is: 0.9
+The Detailes are shown as followings: 
+common words: The Secretary shall include in the report required under subsection b any data the Secretary determines is necessary to determine the longterm outcomes of the participating in the vocational rehabilitation programs under this chapter The Secretary may add data elements from time to time as necessary /such report shall contain the following information 
+insertion: In addition 
+deletion: 
+change: veterans to individuals / Each to each / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The number of veterans partici... But actually it is: The number of individuals part...
+The Jaccard Index is: 0.87
+And the Smith Waterman Score is: 0.92
+The Detailes are shown as followings: 
+common words: The number of participating in vocational rehabilitation programs under this chapter who suspended participation in such a program during the year covered by the report 
+insertion: 
+deletion: 
+change: veterans to individuals / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The average number of months s... But actually it is: The average number of months s...
+The Jaccard Index is: 0.73
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: The average number of months such served on active duty 
+insertion: 
+deletion: 
+change: veterans to individuals / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The average disability rating ... But actually it is: The distribution of disability...
+The Jaccard Index is: 0.41
+And the Smith Waterman Score is: 0.57
+The Detailes are shown as followings: 
+common words: The average disability rating of such 
+insertion: distribution 
+deletion: 
+change: veterans to individuals 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The types of other benefits ad... But actually it is: The types of other benefits ad...
+The Jaccard Index is: 0.77
+And the Smith Waterman Score is: 0.92
+The Detailes are shown as followings: 
+common words: The types of other benefits administered by the Secretary received by such 
+insertion: 
+deletion: 
+change: veterans to individuals 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The types of social security b... But actually it is: The types of social security b...
+The Jaccard Index is: 0.72
+And the Smith Waterman Score is: 0.9
+The Detailes are shown as followings: 
+common words: The types of social security benefits received by such 
+insertion: 
+deletion: 
+change: veterans to individuals 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any unemployment benefits rece... But actually it is: Any unemployment benefits rece...
+The Jaccard Index is: 0.66
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: Any unemployment benefits received by such 
+insertion: 
+deletion: 
+change: veterans to individuals 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The average number of months s... But actually it is: The average number of months s...
+The Jaccard Index is: 0.79
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: The average number of months such were employed during the year covered by the report 
+insertion: 
+deletion: 
+change: veterans to individuals / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[8]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[8]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The average annual starting an... But actually it is: The average annual starting an...
+The Jaccard Index is: 0.84
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: The average annual starting and ending salaries such who were employed during the year covered by the report 
+insertion: 
+deletion: 
+change: veterans to individuals / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[9]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[9]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The number of such veterans en... But actually it is: The number of such individuals...
+The Jaccard Index is: 0.85
+And the Smith Waterman Score is: 0.91
+The Detailes are shown as followings: 
+common words: The number of such enrolled in an institution of higher learning as that term is defined in section 3452f of this title 
+insertion: 
+deletion: 
+change: veterans to individuals / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[10]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[10]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The average number of college ... But actually it is: The average number of academic...
+The Jaccard Index is: 0.56
+And the Smith Waterman Score is: 0.51
+The Detailes are shown as followings: 
+common words: The average number of /and obtained by such during the year covered by the report 
+insertion: academic credit 
+deletion: 
+change: college to hours / credits to degrees / degrees to certificates / veterans to individuals / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[11]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[11]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The average number of visits s... But actually it is: The average number of visits s...
+The Jaccard Index is: 0.84
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: The average number of visits such made to Department medical facilities during the year covered by the report 
+insertion: 
+deletion: 
+change: veterans to individuals / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[12]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[12]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The average number of visits s... But actually it is: The average number of visits s...
+The Jaccard Index is: 0.84
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: The average number of visits such made to nonDepartment medical facilities during the year covered by the report 
+insertion: 
+deletion: 
+change: veterans to individuals / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[13]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[13]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The average total household in... But actually it is: The average annual income of s...
+The Jaccard Index is: 0.26
+And the Smith Waterman Score is: 0.43
+The Detailes are shown as followings: 
+common words: The average /income of such 
+insertion: 
+deletion: average 
+change: household to annual / veterans for the year covered by the report to individuals 
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[14]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[14]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The percentage of such veteran... But actually it is: The average total household in...
+The Jaccard Index is: 0.14
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[15]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[15]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The average number of dependen... But actually it is: The percentage of such individ...
+The Jaccard Index is: 0.12
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[16]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"
+  (16)
+  The average number of dependents of each such veteran.
+"}
+
+We are at location: bill[1]/endorsement[1]/action-date[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-date But actually it is: null
+ Deleted paragraph content is: {"May 15, 2008"}
+
+We are at location: bill[1]/endorsement[1]/action-desc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-desc But actually it is: null
+ Deleted paragraph content is: {"Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: attestation
+ Inserted paragraph content is: {"
+  
+    Passed the House of Representatives May 20, 2008.
+    Lorraine C. Miller,
+    Clerk.
+  
+"}
+

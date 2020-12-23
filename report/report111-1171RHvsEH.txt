@@ -1,0 +1,384 @@
+===================================================
+
+total difference is: 81
+comparing document: BILLS-111hr1171rh.xml
+to document: BILLS-111hr1171eh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Reported-in-House But actually it is: Engrossed-in-House
+
+We are at location: bill[1]/form[1]/calendar[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: calendar But actually it is: null
+ Deleted paragraph content is: {"Union Calendar No. 21"}
+
+We are at location: bill[1]/form[1]/associated-doc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: associated-doc But actually it is: null
+ Deleted paragraph content is: {"[Report No.
+		  111–54]"}
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF		  REPRESENTAT... But actually it is: IN THE HOUSE OF REPRESENTATIVE...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF		  REPRESENTATIVES to OF REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/action[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+			February 25, 2009
+			Mr. Boozman (for
+			 himself and Mr. Buyer) introduced the
+			 following bill; which was referred to the
+			 Committee on Veterans’
+			 Affairs
+		"}
+
+We are at location: bill[1]/form[1]/action[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+			March 26, 2009
+			Additional sponsor: Mr.
+			 Michaud
+		"}
+
+We are at location: bill[1]/form[1]/action[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+			March 26, 2009
+			Reported with amendments, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Insert the part printed in
+			 italic
+		"}
+
+We are at location: bill[1]/form[1]/legis-type[1]/text()[1]   Compared with location: bill[1]/form[1]/legis-type[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A BILL But actually it is: AN ACT
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend title 38, United Stat... But actually it is: To amend title 38, United Stat...
+The Jaccard Index is: 0.86
+And the Smith Waterman Score is: 0.64
+The Detailes are shown as followings: 
+common words: To amend title 38 United States Code /reauthorize the Homeless Veterans Reintegration Program for fiscal years 
+insertion: 
+deletion: Code 
+change:  to to / 2010		  through 2014 to 2010 through 2014 and for other purposes 
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Homeless Veterans Reintegratio... But actually it is: Homeless Veterans Reintegratio...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Homeless Veterans Program Reauthorization Act of 2009 
+insertion: 
+deletion: 
+change: Reintegration			 to Reintegration / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Reauthorization of			 appropri... But actually it is: Reauthorization of appropriati...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Reauthorization appropriations for Homeless Veterans Reintegration Program 
+insertion: 
+deletion: 
+change: of			 to of / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 2021(e)(1)(F) of title... But actually it is: Section 2021(e)(1)(F) of title...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Section 2021e1F of title 38 States Code is amended by striking 
+insertion: 
+deletion: 
+change: United			 to United / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Homeless women veterans			 and... But actually it is: Homeless women veterans and ho...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Homeless women and homeless veterans with children reintegration grant program 
+insertion: 
+deletion: 
+change: veterans			 to veterans / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Grant			 program But actually it is: Grant program
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Grant			 program 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Chapter 20 of title			 38, Uni... But actually it is: Chapter 20 of title 38, United...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: Chapter 20 of 38 United States Code is amended by inserting after section 2021 following new section 
+insertion: 
+deletion: 
+change: title			 to title / the			 to the / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Homeless women				veterans and... But actually it is: Homeless women veterans and ho...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Homeless women				veterans and homeless veterans with children reintegration 
+insertion: women 
+deletion: 
+change: grant				program to grant program 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subject to the availability of... But actually it is: Subject to the availability of...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: Subject to the availability /provided for such purpose the Secretary of Labor shall /to program and facilities that the Secretary determines /services for homeless women veterans and homeless veterans 
+insertion: of make provide 
+deletion: 
+change: of				appropriations to appropriations / make				grants to grants / provide				dedicated to dedicated / with				children to with children 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Use of				funds But actually it is: Use of funds
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of				funds to of funds 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Grants under this section shal... But actually it is: Grants under this section shal...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: Grants under this section shall be used to provide /counseling placement services including job readiness and /skills training and child care services to expedite the reintegration /women veterans and homeless veterans with children into the 
+insertion: job literacy of 
+deletion: 
+change: job				training to training / literacy				and to and / of				homeless to homeless / labor				force to labor force 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Requirement To Monitor				Expe... But actually it is: Requirement To Monitor Expendi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: Requirement To 
+insertion: 
+deletion: 
+change: Monitor				Expenditures of Funds to Monitor Expenditures of Funds 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of Labor				shal... But actually it is: The Secretary of Labor shall c...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: The Secretary of /collect such information as that Secretary considers appropriate /and evaluate the distribution and expenditure of funds appropriated /out this section The information shall include data with respect to /or outcomes of the services provided to each homeless veteran 
+insertion: Labor to to the 
+deletion: 
+change: Labor				shall to shall / to				monitor to monitor / to				carry to carry / the				results to results / under				this section to under this section 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Information under				paragraph... But actually it is: Information under paragraph (1...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Information under				paragraph 1 shall be furnished in such form and manner as the Secretary 
+insertion: under 
+deletion: 
+change: of				Labor may specify to of Labor may specify 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  Administration Through				the... But actually it is:  Administration Through the As...
+The Jaccard Index is: 0.75
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words:  Administration /Assistant Secretary of Labor for Veterans 
+insertion: Through 
+deletion: 
+change: Through				the to the / Employment and Training 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of Labor shall c... But actually it is: The Secretary of Labor shall c...
+The Jaccard Index is: 0.77
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: The Secretary of Labor shall carry out this /the Assistant Secretary of Labor for Veterans 
+insertion: section 
+deletion: 
+change: section				through to through / Employment and Training 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Biennial Report to				Congress But actually it is: Biennial Report to Congress
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Biennial Report 
+insertion: 
+deletion: 
+change: to				Congress to to Congress 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of Labor shall i... But actually it is: The Secretary of Labor shall i...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: The Secretary of Labor shall include as part of /required under section 2021d of this title an evaluation of the /under this section which shall include an evaluation of /to veterans under this section and an analysis of the /under subsection c 
+insertion: the grant services information 
+deletion: 
+change: the				report to report / grant				program to program / services				furnished to furnished / information				collected to collected / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[6]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authorization of				Appropriat... But actually it is: Authorization of Appropriation...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of				Appropriations to of Appropriations 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[6]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[6]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In addition to any				amount a... But actually it is: In addition to any amount auth...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words: In addition to /authorized to be appropriated to carry out section 2021 of this /is authorized to be appropriated to carry out this section /each of fiscal years 2010 through 2014 
+insertion: any title 10000000 
+deletion: 
+change: any				amount to amount / title				there to there / 10000000				for to for / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[6]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/section[1]/subsection[6]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Funds appropriated to				carry... But actually it is: Funds appropriated to carry ou...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.68
+The Detailes are shown as followings: 
+common words: Funds appropriated /out this section shall remain available until expended Funds /any fiscal year to carry out this section may be expended in that /and the succeeding 
+insertion: to obligated fiscal 
+deletion: 
+change: to				carry to carry / obligated				in to in / fiscal				year to year / fiscal				year to fiscal year 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clerical			 amendment But actually it is: Clerical amendment
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Clerical			 amendment 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The table of sections at the b... But actually it is: The table of sections at the b...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: The table of sections at the beginning of such is amended by inserting after the item relating to section 2021 the new item 
+insertion: 
+deletion: 
+change: chapter			 to chapter / following			 to following / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2021A. Homeless women veterans... But actually it is: 2021A. Homeless women veterans...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: 2021A Homeless women veterans and /with children reintegration 
+insertion: homeless 
+deletion: 
+change: homeless				veterans to veterans / grant				program to grant program 
+
+We are at location: bill[1]/official-title-amendment[1]   Compared with location: bill[1]/attestation[1]
+The reason of change is: element tag name
+The value is expected to be: official-title-amendment But actually it is: attestation
+
+We are at location: bill[1]/official-title-amendment[1]/text()[1]   Compared with location: bill[1]/attestation[1]/attestation-group[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestation-date[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: attestation-date
+ Inserted paragraph content is: {"Passed the House of Representatives March 30, 2009."}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]/attestation-group[1]/attestor[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: attestor
+ Inserted paragraph content is: {"Lorraine C. Miller,"}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]/attestation-group[1]/role[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: role
+ Inserted paragraph content is: {Clerk.}
+
+We are at location: bill[1]/official-title-amendment[1]/quote[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quote But actually it is: null
+ Deleted paragraph content is: {"A bill to amend title 38, United States Code, to reauthorize the
+	 Homeless Veterans Reintegration Program for fiscal years 2010 through 2014, and
+	 for other purposes."}
+
+We are at location: bill[1]/official-title-amendment[1]/text()[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {.}
+
+We are at location: bill[1]/endorsement[1]/action-date[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-date But actually it is: null
+ Deleted paragraph content is: {"March 26, 2009"}
+
+We are at location: bill[1]/endorsement[1]/action-desc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-desc But actually it is: null
+ Deleted paragraph content is: {"Reported with amendments, committed to the Committee of the
+		  Whole House on the State of the Union, and ordered to be printed"}
+

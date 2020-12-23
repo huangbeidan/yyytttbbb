@@ -1,0 +1,246 @@
+===================================================
+
+total difference is: 91
+comparing document: BILLS-110hr2623rh.xml
+to document: BILLS-110hr2623eh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Reported-in-House But actually it is: Engrossed-in-House
+
+We are at location: null   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 2623 RH: To amend title... But actually it is: 110 HR 2623 EH: To amend title...
+The Jaccard Index is: 0.9
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: 110 HR 2623 To amend title 38 United States Code to 
+insertion: 
+deletion: 
+change: RH to EH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2007-07-27 But actually it is: 0
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IB But actually it is: I
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/calendar[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: calendar But actually it is: null
+ Deleted paragraph content is: {"Union Calendar No. 169"}
+
+We are at location: bill[1]/form[1]/associated-doc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: associated-doc But actually it is: null
+ Deleted paragraph content is: {"[Report No.
+		  110–267]"}
+
+We are at location: bill[1]/form[1]/action[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+			June 7, 2007
+			Mr. Miller of Florida
+			 introduced the following bill; which was referred to the
+			 Committee on Veterans’
+			 Affairs
+		"}
+
+We are at location: bill[1]/form[1]/action[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+			July 27, 2007
+			Additional sponsor: Mr.
+			 Marshall
+		"}
+
+We are at location: bill[1]/form[1]/action[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+			July 27, 2007
+			Reported with an amendment, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+		"}
+
+We are at location: bill[1]/form[1]/legis-type[1]/text()[1]   Compared with location: bill[1]/form[1]/legis-type[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A BILL But actually it is: AN ACT
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 1710B(c)(2) of			 titl... But actually it is: Title 38, United			 States Cod...
+The Jaccard Index is: 0.25
+And the Smith Waterman Score is: 0.57
+The Detailes are shown as followings: 
+common words: title 38 States Code is amended 
+insertion: 
+deletion: Section 1710Bc2 of			 
+change: United to United			 / by striking subparagraph B and			 inserting after subparagraph A the following new subparagraph B to 
+
+We are at location: bill[1]/legis-body[1]/section[1]/quoted-block[1]   Compared with location: bill[1]/legis-body[1]/section[1]/paragraph[1]
+The reason of change is: element tag name
+The value is expected to be: quoted-block But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[1]/quoted-block[1]/subparagraph[1]   Compared with location: bill[1]/legis-body[1]/section[1]/paragraph[1]/enum[1]
+The reason of change is: element tag name
+The value is expected to be: subparagraph But actually it is: enum
+
+We are at location: bill[1]/legis-body[1]/section[1]/quoted-block[1]/subparagraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[1]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[1]/quoted-block[1]/subparagraph[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(B)}
+
+We are at location: bill[1]/legis-body[1]/section[1]/quoted-block[1]/subparagraph[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"to a veteran being furnished inpatient or
+				outpatient hospice care by the Department;
+				or"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/quoted-block[1]/after-quoted-block[1]   Compared with location: bill[1]/legis-body[1]/section[1]/paragraph[1]/text[1]
+The reason of change is: element tag name
+The value is expected to be: after-quoted-block But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/section[1]/quoted-block[1]/after-quoted-block[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: . But actually it is: in section 1710(f)(1), by inse...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/paragraph[1]/text[1]/quote[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"(except if such care constitutes hospice care)"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/paragraph[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {" after
+			 "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/paragraph[1]/text[1]/quote[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"nursing home care"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/paragraph[1]/text[1]/text()[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {;}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(2)in
+			 section 1710(g)(1), by inserting (except if such services constitute
+			 hospice care) after medical services; and
+			"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/paragraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(3)in section
+			 1710B(c)(2), by striking subparagraph (B) and inserting after subparagraph (A)
+			 the following new subparagraph (B):
+				
+					(B)to a veteran being furnished inpatient
+				or outpatient hospice care by the Department;
+				or
+					.
+			"}
+
+We are at location: bill[1]/legis-body[2]/section[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in section 1710(g)(1), by			 i... But actually it is: in			 section 1710(g)(1), by i...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: in section 1710g1 
+insertion: 
+deletion: 
+change: by			 inserting to by inserting 
+
+We are at location: bill[1]/legis-body[2]/section[1]/paragraph[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/paragraph[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: “(except if such services cons... But actually it is: (except if such services const...
+The Jaccard Index is: 0.98
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: except if such services hospice care 
+insertion: 
+deletion: 
+change: constitute to constitute			 / 
+
+We are at location: bill[1]/legis-body[2]/section[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in section 1710B(c)(2),			 by ... But actually it is: in section			 1710B(c)(2), by ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.59
+The Detailes are shown as followings: 
+common words: in 1710Bc2			 by striking subparagraph B and inserting after subparagraph the new subparagraph B 
+insertion: 
+deletion: 
+change: section to section			 / A to A			 / following			 to following / 
+
+We are at location: bill[1]/legis-body[2]/section[1]/paragraph[3]/quoted-block[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/paragraph[3]/quoted-block[1]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: to a veteran being				furnishe... But actually it is: to a veteran being furnished i...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: to a veteran outpatient hospice care by the Department				or 
+insertion: 
+deletion: 
+change: being				furnished to being / inpatient to furnished / or to inpatient				or / 
+
+We are at location: bill[1]/endorsement[1]/action-date[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-date But actually it is: null
+ Deleted paragraph content is: {"July 27, 2007"}
+
+We are at location: bill[1]/endorsement[1]/action-desc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-desc But actually it is: null
+ Deleted paragraph content is: {"Reported with an amendment, committed to the Committee of
+		  the Whole House on the State of the Union, and ordered to be
+		  printed"}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: attestation
+ Inserted paragraph content is: {"
+		
+			Passed the House of
+			 Representatives July 30, 2007.
+			Lorraine C. Miller,
+			Clerk.
+		
+	"}
+

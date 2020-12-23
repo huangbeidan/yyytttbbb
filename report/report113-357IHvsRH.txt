@@ -1,0 +1,680 @@
+===================================================
+
+total difference is: 93
+comparing document: BILLS-113hr357ih.xml
+to document: BILLS-113hr357rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 113 HR 357 IH: GI Bill Tuition... But actually it is: 113 HR 357 RH: GI Bill Tuition...
+The Jaccard Index is: 0.88
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: 113 HR 357 GI Bill Tuition Fairness Act of 2013 
+insertion: 
+deletion: 
+change: IH to RH / 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2013-01-23 But actually it is: 2013-06-03
+The Jaccard Index is: 0.33
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend title 38, United Stat... But actually it is: To amend title 38, United Stat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.46
+The Detailes are shown as followings: 
+common words: To amend title 38 United States Code /require /of education provided by public institutions of /education that /approved for purposes of the educational assistance /administered /the Secretary of Veterans Affairs to charge veterans /and fees at /inState tuition rate 
+insertion: to		 higher		 programs		 tuition		 
+deletion: require that administered at 
+change: to to  /  to courses / higher to  /  to are / programs to  /  to by / tuition to  /  to the / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 66"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No.
+		  113–94]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			June 3, 2013
+			Additional sponsors: Mr.
+			 Jones, Mr. Griffin of
+			 Arkansas, Mr. Nugent,
+			 Mr. Pastor of Arizona,
+			 Mr. O`Rourke,
+			 Mr. Ross, Mr. Hunter, Mrs.
+			 McCarthy of New York, Mr. Wilson of
+			 South Carolina, Mr. Collins of New
+			 York, Mr. Cicilline,
+			 Mr. Cole, Mr. Ruiz, Ms. Wilson
+			 of Florida, Mr. LoBiondo,
+			 Mr. Lamborn,
+			 Mr. Peterson,
+			 Ms. Frankel of Florida,
+			 Mr. Walz, Ms. Shea-Porter, Ms.
+			 Titus, Mr. Young of
+			 Alaska, Ms. Sewell of
+			 Alabama, Mr. Takano,
+			 Mr. Johnson of Ohio,
+			 Mr. Courtney,
+			 Mr. Honda,
+			 Mr. Stivers,
+			 Mrs. Negrete McLeod,
+			 Ms. Schwartz,
+			 Mr. Bishop of New York,
+			 Mr. Carson of Indiana,
+			 Mrs. Kirkpatrick,
+			 Ms. Kuster,
+			 Mr. Benishek,
+			 Mr. Holt, Mr. Latta, Mr.
+			 Bilirakis, Mr. Amodei,
+			 Mr. Runyan,
+			 Mr. Forbes,
+			 Mr. Barber,
+			 Mr. Roe of Tennessee,
+			 Mr. Peters of California,
+			 Ms. Brownley of California,
+			 Mrs. Walorski,
+			 Mr. Messer,
+			 Ms. Sinema, and
+			 Mr. Gerlach
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			June 3, 2013
+			Reported with amendments, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+			For text of introduced bill, see copy of bill as
+			 introduced on January 23, 2013
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Short title But actually it is: Short title; table of			 conte...
+The Jaccard Index is: 0.32
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: Short title 
+insertion: 
+deletion: 
+change: table of			 contents 
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: subsection
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(a)}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/header[1]
+The reason of change is: element tag name
+The value is expected to be: quote But actually it is: header
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {"GI Bill Tuition Fairness Act of
+			 2013"}
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/text[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {"This Act may be cited
+			 as the "}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/text[1]/quote[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quote
+ Inserted paragraph content is: {"
+  GI Bill Tuition Fairness Act of
+			 2013
+"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[1]/text[1]/text()[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {.}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[1]/subsection[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(b)Table of
+			 contentsThe table of
+			 contents for this Act is as follows:
+				
+					Sec. 1. Short title; table of
+				contents.
+					Sec. 2. References to title 38, United States
+				Code.
+					Sec. 3. Approval of courses of education
+				provided by public educational institutions for purposes of educational
+				assistance programs administered by Secretary of Veterans Affairs conditional
+				on in-State tuition rate for veterans.
+					Sec. 4. Extension of authorization of
+				appropriations for payment of a monthly assistance allowance to disabled
+				veterans training or competing for the Paralympic Team.
+					Sec. 5. Extension of authorization of
+				appropriations for assistance to United States Paralympics, Inc.
+					Sec. 6. Clarification of eligibility for
+				services under the Homeless Veterans Reintegration Program.
+					Sec. 7. Extension of eligibility period for
+				vocational rehabilitation programs.
+					Sec. 8. Work-study allowance.
+					Sec. 9. Responsibilities of the Directors of
+				Veterans’ Employment and Training.
+					Sec. 10. Contents of Transition Assistance
+				Program.
+					Sec. 11. Three-month extension of Veterans
+				Retraining Assistance Program.
+					Sec. 12. Increase in rates of disability
+				compensation and dependency and indemnity compensation.
+					Sec. 13. Performance awards in the senior
+				executive service.
+				
+			"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Approval of courses of			 educ... But actually it is: References to title 38,			 Uni...
+The Jaccard Index is: 0.04
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]
+The reason of change is: element tag name
+The value is expected to be: subsection But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(a)}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"In
+			 general"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"Section 3679 of title
+			 38, United States Code, is amended by adding at the end the following new
+			 subsection:"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: quoted-block But actually it is: null
+ Deleted paragraph content is: {"
+					(c)Notwithstanding any other provision of this
+				subtitle, the Secretary or the Secretary’s designee shall disapprove a course
+				of education provided by a public institution of higher education unless the
+				institution charges tuition and fees for a veteran at the same rate as the
+				institution charges for residents of the State in which the institution is
+				located, regardless of the veteran’s State of residence. The Secretary shall
+				notify the State approving agency of the Secretary’s disapproval of a course of
+				education under this
+				subsection.
+					."}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subsection But actually it is: null
+ Deleted paragraph content is: {"(b)Treatment of
+			 enrolled benefits recipients
+				(1)In
+			 generalIn the case of a veteran or eligible person who is
+			 enrolled before August 1, 2014, in a course of education provided by a public
+			 institution of higher education that was approved under chapter 36 of title 38,
+			 United States Code, at the time of the initial enrollment of the veteran or
+			 eligible person but that is disapproved by the Secretary of Veterans Affairs or
+			 the Secretary’s designee by reason of subsection (c) of section 3679 of such
+			 title, the Secretary shall treat such institution as an institution that is
+			 approved under such chapter for purposes of the laws administered by the
+			 Secretary with respect to the veteran or eligible person until the veteran or
+			 eligible person completes the course of education in which the veteran or
+			 eligible person is enrolled.
+				(2)Termination
+					(A)LimitationExcept
+			 as provided in subparagraph (B), the Secretary of Veterans Affairs may not
+			 treat such an institution as an approved institution under paragraph (1) after
+			 August 1, 2018.
+					(B)WaiverThe
+			 Secretary may waive the limitation under subparagraph (A) if the Secretary
+			 determines such a waiver is appropriate.
+					"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subsection But actually it is: null
+ Deleted paragraph content is: {"(c)Effective
+			 dateSubsection (c) of
+			 section 3679 of title 38, United States Code, as added by subsection (a) shall
+			 apply with respect to educational assistance provided after August 1,
+			 2014.
+			"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"3.Approval of courses of
+			 education provided by public educational institutions for purposes of
+			 educational assistance programs administered by Secretary of Veterans Affairs
+			 conditional on in-State tuition rate for veterans
+			(a)In
+			 generalSection 3679 is
+			 amended by adding at the end the following new subsection:
+				
+					(c)Notwithstanding any other provision of this
+				subtitle, the Secretary or the Secretary’s designee shall disapprove a course
+				of education provided by a public educational institution unless the
+				institution charges tuition and fees for a veteran at up to the same rate as
+				the institution charges for residents of the State in which the institution is
+				located, regardless of the veteran’s State of residence. The Secretary shall
+				notify the State approving agency of the Secretary’s disapproval of a course of
+				education under this
+				subsection.
+					.
+			(b)Treatment of enrolled
+			 benefits recipients
+				(1)In
+			 generalIn the case of a veteran or eligible person who is
+			 enrolled before July 1, 2015, in a course of education provided by a public
+			 educational institution that was approved under chapter 36 of title 38, United
+			 States Code, at the time of the initial enrollment of the veteran or eligible
+			 person but that is disapproved by the Secretary of Veterans Affairs or the
+			 Secretary’s designee by reason of subsection (c) of section 3679 of such title,
+			 as added by subsection (a), the Secretary shall treat such institution as an
+			 institution that is approved under such chapter for purposes of the laws
+			 administered by the Secretary with respect to the veteran or eligible person
+			 until the veteran or eligible person completes the program of education in
+			 which the veteran or eligible person is enrolled.
+				(2)Termination
+					(A)LimitationExcept
+			 as provided in subparagraph (B), the Secretary of Veterans Affairs may not
+			 treat such an institution as an approved institution under paragraph (1) after
+			 July 1, 2019.
+					(B)WaiverThe
+			 Secretary may waive the limitation under subparagraph (A) if the Secretary
+			 determines such a waiver is appropriate.
+					(c)Effective
+			 dateSubsection (c) of
+			 section 3679 of title 38, United States Code, as added by subsection (a) shall
+			 apply with respect to educational assistance provided after July 1,
+			 2015.
+			"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"4.Extension of
+			 authorization of appropriations for payment of a monthly assistance allowance
+			 to disabled veterans training or competing for the Paralympic
+			 TeamSection 322(d)(4) is
+			 amended by striking 2013 and inserting
+			 2018.
+		"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"5.Extension of
+			 authorization of appropriations for assistance to United States Paralympics,
+			 IncSection 521A is
+			 amended—
+			(1)in subsection (g), by
+			 striking 2013 and inserting 2018; and
+			(2)in subsection (l), by
+			 striking 2013 and inserting 2018.
+			"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[6]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"6.Clarification of
+			 eligibility for services under the Homeless Veterans Reintegration
+			 ProgramSubsection (a) of
+			 section 2021 is amended by striking reintegration of homeless veterans
+			 into the labor force. and inserting the following: reintegration
+			 into the labor force of—
+			
+				(1)homeless veterans;
+				(2)veterans participating in the Department of
+				Veterans Affairs supported housing program for which rental assistance provided
+				pursuant to section 8(o)(19) of the United States Housing Act of 1937 (42
+				U.S.C. 1437f(o)(19)); and
+				(3)veterans who are
+				transitioning from being
+				incarcerated.
+				.
+		"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[7]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"7.Extension of
+			 eligibility period for vocational rehabilitation programs
+			(a)ExtensionSection 3103 is amended by striking
+			 twelve-year period and inserting 17-year period
+			 each place it appears.
+			(b)Effective
+			 dateThe amendment made by
+			 subsection (a) shall apply with respect to a veteran applying for assistance
+			 under chapter 31 of title 38, United States Code, on or after the date of the
+			 enactment of this Act.
+			"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[8]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"8.Work-study
+			 allowanceSection 3485(a)(4)
+			 is amended by striking June 30, 2013 each place it appears and
+			 inserting June 30, 2018.
+		"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[9]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"9.Responsibilities of
+			 the Directors of Veterans’ Employment and TrainingSection
+			 4103 is amended—
+			(1)by redesignating
+			 subsection (b) as subsection (c); and
+			(2)by inserting after
+			 subsection (a) the following new subsection (b):
+				
+					(b)ResponsibilitiesEach Director assigned to a State under
+				subsection (a) shall carry out the following responsibilities:
+						(1)Monitoring the performance of veterans’
+				training and employment programs in the State, with special emphasis on
+				services to disabled veterans.
+						(2)Monitoring the
+				performance of the State workforce agency in complying with section 4212 of
+				this title.
+						(3)Suggesting to the Assistant Secretary of
+				Labor for Veterans’ Employment and Training corrective actions that could be
+				taken by the State workforce agency to address deficiencies in the performance
+				of veterans’ training and employment programs in the State.
+						(4)Annually negotiating with
+				the State workforce agency to establish performance goals for veterans’
+				training and employment programs in the State.
+						(5)Reviewing the State’s
+				requests for funding for veterans’ training and employment programs and
+				providing advice to the State workforce agency and the Assistant Secretary
+				regarding such funding requests.
+						(6)Forwarding complaints
+				regarding possible violations of chapter 43 of this title to the appropriate
+				Regional Administrator or to the to the Assistant Secretary, as
+				required.
+						(7)Carrying out grant
+				officer technical representative responsibilities for grants issued under
+				programs administered by the Department.
+						(8)Providing advice to the
+				State workforce agency on strategies to market veterans to employers.
+						(9)Supervising and managing
+				all support staff, including Assistant Directors, establishing workload
+				priorities, managing all personnel actions, and evaluating all assigned
+				personnel.
+						(10)Submitting to the Assistant Secretary
+				regular reports on the matters described in paragraphs (1), (2), (4), and (8),
+				and any other matters the Assistant Secretary determine appropriate.
+						(11)Performing such other
+				related duties as directed by the Assistant
+				Secretary.
+						.
+			"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[10]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"10.Contents of
+			 Transition Assistance Program
+			(a)In
+			 generalSection 1144 of title
+			 10, United States Code, is amended—
+				(1)in subsection (b), by
+			 adding at the end the following new paragraph:
+					
+						(9)Provide information about
+				disability-related employment and education
+				protections.
+						.
+				(2)by redesignating
+			 subsections (c), (d), and (e), as subsections (d), (e), and (f), respectively;
+			 and
+				(3)by inserting after
+			 subsection (b) the following new subsection (c):
+					
+						(c)Additional elements of
+				programThe mandatory program carried out by this section shall
+				include—
+							(1)for any such member who
+				plans to use the member’s entitlement to educational assistance under title
+				38—
+								(A)instruction providing an
+				overview of the use of such entitlement; and
+								(B)testing to determine
+				academic readiness for post-secondary education, courses of post-secondary
+				education appropriate for the member, courses of post-secondary education
+				compatible with the member’s education goals, and instruction on how to finance
+				the member’s post-secondary education; and
+								(2)instruction in the
+				benefits under laws administered by the Secretary of Veterans Affairs and in
+				other subjects determined by the Secretary
+				concerned.
+							.
+				(b)Deadline for
+			 implementationThe program carried out under section 1144 of
+			 title 10, United States Code, shall comply with the requirements of subsections
+			 (b)(9) and (c) of such section, as added by subsection (a), by not later than
+			 April 1, 2015.
+			(c)Feasibility
+			 studyNot later than 270 days
+			 after the date of the enactment of this Act, the Secretary of Veterans Affairs
+			 shall submit to the Committees on Veterans’ Affairs of the Senate and House of
+			 Representatives the results of a study carried out by the Secretary to
+			 determine the feasibility of providing the instruction described in subsection
+			 (b) of section 1142 of title 10, United States Code, at all overseas locations
+			 where such instruction is provided by entering into a contract jointly with the
+			 Secretary of Labor for the provision of such instruction.
+			"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[11]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"11.Three-month extension
+			 of Veterans Retraining Assistance Program
+			(a)ExtensionSection 211 of the VOW to Hire Heroes Act
+			 of 2011 (Public Law 112–56; 125 Stat. 713; 38 U.S.C. 4100 note) is
+			 amended—
+				(1)in subsection (a)(2)(B),
+			 by striking March 31, 2014 and inserting June 30,
+			 2014; and
+				(2)in subsection (k), by striking March
+			 31, 2014 and inserting June 30, 2014.
+				(b)Interim report
+				(1)Report
+			 requiredNot later than 30
+			 days after the date of the enactment of this Act, the Secretary of Veterans
+			 Affairs, in collaboration with the Secretary of Labor, shall submit to the
+			 appropriate committees of Congress an interim report on the retraining
+			 assistance provided under section 211 of the VOW to Hire Heroes Act of 2011
+			 (Public Law 112–56; 125 Stat. 713; 38 U.S.C. 4100 note).
+				(2)ElementsThe report required by paragraph (1) shall
+			 include the following:
+					(A)The total number
+			 of—
+						(i)eligible veterans who
+			 have participated in the program established under such section as of the date
+			 of the enactment of this Act; and
+						(ii)associates degrees or
+			 certificates awarded (or other similar evidence of the completion of the
+			 program of education or training earned) to veterans participating in the
+			 program established under such section as of such date.
+						(B)Data related to the
+			 employment status of eligible veterans who participated in such program.
+					"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[12]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"12.Increase in rates of
+			 disability compensation and dependency and indemnity compensation
+			(a)Rate
+			 adjustmentEffective on December 1, 2013, the Secretary of
+			 Veterans Affairs shall increase, in accordance with subsection (c), the dollar
+			 amounts in effect on November 30, 2013, for the payment of disability
+			 compensation and dependency and indemnity compensation under the provisions
+			 specified in subsection (b).
+			(b)Amounts To be
+			 increasedThe dollar amounts to be increased pursuant to
+			 subsection (a) are the following:
+				(1)Wartime disability
+			 compensationEach of the dollar amounts under section 1114 of
+			 title 38, United States Code.
+				(2)Additional compensation
+			 for dependentsEach of the dollar amounts under section 1115(1)
+			 of such title.
+				(3)Clothing
+			 allowanceThe dollar amount under section 1162 of such
+			 title.
+				(4)Dependency and
+			 indemnity compensation to surviving spouseEach of the dollar
+			 amounts under subsections (a) through (d) of section 1311 of such title.
+				(5)Dependency and
+			 indemnity compensation to childrenEach of the dollar amounts
+			 under sections 1313(a) and 1314 of such title.
+				(c)Determination of
+			 Increase
+				(1)PercentageExcept
+			 as provided in paragraph (2), each dollar amount described in subsection (b)
+			 shall be increased by the same percentage as the percentage by which benefit
+			 amounts payable under title II of the Social Security Act (42 U.S.C. 401 et
+			 seq.) are increased effective December 1, 2012, as a result of a determination
+			 under section 215(i) of such Act (42 U.S.C. 415(i)).
+				(2)RoundingEach
+			 dollar amount increased under paragraph (1), if not a whole dollar amount,
+			 shall be rounded to the next lower whole dollar amount.
+				(d)Special
+			 ruleThe Secretary of Veterans Affairs may adjust
+			 administratively, consistent with the increases made under subsection (a), the
+			 rates of disability compensation payable to persons under section 10 of Public
+			 Law 85–857 (72 Stat. 1263) who have not received compensation under chapter 11
+			 of title 38, United States Code.
+			(e)Publication of adjusted
+			 ratesThe Secretary of Veterans Affairs shall publish in the
+			 Federal Register the amounts specified in subsection (b), as increased under
+			 that section, not later than the date on which the matters specified in section
+			 215(i)(2)(D) of the Social Security Act (42 U.S.C. 415(i)(2)(D)) are required
+			 to be published by reason of a determination made under section 215(i) of such
+			 Act during fiscal year 2014.
+			"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[13]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"13.Performance awards in
+			 the senior executive serviceFor each of fiscal years 2014 through 2018,
+			 the Secretary of Veterans Affairs may not pay any performance awards under
+			 section 5384 of title 5, United States Code.
+		"}
+
+We are at location: null   Compared with location: bill[1]/official-title-amendment[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: official-title-amendment
+ Inserted paragraph content is: {"Amend the title so as to read:
+	 A bill to amend title 38, United States Code, to require courses of
+	 education provided by public institutions of higher education that are approved
+	 for purposes of the educational assistance programs administered by the
+	 Secretary of Veterans Affairs to charge veterans tuition and fees at the
+	 in-State tuition rate, to make other improvements in the laws relating to
+	 benefits administered by the Secretary of Veterans Affairs, and for other
+	 purposes.."}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		June 3, 2013
+		Reported with amendments, committed to the Committee of the
+		  Whole House on the State of the Union, and ordered to be printed
+	"}
+

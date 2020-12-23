@@ -1,0 +1,268 @@
+===================================================
+
+total difference is: 41
+comparing document: BILLS-112hr1633ih.xml
+to document: BILLS-112hr1633rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Committee			 on Energy and Com... But actually it is: Committee on Energy and			 Com...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: Committee			 on Energy 
+insertion: 
+deletion: 
+change: and Commerce to and			 Commerce 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To establish a temporary prohi... But actually it is: To establish a temporary prohi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.56
+The Detailes are shown as followings: 
+common words: To establish a temporary /against revising /national ambient air quality standard applicable to /particulate /to limit Federal regulation of nuisance dust in areas /which such dust /regulated under State tribal or local law and for other		  purposes 
+insertion: prohibition		 coarse		 in		 
+deletion: revising particulate dust 
+change: prohibition to  /  to any / coarse to  /  to matter / in to  /  to is / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 215"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No.
+		  112–316]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			December 6, 2011
+			Additional sponsors: Mr.
+			 Long, Mr. Simpson,
+			 Mr. McClintock,
+			 Mr. Graves of Missouri,
+			 Mr. Poe of Texas,
+			 Mr. Burton of Indiana,
+			 Mr. Smith of Nebraska,
+			 Mr. Lamborn,
+			 Mr. Jones,
+			 Mr. Herger,
+			 Mr. Goodlatte,
+			 Mr. Austin Scott of Georgia,
+			 Mrs. Myrick,
+			 Mr. Bishop of Utah,
+			 Ms. Jenkins,
+			 Mr. Fincher,
+			 Mr. Ribble,
+			 Mrs. McMorris Rodgers,
+			 Mr. McKinley,
+			 Mr. Conaway,
+			 Mr. Flores,
+			 Mr. Neugebauer,
+			 Mr. Paul, Mr. Pearce, Mr.
+			 Cole, Mr. Sensenbrenner,
+			 Mr. King of Iowa,
+			 Mr. Crawford,
+			 Mr. Huelskamp,
+			 Mr. Latta,
+			 Mr. Denham,
+			 Mr. Canseco,
+			 Mr. Fleischmann,
+			 Mr. Forbes,
+			 Mrs. Lummis,
+			 Mr. Walsh of Illinois,
+			 Mr. Olson,
+			 Mr. Pitts,
+			 Mr. Barton of Texas,
+			 Mr. Gohmert,
+			 Mr. Chaffetz,
+			 Mr. Manzullo,
+			 Mr. Bachus,
+			 Mr. Johnson of Illinois,
+			 Mr. Walden,
+			 Mr. Brady of Texas,
+			 Mr. Sam Johnson of Texas,
+			 Mr. Lucas,
+			 Mr. Schock,
+			 Mr. Lankford,
+			 Mr. Labrador,
+			 Mr. Gibbs,
+			 Mr. Pompeo,
+			 Mr. Johnson of Ohio,
+			 Mr. Nunnelee,
+			 Mrs. Hartzler,
+			 Mr. Wittman,
+			 Mr. Huizenga of Michigan,
+			 Mr. Franks of Arizona,
+			 Mr. Guthrie,
+			 Mr. Latham,
+			 Mr. Schilling,
+			 Mr. Womack,
+			 Mr. Flake,
+			 Mrs. Bachmann,
+			 Mr. Kingston,
+			 Mr. Smith of Texas,
+			 Mr. Hensarling,
+			 Mr. DesJarlais,
+			 Mr. Berg, Mr. Tipton, Mr.
+			 Hall, Mrs. Emerson,
+			 Mr. Kline,
+			 Mr. Duncan of South Carolina,
+			 Mr. Carter,
+			 Mrs. Miller of Michigan,
+			 Mr. Yoder,
+			 Mr. Rehberg,
+			 Mr. Bucshon,
+			 Mr. Gosar,
+			 Mr. Boren,
+			 Mrs. Black,
+			 Mr. Rogers of Alabama,
+			 Mr. Stivers,
+			 Mr. Calvert,
+			 Mr. Luetkemeyer,
+			 Mr. Paulsen,
+			 Mr. Griffin of Arkansas,
+			 Mrs. Capito,
+			 Mr. Hastings of Washington,
+			 Mr. Stearns,
+			 Mr. Hultgren,
+			 Mrs. Schmidt,
+			 Mr. Thompson of Pennsylvania,
+			 Mr. Gardner,
+			 Mr. Schweikert,
+			 Mr. Rigell,
+			 Mr. Ross of Arkansas,
+			 Mr. Rooney,
+			 Mr. Shimkus,
+			 Mr. Kinzinger of Illinois,
+			 Mr. McIntyre,
+			 Mr. Fortenberry,
+			 Mr. Terry,
+			 Mr. McCaul,
+			 Mr. Farenthold,
+			 Mr. Cassidy,
+			 Mr. Rokita,
+			 Mr. Sullivan,
+			 Mr. Gibson,
+			 Mr. Akin, Mr. Broun of Georgia,
+			 Mr. Thornberry,
+			 Mr. Austria,
+			 Mr. Southerland,
+			 Mr. Harper, and
+			 Mr. Pence
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			December 6, 2011
+			Reported with an amendment, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+		"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: legis-body
+ Inserted paragraph content is: {"
+		1.Short titleThis Act may be cited as the
+			 Farm Dust Regulation Prevention Act of
+			 2011.
+		2.Temporary prohibition
+			 against revising any national ambient air quality standard applicable to coarse
+			 particulate matterBefore the
+			 date that is one year after the date of the enactment of this Act, the
+			 Administrator of the Environmental Protection Agency may not propose, finalize,
+			 implement, or enforce any regulation revising the national primary ambient air
+			 quality standard or the national secondary ambient air quality standard
+			 applicable to particulate matter with an aerodynamic diameter greater than 2.5
+			 micrometers under section 109 of the Clean Air Act (42 U.S.C. 7409).
+		3.Nuisance
+			 dustPart A of title I of the
+			 Clean Air Act (42 U.S.C. 7401 et seq.) is amended by adding at the end the
+			 following:
+			
+				132.Regulation of nuisance
+				dust primarily by State, tribal, and local governments
+					(a)In
+				generalExcept as provided in
+				subsection (b), this Act does not apply to, and references in this Act to
+				particulate matter are deemed to exclude, nuisance dust.
+					(b)ExceptionSubsection (a) does not apply with respect
+				to any geographic area in which nuisance dust is not regulated under State,
+				tribal, or local law insofar as the Administrator finds that—
+						(1)nuisance dust (or any subcategory of
+				nuisance dust) causes substantial adverse public health and welfare effects at
+				ambient concentrations; and
+						(2)the benefits of applying standards and
+				other requirements of this Act to nuisance dust (or such subcategory of
+				nuisance dust) outweigh the costs (including local and regional economic and
+				employment impacts) of applying such standards and other requirements to
+				nuisance dust (or such subcategory).
+						(c)DefinitionIn this section—
+						(1)the term nuisance
+				dust means particulate matter that—
+							(A)is generated primarily
+				from natural sources, unpaved roads, agricultural activities, earth moving, or
+				other activities typically conducted in rural areas;
+							(B)consists primarily of
+				soil, other natural or biological materials, or some combination
+				thereof;
+							(C)is not emitted directly
+				into the ambient air from combustion, such as exhaust from combustion engines
+				and emissions from stationary combustion processes; and
+							(D)is not comprised of
+				residuals from the combustion of coal; and
+							(2)the term nuisance dust does
+				not include radioactive particulate matter produced from uranium mining or
+				processing.
+						.
+		"}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		December 6, 2011
+		Reported with an amendment, committed to the Committee of
+		  the Whole House on the State of the Union, and ordered to be
+		  printed
+	"}
+

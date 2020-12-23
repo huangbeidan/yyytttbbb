@@ -1,0 +1,918 @@
+===================================================
+
+total difference is: 104
+comparing document: BILLS-110hr20rh.xml
+to document: BILLS-110hr20eh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Reported-in-House But actually it is: Engrossed-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 20 RH: Melanie Blocker-... But actually it is: 110 HR 20 EH: Melanie Blocker-...
+The Jaccard Index is: 0.52
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: 110 HR 20 Melanie BlockerStokes Postpartum 
+insertion: 
+deletion: 
+change: RH to EH / Depression Research and Care Act to 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2007-10-15 But actually it is: 0
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IB But actually it is: I
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/calendar[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: calendar But actually it is: null
+ Deleted paragraph content is: {"Union Calendar No. 232"}
+
+We are at location: bill[1]/form[1]/associated-doc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: associated-doc But actually it is: null
+ Deleted paragraph content is: {"[Report No. 110–375]"}
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/action[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {" 
+January 4, 2007 
+Mr. Rush introduced the following bill; which was referred to the Committee on Energy and Commerce 
+"}
+
+We are at location: bill[1]/form[1]/action[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+October 15, 2007
+Additional sponsors: Mr. Jindal, Mr. Rothman, Mr. Allen, Mrs. Capps, Mr. Moran of Virginia, Mr. Cummings, Mrs. Christensen, Ms. Schakowsky, Ms. Eshoo, Ms. Corrine Brown of Florida, Mr. Wexler, Mrs. Davis of California, Mr. Davis of Illinois, Ms. Moore of Wisconsin, Mr. Conyers, Ms. Norton, Mr. Grijalva, Mr. Pickering, Mr. Burgess, Mr. Waxman, Ms. Bordallo, Mr. Al Green of Texas, Mr. Frank of Massachusetts, Ms. Solis, Mrs. Emerson, Mr. Towns, Mr. Davis of Alabama, Mr. Clay, Ms. Clarke, Mr. Cleaver, Mr. Clyburn, Mr. Gonzalez, Mr. Lewis of Georgia, Mr. Rahall, Mr. Pastor, Mr. Becerra, Ms. Loretta Sanchez of California, Mr. Boswell, Ms. Watson, Ms. Eddie Bernice Johnson of Texas, Mr. Meeks of New York, Mr. Wynn, Ms. Kilpatrick of Michigan, Ms. Velázquez, Mr. Serrano, Mr. Johnson of Georgia, Ms. Wasserman Schultz, Mrs. McCarthy of New York, Mr. Gutierrez, Mr. Gene Green of Texas, Mr. Ellison, Mr. Reyes, Mr. Donnelly, Mr. Jefferson, Mr. Skelton, Ms. Lee, Mr. Thompson of Mississippi, Mr. McNulty, Mr. Michaud, Ms. Jackson-Lee of Texas, Mr. Kildee, Mr. Payne, Mr. Stupak, Ms. Slaughter, Mr. Gordon of Tennessee, Mr. Barton of Texas, Mr. Shimkus, Mr. Upton, Mrs. Bono, Mr. Mack, Ms. Baldwin, Mr. Hinchey, Mr. Boucher, Mr. Scott of Virginia, Mr. Deal of Georgia, Ms. Harman, Ms. Herseth Sandlin, Mr. Ross, Mr. Engel, Mr. Baird, Mr. Butterfield, Mr. Murphy of Connecticut, Ms. Matsui, Mr. Walz of Minnesota, Mrs. Jones of Ohio, Mr. Cohen, Ms. Woolsey, Mr. Hastings of Florida, Mr. McGovern, Mr. Bishop of Georgia, Ms. Waters, Mr. Dingell, Mr. Scott of Georgia, Mr. Meek of Florida, Mr. Watt, Mr. Rangel, Ms. Carson, Mr. Stark, Mrs. Biggert, Mr. Rodriguez, Ms. Hooley, Ms. DeGette, Mr. Weiner, Mr. Matheson, Mr. Braley of Iowa, Mr. Pallone, Mr. Perlmutter, Mr. Hinojosa, Mr. George Miller of California, Mr. Hare, Mr. Boozman, Ms. Shea-Porter, Mrs. Napolitano, Mr. Farr, Mr. Sires, Mr. Markey, Mr. Lipinski, Mr. Jackson of Illinois, Mr. Costello, Mr. Emanuel, Mr. Kennedy, Mrs. Boyda of Kansas, Mr. Tierney, Ms. Bean, Mr. Pitts, Mr. Meehan, Ms. Roybal-Allard, Ms. Sutton, Mr. Honda, and Mr. Manzullo
+"}
+
+We are at location: bill[1]/form[1]/action[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action But actually it is: null
+ Deleted paragraph content is: {"
+October 15, 2007
+Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed
+Strike out all after the enacting clause and insert the part printed in italic
+For text of introduced bill, see copy of bill as introduced on January 4, 2007
+"}
+
+We are at location: bill[1]/form[1]/legis-type[1]/text()[1]   Compared with location: bill[1]/form[1]/legis-type[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A BILL But actually it is: AN ACT
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To provide for research on, an... But actually it is: To provide for research on, an...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: To provide for research on and /for individuals with postpartum depression and psychosis 
+insertion: services		 
+deletion: 
+change: services to  / 
+
+We are at location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[1]/text[1]/quote[1]/short-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Melanie Blocker-Stokes Postpar... But actually it is: Melanie Blocker-Stokes Postpar...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Melanie BlockerStokes Depression Research and Care Act 
+insertion: 
+deletion: 
+change: Postpartum to Postpartum			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Postpartum depression is a dev... But actually it is: Postpartum			 depression is a ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Postpartum depression is a devastating mood disorder which strikes many women during after pregnancy 
+insertion: 
+deletion: 
+change: and to and			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Postpartum mood changes are co... But actually it is: Postpartum mood			 changes are...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Postpartum changes are common and can be broken into three subgroups 
+insertion: 
+deletion: 
+change: mood to mood			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: baby blues But actually it is: baby			 blues
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: baby blues 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: , which is an extremely common... But actually it is: , which is an extremely common...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words:  which is an extremely common and the less severe form postpartum depression postpartum mood and anxiety disorders which are severe than baby blues and can occur during pregnancy and anytime within first year of the infant’s birth and postpartum psychosis which is the extreme form of postpartum depression and can occur during pregnancy and up 12 months after delivery 
+insertion: 
+deletion: 
+change: of to of			 / more to more			 / the to the			 / most to most			 / to to to			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Baby blues But actually it is: Baby			 blues
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Baby blues 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  is characterized by mood swin... But actually it is:  is characterized by mood swin...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words:  is characterized by mood swings feelings of being tearfulness irritability poor sleep mood changes and a sense 
+insertion: 
+deletion: 
+change: overwhelmed to overwhelmed			 / of vulnerability to of			 vulnerability 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The symptoms of postpartum moo... But actually it is: The symptoms of			 postpartum ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: The symptoms postpartum mood and anxiety disorders are the worsening and the continuation the baby blues beyond the first days or weeks after delivery 
+insertion: 
+deletion: 
+change: of to of			 / of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The symptoms of postpartum psy... But actually it is: The symptoms of			 postpartum ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: The symptoms postpartum psychosis include losing touch with reality distorted delusions auditory hallucinations paranoia hyperactivity and rapid or mania 
+insertion: 
+deletion: 
+change: of to of			 / thinking to thinking			 / speech to speech			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Each year over 400,000 women s... But actually it is: Each year over			 400,000 wome...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Each year 400000 women suffer from postpartum mood changes with baby blues up to 80 percent of new mothers postpartum mood and anxiety impairing around 10 to 20 percent of new mothers and postpartum striking 1 in 1000 new mothers 
+insertion: 
+deletion: 
+change: over to over			 / afflicting to afflicting			 / disorders to disorders			 / psychosis to psychosis			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Postpartum depression is a tre... But actually it is: Postpartum			 depression is a ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: Postpartum depression is a treatable disorder if promptly diagnosed by a trained and attended to with a personalized regimen of care including social therapy medication and when necessary hospitalization 
+insertion: 
+deletion: 
+change: provider to provider			 / support to support			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[8]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[8]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: All too often postpartum depre... But actually it is: All too often			 postpartum de...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: All too postpartum depression goes undiagnosed or untreated due to the social surrounding depression and mental illness the myth of motherhood the mother’s inability to selfdiagnose her condition the new mother’s shame embarrassment over discussing her depression so near to the birth of her the lack of understanding in society and the medical community of complexity of postpartum depression and economic pressures placed on and providers 
+insertion: 
+deletion: 
+change: often to often			 / stigma to stigma			 / new to new			 / or to or			 / child to child			 / the to the			 / hospitals to hospitals			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[9]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[9]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Untreated, postpartum depressi... But actually it is: Untreated,			 postpartum depre...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: Untreated postpartum depression can lead to further depression substance abuse loss employment divorce and further social alienation selfdestructive or even suicide 
+insertion: 
+deletion: 
+change: of to of			 / behavior to behavior			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[10]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[10]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Untreated, postpartum depressi... But actually it is: Untreated,			 postpartum depre...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: Untreated postpartum depression impacts society through its effect on the physical and psychological development child abuse neglect or death of infant or other siblings and the disruption of the family 
+insertion: 
+deletion: 
+change: infant’s to infant’s			 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Research on postpartum depress... But actually it is: Research on			 postpartum depr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Research postpartum depression and psychosis 
+insertion: 
+deletion: 
+change: on to on			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Expansion and intensification ... But actually it is: Expansion and			 intensificati...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Expansion intensification of activities 
+insertion: 
+deletion: 
+change: and to and			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In General But actually it is: In			 General
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In General 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of Health and Hu... But actually it is: The Secretary of Health and Hu...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: The Secretary of Health and Human Services through the Director of the National Institutes of Health and the Director the National Institute of Mental Health in this title referred to as 
+insertion: 
+deletion: 
+change: acting to acting			 / of to of			 / the to the			 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ), is encouraged to continue a... But actually it is: ), is encouraged to continue a...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words:  is encouraged to continue aggressive work postpartum depression and postpartum psychosis 
+insertion: 
+deletion: 
+change: on to on			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Coordination With Other Instit... But actually it is: Coordination			 With Other Ins...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Coordination With Other Institutes 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Director of the Institute ... But actually it is: The Director of the Institute ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: The Director of the Institute continue to coordinate activities of the Director under subsection a similar activities conducted by the other national research institutes agencies of the National Institutes of Health to the extent that Institutes and agencies have responsibilities that are related to 
+insertion: 
+deletion: 
+change: should to should			 / with to with			 / and to and			 / such to such			 / postpartum conditions to postpartum			 conditions 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Programs for Postpartum Condit... But actually it is: Programs for			 Postpartum Con...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Programs Postpartum Conditions 
+insertion: 
+deletion: 
+change: for to for			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In carrying out subsection (a)... But actually it is: In carrying out subsection (a)...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: In carrying out subsection a Director of the Institute is encouraged to continue research to expand understanding of the causes of and to find a cure for postpartum Activities under such subsection shall include conducting and supporting 
+insertion: 
+deletion: 
+change: the to the			 / the to the			 / conditions to conditions			 / the following to the			 following 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Basic research concerning the ... But actually it is: Basic research			 concerning t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Basic concerning the etiology and causes of the conditions 
+insertion: 
+deletion: 
+change: research to research			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Epidemiological studies to add... But actually it is: Epidemiological			 studies to ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Epidemiological studies to address the frequency and natural history of the conditions and differences among racial and ethnic groups with respect to 
+insertion: 
+deletion: 
+change: the to the			 / the conditions to the			 conditions 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[3]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[3]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The development of improved sc... But actually it is: The development of			 improved...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: The development improved screening and diagnostic techniques 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[3]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[3]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Clinical research for the deve... But actually it is: Clinical research			 for the d...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Clinical for the development and evaluation of new treatments including new 
+insertion: 
+deletion: 
+change: research to research			 / biological agents to biological			 agents 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[3]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[1]/subsection[3]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Information and education prog... But actually it is: Information and			 education p...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: Information education programs for health care professionals and the public 
+insertion: 
+deletion: 
+change: and to and			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: National public awareness camp... But actually it is: National public			 awareness c...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: National awareness campaign 
+insertion: 
+deletion: 
+change: public to public			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In general But actually it is: In			 general
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In general 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Director of the National I... But actually it is: The Director of the			 Nationa...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: The Director of National Institutes of Health and the Administrator of the Health Resources Services Administration are encouraged to carry out a coordinated campaign to increase the awareness and knowledge of postpartum depression postpartum psychosis 
+insertion: 
+deletion: 
+change: the to the			 / and to and			 / national to national			 / and to and			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Public service announcements But actually it is: Public service			 announcement...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: service announcements to service			 announcements 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Activities under the national ... But actually it is: Activities under the national ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: Activities under the national campaign subsection a may include public service announcements through radio and other means 
+insertion: 
+deletion: 
+change: under to under			 / television to television			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Biennial reporting But actually it is: Biennial			 reporting
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Biennial reporting 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 403(a)(5) of the Publi... But actually it is: Section 403(a)(5) of			 the Pu...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Section 403a5 the Public Health Service Act 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by redesignating subparagraph ... But actually it is: by redesignating			 subparagra...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: by subparagraph L as subparagraph M and 
+insertion: 
+deletion: 
+change: redesignating to redesignating			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by inserting after subparagrap... But actually it is: by inserting after			 subparag...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: by inserting subparagraph K the following 
+insertion: 
+deletion: 
+change: after to after			 / 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Longitudinal study of relative... But actually it is: Longitudinal			 study of relat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: Longitudinal study of relative mental health consequences for women of resolving 
+insertion: 
+deletion: 
+change: a pregnancy to a			 pregnancy 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Sense of Congress But actually it is: Sense of			 Congress
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of Congress to of			 Congress 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: It is the sense of Congress th... But actually it is: It is the sense of			 Congress...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: It is the sense Congress that the Director of the Institute may conduct a representative longitudinal study during the period of fiscal years through 2018 of the relative mental health consequences for women of a pregnancy intended and unintended in various ways including carrying pregnancy to term and parenting the child carrying the pregnancy to term placing the child for adoption miscarriage and having an abortion This may assess the incidence timing magnitude and duration of the immediate longterm mental health consequences positive or negative of these 
+insertion: 
+deletion: 
+change: of to of			 / nationally to nationally			 / 2008 to 2008			 / resolving to resolving			 / the to the			 / and to and			 / study to study			 / and to and			 / pregnancy outcomes to pregnancy			 outcomes 
+
+We are at location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[1]/section[4]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Beginning not later than 3 yea... But actually it is: Beginning			 not later than 3 ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.85
+The Detailes are shown as followings: 
+common words: Beginning not later than 3 years after the date of the enactment of this Act periodically thereafter for the duration of the study under subsection a Director of the Institute should prepare and submit to the Congress reports the findings of the study 
+insertion: 
+deletion: 
+change: and to and			 / the to the			 / on to on			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Delivery of services regarding... But actually it is: Delivery of			 services regard...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Delivery services regarding postpartum depression and psychosis 
+insertion: 
+deletion: 
+change: of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Establishment of program of gr... But actually it is: Establishment			 of program of...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: Establishment of program of grants 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In General But actually it is: In			 General
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: In General 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of Health and Hu... But actually it is: The Secretary of Health and Hu...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.86
+The Detailes are shown as followings: 
+common words: The Secretary of Health and Human Services in this referred to as the 
+insertion: 
+deletion: 
+change: title to title			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[1]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[1]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be: ) should in accordance with th... But actually it is: ) should in accordance with th...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words:  should in accordance with title make grants to provide for projects for the establishment operation coordination of effective and costefficient systems for the delivery essential services to individuals with postpartum depression or psychosis referred to in this section as a 
+insertion: 
+deletion: 
+change: this to this			 / and to and			 / of to of			 / postpartum to postpartum			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[1]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[1]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: postpartum condition But actually it is: postpartum			 condition
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: postpartum condition 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Recipients of Grants But actually it is: Recipients of			 Grants
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of Grants to of			 Grants 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A grant under subsection (a) m... But actually it is: A grant under subsection (a) m...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.84
+The Detailes are shown as followings: 
+common words: A grant under subsection a may be made to an entity if the entity is a public or nonprofit private entity which may include State or local government a public or nonprofit private communitybased organization hospice ambulatory care facility health center migrant health center or homeless health center or any appropriate public or nonprofit private entity 
+insertion: 
+deletion: 
+change: only to only			 / a to a			 / hospital to hospital			 / community to community			 / other to other			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Certain Activities But actually it is: Certain			 Activities
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Certain Activities 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To the extent practicable and ... But actually it is: To the extent practicable and ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: To the extent practicable and appropriate Secretary shall ensure that projects under subsection a provide services the diagnosis and management of postpartum conditions Activities that Secretary may authorize for such projects may also include 
+insertion: 
+deletion: 
+change: the to the			 / for to for			 / the to the			 / the following to the			 following 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[3]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[3]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Delivering or enhancing outpat... But actually it is: Delivering or			 enhancing out...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: Delivering enhancing outpatient and homebased health and support services including management screening and comprehensive treatment services for with or at risk for postpartum conditions and delivering or enhancing services for their families 
+insertion: 
+deletion: 
+change: or to or			 / case to case			 / individuals to individuals			 / support to support			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[3]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[3]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Delivering or enhancing inpati... But actually it is: Delivering or			 enhancing inp...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Delivering enhancing inpatient care management services that ensure the wellbeing of mother and family and the future development of the infant 
+insertion: 
+deletion: 
+change: or to or			 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[3]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[3]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Improving the quality, availab... But actually it is: Improving the			 quality, avai...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: Improving quality availability and organization of health care and support including transportation services attendant care homemaker services day respite care and providing counseling on financial assistance and for individuals with postpartum conditions and support services for 
+insertion: 
+deletion: 
+change: the to the			 / services to services			 / or to or			 / insurance to insurance			 / their families to their			 families 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Integration With Other Program... But actually it is: Integration With			 Other Prog...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Integration Other Programs 
+insertion: 
+deletion: 
+change: With to With			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[1]/subsection[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To the extent practicable and ... But actually it is: To the extent practicable and ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: To the extent practicable and appropriate Secretary should integrate the program under this title with other programs carried out by the Secretary including the program under section of the Public Health Service Act 
+insertion: 
+deletion: 
+change: the to the			 / grant to grant			 / 330 to 330			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Certain requirements But actually it is: Certain			 requirements
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Certain requirements 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A grant may be made under sect... But actually it is: A grant may be			 made under s...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: A grant may made under section 201 only if the applicant involved makes the 
+insertion: 
+deletion: 
+change: be to be			 / following agreements to following			 agreements 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Not more than 5 percent of the... But actually it is: Not more than 5			 percent of ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: Not more than percent of the grant will be used for administration accounting and program oversight functions 
+insertion: 
+deletion: 
+change: 5 to 5			 / reporting to reporting			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The grant will be used to supp... But actually it is: The grant will be			 used to s...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: The grant will used to supplement and not supplant funds from other sources related to treatment of postpartum conditions 
+insertion: 
+deletion: 
+change: be to be			 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The applicant will abide by an... But actually it is: The applicant will			 abide by...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: The applicant abide by any limitations deemed appropriate by the Secretary on any charges individuals receiving services pursuant to the grant As deemed appropriate the Secretary such limitations on charges may vary based on the circumstances of the individual receiving services 
+insertion: 
+deletion: 
+change: will to will			 / to to to			 / by to by			 / financial to financial			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The grant will not be expended... But actually it is: The grant will not			 be expen...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: The grant will be expended to make payment for services authorized under section 201a to extent that payment has been made or can reasonably be expected to be with respect to such services 
+insertion: 
+deletion: 
+change: not to not			 / the to the			 / made to made			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[4]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[4]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: under any State compensation p... But actually it is: under any State			 compensatio...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: under any compensation program under an insurance policy or under any Federal or health benefits program or 
+insertion: 
+deletion: 
+change: State to State			 / State to State			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[4]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[4]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by an entity that provides hea... But actually it is: by an entity that			 provides ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: by an entity provides health services on a prepaid basis 
+insertion: 
+deletion: 
+change: that to that			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[2]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The applicant will, at each si... But actually it is: The applicant			 will, at each...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.82
+The Detailes are shown as followings: 
+common words: The will at each site at which the applicant provides services under 201a post a conspicuous notice informing individuals who receive services of any Federal policies that apply to the applicant with respect the imposition of charges on such individuals 
+insertion: 
+deletion: 
+change: applicant to applicant			 / section to section			 / the to the			 / to to to			 / 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Technical assistance But actually it is: Technical			 assistance
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Technical assistance 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[2]/section[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[2]/section[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary may provide tech... But actually it is: The Secretary may			 provide t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.8
+The Detailes are shown as followings: 
+common words: The Secretary provide technical assistance to assist entities in complying with requirements of this title in order to make such entities eligible to grants under section 201 
+insertion: 
+deletion: 
+change: may to may			 / the to the			 / receive to receive			 / 
+
+We are at location: bill[1]/legis-body[1]/title[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: General provisions But actually it is: General			 provisions
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: General provisions 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authorization of appropriation... But actually it is: Authorization of			 appropriat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of appropriations to of			 appropriations 
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To carry out this Act and the ... But actually it is: To carry out			 this Act and t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.78
+The Detailes are shown as followings: 
+common words: To carry this Act and the amendments made by this Act there are authorized to 
+insertion: 
+deletion: 
+change: out to out			 / be appropriated to be			 appropriated 
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: $3,000,000 for fiscal year 200... But actually it is: $3,000,000 for			 fiscal year ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: 3000000 fiscal year 2008 and 
+insertion: 
+deletion: 
+change: for to for			 / 
+
+We are at location: bill[1]/legis-body[1]/title[3]/section[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/title[3]/section[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: such sums as may be necessary ... But actually it is: such sums as may			 be necessa...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: such sums as be necessary for fiscal years 2009 and 2010 
+insertion: 
+deletion: 
+change: may to may			 / 
+
+We are at location: bill[1]/endorsement[1]/action-date[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-date But actually it is: null
+ Deleted paragraph content is: {"October 15, 2007"}
+
+We are at location: bill[1]/endorsement[1]/action-desc[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: action-desc But actually it is: null
+ Deleted paragraph content is: {"Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed"}
+
+We are at location: null   Compared with location: bill[1]/attestation[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: attestation
+ Inserted paragraph content is: {"
+		
+			Passed the House of
+			 Representatives October 15, 2007.
+			Lorraine C. Miller,
+			Clerk.
+		
+	"}
+

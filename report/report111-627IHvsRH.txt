@@ -1,0 +1,1617 @@
+===================================================
+
+total difference is: 431
+comparing document: BILLS-111hr627ih.xml
+to document: BILLS-111hr627rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]   Compared with location: bill[1]/form[1]/action[1]/action-desc[1]/committee-name[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Committee			 on Financial Serv... But actually it is: Committee on Financial			 Serv...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: Committee			 on 
+insertion: 
+deletion: 
+change: Financial Services to Financial			 Services 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend the Truth in Lending ... But actually it is: To amend the Truth in Lending ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: To amend the Truth in Lending Act /establish fair /transparent practices relating to the extension of /under an open /consumer credit plan and for 
+insertion: to		 credit		 
+deletion: fair open 
+change: to to  /  to and / credit to  /  to end / other purposes to other		  purposes 
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 41"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No.
+		  111–88]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			April 27, 2009
+			Additional sponsors: Mr.
+			 Lynch, Ms. Woolsey,
+			 Mr. Sherman,
+			 Ms. Matsui,
+			 Mr. Rahall,
+			 Mr. Doggett,
+			 Mr. Nye, Ms. Zoe Lofgren of California,
+			 Mr. Stupak,
+			 Mr. Berman,
+			 Mr. Inslee,
+			 Mr. Gonzalez,
+			 Ms. Eshoo,
+			 Ms. Shea-Porter,
+			 Ms. Tsongas,
+			 Mr. Visclosky,
+			 Mr. Wu, Ms. Clarke, Ms.
+			 Hirono, Mr. Cohen,
+			 Mr. Schauer,
+			 Ms. Norton,
+			 Mr. Lipinski,
+			 Mr. Maffei,
+			 Mr. Kratovil,
+			 Ms. Pingree of Maine,
+			 Mr. Delahunt,
+			 Mr. Blumenauer,
+			 Mr. Arcuri,
+			 Mr. Langevin,
+			 Mr. Hall of New York,
+			 Mr. Davis of Illinois,
+			 Mr. Abercrombie,
+			 Mr. Jackson of Illinois,
+			 Mr. Schiff,
+			 Mr. Miller of North Carolina,
+			 Mr. Taylor,
+			 Mr. Braley of Iowa,
+			 Mr. Bishop of Georgia,
+			 Mr. Waxman,
+			 Mr. Baca, Mr. Honda, Mr.
+			 Serrano, Mrs. Davis of
+			 California, Mr. Watt,
+			 Mr. Levin,
+			 Mr. Stark,
+			 Mr. Van Hollen,
+			 Mr. Lewis of Georgia,
+			 Ms. Harman,
+			 Mr. Hastings of Florida,
+			 Mr. Al Green of Texas,
+			 Mr. Johnson of Georgia,
+			 Ms. Castor of Florida,
+			 Ms. Kilroy,
+			 Mr. Massa,
+			 Mr. Luján,
+			 Mr. Kissell,
+			 Mr. Boswell,
+			 Mrs. Dahlkemper,
+			 Mr. Patrick J. Murphy of Pennsylvania,
+			 Ms. Markey of Colorado,
+			 Mr. Walz, Ms. Giffords, Mr.
+			 Pierluisi, Mr. Tonko,
+			 Mr. Quigley,
+			 Mr. Larson of Connecticut,
+			 Mr. Nadler of New York,
+			 Mr. Barrow,
+			 Mr. Connolly of Virginia,
+			 Ms. Fudge, and
+			 Mr. Teague
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			April 27, 2009
+			Reported with an amendment, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+			For text of introduced bill, see copy of bill as
+			 introduced on January 22, 2009
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Credit cards on			 terms consu... But actually it is: Credit cards on terms			 consu...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.43
+The Detailes are shown as followings: 
+common words: Credit cards consumers can repay 
+insertion: 
+deletion: 
+change: on			 to on / terms to terms			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/quote[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/term[1]
+The reason of change is: element tag name
+The value is expected to be: quote But actually it is: term
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/term[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: existing				balance But actually it is: existing balance
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: balance 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/text()[2]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[2]/text[1]/text()[2]
+The reason of change is: content change
+The value is expected to be:  means the amount owed on a co... But actually it is: 				means the amount owed on a...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: means the amount owed on a consumer credit card account as /end of /day after the creditor provides notice of an increase rate in accordance with subsection c 
+insertion: of 
+deletion:  of 
+change: of				the to the / 14th to the				14th / in				the to in / annual to the / percentage to annual				percentage / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Treatment of				existing balan... But actually it is: Treatment of existing				balan...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Treatment balances following rate increase 
+insertion: 
+deletion: 
+change: of				existing to of / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Limitation on				certain fees But actually it is: Limitation on certain				fees
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: on				certain fees to on certain				fees 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/section[1]/subsection[1]/paragraph[4]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: a creditor				increases any an... But actually it is: a creditor increases any				an...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.54
+The Detailes are shown as followings: 
+common words: a any annual percentage rate of interest applicable on a credit /of /under an open end consumer credit plan and 
+insertion: card 
+deletion: of 
+change: creditor				increases to creditor / card				account to account / consumer to the				consumer / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Exceptions to			 the amendment... But actually it is: Exceptions to the			 amendment...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.57
+The Detailes are shown as followings: 
+common words: Exceptions the amendment made by subsection			 
+insertion: 
+deletion: 
+change: to			 to to / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Expiration or				loss of promo... But actually it is: Expiration of				promotional r...
+The Jaccard Index is: 0.76
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: or				loss of promotional rate to of				promotional rate 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The				increase is due solely ... But actually it is: The increase				is due solely ...
+The Jaccard Index is: 0.43
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: The				increase is due solely to 
+insertion: 
+deletion: 
+change: the expiration of a promotional rate 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[2]/clause[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: clause But actually it is: null
+ Deleted paragraph content is: {"(i)the expiration of
+				a promotional rate; or
+								"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[2]/clause[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: clause But actually it is: null
+ Deleted paragraph content is: {"(ii)the loss of a
+				promotional rate for a reason specified in the account agreement (e.g., late
+				payment).
+								"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Payment not				received during... But actually it is: Failure to comply with				work...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The				increase is due solely ... But actually it is: The increase is				due solely ...
+The Jaccard Index is: 0.44
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: The				increase is due solely to the fact /the consumer 
+insertion: 
+deletion: fact 
+change: failed to comply with a negotiated workout				plan with the creditor 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(D)Payment not received
+				during 30-day grace period after due dateThe increase is due solely to the fact that
+				any consumer`s minimum payment has not been received within 30 days after the
+				due date for such minimum payment.
+							"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Limitation on				increases due... But actually it is: Limitation on increases				due...
+The Jaccard Index is: 0.34
+And the Smith Waterman Score is: 0.13
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: on				increases due to loss of promotional rate to on increases				due to failure to comply with workout plan 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notwithstanding paragraph (1)(... But actually it is: Notwithstanding paragraph (1)(...
+The Jaccard Index is: 0.45
+And the Smith Waterman Score is: 0.14
+The Detailes are shown as followings: 
+common words: Notwithstanding paragraph the				annual percentage rate in effect 
+insertion: 
+deletion: 
+change: 1Bii to 1C / after the increase permitted under such				subsection due to the loss of a promotional rate may not exceed the annual				percentage rate that would have applied under the terms of the agreement after				the expiration of the promotional				rate to with respect to each category of transactions				for a credit card account under an open end consumer credit plan after the				increase permitted under such subsection due to the failure of a consumer to				comply with a workout plan may not exceed the annual percentage applicable to				such category of transactions on the day before the effective date of the				workout plan 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(3)Standards
+				requiredThe Board shall
+				prescribe, by regulation, standards—
+							(A)for entering into any
+				workout plan applicable to any credit card account under an open end consumer
+				credit plan; and
+							(B)governing any such
+				workout
+				plan.
+							"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Advance notice			 of rate incr... But actually it is: Advance notice of rate			 incr...
+The Jaccard Index is: 0.48
+And the Smith Waterman Score is: 0.2
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: notice			 of rate increases to notice of rate			 increases and significant contract changes 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 127B of the Truth in L... But actually it is: Section 127B of the			 Truth i...
+The Jaccard Index is: 0.97
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: Section 127B of Truth in Lending Act amended by inserting after subsection b as added subsection b following new 
+insertion: 
+deletion: 
+change: the to the			 / is			 to is / by to by			 / the			 to the / subsection to subsections 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/quoted-block[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Advance notice				of rate incr... But actually it is: Advance notice of rate				incr...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: notice				of rate increases to notice of rate				increases 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/quoted-block[1]/subsection[1]/text[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/quoted-block[1]/subsection[1]/paragraph[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[3]/quoted-block[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/quoted-block[1]/subsection[1]/paragraph[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/quoted-block[1]/subsection[1]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(1)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/quoted-block[1]/subsection[1]/paragraph[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"In
+				general"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"In the case of any credit card account under an open end
+				consumer credit plan, no increase in any annual percentage rate of interest
+				(other than an increase described in subsection (b)(1)(A)) may take effect
+				unless the creditor provides a written notice to the consumer at least 45 days
+				before the increase takes effect which fully describes the changes in the
+				annual percentage rate, in a complete and conspicuous manner, and the extent to
+				which such increase would apply to an existing balance."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/quoted-block[1]/subsection[1]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(2)Limitation on rate
+				increase notices within first yearExcept in the case of an increase described
+				in subparagraph (B), (C), or (D) of subsection (b)(1), no written notice under
+				paragraph (1) of an increase in any annual percentage rate of interest on any
+				credit card account under an open end consumer credit plan (for which notice is
+				required under such paragraph) shall be effective before the end of the 1-year
+				period beginning when the account is opened.
+						"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[3]/quoted-block[1]/subsection[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(d)Advance notice of
+				significant contract changesIn the case of any credit card account
+				under an open end consumer credit plan, no significant change to the contract
+				(such as any fee) may take effect unless the creditor provides a written notice
+				of at least 45 days before the change takes effect which fully describes the
+				changes in the contract, in a complete and conspicuous
+				manner.
+					"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[4]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[4]/quoted-block[1]/toc[1]/toc-entry[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 127B. Additional requirements ... But actually it is: 127B. Additional requirements ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: 127B Additional requirements for under an open end consumer credit				plan 
+insertion: 
+deletion: 
+change: credit				card to credit / accounts to card				accounts / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Additional			 provisions regar... But actually it is: Additional provisions			 regar...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Additional			 provisions regarding account features terms and pricing 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Double cycle			 billing prohib... But actually it is: Double cycle billing			 prohib...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: cycle			 billing prohibited to cycle billing			 prohibited 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section			 127B of the Truth i... But actually it is: Section 127B of			 the Truth i...
+The Jaccard Index is: 0.95
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Section			 127B the Truth in Lending Act is amended by inserting after subsection as by section 2c the following new subsection 
+insertion: 
+deletion: 
+change: of to of			 / c			 to d / added to added			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/subsection[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/subsection[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (d) But actually it is: (e)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: No finance charge may				be im... But actually it is: No finance charge may				be im...
+The Jaccard Index is: 0.84
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: No finance charge may				be imposed by a creditor with respect to any balance on a credit card account				under an open end consumer credit plan that is based on balances for days in				billing cycles preceding the most recent billing cycle 
+insertion: 
+deletion: 
+change: as a result of the loss				of any grace period 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: charging a consumer for deferr... But actually it is: adjusting finance charges foll...
+The Jaccard Index is: 0.09
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: adjusting finance charges foll... But actually it is: adjusting finance charges foll...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.88
+The Detailes are shown as followings: 
+common words: adjusting finance charges following				resolution of a billing 
+insertion: 
+deletion: 
+change: error				dispute to error dispute 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(3)Grace
+				periodFor purposes of this
+				subsection, the term grace period means, with respect to any
+				credit card account under an open end consumer credit plan, the time period, if
+				any, provided by the creditor within which any credit extended under such
+				credit plan for purchases of goods or services may be repaid by the consumer
+				without incurring a finance
+				charge.
+						"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Limitations			 relating to acc... But actually it is: Limitations relating to			 acc...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Limitations			 relating account balances attributable only to 
+insertion: 
+deletion: 
+change: to to to			 / accrued			 interest to accrued interest 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 127B is			 amended by ... But actually it is: Section 127B is amended by ins...
+The Jaccard Index is: 0.93
+And the Smith Waterman Score is: 0.44
+The Detailes are shown as followings: 
+common words: Section 127B amended by inserting subsection as added by subsection a 
+insertion: 
+deletion: 
+change: is			 to is / after to after			 / d to e / the			 following new subsection to the following new			 subsection 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/subsection[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/subsection[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (e) But actually it is: (f)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Limitations				relating to acc... But actually it is: Limitations relating to				acc...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Limitations				relating to account balances attributable only to accrued interest 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the consumer’s				obligation t... But actually it is: the consumer’s obligation				t...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.58
+The Detailes are shown as followings: 
+common words: the to pay any accrued interest on a credit card account under an 
+insertion: 
+deletion: 
+change: consumer’s				obligation to consumer’s / open				end consumer credit plan or to open end consumer				credit plan or 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the accrual of				interest on ... But actually it is: the accrual of interest				on ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.57
+The Detailes are shown as followings: 
+common words: the accrual the outstanding balance on any such account in accordance with /the /account and this				title 
+insertion: terms of				the 
+deletion: with the				terms 
+change: of				interest to of / on to interest				on / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 127B of the Truth in L... But actually it is: Section 127B of the Truth in L...
+The Jaccard Index is: 0.94
+And the Smith Waterman Score is: 0.92
+The Detailes are shown as followings: 
+common words: Section 127B of the Truth in Lending Act is			 amended by inserting after subsection as added by subsection b the			 following new subsection 
+insertion: 
+deletion: 
+change: e to f / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/quoted-block[1]/subsection[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/quoted-block[1]/subsection[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (f) But actually it is: (g)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/quoted-block[1]/subsection[1]/text[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/quoted-block[1]/subsection[1]/paragraph[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[3]/quoted-block[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/quoted-block[1]/subsection[1]/paragraph[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/quoted-block[1]/subsection[1]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(1)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/quoted-block[1]/subsection[1]/paragraph[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"In
+				general"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"Each periodic statement provided by a creditor to a
+				consumer with respect to a credit card account under an open end consumer
+				credit plan shall contain the toll-free telephone number, Internet address, and
+				website at which the consumer may request the payoff balance on the
+				account."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[3]/quoted-block[1]/subsection[1]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(2)Small
+				issuersNotwithstanding
+				paragraph (1), in the case of any credit card issuer which issues fewer than
+				50,000 credit cards in conjunction with credit card accounts under open end
+				consumer credit plans, each periodic statement provided by such a creditor to a
+				consumer with respect to any such credit card account shall contain the
+				toll-free telephone number, Internet address, or website at which the consumer
+				may request the payoff balance on the
+				account.
+						"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Consumer right			 To reject ca... But actually it is: Consumer right To			 reject ca...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.75
+The Detailes are shown as followings: 
+common words: Consumer To reject card before notice is provided of open account 
+insertion: 
+deletion: 
+change: right			 to right / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/quoted-block[1]/subsection[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/quoted-block[1]/subsection[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (g) But actually it is: (h)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[4]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[4]/quoted-block[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Consumer right				To reject ca... But actually it is: Consumer right To				reject ca...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.79
+The Detailes are shown as followings: 
+common words: Consumer reject card before notice of new account is provided to consumer reporting				agency 
+insertion: 
+deletion: 
+change: right				To to right / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 127B of the Truth in L... But actually it is: Section 127B of the Truth in L...
+The Jaccard Index is: 0.94
+And the Smith Waterman Score is: 0.92
+The Detailes are shown as followings: 
+common words: Section 127B of the Truth in Lending Act is amended by			 inserting after subsection as added by subsection d the following new			 subsection 
+insertion: 
+deletion: 
+change: g to h / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/quoted-block[1]/subsection[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[5]/quoted-block[1]/subsection[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (h) But actually it is: (i)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/quote[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[5]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/term[1]
+The reason of change is: element tag name
+The value is expected to be: quote But actually it is: term
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/quote[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[5]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/term[1]
+The reason of change is: element tag name
+The value is expected to be: quote But actually it is: term
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/quoted-block[1]/subsection[1]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[5]/quoted-block[1]/subsection[1]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Due				date But actually it is: Due date
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: date 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[5]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Certain				electronic fund tra... But actually it is: Certain electronic fund				tra...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: fund transfers to electronic fund				transfers 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[5]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any				payment with respect to... But actually it is: Any payment with				respect to...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.51
+The Detailes are shown as followings: 
+common words: Any				payment with respect to any such account made by a consumer online to /of /card issuer or by telephone directly to the credit /before /local time at the location specified by the creditor /receipt /on any business day shall be credited to the 
+insertion: the card for 
+deletion: of before receipt 
+change: the				website to website / credit to the				credit / card				issuer to issuer / pm to 5				pm / for				the to the / payment to of				payment / consumer’s				account that business day to consumer’s account that				business day 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[5]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Presumption of				timely payme... But actually it is: Presumption of timely				payme...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of				timely payment to of timely				payment 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[5]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[5]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any evidence				provided by a ... But actually it is: Any evidence provided				by a ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Any by a consumer in the form of a receipt from the United States common carrier indicating that a payment on a credit to the issuer not less than 7 days before the due /in /statement under subparagraph A for such /create /that such payment was made by the due date /be /the creditor for fraud or dishonesty on the part of 
+insertion: date payment which 
+deletion: in create be 
+change: evidence				provided to evidence / Postal				Service to Postal / or to Service / other to or				other / card				account to card / was to account / sent to was				sent / date				contained to contained / periodic to the				periodic / payment				shall to shall / presumption to a				presumption / which				may to may / by to rebutted				by / the				consumer with respect to the mailing				date to the consumer with				respect to the mailing				date 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Pro rata payment			 allocation... But actually it is: Payment			 allocations
+The Jaccard Index is: 0.59
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: payment			 allocations 
+insertion: 
+deletion: Pro rata 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 127B of the Truth in L... But actually it is: Section 127B of the Truth in L...
+The Jaccard Index is: 0.94
+And the Smith Waterman Score is: 0.92
+The Detailes are shown as followings: 
+common words: Section 127B of the Truth in Lending Act is amended			 by inserting after subsection as added by subsection e the following			 new subsection 
+insertion: 
+deletion: 
+change: h to i / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/quoted-block[1]/subsection[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/quoted-block[1]/subsection[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (i) But actually it is: (j)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/quoted-block[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Pro rata payment				allocation... But actually it is: Payment				allocations
+The Jaccard Index is: 0.59
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: rata payment				allocations to 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Except as permitted under para... But actually it is: If 2 or more different annual ...
+The Jaccard Index is: 0.49
+And the Smith Waterman Score is: 0.15
+The Detailes are shown as followings: 
+common words: Except as permitted under paragraph 2 if the				outstanding balance on a credit card account under 
+insertion: 2 or more different annual percentage 
+deletion: 
+change: an open end consumer credit				plan accrues interest at 2 or more different annual percentage rates the total				amount of each periodic payment made on such account shall be allocated by the				creditor between or among the outstanding balances at each such annual				percentage rate in the same proportion as each such balance bears to the total				outstanding balance on the account to an				open end consumer credit plan the amount of any periodic payment in excess of				the required minimum payment shall be applied using 1 of the following				methods 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(A)High-to-low
+				methodThe excess amount is
+				allocated first to the balance with the highest annual percentage rate and any
+				remaining portion is allocated to any other balance in descending order, based
+				on the applicable annual percentage rate each portion of such balance bears,
+				from the highest such rate to the lowest.
+							"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(B)Pro rata
+				methodThe excess amount is allocated among each of the portions
+				of such balance which bear different rates of interest in the same proportion
+				as each such portion of the outstanding balance bears to the total outstanding
+				balance.
+							"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/quoted-block[1]/subsection[1]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/quoted-block[1]/subsection[1]/paragraph[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Allocation to				higher rate But actually it is: Clarification relating				to c...
+The Jaccard Index is: 0.09
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notwithstanding				paragraph (... But actually it is: A creditor may allocate the en...
+The Jaccard Index is: 0.21
+And the Smith Waterman Score is: 0.05
+The Detailes are shown as followings: 
+common words: a creditor may 
+insertion: 
+deletion: Notwithstanding				paragraph 1 
+change: elect in any case described in such paragraph				to allocate more than a pro rata share of any payment to a portion of the				outstanding balance that bears a higher annual percentage rate than another				portion of such outstanding balance to allocate the entire amount				paid by the consumer in excess of the required minimum periodic payment to a				balance on which interest is deferred during the 2 billing cycles immediately				preceding the expiration of the period during which interest is				deferred 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/quoted-block[1]/subsection[1]/paragraph[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/quoted-block[1]/subsection[1]/paragraph[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Special rules				for accounts ... But actually it is: Prohibition on				restricted g...
+The Jaccard Index is: 0.06
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/quoted-block[1]/subsection[1]/paragraph[3]/text[1]
+The reason of change is: element tag name
+The value is expected to be: subparagraph But actually it is: text
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/quoted-block[1]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(A)}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[1]/header[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: header But actually it is: null
+ Deleted paragraph content is: {"In
+				general"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"Notwithstanding paragraph (1) or (2), in the case of a
+				credit card account under an open end consumer credit plan the current terms of
+				which allow the consumer to receive the benefit of a promotional rate or
+				deferred interest plan, amounts paid in excess of the required minimum payment
+				shall be allocated to the promotional rate balance or the deferred interest
+				balance only if other balances have been fully paid."}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(B)Exception for
+				deferred interest balancesNotwithstanding subparagraph (A), a
+				creditor may allocate the entire amount paid by the consumer in excess of the
+				required minimum periodic payment to a balance on which interest is deferred
+				during the 2 billing cycles immediately preceding the expiration of the period
+				during which interest is deferred.
+							"}
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/quoted-block[1]/subsection[1]/paragraph[4]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/quoted-block[1]/subsection[1]/paragraph[3]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (4) But actually it is: (3)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[6]/quoted-block[1]/subsection[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[6]/quoted-block[1]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If, with respect to any credit... But actually it is: If, with respect to any credit...
+The Jaccard Index is: 0.97
+And the Smith Waterman Score is: 0.65
+The Detailes are shown as followings: 
+common words: If with respect to any credit card account				under an open end consumer credit /a creditor offers a time period credit extended without incurring finance charges to balance in full the creditor may not deny a consumer who a promotional rate balance or deferred interest rate balance to such an account any such time period for repaying 
+insertion: plan 
+deletion: 
+change: in to in				which / which to to / to				repay to repay / cardholders to cardholders				who / who to pay / pay				the to the / takes to takes				advantage / advantage				of to of / offer to offer				with / with				respect to respect / credit without				incurring finance				charges to credit				without incurring finance				charges 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[7]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Timely provision			 of periodi... But actually it is: Timely provision of			 periodi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: Timely of periodic statements 
+insertion: 
+deletion: 
+change: provision			 to provision / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 127B of the Truth in L... But actually it is: Section			 127B of the Truth i...
+The Jaccard Index is: 0.94
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Section 127B of the Truth in Lending Act amended by inserting after subsection as added by subsection f following new subsection 
+insertion: 
+deletion: 
+change: is			 to is / i to j			 / the			 to the / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/quoted-block[1]/subsection[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[7]/quoted-block[1]/subsection[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (j) But actually it is: (k)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[7]/quoted-block[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Timely provision				of periodi... But actually it is: Timely provision of				periodi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: provision				of periodic statements to provision of				periodic statements 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/quoted-block[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[7]/quoted-block[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Each				periodic statement wit... But actually it is: Each				periodic statement wit...
+The Jaccard Index is: 0.98
+And the Smith Waterman Score is: 0.97
+The Detailes are shown as followings: 
+common words: Each				periodic statement with respect to a credit card account under an open end				consumer credit plan shall be sent by the creditor to the consumer not less				than calendar days before the due date identified in such statement for the				next payment on the outstanding balance on such account and section 163a				shall be applied with respect to any such account by substituting				 
+insertion: 
+deletion: 
+change: 25 to 21 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/subsection[7]/quoted-block[1]/subsection[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[7]/quoted-block[1]/subsection[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 25 But actually it is: 21
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[3]/subsection[8]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(h)Due
+			 datesSection 127B of the Truth in Lending Act is amended by
+			 inserting after subsection (k) (as added by subsection (g)) the following new
+			 subsection:
+				
+					(l)Due datesIf the date established by a creditor as
+				the date on which a periodic payment on a credit card account under an open end
+				consumer credit plan is due is a day on which mail is either not delivered to
+				such creditor or is not accepted by the creditor for processing on such day,
+				the creditor may not treat the receipt by the creditor of any such periodic
+				payment by mail as of the next business day of the creditor as late for any
+				purpose.
+					.
+			"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Consumer choice			 with respec... But actually it is: Consumer choice with			 respec...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.57
+The Detailes are shown as followings: 
+common words: Consumer with respect to overthelimit transactions 
+insertion: 
+deletion: 
+change: choice			 to choice / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 127B of the Truth in L... But actually it is: Section 127B of the Truth in L...
+The Jaccard Index is: 0.89
+And the Smith Waterman Score is: 0.83
+The Detailes are shown as followings: 
+common words: Section 127B of the Truth in Lending Act is			 amended by inserting after subsection as added by section the			 following new subsections 
+insertion: 
+deletion: 
+change: j to l / 3g to 3h / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (k) But actually it is: (m)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Opt-out of				creditor authori... But actually it is: Opt-out of creditor				authori...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.56
+The Detailes are shown as followings: 
+common words: Optout authorization of overthelimit transactions if fees 
+insertion: 
+deletion: 
+change: of				creditor to of / are				imposed to are imposed 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: through the				notification sy... But actually it is: through the notification				sy...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: through system maintained by the creditor under paragraph 4 or 
+insertion: 
+deletion: 
+change: the				notification to the / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by submitting to				the credit... But actually it is: by submitting to the				credit...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: by submitting a signed notice of election by mail or electronic issued by the creditor for purposes of this subparagraph 
+insertion: 
+deletion: 
+change: to				the to to / creditor to the				creditor / communication				on to communication / a to on / form to a				form / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/paragraph[4]/text[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: subparagraph
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(A)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"In
+				general"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"Each creditor that maintains credit card accounts under
+				an open end consumer credit plan shall establish and maintain a notification
+				system, including a toll-free telephone number, Internet address, and website,
+				which permits any consumer whose credit card account is maintained by the
+				creditor to notify the creditor of an election under this subsection in
+				accordance with paragraph (2)."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/paragraph[4]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(B)Small
+				issuersNotwithstanding
+				subparagraph (A), any credit card issuer which issues fewer than 50,000 credit
+				cards in conjunction with credit card accounts under open end consumer credit
+				plans shall establish and maintain a notification system, which shall include a
+				toll-free telephone number, Internet address, or website, which permits any
+				consumer whose credit card account is maintained by the creditor to notify the
+				creditor of an election under this subsection in accordance with paragraph
+				(2).
+						"}
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/paragraph[5]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/paragraph[5]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in the periodic				statement r... But actually it is: on the periodic statement				r...
+The Jaccard Index is: 0.9
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: in the required under b with respect to such account at 
+insertion: 
+deletion: 
+change: periodic				statement to periodic / subsection to section / least				once each calendar year and to least once each				calendar year and 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/paragraph[5]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/paragraph[5]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in any such				periodic statem... But actually it is: on any such periodic				statem...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 0.52
+The Detailes are shown as followings: 
+common words: in any statement which includes a notice of the imposition of the period covered by the statement 
+insertion: 
+deletion: 
+change: such				periodic to such / an				overthelimit to an / fee to overthelimit / during to fee				during / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/paragraph[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/paragraph[6]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: No fees if				consumer has mad... But actually it is: No fees if consumer has				mad...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.29
+The Detailes are shown as followings: 
+common words: No fees 
+insertion: 
+deletion: 
+change: if				consumer has made an election to if consumer has				made an election 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/paragraph[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[1]/paragraph[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If a consumer has made an elec... But actually it is: If a				consumer has made an e...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.42
+The Detailes are shown as followings: 
+common words: a consumer has made an election /1 no overthelimit fee may /on the account for /that has caused the outstanding /the account to exceed 
+insertion: under any 
+deletion: If may outstanding 
+change: under				paragraph to paragraph / imposed to be				imposed / any				reason to reason / in to balance				in / the				credit limit to the credit limit 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[2]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (l) But actually it is: (n)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Over-the-limit				fee restrict... But actually it is: Over-the-limit fee				restrict...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: restrictions to fee				restrictions 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: With respect				to a credit ca... But actually it is: With respect to				a credit ca...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: With a credit card account under an open end consumer credit plan may be imposed only once during a billing cycle if on /day of /cycle the credit limit on the account is fee with respect to such excess credit may be in each of the 2 subsequent billing cycles unless the consumer has				obtained an additional extension of credit in excess of such credit limit				during any such subsequent cycle or the consumer reduces the outstanding				balance below the credit limit as of the end of such billing cycle 
+insertion: the 
+deletion: of 
+change: respect				to to respect / an				overthelimit to an / fee to overthelimit				fee / the				last to last / billing to such				billing / exceeded				and to exceeded / an to and / overthelimit to an				overthelimit / imposed				only to imposed / once to only				once / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[3]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[3]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (m) But actually it is: (o)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Over-the-limit				fees prohibi... But actually it is: Over-the-limit fees				prohibi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Overthelimit				fees prohibited in conjunction with certain credit				holds 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/quoted-block[1]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Notwithstanding subsection (l)... But actually it is: Notwithstanding subsection (n)...
+The Jaccard Index is: 0.97
+And the Smith Waterman Score is: 0.95
+The Detailes are shown as followings: 
+common words: Notwithstanding subsection an overthelimit fee may				not be imposed if the credit limit was exceeded due to a hold unless the actual				amount of the transaction for which the hold was placed would have resulted in				the consumer exceeding the credit				limit 
+insertion: 
+deletion: 
+change: l to n / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Strengthen credit			 card info... But actually it is: Strengthen credit card			 info...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: Strengthen card information collection 
+insertion: 
+deletion: 
+change: credit			 to credit / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 136(b) of the Truth in... But actually it is: Section			 136(b) of the Truth...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: Section 136b of the Truth in Lending 15 USC 1646b is amended 
+insertion: 
+deletion: 
+change: Act			 to Act / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in			 paragraph (1)— But actually it is: in paragraph (1)—
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: in			 paragraph 1 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by adding at the			 end the fo... But actually it is: by adding at the end the			 fo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.56
+The Detailes are shown as followings: 
+common words: by adding at end following new subparagraph 
+insertion: 
+deletion: 
+change: the			 to the / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[1]/subparagraph[2]/quoted-block[1]/subparagraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[1]/subparagraph[2]/quoted-block[1]/subparagraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Information to				be included But actually it is: Information to be				included
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: to				be included to to be				included 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[1]/subparagraph[2]/quoted-block[1]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[1]/subparagraph[2]/quoted-block[1]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A				list of each type of tran... But actually it is: A list of each type of				tran...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.41
+The Detailes are shown as followings: 
+common words: A				list of each type /or event during the semiannual period /1 or more /imposed a separate interest rate upon a /card /purchases cash advances and 
+insertion: list for consumer 
+deletion: type more card 
+change: transaction to of				transaction / for				which to which / has to creditors				has / consumer				credit to credit / including to accountholder				including / balance				transfers to balance transfers 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[1]/subparagraph[2]/quoted-block[1]/subparagraph[1]/clause[2]/subclause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[1]/subparagraph[2]/quoted-block[1]/subparagraph[1]/clause[2]/subclause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: each distinct				interest rate... But actually it is: each distinct interest				rate...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: each rate charged by the card issuer to a consumer credit 
+insertion: 
+deletion: 
+change: distinct				interest to distinct / card				accountholder during the semiannual period and to card accountholder during				the semiannual period and 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[1]/subparagraph[2]/quoted-block[1]/subparagraph[1]/clause[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[1]/subparagraph[2]/quoted-block[1]/subparagraph[1]/clause[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For each type of				fee identi... But actually it is: For each type of fee				identi...
+The Jaccard Index is: 0.93
+And the Smith Waterman Score is: 0.89
+The Detailes are shown as followings: 
+common words: For each type under clause iii the number of accountholders upon whom the				fee was imposed during each calendar month of the semiannual period and the				total amount of fees imposed upon cardholders during such month 
+insertion: 
+deletion: 
+change: of				fee to of / identified to fee				identified / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[1]/subparagraph[2]/quoted-block[1]/subparagraph[1]/clause[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[1]/subparagraph[2]/quoted-block[1]/subparagraph[1]/clause[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The				total number of consume... But actually it is: The total number of				consume...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.42
+The Detailes are shown as followings: 
+common words: The				total number /consumer credit card accountholders that incurred any /or /fee during the semiannual period 
+insertion: total finance 
+deletion: number or 
+change: finance				charge to charge / other to any				other / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[1]/subparagraph[2]/quoted-block[1]/subparagraph[1]/clause[10]/subclause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[1]/subparagraph[2]/quoted-block[1]/subparagraph[1]/clause[10]/subclause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: incurred a finance				charge i... But actually it is: incurred a finance charge				i...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: incurred a each month of the semiannual period on any portion of an which a finance charge had not previously been incurred and 
+insertion: 
+deletion: 
+change: finance				charge to finance / in to charge				in / outstanding				balance to outstanding / on to balance				on / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[1]/subparagraph[2]/quoted-block[1]/subparagraph[1]/clause[14]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[1]/subparagraph[2]/quoted-block[1]/subparagraph[1]/clause[14]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Any other				information relat... But actually it is: Any other information				relat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Any related to interest rates fees or other charges that the 
+insertion: 
+deletion: 
+change: other				information to other / Board				deems of interest to Board deems of				interest 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by			 adding at the end the fo... But actually it is: by adding at the end the			 fo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: by			 adding at the end following new paragraph 
+insertion: 
+deletion: 
+change: the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[1]/clause[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[1]/clause[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: interest with an				annual per... But actually it is: interest with an annual				per...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.64
+The Detailes are shown as followings: 
+common words: interest with rate of less than 25 percent and 
+insertion: 
+deletion: 
+change: an				annual to an / percentage to annual				percentage / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[1]/clause[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[1]/clause[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: interest with an				annual per... But actually it is: interest with an annual				per...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: interest with rate equal to or greater than 25 percent 
+insertion: 
+deletion: 
+change: an				annual to an / percentage to annual				percentage / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the imposition of				fees on c... But actually it is: the imposition of fees on				c...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: the imposition 
+insertion: 
+deletion: 
+change: of				fees on cardholders to of fees on				cardholders 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: the imposition of				fees on m... But actually it is: the imposition of fees on				m...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: the imposition 
+insertion: 
+deletion: 
+change: of				fees on merchants and to of fees on				merchants and 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[2]/quoted-block[1]/paragraph[1]/subparagraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: any other material				source o... But actually it is: any other material source				o...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.64
+The Detailes are shown as followings: 
+common words: any other income while specifying the nature of that				income 
+insertion: 
+deletion: 
+change: material				source to material / of to source				of / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Standards			 applicable to ini... But actually it is: Standards applicable to			 ini...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: Standards			 applicable initial issuance of subprime or 
+insertion: 
+deletion: 
+change: to to to			 / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 127B of the			 Truth i... But actually it is: Section 127B of the			 Truth i...
+The Jaccard Index is: 0.94
+And the Smith Waterman Score is: 0.92
+The Detailes are shown as followings: 
+common words: Section 127B of the			 Truth in Lending Act is amended by inserting after subsection as added by			 section 4 the following new subsection 
+insertion: 
+deletion: 
+change: m to o / 
+
+We are at location: bill[1]/legis-body[1]/section[6]/quoted-block[1]/subsection[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/quoted-block[1]/subsection[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (n) But actually it is: (p)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[6]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/quoted-block[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Standards				applicable to ini... But actually it is: Standards applicable to				ini...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.57
+The Detailes are shown as followings: 
+common words: Standards				applicable to initial issuance of subprime or 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[6]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In the case of any credit card... But actually it is: In the case of any				credit c...
+The Jaccard Index is: 0.83
+And the Smith Waterman Score is: 0.23
+The Detailes are shown as followings: 
+common words: In the case of /card account under an open /credit plan the terms of /the payment of /other /or /by the /the first year the /opened in an amount in excess of 25 percent /total amount of /under the account /no payment of any other than 
+insertion: end any than any late fee any fee for a payment returned for account credit when the account is				opened 
+deletion: of of the percent 
+change: credit to any				credit / end				consumer to consumer / require to which				require / fees to fee / than				late to any / fees to overthelimit				fee / overthelimit to insufficient / fees to funds / in to consumer				in / account				is to is / the to of				the / credit				authorized to authorized / fees to fee / late fees or				overthelimit fees may be made from the credit made available by the				card to any late fee any overthelimit fee				or any fee for a payment returned for insufficient funds may be made from the				credit made available by the card 
+
+We are at location: bill[1]/legis-body[1]/section[7]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Extensions of			 credit to und... But actually it is: Extensions of credit to			 und...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: Extensions credit underage consumers 
+insertion: 
+deletion: 
+change: of			 to of / to to to			 / 
+
+We are at location: bill[1]/legis-body[1]/section[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 127(c) of the Truth in... But actually it is: Section			 127(c) of the Truth...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.68
+The Detailes are shown as followings: 
+common words: Section 127c of the Truth in Lending 15 USC 1637c is amended by adding the end the following 
+insertion: 
+deletion: 
+change: Act			 to Act / at to at			 / new			 paragraph to new paragraph 
+
+We are at location: bill[1]/legis-body[1]/section[7]/quoted-block[1]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/quoted-block[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Extensions of				credit to und... But actually it is: Extensions of credit to				und...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.2
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of				credit to underage consumers to of credit to				underage consumers 
+
+We are at location: bill[1]/legis-body[1]/section[8]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Effective			 date But actually it is: Prohibit fees for			 payment o...
+The Jaccard Index is: 0.01
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The amendments made			 by this... But actually it is: Section 127 of the Truth in Le...
+The Jaccard Index is: 0.12
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[1]/quoted-block[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quoted-block
+ Inserted paragraph content is: {"
+					(i)Payments by
+				EFTIn the case of a credit card account under an open end
+				consumer credit plan, a creditor may not impose a fee based on the manner in
+				which payment on the account is made, including a fee for making any such
+				payment by electronic fund transfer (as defined in section
+				903).
+					."}
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Regulations But actually it is: Effective			 date
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[8]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The			 Board of Governors of t... But actually it is: The amendment made by subsecti...
+The Jaccard Index is: 0.22
+And the Smith Waterman Score is: 0.05
+The Detailes are shown as followings: 
+common words: The			 Board of Governors of the 
+insertion: amendment made by subsection a shall apply to all			 payments made 
+deletion: 
+change: Federal Reserve System in consultation with the			 Comptroller of the Currency the Director of the Office of Thrift Supervision			 the Federal Deposit Insurance Corporation the National Credit Union			 Administration Board and the Federal Trade Commission shall prescribe			 regulations in final form implementing the amendments made by this Act before			 the end of the 3month period referred to in subsection a to enactment of this Act and any fee imposed			 after such date in contravention of the amendment shall be promptly credited to			 the consumer’s account 
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[9]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"9.Report to Congress on
+			 reductions of consumer credit card limits based on certain information as to
+			 experience or transactions of the consumer
+			(a)Report on creditor
+			 practices requiredBefore the
+			 end of the 6-month period beginning on the date of the enactment of this Act,
+			 the Board of Governors of the Federal Reserve System, in consultation with the
+			 Comptroller of the Currency, the Director of the Office of Thrift Supervision,
+			 the Federal Deposit Insurance Corporation, the National Credit Union
+			 Administration Board, and the Federal Trade Commission, shall report to the
+			 Committee on Financial Services of the House of Representatives and the
+			 Committee on Banking, Housing, and Urban Affairs of the Senate on the extent to
+			 which, during the 3-year period ending on such date of enactment, creditors
+			 have reduced credit limits or raised interest rates applicable to credit card
+			 accounts under open end consumer credit plans based on—
+				(1)the geographical location
+			 where a credit transaction with the consumer takes place or the identity of the
+			 merchant involved in the transaction;
+				(2)the consumer’s credit
+			 transactions, including the type of credit transaction, the type of items
+			 purchased in such transaction, the price of items purchased in such
+			 transaction, any change in the type or price of items purchased in such
+			 transactions, and other data pertaining to the consumer’s use of such credit
+			 card account; and
+				(3)the identity of the
+			 mortgage creditor which extended or holds the mortgage loan secured by the
+			 consumer’s primary residence.
+				(b)Other
+			 informationThe report required under subsection (a) shall also
+			 include—
+				(1)the number and identity of creditors that
+			 have engaged in the practices described in subsection (a);
+				(2)the extent to which the
+			 practices described in subsection (a) have an adverse impact on minority or
+			 low-income consumers;
+				(3)any other relevant
+			 information regarding such practices; and
+				(4)recommendations to the
+			 Congress on regulatory or statutory changes that may be needed to restrict or
+			 prevent such practices.
+				"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[10]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"10.Effective date
+			(a)In
+			 generalExcept as provided in
+			 subsection (c) for the period described in such subsection, the amendments made
+			 by this Act shall apply to all credit card accounts under open end consumer
+			 credit plans after the earlier of—
+				(1)the end of the 12-month
+			 period beginning on the date of the enactment of this Act; or
+				(2)June 30, 2010.
+				(b)RegulationsExcept as provided in subsection (c) for
+			 the period described in such subsection, the Board of Governors of the Federal
+			 Reserve System, in consultation with the Comptroller of the Currency, the
+			 Director of the Office of Thrift Supervision, the Federal Deposit Insurance
+			 Corporation, the National Credit Union Administration Board, and the Federal
+			 Trade Commission, shall prescribe regulations, in final form, implementing the
+			 amendments made by this Act before the earlier of—
+				(1)the end of the 5-month period beginning on
+			 the date of the enactment of this Act; or
+				(2)June 1, 2010.
+				(c)Interim effective
+			 period for advance notices of rate increases
+				(1)In
+			 generalDuring the period
+			 beginning 90 days after the date of the enactment of this Act and ending on the
+			 effective date of all the amendments under this Act as determined pursuant to
+			 subsection (a), no increase in any annual percentage rate of interest on any
+			 credit card account under an open end consumer credit plan (as such terms are
+			 defined in the Truth in Lending Act) may take effect unless the creditor
+			 provides a written notice to the consumer at least 45 days before the increase
+			 would otherwise take effect which fully describes the changes in the annual
+			 percentage rate, in a complete and conspicuous manner, and the extent to which
+			 such increase would apply to an existing balance.
+				(2)ExceptionsA notice shall not be required under
+			 paragraph (1) for an increase in an annual percentage rate described in
+			 subparagraph (A), (B), or (C) of section 127B(b)(1) (as added by section
+			 2).
+				(3)RegulationsThe
+			 Board of Governors of the Federal Reserve System shall prescribe regulations
+			 implementing the amendment referred to in paragraph (1), for purposes of this
+			 subsection, before the end of the 60-day period beginning on the date of the
+			 enactment of this Act.
+				"}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		April 27, 2009
+		Reported with an amendment, committed to the Committee of
+		  the Whole House on the State of the Union, and ordered to be
+		  printed
+	"}
+

@@ -1,0 +1,525 @@
+===================================================
+
+total difference is: 148
+comparing document: BILLS-110hr1527ih.xml
+to document: BILLS-110hr1527rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 110 HR 1527 IH: To amend title... But actually it is: 110 HR 1527 RH: Amend the titl...
+The Jaccard Index is: 0.26
+And the Smith Waterman Score is: 0.27
+The Detailes are shown as followings: 
+common words: 110 HR 1527 
+insertion: 
+deletion: 
+change: IH To amend title 38 United States Code to allow highly to RH Amend the title so as to read 
+
+We are at location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]   Compared with location: bill[1]/metadata[1]/dublinCore[1]/date[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 2007-03-14 But actually it is: 2008-08-01
+The Jaccard Index is: 0.08
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/session[1]/text()[1]   Compared with location: bill[1]/form[1]/session[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 1st Session But actually it is: 2d Session
+The Jaccard Index is: 0.55
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 1st Session 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To amend title 38, United Stat... But actually it is: To amend title 38, United Stat...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.57
+The Detailes are shown as followings: 
+common words: To amend title 38 United States Code /allow /rural veterans enrolled in the health system of the Department / /Affairs to receive covered health services through providers /than /of the Department and for other purposes 
+insertion: to		 Veterans other		 
+deletion: allow Department than 
+change: to to  /  to highly / Veterans		 to of		 / other to  /  to those / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 530"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No.
+		  110–817]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			August 1, 2008
+			Additional sponsors: Mrs.
+			 Emerson, Mr. Hastings of
+			 Washington, Mr. Peterson of
+			 Pennsylvania, Mr.
+			 Marshall, Mr. Miller of
+			 Florida, Mr. English of
+			 Pennsylvania, Mr. Cuellar,
+			 Mr. Gillmor,
+			 Mr. Tiahrt,
+			 Mr. Peterson of Minnesota,
+			 Mr. Neugebauer,
+			 Mr. Camp of Michigan,
+			 Mr. Doolittle,
+			 Mr. LaHood,
+			 Mr. Terry,
+			 Mr. Boren,
+			 Mr. Kline of Minnesota,
+			 Mr. Hare, Mr. Salazar, Mr.
+			 Brady of Texas, Mrs. Boyda of
+			 Kansas, Mr. Walden of
+			 Oregon, Mr. Rodriguez,
+			 Mr. Michaud,
+			 Mr. Buyer,
+			 Ms. Bordallo,
+			 Mr. Young of Alaska,
+			 Mr. Simpson, and
+			 Mr. Shuster
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			August 1, 2008
+			Reported with amendments, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+			For text of introduced bill, see copy of bill as
+			 introduced on March 14, 2007
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Enhanced contract			 care auth... But actually it is: Pilot program of			 enhanced c...
+The Jaccard Index is: 0.82
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: Enhanced contract			 care authority for health care needs of veterans in rural areas 
+insertion: program of			 enhanced 
+deletion: 
+change: highly to highly			 / 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Contract care for			 highly ru... But actually it is: In			 general
+The Jaccard Index is: 0.05
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/external-xref[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: external-xref But actually it is: null
+ Deleted paragraph content is: {"Section 1703"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be:  of title 38, United States			... But actually it is: Section 1703 of title			 38, U...
+The Jaccard Index is: 0.91
+And the Smith Waterman Score is: 0.61
+The Detailes are shown as followings: 
+common words:  of 38 United Code is amended by adding at the end the following 
+insertion: 1703 
+deletion: 
+change: title to title			 / States			 to States / new subsection to new			 subsection 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A highly rural veteran				who ... But actually it is: The Secretary shall conduct a ...
+The Jaccard Index is: 0.13
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(A)who are enrolled in the system of
+				patient enrollment established under section 1705(a) of this title, and
+							"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[1]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(B)who reside within Veterans Integrated
+				Service Network 1, 15, 18, and 19,
+							"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For purposes of this subsectio... But actually it is: The election under paragraph (...
+The Jaccard Index is: 0.08
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(A)resides in a location that is—
+								(I)more than 60 miles driving distance
+				from the nearest Department health-care facility providing primary care
+				services, if the veteran is seeking such services;
+								(ii)more than 120 miles driving
+				distance from the nearest Department health-care facility providing acute
+				hospital care, if the veteran is seeking such care; or
+								(iii)more than 240 miles driving
+				distance from the nearest Department health-care facility providing tertiary
+				care, if the veteran is seeking such care; or
+								"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[2]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(B)in the case of a veteran who resides
+				in a location less than the distance indicated in clause (i), (ii), or (iii) of
+				subparagraph (A), as applicable, experiences such hardship or other
+				difficulties in travel to the nearest appropriate Department health-care
+				facility that such travel is not in the best interest of the veteran, as
+				determined by the Secretary pursuant to regulations prescribed for purposes of
+				this subsection.
+							"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For purposes of this subsectio... But actually it is: For purposes of this subsectio...
+The Jaccard Index is: 0.17
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(A)resides in a location that is—
+								(i)more than 60 miles driving distance
+				from the nearest Department health-care facility providing primary care
+				services, if the veteran is seeking such services;
+								(ii)more than 120 miles driving
+				distance from the nearest Department health-care facility providing acute
+				hospital care, if the veteran is seeking such care; or
+								(iii)more than 240 miles driving
+				distance from the nearest Department health-care facility providing tertiary
+				care, if the veteran is seeking such care; or
+								"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[3]/subparagraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subparagraph
+ Inserted paragraph content is: {"(B)in the case of a veteran who resides
+				in a location less than the distance indicated in clause (i), (ii), or (iii) of
+				subparagraph (A), as applicable, experiences such hardship or other
+				difficulties in travel to the nearest appropriate Department health-care
+				facility that such travel is not in the best interest of the veteran, as
+				determined by the Secretary pursuant to regulations prescribed for purposes of
+				this subsection.
+							"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: For purposes of this subsectio... But actually it is: For purposes of this subsectio...
+The Jaccard Index is: 0.34
+And the Smith Waterman Score is: 0.29
+The Detailes are shown as followings: 
+common words: For purposes of this subsection 
+insertion: 
+deletion: 
+change: a				healthcare provider is any qualified entity or individual furnishing a covered				health service to a covered				health service is any hospital care medical service rehabilitative service				or preventative health service authorized to be provided by the Secretary under				this chapter or any other provision of law 
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[5]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[5]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: In meeting the requirements of... But actually it is: For purposes of this subsectio...
+The Jaccard Index is: 0.15
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[5]/subparagraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(A)consult with the Secretary of Health
+				and Human Services to establish a partnership to coordinate care for rural
+				veterans conducted at critical access hospitals, community health centers, and
+				rural health clinics; and
+							"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[5]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(B)expand the use of fee-basis care
+				through which private hospitals, health-care facilities, and other third-party
+				health-care providers are
+				reimbursed.
+							"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/continuation-text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: continuation-text
+ Inserted paragraph content is: {"to
+				elect to receive covered health services for which such veterans are eligible
+				through a non-Department health-care provider."}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[6]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(6)In meeting the requirements of this
+				subsection, the Secretary shall develop the functional capability to provide
+				for the exchange of medical information between the Department and
+				non-Department health-care providers.
+						"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[7]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(7)This subsection shall apply to
+				covered health services provided during the 3-year period beginning on the
+				120th day after the date of the enactment of this subsection.
+						"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]/subsection[1]/paragraph[8]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(8)Not later than the 30th day after the
+				close of each year of the period described in paragraph (7), the Secretary
+				shall submit a report to the Committees of Veterans’ Affairs of the House of
+				Representatives and the Senate a report which includes—
+							(A)the Secretary`s assessment of the program
+				under this subsection, including its cost, volume, quality, patient
+				satisfaction, benefit to veterans, and any other findings and conclusions of
+				the Secretary with respect to such program, and
+							(B)any recommendations that the Secretary
+				may have for—
+								(i)continuing the program,
+								(ii)extending the program to other or
+				all service regions of the Department, and
+								(iii)making the program
+				permanent.
+								"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary of Veterans Affa... But actually it is: The Secretary of			 Veterans A...
+The Jaccard Index is: 0.65
+And the Smith Waterman Score is: 0.53
+The Detailes are shown as followings: 
+common words: The Secretary Veterans Affairs shall implement amendment made by subsection a not 
+insertion: 
+deletion: 
+change: of to of			 / the			 to the / later than October 1 2008 to later			 than the 120th day after the date of the enactment of this Act 
+
+We are at location: bill[1]/legis-body[1]/section[3]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 3. But actually it is: 2.
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authority of			 Department of ... But actually it is: Pilot program of			 enhanced c...
+The Jaccard Index is: 0.18
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: subsection
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(a)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {"In
+			 general"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"Section 1703 of title
+			 38, United States Code, is amended by adding at the end the following new
+			 subsection:"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[1]/quoted-block[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: quoted-block
+ Inserted paragraph content is: {"
+					(e)(1)The Secretary shall conduct a pilot program
+				which permits highly rural veterans—
+							(A)who are enrolled in the system of
+				patient enrollment established under section 1705(a) of this title, and
+							(B)who reside within Veterans Integrated
+				Service Network 1, 15, 18, and 19,
+							to
+				elect to receive covered health services for which such veterans are eligible
+				through a non-Department health-care provider.(2)The election under paragraph (1) shall be
+				made by submitting an application to the Secretary in accordance with such
+				regulations as the Secretary prescribes. The Secretary shall authorize such
+				services to be furnished to the veteran pursuant to contracting with such a
+				provider to furnish such services to such veteran.
+						(3)For purposes of this subsection, a
+				highly rural veteran is one who—
+							(A)resides in a location that is—
+								(i)more than 60 miles driving distance
+				from the nearest Department health-care facility providing primary care
+				services, if the veteran is seeking such services;
+								(ii)more than 120 miles driving
+				distance from the nearest Department health-care facility providing acute
+				hospital care, if the veteran is seeking such care; or
+								(iii)more than 240 miles driving
+				distance from the nearest Department health-care facility providing tertiary
+				care, if the veteran is seeking such care; or
+								(B)in the case of a veteran who resides
+				in a location less than the distance indicated in clause (i), (ii), or (iii) of
+				subparagraph (A), as applicable, experiences such hardship or other
+				difficulties in travel to the nearest appropriate Department health-care
+				facility that such travel is not in the best interest of the veteran, as
+				determined by the Secretary pursuant to regulations prescribed for purposes of
+				this subsection.
+							(4)For purposes of this subsection, a covered
+				health service is any hospital care, medical service, rehabilitative service,
+				or preventative health service authorized to be provided by the Secretary under
+				this chapter or any other provision of law.
+						(5)For purposes of this subsection, a
+				health-care provider is any qualified entity or individual furnishing a covered
+				health service.
+						(6)In meeting the requirements of this
+				subsection, the Secretary shall develop the functional capability to provide
+				for the exchange of medical information between the Department and
+				non-Department health-care providers.
+						(7)This subsection shall apply to
+				covered health services provided during the 3-year period beginning on the
+				120th day after the date of the enactment of this subsection.
+						(8)Not later than the 30th day after the
+				close of each year of the period described in paragraph (7), the Secretary
+				shall submit a report to the Committees of Veterans’ Affairs of the House of
+				Representatives and the Senate a report which includes—
+							(A)the Secretary`s assessment of the program
+				under this subsection, including its cost, volume, quality, patient
+				satisfaction, benefit to veterans, and any other findings and conclusions of
+				the Secretary with respect to such program, and
+							(B)any recommendations that the Secretary
+				may have for—
+								(i)continuing the program,
+								(ii)extending the program to other or
+				all service regions of the Department, and
+								(iii)making the program
+				permanent.
+								."}
+
+We are at location: bill[1]/legis-body[1]/section[3]/quoted-block[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]
+The reason of change is: element tag name
+The value is expected to be: quoted-block But actually it is: subsection
+
+We are at location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/enum[1]
+The reason of change is: element tag name
+The value is expected to be: subsection But actually it is: enum
+
+We are at location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/enum[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/enum[1]/text()[1]
+The reason of change is: node type
+The value is expected to be: 1 But actually it is: 3
+
+We are at location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/enum[1]/text()[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: #text But actually it is: null
+ Deleted paragraph content is: {(f)}
+
+We are at location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/text[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: text But actually it is: null
+ Deleted paragraph content is: {"Subject to section
+				1722A of this title, the Secretary shall furnish to a highly rural veteran, as
+				described in section 1703(e)(2) of this title, such drugs and medicines as may
+				be ordered on prescription of a duly licensed physician in the treatment of any
+				illness or injury of the veteran. Such drugs and medicines shall be furnished
+				in the same manner and subject to the same conditions as apply to a
+				prescription written by a Department
+				physician."}
+
+We are at location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/after-quoted-block[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]
+The reason of change is: element tag name
+The value is expected to be: after-quoted-block But actually it is: header
+
+We are at location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/after-quoted-block[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: . But actually it is: Effective			 date
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[2]/subsection[2]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"The Secretary of
+			 Veterans Affairs shall implement the amendment made by subsection (a) not later
+			 than the 120th day after the date of the enactment of this Act."}
+
+We are at location: null   Compared with location: bill[1]/official-title-amendment[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: official-title-amendment
+ Inserted paragraph content is: {"Amend the title so as to read:
+	 A bill to amend title 38, United States Code, to direct the Secretary of
+	 Veterans Affairs to conduct a pilot program to permit certain highly rural
+	 veterans enrolled in the health system of the Department of Veterans Affairs to
+	 receive covered health services through providers other than those of the
+	 Department.."}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		August 1, 2008
+		Reported with amendments, committed to the Committee of the
+		  Whole House on the State of the Union, and ordered to be printed
+	"}
+

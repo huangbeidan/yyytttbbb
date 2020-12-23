@@ -1,0 +1,1082 @@
+===================================================
+
+total difference is: 271
+comparing document: BILLS-111hr5072ih.xml
+to document: BILLS-111hr5072rh.xml
+
+===================================================
+We are at location: bill[1]/@bill-stage   Compared with location: bill[1]/@bill-stage
+The reason of change is: attribute value
+The value is expected to be: Introduced-in-House But actually it is: Reported-in-House
+
+We are at location: bill[1]/form[1]/distribution-code[1]/text()[1]   Compared with location: bill[1]/form[1]/distribution-code[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: I But actually it is: IB
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/form[1]/current-chamber[1]/text()[1]   Compared with location: bill[1]/form[1]/current-chamber[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: IN THE HOUSE OF REPRESENTATIVE... But actually it is: IN THE HOUSE OF		  REPRESENTAT...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: IN THE HOUSE 
+insertion: 
+deletion: 
+change: OF REPRESENTATIVES to OF		  REPRESENTATIVES 
+
+We are at location: bill[1]/form[1]/official-title[1]/text()[1]   Compared with location: bill[1]/form[1]/official-title[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: To improve the financial safet... But actually it is: To improve the financial safet...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: To improve the financial safety /soundness of the /mortgage insurance program 
+insertion: and		 
+deletion: the 
+change: and to  /  to FHA / 
+
+We are at location: null   Compared with location: bill[1]/form[1]/official-title[1]/pagebreak[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: pagebreak
+ Inserted paragraph content is: {}
+
+We are at location: null   Compared with location: bill[1]/form[1]/calendar[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: calendar
+ Inserted paragraph content is: {"Union Calendar No. 270"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/associated-doc[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: associated-doc
+ Inserted paragraph content is: {"[Report No.
+		  111–476]"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			May 6, 2010
+			Additional sponsors: Mr.
+			 Lynch and Mr.
+			 Sherman
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[3]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			May 6, 2010
+			Reported with an amendment, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed
+			Strike out all after the enacting clause and insert
+			 the part printed in italic
+			For text of introduced bill, see copy of bill as
+			 introduced on April 20, 2010
+		"}
+
+We are at location: null   Compared with location: bill[1]/form[1]/action[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: action
+ Inserted paragraph content is: {"
+			
+		"}
+
+We are at location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Mortgage			 insurance premiums But actually it is: Mortgage insurance			 premiums
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: Mortgage			 insurance premiums 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Subparagraph (B) of section 20... But actually it is: Subparagraph (B) of			 section...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Subparagraph B section 203c2 of National Housing Act 12 USC 1709c2B 
+insertion: 
+deletion: 
+change: of to of			 / the			 to the / is amended to is			 amended 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in the matter			 preceding cla... But actually it is: in the matter preceding			 cla...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: in the 
+insertion: 
+deletion: 
+change: matter			 preceding clause i to matter preceding			 clause i 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/subparagraph[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/subparagraph[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: 0.50 percent But actually it is: 0.50			 percent
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 050 percent 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[2]/paragraph[1]/subparagraph[2]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[2]/paragraph[1]/subparagraph[2]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be: ;			 and But actually it is: ; and
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 			 and 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Indemnification			 by mortgage... But actually it is: Indemnification by			 mortgage...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: Indemnification			 by mortgagees 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 202 of			 the National... But actually it is: Section 202 of the			 National...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.81
+The Detailes are shown as followings: 
+common words: Section 202 National Housing Act 12 USC 1708 is amended by adding at the end the			 following new subsection 
+insertion: 
+deletion: 
+change: of			 to of / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[3]/quoted-block[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Indemnification				by mortgage... But actually it is: Indemnification by				mortgage...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: mortgagees to by				mortgagees 
+
+We are at location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Delegation of			 insuring auth... But actually it is: Delegation of insuring			 auth...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of			 insuring authority to of insuring			 authority 
+
+We are at location: bill[1]/legis-body[1]/section[4]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 256			 of the National... But actually it is: Section 256 of the			 National...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: Section of National Housing Act 12 USC 1715z21 is amended 
+insertion: 
+deletion: 
+change: 256			 to 256 / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[4]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by striking			 subsection (c); But actually it is: by striking subsection			 (c);
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: striking			 subsection c to striking subsection			 c 
+
+We are at location: bill[1]/legis-body[1]/section[4]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subsection (e),			 by strik... But actually it is: in subsection (e), by			 strik...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: in subsection 
+insertion: 
+deletion: 
+change: e			 by striking to e by			 striking 
+
+We are at location: bill[1]/legis-body[1]/section[4]/paragraph[2]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[4]/paragraph[2]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: by			 the mortgagee But actually it is: by the			 mortgagee
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: by			 the mortgagee 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[5]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Authority to			 terminate mort... But actually it is: Authority to terminate			 mort...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: Authority terminate mortgagee origination and underwriting approval 
+insertion: 
+deletion: 
+change: to			 to to / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in the first			 sentence of su... But actually it is: in the first sentence of			 su...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.56
+The Detailes are shown as followings: 
+common words: in the sentence subsection b by inserting 
+insertion: 
+deletion: 
+change: first			 to first / of to of			 / 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: or areas or on a nationwide			... But actually it is: or areas or on a nationwide ba...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words: or areas or on a 
+insertion: 
+deletion: 
+change: nationwide			 basis to nationwide basis 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[1]/text[1]/text()[3]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[1]/text[1]/text()[3]
+The reason of change is: content change
+The value is expected to be:  each place such term appears;... But actually it is:  each place such term appears;...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.71
+The Detailes are shown as followings: 
+common words:  each place such term 
+insertion: 
+deletion: 
+change: appears			 and to appears and 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subsection (c),			 by strik... But actually it is: in subsection (c), by			 strik...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: in subsection 
+insertion: 
+deletion: 
+change: c			 by striking to c by			 striking 
+
+We are at location: bill[1]/legis-body[1]/section[5]/paragraph[2]/text[1]/quote[2]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[5]/paragraph[2]/text[1]/quote[2]/text()[1]
+The reason of change is: content change
+The value is expected to be: The			 Secretary  But actually it is: The Secretary			 
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: Secretary to Secretary			 
+
+We are at location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[6]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by adding at the			 end the fo... But actually it is: by adding at the end the			 fo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.56
+The Detailes are shown as followings: 
+common words: by adding at end following new paragraph 
+insertion: 
+deletion: 
+change: the			 to the / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[7]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Use of outside			 credit risk ... But actually it is: Use of outside credit			 risk ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.43
+The Detailes are shown as followings: 
+common words: Use of risk analysis sources 
+insertion: 
+deletion: 
+change: outside			 to outside / credit to credit			 / 
+
+We are at location: bill[1]/legis-body[1]/section[7]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 202 of the National Ho... But actually it is: Section			 202 of the National...
+The Jaccard Index is: 0.71
+And the Smith Waterman Score is: 0.49
+The Detailes are shown as followings: 
+common words: Section 202 of the National Housing Act USC 1708 /is /amended by adding at the end the 
+insertion: as amended by the preceding			 provisions of this Act further 
+deletion: 
+change: 12			 to 12 / following new			 subsection to following			 new subsection 
+
+We are at location: bill[1]/legis-body[1]/section[7]/quoted-block[1]/subsection[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/quoted-block[1]/subsection[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (i) But actually it is: (j)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[7]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/quoted-block[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Use of outside				credit risk ... But actually it is: Use of outside credit				risk ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: Use of 
+insertion: 
+deletion: 
+change: outside				credit risk analysis sources to outside credit				risk analysis sources 
+
+We are at location: bill[1]/legis-body[1]/section[7]/quoted-block[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/quoted-block[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary may obtain the s... But actually it is: The				Secretary may obtain th...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.42
+The Detailes are shown as followings: 
+common words: Secretary may obtain the services /enter into contracts with /other entities outside of 
+insertion: of 
+deletion: The with 
+change: of				and to and / and to private				and / the				Department in to the Department in 
+
+We are at location: bill[1]/legis-body[1]/section[7]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: analyzing credit				risk model... But actually it is: analyzing credit risk				model...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: analyzing models and practices employed by the Department in connection with such				mortgages 
+insertion: 
+deletion: 
+change: credit				risk to credit / 
+
+We are at location: bill[1]/legis-body[1]/section[7]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/quoted-block[1]/subsection[1]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: evaluating				underwriting sta... But actually it is: evaluating underwriting				sta...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: evaluating				underwriting standards applicable to such mortgages insured by the 
+insertion: 
+deletion: 
+change: Department				and to Department and 
+
+We are at location: bill[1]/legis-body[1]/section[7]/quoted-block[1]/subsection[1]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[7]/quoted-block[1]/subsection[1]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: analyzing the				performance o... But actually it is: analyzing the performance				o...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.77
+The Detailes are shown as followings: 
+common words: analyzing of lenders in complying with and the Department in enforcing such				underwriting				standards 
+insertion: 
+deletion: 
+change: the				performance to the / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subsection (a),			 by inser... But actually it is: in subsection (a), by			 inser...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.69
+The Detailes are shown as followings: 
+common words: in subsection inserting after the period at the end the following 
+insertion: 
+deletion: 
+change: a			 to a / by to by			 / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subsection (b),			 by inser... But actually it is: in subsection (b), by			 inser...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.76
+The Detailes are shown as followings: 
+common words: in subsection inserting after the period at the end of the first sentence the following			 
+insertion: 
+deletion: 
+change: b			 to b / by to by			 / 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary shall also ident... But actually it is: The Secretary shall also ident...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: The Secretary shall also identify which mortgagees have had a			 significant or rapid increase as determined by the Secretary in the number or			 percentage of early defaults and claims on such mortgages with respect to all			 mortgages originated by the mortgagee or mortgages on housing located in any			 particular geographic area or areas 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[8]/paragraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[8]/paragraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by adding at the			 end the fo... But actually it is: by adding at the end the			 fo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.56
+The Detailes are shown as followings: 
+common words: by adding at end following new subsections 
+insertion: 
+deletion: 
+change: the			 to the / the to the			 / 
+
+We are at location: bill[1]/legis-body[1]/section[9]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Use by			 mortgagees, officers... But actually it is: Use by mortgagees,			 officers...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.7
+The Detailes are shown as followings: 
+common words: Use mortgagees officers and owners use for insured mortgages 
+insertion: 
+deletion: 
+change: by			 to by / 
+
+We are at location: bill[1]/legis-body[1]/section[9]/subsection[1]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/subsection[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Mortgagees,			 officers, and o... But actually it is: Mortgagees, officers,			 and o...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: Mortgagees			 officers and owners 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[9]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section			 202 of the National... But actually it is: Section 202 of the			 National...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.68
+The Detailes are shown as followings: 
+common words: Section			 202 of National Housing Act 12 USC 1708 as amended by the of this Act is further amended by adding at the end the 
+insertion: 
+deletion: 
+change: the to the			 / preceding			 to preceding / provisions to provisions			 / following			 new subsections to following new			 subsections 
+
+We are at location: bill[1]/legis-body[1]/section[9]/subsection[1]/paragraph[1]/quoted-block[1]/subsection[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/subsection[1]/paragraph[1]/quoted-block[1]/subsection[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (j) But actually it is: (k)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[9]/subsection[1]/paragraph[1]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/subsection[1]/paragraph[1]/quoted-block[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Use of				nationwide mortgage ... But actually it is: Use of nationwide				mortgage ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: Use mortgage licensing system and registry for mortgagees officers and				owners 
+insertion: 
+deletion: 
+change: of				nationwide to of / 
+
+We are at location: bill[1]/legis-body[1]/section[9]/subsection[1]/paragraph[1]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/subsection[1]/paragraph[1]/quoted-block[1]/subsection[1]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: obtain and				maintain a uniqu... But actually it is: obtain and maintain a				uniqu...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.43
+The Detailes are shown as followings: 
+common words: obtain a unique company identifier assigned by the Nationwide Registry as established by the Conference of State American Association of Residential Mortgage 
+insertion: 
+deletion: 
+change: and				maintain to and / Mortgage				Licensing to Mortgage / System to Licensing / and to System				and / Bank				Supervisors to Bank / and to Supervisors / the to and				the / Regulators				and to Regulators and 
+
+We are at location: bill[1]/legis-body[1]/section[9]/subsection[1]/paragraph[2]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/subsection[1]/paragraph[2]/quoted-block[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Use of				nationwide mortgage ... But actually it is: Use of nationwide				mortgage ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.56
+The Detailes are shown as followings: 
+common words: Use mortgage licensing system and registry for 
+insertion: 
+deletion: 
+change: of				nationwide to of / insured				loans to insured loans 
+
+We are at location: bill[1]/legis-body[1]/section[9]/subsection[1]/paragraph[2]/quoted-block[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/subsection[1]/paragraph[2]/quoted-block[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The Secretary may				require e... But actually it is: The Secretary may require each...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.36
+The Detailes are shown as followings: 
+common words: The Secretary /each /insured under this section to include the /as such term /in section 1503 of the SAFE /act of 2008 /5102 and any unique company /by the /Licensing System and Registry /by the Conference /Bank Supervisors and the /of Residential Mortgage				Regulators 
+insertion: may unique Mortgage identifier as American 
+deletion: each term 2008 the Conference 
+change: may				require to require / unique				identifier to identifier / defined to is				defined / Mortgage				Licensing to Licensing / USC to 12				USC / identifier				assigned to assigned / Mortgage to Nationwide				Mortgage / as				established to established / State to of				State / American				Association to Association / 
+
+We are at location: bill[1]/legis-body[1]/section[9]/subsection[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Coordination			 with State reg... But actually it is: Coordination with State			 reg...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.4
+The Detailes are shown as followings: 
+common words: Coordination			 with regulatory agencies 
+insertion: 
+deletion: 
+change: State to State			 / 
+
+We are at location: bill[1]/legis-body[1]/section[9]/subsection[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Section 202 of the National			... But actually it is: Section 202 of the National Ho...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.68
+The Detailes are shown as followings: 
+common words: Section 202 of the Housing Act USC 1708 as amended by the preceding provisions of Act is amended by adding at the end the following 
+insertion: 
+deletion: 
+change: National			 to National / 12 to 12			 / this			 to this / further to further			 / new			 subsection to new subsection 
+
+We are at location: bill[1]/legis-body[1]/section[9]/subsection[2]/quoted-block[1]/subsection[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/subsection[2]/quoted-block[1]/subsection[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (k) But actually it is: (l)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[9]/subsection[2]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/subsection[2]/quoted-block[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Information				sharing with St... But actually it is: Information sharing				with St...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.6
+The Detailes are shown as followings: 
+common words: Information				sharing with State regulatory agencies 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[9]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[9]/subsection[2]/quoted-block[1]/subsection[1]/paragraph[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Joint protocol				on informati... But actually it is: Joint protocol on				informati...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.25
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: protocol				on information sharing to protocol on				information sharing 
+
+We are at location: bill[1]/legis-body[1]/section[10]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Reporting of			 mortgagee acti... But actually it is: Reporting of mortgagee			 acti...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.63
+The Detailes are shown as followings: 
+common words: Reporting mortgagee actions taken against other mortgagees 
+insertion: 
+deletion: 
+change: of			 to of / 
+
+We are at location: bill[1]/legis-body[1]/section[10]/quoted-block[1]/subsection[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[10]/quoted-block[1]/subsection[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (k) But actually it is: (m)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[11]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[11]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Annual actuarial			 study and ... But actually it is: Annual actuarial study			 and ...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.73
+The Detailes are shown as followings: 
+common words: Annual study and quarterly reports on Mutual Mortgage Insurance Fund 
+insertion: 
+deletion: 
+change: actuarial			 to actuarial / 
+
+We are at location: bill[1]/legis-body[1]/section[11]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[11]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in the second			 sentence of p... But actually it is: in the second sentence of			 p...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.65
+The Detailes are shown as followings: 
+common words: in the sentence paragraph 4 by inserting before the period at the end 
+insertion: 
+deletion: 
+change: second			 to second / of to of			 / the			 following to the following			 
+
+We are at location: bill[1]/legis-body[1]/section[11]/paragraph[1]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[11]/paragraph[1]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: , any changes to the current o... But actually it is: , any changes to the current o...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.74
+The Detailes are shown as followings: 
+common words:  any changes to the current or projected safety soundness of Fund since the most recent report under this paragraph paragraph 5 any risks to the Fund 
+insertion: 
+deletion: 
+change: and			 to and / the to the			 / or			 to or / and to and			 / 
+
+We are at location: bill[1]/legis-body[1]/section[11]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[11]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in paragraph			 (5)— But actually it is: in paragraph (5)—
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: paragraph			 5 to paragraph 5 
+
+We are at location: bill[1]/legis-body[1]/section[11]/paragraph[2]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[11]/paragraph[2]/subparagraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subparagraph			 (D), by str... But actually it is: in subparagraph (D), by			 str...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.2
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: subparagraph			 D by striking to subparagraph D by			 striking 
+
+We are at location: bill[1]/legis-body[1]/section[11]/paragraph[2]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[11]/paragraph[2]/subparagraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: in subparagraph			 (E), by str... But actually it is: in subparagraph (E), by			 str...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.67
+The Detailes are shown as followings: 
+common words: in E striking the period at the end and inserting 
+insertion: 
+deletion: 
+change: subparagraph			 to subparagraph / by to by			 / 
+
+We are at location: bill[1]/legis-body[1]/section[11]/paragraph[2]/subparagraph[2]/text[1]/quote[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[11]/paragraph[2]/subparagraph[2]/text[1]/quote[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: ;			 and But actually it is: ; and
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.5
+The Detailes are shown as followings: 
+common words: 			 and 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[11]/paragraph[2]/subparagraph[3]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[11]/paragraph[2]/subparagraph[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: by adding at the			 end the fo... But actually it is: by adding at the end the			 fo...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.43
+The Detailes are shown as followings: 
+common words: by adding at 
+insertion: 
+deletion: 
+change: the			 end the following to the end the			 following 
+
+We are at location: bill[1]/legis-body[1]/section[11]/paragraph[2]/subparagraph[3]/quoted-block[1]/quoted-block-continuation-text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[11]/paragraph[2]/subparagraph[3]/quoted-block[1]/quoted-block-continuation-text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: The				Secretary may include i... But actually it is: The				Secretary may include i...
+The Jaccard Index is: 0.99
+And the Smith Waterman Score is: 1.0
+The Detailes are shown as followings: 
+common words: The				Secretary may include in the report under this paragraph any recommendations				not made in the most recent report under paragraph 4 that may be needed to				ensure that the Fund remains financially				sound 
+insertion: 
+deletion: 
+change: 
+
+We are at location: bill[1]/legis-body[1]/section[12]/quoted-block[1]/subsection[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[12]/quoted-block[1]/subsection[1]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Review of				downpayment requi... But actually it is: Review of downpayment				requi...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.33
+The Detailes are shown as followings: 
+common words: 
+insertion: 
+deletion: 
+change: of				downpayment requirements to of downpayment				requirements 
+
+We are at location: bill[1]/legis-body[1]/section[12]/quoted-block[1]/subsection[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[12]/quoted-block[1]/subsection[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: If,				at any time when the ca... But actually it is: If, at any time				when the ca...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.68
+The Detailes are shown as followings: 
+common words: If				at any /when the capital ratio as such term is defined in subsection Mortgage Insurance Fund does not comply with the f1 the Secretary establishes a cash mortgages or mortgagors or with respect to any group that exceeds the minimum percentage or amount 203b9 thereafter upon the capital ratio first complying under subsection f1 the Secretary shall review such cash				investment requirement and if the Secretary determines that such percentage or				amount may be reduced while maintaining such compliance the Secretary shall				subsequently reduce such requirement by such percentage or amount as the				Secretary considers				appropriate 
+insertion: at 
+deletion: any 
+change: f				of to f / the to of / Mutual to the				Mutual / requirement				under to requirement / subsection to under				subsection / investment				requirement to investment / for to requirement / all to for				all / of				mortgages to of / or to mortgages / mortgagors to or				mortgagors / required				under to required / section to under				section / with				the to with / requirement to the				requirement / 
+
+We are at location: bill[1]/legis-body[1]/section[13]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[13]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Default and			 origination inf... But actually it is: Default and origination			 inf...
+The Jaccard Index is: 1.0
+And the Smith Waterman Score is: 0.58
+The Detailes are shown as followings: 
+common words: Default origination information by loan servicer and originating direct 
+insertion: 
+deletion: 
+change: and			 to and / endorsement			 lender to endorsement lender 
+
+We are at location: bill[1]/legis-body[1]/section[14]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[14]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: GAO reports on			 FHA and Ginn... But actually it is: Third party servicer			 outrea...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[14]/text[1]   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[1]
+The reason of change is: element tag name
+The value is expected to be: text But actually it is: subsection
+
+We are at location: bill[1]/legis-body[1]/section[14]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[1]/enum[1]
+The reason of change is: node type
+The value is expected to be: 3 But actually it is: 1
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[1]/enum[1]/text()[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: #text
+ Inserted paragraph content is: {(a)}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[1]/header[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: header
+ Inserted paragraph content is: {Authority}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[1]/text[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: text
+ Inserted paragraph content is: {"The Secretary of Housing and Urban
+			 Development may, to the extent any amounts for fiscal year 2010 or 2011 are
+			 made available in advance in appropriation Acts for reimbursements under this
+			 section, provide reimbursement to servicers of covered mortgages (as such term
+			 is defined in subsection (e)) for costs of obtaining the services of
+			 independent third parties meeting the requirements under subsection (b) of this
+			 section to make in-person contact with mortgagors under covered mortgages whose
+			 payments under such mortgages are 60 or more days past due, solely for the
+			 purposes of providing information to such mortgagors regarding—"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[1]/paragraph[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(1)available counseling by
+			 housing counseling agencies approved by the Secretary ; and
+				"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[1]/paragraph[2]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: paragraph
+ Inserted paragraph content is: {"(2)available mortgage loan
+			 modification, refinance, and assistance programs.
+				"}
+
+We are at location: bill[1]/legis-body[1]/section[14]/paragraph[1]   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[2]
+The reason of change is: element tag name
+The value is expected to be: paragraph But actually it is: subsection
+
+We are at location: bill[1]/legis-body[1]/section[14]/paragraph[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (1) But actually it is: (b)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[14]/paragraph[1]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[2]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: FHA			 report But actually it is: Qualified independent			 third...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[14]/paragraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A report on the single family ... But actually it is: An independent third party mee...
+The Jaccard Index is: 0.09
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[14]/paragraph[1]/subparagraph[1]   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[2]/paragraph[1]
+The reason of change is: element tag name
+The value is expected to be: subparagraph But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[14]/paragraph[1]/subparagraph[1]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[2]/paragraph[1]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (A) But actually it is: (1)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[14]/paragraph[1]/subparagraph[1]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[2]/paragraph[1]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: analyzes such Fund, the econom... But actually it is: is an entity, including a			 h...
+The Jaccard Index is: 0.16
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[14]/paragraph[1]/subparagraph[2]   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[2]/paragraph[2]
+The reason of change is: element tag name
+The value is expected to be: subparagraph But actually it is: paragraph
+
+We are at location: bill[1]/legis-body[1]/section[14]/paragraph[1]/subparagraph[2]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[2]/paragraph[2]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (B) But actually it is: (2)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[14]/paragraph[1]/subparagraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[2]/paragraph[2]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: analyzes the			 methodology of... But actually it is: does not charge any fees			 or...
+The Jaccard Index is: 0.13
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[14]/paragraph[1]/subparagraph[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(C)analyzes the effects of the increases in
+			 the limits on the maximum principal obligation of mortgages made by the FHA
+			 Modernization Act of 2008 (title I of division B of Public Law 110–289),
+			 section 202 of the Economic Stimulus Act of 2008 (Public Law 110–185; 122 Stat.
+			 620), section 1202 of division A of the American Recovery and Reinvestment Act
+			 of 2009 (Public Law 111–5; 123 Stat. 225), and section 166 of the Continuing
+			 Appropriations Resolution, 2010 (as added by section 104 of division B of
+			 Public Law 111–88; 123 Stat. 29723) on—
+					(i)the
+			 risks to and safety and soundness of the Fund;
+					(ii)the
+			 impact on the affordability and availability of mortgage credit for borrowers
+			 for loans authorized under such higher loan limits;
+					(iii)the private
+			 market for residential mortgage loans that are not insured by the Secretary of
+			 Housing and Urban Development; and
+					(iv)the
+			 Federal National Mortgage Association and the Federal Home Loan Mortgage
+			 Corporation; and
+					"}
+
+We are at location: bill[1]/legis-body[1]/section[14]/paragraph[1]/subparagraph[4]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(D)analyzes the impact on affordability to FHA
+			 borrowers, and the impact to the Fund, of seller concessions or contributions
+			 to a borrower purchasing a residence using a mortgage that is insured by the
+			 Secretary.
+				"}
+
+We are at location: bill[1]/legis-body[1]/section[14]/paragraph[2]   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[3]
+The reason of change is: element tag name
+The value is expected to be: paragraph But actually it is: subsection
+
+We are at location: bill[1]/legis-body[1]/section[14]/paragraph[2]/enum[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[3]/enum[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: (2) But actually it is: (c)
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[14]/paragraph[2]/header[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[3]/header[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: Ginnie			 Mae But actually it is: Treatment of personal,			 non-...
+The Jaccard Index is:  
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[14]/paragraph[2]/text[1]/text()[1]   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[3]/text[1]/text()[1]
+The reason of change is: content change
+The value is expected to be: A report on the Government Nat... But actually it is: An independent third party who...
+The Jaccard Index is: 0.08
+And the Smith Waterman Score is:  
+The Detailes are shown as followings: 
+Similarity score is too low here. It's probably because of a position shift
+
+We are at location: bill[1]/legis-body[1]/section[14]/paragraph[2]/subparagraph[1]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(A)the volume and share of the residential
+			 mortgage market that consists of mortgages that back securities for which the
+			 payment for principal and interest is guaranteed by such Association and how
+			 the Association has been affected by the economic recession, credit crisis, and
+			 downturn in the housing markets occurring during 2008, 2009, and 2010;
+				"}
+
+We are at location: bill[1]/legis-body[1]/section[14]/paragraph[2]/subparagraph[2]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(B)the capacity of
+			 the Association to manage the volume of business it conducts and securities it
+			 guarantees, particularly with regard to the recent dramatic increase in such
+			 volume, including the ability of the Association to conduct appropriate
+			 oversight of contractors and issuers of securities for which the payment of
+			 principal and interest is guaranteed by the Association and to determine
+			 whether the characteristics of various mortgage products constitute appropriate
+			 collateral for the federally guaranteed securities for which payment of
+			 principal and interest is guaranteed by such Association;
+				"}
+
+We are at location: bill[1]/legis-body[1]/section[14]/paragraph[2]/subparagraph[3]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(C)the impacts, if
+			 any, resulting from such increased volume of business conducted by the
+			 Association and securities it guarantees and the challenges such increased
+			 volume poses to the internal controls of the Association; and
+				"}
+
+We are at location: bill[1]/legis-body[1]/section[14]/paragraph[2]/subparagraph[4]   Compared with location: null
+The reason of change is: deletion
+The value is expected to be: subparagraph But actually it is: null
+ Deleted paragraph content is: {"(D)the existing capital net worth of the
+			 various aggregators of mortgages that issue securities that are based on or
+			 backed by such mortgages and payment of principal and interest on which is
+			 guaranteed by such Association and recommends an appropriate required level of
+			 net worth for such aggregators and issuers to protect the financial interests
+			 of the Federal Government and the taxpayers.
+				"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[4]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(d)Date of contact and
+			 disclosuresEach independent third party whose services are
+			 obtained by a mortgage servicer using amounts made available for use under this
+			 section shall—
+				(1)initiate in-person contact with a mortgagor
+			 not later than 10 days after the date upon which payments under the covered
+			 mortgage of the mortgagor become 60 days past due; and
+				(2)upon making in-person
+			 contact with a mortgagor, provide the mortgagor with a written document that
+			 discloses—
+					(A)the name of, and contact
+			 information for, the independent third party and the mortgage servicer;
+					(B)that the independent
+			 third party has contracted with the mortgage servicer to provide the in-person
+			 contact at no charge to the mortgagor;
+					(C)that the independent
+			 third party is an agent of the mortgage servicer;
+					(D)that the in-person contact with the
+			 mortgagor consists of providing information about available counseling by a
+			 housing counseling agency approved by the Secretary and available mortgage loan
+			 modification, refinance, and assistance programs;
+					(E)that the independent third party and the
+			 mortgage servicer are prohibited from the use, disclosure, or distribution of
+			 personal, non-public, and confidential information about the mortgagor,
+			 obtained during the in-person contact, except for purposes of engaging in the
+			 process of modification or refinance of the covered mortgage;
+					(F)any other information
+			 that the Secretary determines should be disclosed.
+					"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[14]/subsection[5]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: subsection
+ Inserted paragraph content is: {"(e)Definition of covered
+			 mortgageFor purposes of this
+			 section, the term covered mortgage means a mortgage on a 1- to
+			 4-family residence insured under the provisions of subsection (b) or (k) of
+			 section 203, section 234(c), or 251 of the National Housing Act (12 U.S.C.
+			 1709, 1715y, 1715z–16).
+			"}
+
+We are at location: null   Compared with location: bill[1]/legis-body[1]/section[15]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: section
+ Inserted paragraph content is: {"15.GAO reports on FHA and
+			 Ginnie MaeNot later than the
+			 expiration of the 12-month period beginning on the date of the enactment of
+			 this Act, the Comptroller General of the United States shall submit to the
+			 Congress the following reports:
+			(1)FHA
+			 reportA report on the single family mortgage insurance programs
+			 of the Secretary of Housing and Urban Development and the Mutual Mortgage
+			 Insurance Fund established under section 202(a) of the National Housing Act (12
+			 U.S.C. 1708(a)) that—
+				(A)analyzes such Fund, the economic net worth,
+			 capital ratio, and unamortized insurance-in-force (as such terms are defined in
+			 section 205(f)(4) of such Act (12 U.S.C. 1711(f)(4))) of such Fund, the risks
+			 to the Fund, how the capital ratio of the Fund affects the mortgage insurance
+			 programs under the Fund and the broader housing market, the extent to which the
+			 housing markets are more dependent on mortgage insurance provided through the
+			 Fund since the financial crisis began in 2008, and the exposure of the
+			 taxpayers for obligations of the Fund;
+				(B)analyzes the methodology
+			 of the capital ratio for the Fund under section 205(f) of such Act and examines
+			 other alternative methodologies with respect to which methodology is most
+			 appropriate to meet the operational goals of the Fund under section
+			 202(a)(7);
+				(C)analyzes the effects of the increases in
+			 the limits on the maximum principal obligation of mortgages made by the FHA
+			 Modernization Act of 2008 (title I of division B of Public Law 110–289),
+			 section 202 of the Economic Stimulus Act of 2008 (Public Law 110–185; 122 Stat.
+			 620), section 1202 of division A of the American Recovery and Reinvestment Act
+			 of 2009 (Public Law 111–5; 123 Stat. 225), and section 166 of the Continuing
+			 Appropriations Resolution, 2010 (as added by section 104 of division B of
+			 Public Law 111–88; 123 Stat. 29723) on—
+					(i)the risks to and safety
+			 and soundness of the Fund;
+					(ii)the impact on the
+			 affordability and availability of mortgage credit for borrowers for loans
+			 authorized under such higher loan limits;
+					(iii)the private market for
+			 residential mortgage loans that are not insured by the Secretary of Housing and
+			 Urban Development; and
+					(iv)the Federal National
+			 Mortgage Association and the Federal Home Loan Mortgage Corporation; and
+					(D)analyzes the impact on affordability to FHA
+			 borrowers, and the impact to the Fund, of seller concessions or contributions
+			 to a borrower purchasing a residence using a mortgage that is insured by the
+			 Secretary.
+				(2)Ginnie
+			 MaeA report on the Government National Mortgage Association that
+			 identifies—
+				(A)the volume and share of the residential
+			 mortgage market that consists of mortgages that back securities for which the
+			 payment for principal and interest is guaranteed by such Association and how
+			 the Association has been affected by the economic recession, credit crisis, and
+			 downturn in the housing markets occurring during 2008, 2009, and 2010;
+				(B)the capacity of the
+			 Association to manage the volume of business it conducts and securities it
+			 guarantees, particularly with regard to the recent dramatic increase in such
+			 volume, including the ability of the Association to conduct appropriate
+			 oversight of contractors and issuers of securities for which the payment of
+			 principal and interest is guaranteed by the Association and to determine
+			 whether the characteristics of various mortgage products constitute appropriate
+			 collateral for the federally guaranteed securities for which payment of
+			 principal and interest is guaranteed by such Association;
+				(C)the impacts, if any,
+			 resulting from such increased volume of business conducted by the Association
+			 and securities it guarantees and the challenges such increased volume poses to
+			 the internal controls of the Association; and
+				(D)the existing capital net worth requirements
+			 for aggregators of mortgages that issue securities that are based on or backed
+			 by such mortgages and payment of principal and interest on which is guaranteed
+			 by such Association and recommends an appropriate required level of net worth
+			 for such aggregators and issuers to protect the financial interests of the
+			 Federal Government and the taxpayers.
+				"}
+
+We are at location: null   Compared with location: bill[1]/endorsement[1]
+The reason of change is: insertion
+The value is expected to be: null But actually it is: endorsement
+ Inserted paragraph content is: {"
+		May 6, 2010
+		Reported with an amendment, committed to the Committee of
+		  the Whole House on the State of the Union, and ordered to be
+		  printed
+	"}
+
